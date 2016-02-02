@@ -1,0 +1,128 @@
+body{
+	background-color: #FFFFFA;
+}
+
+div {
+	padding: 0px 20px 0px 20px;
+}
+
+a, h1, h2, h3, h4, h5, h6, th, td, footer, p, ul, button, div {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+p {
+	padding: 0px 0px 0px 10px;
+	margin: 1px 1px 1px 10px;
+}
+
+a[isword="true"] {
+	text-decoration: none;
+	color: black;
+	font-size: 14px;
+	padding: 0px 0px 0px 0px;
+}
+
+a[isword="true"]:hover, a.result:hover, a.chapter-dropdown:hover {
+	cursor: pointer;
+}
+
+table {
+    border: 1px solid black;
+}
+
+tr:nth-child(even) {
+	background-color: #f9f9f9;
+}
+
+tr:hover {
+	background-color: #e0e0e0;
+}
+
+th, td {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+table {
+	max-height: 100px;
+	overflow-y: scroll;
+}
+
+table[id="top-bar"] {
+	border-style: none;
+}
+
+table[id="top-bar"] td {
+	padding: 5px 0px 0px 20px;
+	text-align: center;
+
+}
+
+.btn {
+	padding: 10px 10px 10px 10px;
+	margin: 0px 0px -1px -50px;
+	font-size: 14px;
+	color: #337ab7;
+}
+
+.filler {
+	padding: 15px 20px 50px 20px
+}
+
+.jumbotron {
+	padding: 20px 20px 20px 20px
+}
+
+/*.top {
+	margin: 1px -15px 1px -15px;
+}*/
+
+.btn-group {
+	padding: 5px
+}
+
+button > a {
+	padding: 0px;
+}
+
+.page_number{
+	font-style: italic;
+}
+
+.navbar-default {
+	background-color: #eee;
+}
+
+.active > a {
+	background-color: #47d;
+}
+
+.table-fixed thead {
+  width: 97%;
+}
+.table-fixed tbody {
+  height: 600px;
+  overflow-y: auto;
+  width: 100%;
+}
+.table-fixed thead, .table-fixed tbody, .table-fixed tr, .table-fixed td, .table-fixed th {
+  display: block;
+}
+.table-fixed tbody td, .table-fixed thead > tr > th {
+  float: left;
+  border-bottom-width: 0;
+  font-size: 14px
+}
+
+td.chapter {
+	width: 150px;
+}
+
+td.line-number {
+	width: 150px;
+}
+
+td.line {
+	width: 300px;
+}
