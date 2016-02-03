@@ -110,7 +110,6 @@ function load_page(top_line) {
 		var linked_line = "";
 
 		for (var j = 0; j < line_array.length; ++j) {
-			console.log(current_query_regex)
 			if (current_query_regex && current_query_regex.test(line_array[j])) {
 				linked_line += "<a class=\"searched-word\">" + line_array[j] + "</a> "
 			}
@@ -198,7 +197,6 @@ function perform_search(dirty_query) {
 	var query = dirty_query.replace(/^[.,"':!?()-]+|[.,"':!?()-]+$/g, "");
 
 	if (! /\S/.test(query)) {
-		console.log("prevent");
 		return;
 	}
 
@@ -215,7 +213,7 @@ function perform_search(dirty_query) {
 	table_body.empty();
 
 	// regex magic
-	current_query_regex = new RegExp("\\b" + query + "\\b", "gi")
+	current_query_regex = new RegExp("\\b" + query + "\\b", "i")
 
 	// build new table
 	var count = 0;
