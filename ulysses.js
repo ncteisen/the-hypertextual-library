@@ -230,12 +230,12 @@ function perform_search(dirty_query) {
 			var line_array = line.split(" ");
 			var linked_line = ""
 
-			for (var i = 0; i < line_array.length; ++i) {
-				if (current_query_regex.test(line_array[i])) {
-					linked_line += "<a class=\"searched-word\">" + line_array[i] + "</a> "
+			for (var j = 0; j < line_array.length; ++j) {
+				if (current_query_regex.test(line_array[j])) {
+					linked_line += "<a class=\"searched-word\">" + line_array[j] + "</a> "
 				}
 				else {
-					linked_line += "<a class=\"result-word\">" + line_array[i] + "</a> "
+					linked_line += "<a class=\"result-word\">" + line_array[j] + "</a> "
 				}
 			}
 
