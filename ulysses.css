@@ -15,16 +15,42 @@ p {
 	margin: 1px 1px 1px 10px;
 }
 
-a[isword="true"] {
+/*.no-js #loader { display: none;  }
+.js #loader { display: block; position: absolute; left: 100px; top: 0; }
+.se-pre-con {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	background: url(loading.gif) center no-repeat #fff;
+}*/
+
+a.page-word, a.result-word {
 	text-decoration: none;
 	color: black;
 	font-size: 14px;
 	padding: 0px 0px 0px 0px;
 }
 
-a[isword="true"]:hover, a.result:hover, a.chapter-dropdown:hover {
+a.searched-word {
+	text-decoration: none;
+	color: black;
+	font-size: 14px;
+	padding: 0px 0px 0px 0px;
+	background-color: lightgrey;
+}
+
+a.page-word:hover, a.result-word:hover {
+	cursor: pointer;
+	text-decoration: underline;
+}
+
+a.result:hover, a.chapter-dropdown:hover {
 	cursor: pointer;
 }
+
 
 table {
     border: 1px solid black;

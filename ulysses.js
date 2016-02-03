@@ -4,47 +4,51 @@
 // populate all globals
 var current_top_line = 0;
 var page_length = 35;
+var current_query_regex = null;
 
 // load up all the data structires we will need
 var ulysses_line_array_dirty = ulysses_raw_text.split('\n');
 
-// make the pageness work right
+// make the pageness work right. We will pad the end of every
+// chapter so that the whitespace completes the page. This
+// will prevent a chapter from starting mid page.
 var ulysses_line_array = []
 var line_count = 0;
 var first = true;
 ulysses_line_array_dirty.forEach(function (line, i) {
 
-
+	// we don't need to do this for telemachus
 	if (first && is_title(line)) {
 		line_count++;
 		first = false;
-		ulysses_line_array.push(line);
 	}
 
+	// we have stumpled upon a mid-page title
 	else if (!first && is_title(line)) {
 
-
+		// pad the rest of the page
 		while (line_count < page_length) {
 			ulysses_line_array.push("");
 			line_count++;
 		}
 
-		ulysses_line_array.push(line);
-
+		// reset
 		line_count = 0;
 
 	}
 
+	// normal line count
 	else {
 		line_count++;
 		if (line_count == page_length) line_count = 0;
-		ulysses_line_array.push(line);
 	}
 
+	// add the line
+	ulysses_line_array.push(line);
 });
 
 
-// populate chapter data
+// populate chapter data with the title and top lineno
 var chapters_array = []
 ulysses_line_array.forEach(function (line, i) {
 	if (is_title(line)) {
@@ -53,22 +57,24 @@ ulysses_line_array.forEach(function (line, i) {
 	}
 });
 
-// pad the last page
+// pad the last page of the book
 var last_page_n = Math.floor(ulysses_line_array.length / page_length)
 while (ulysses_line_array.length % page_length) {
 	ulysses_line_array.push("")
 }
 
-var current_chapter_index = 0;
-
 // make the chapter dropdown menu
 var dropdown = $(".dropdown-menu");
 chapters_array.forEach(function (c, i) {
-	dropdown.append("<li><a class=\"chapter-dropdown\" chapter-index=\"" + i + "\" line-number-chapter=\"" + c.lineno + "\">" + c.title + "</a></li>")
+	dropdown.append("<li><a class=\"chapter-dropdown\" chapter-index=\"" + i + 
+		"\" line-number-chapter=\"" + c.lineno + "\">" + c.title + "</a></li>");
 });
 
+// loads a full page starting from top_line, extending for page_length
+// also handles changing the title, setting the pageno
 function load_page(top_line) {
 
+	// hide pagination for first page
 	if (top_line <= 0) {
 		$(".last").hide();
 	}
@@ -76,15 +82,9 @@ function load_page(top_line) {
 		$(".last").show();
 	}
 
-	if (current_chapter_index < chapters_array.length - 1 && 
-		top_line >= chapters_array[current_chapter_index + 1].lineno) {
-		current_chapter_index++;
-		set_title(chapters_array[current_chapter_index].title);
-	}
-	else if (top_line < chapters_array[current_chapter_index].lineno) {
-		current_chapter_index--;
-		set_title(chapters_array[current_chapter_index].title);
-	}
+	// set the correct chapter
+	var chap_index = lineno_to_chapter_index(top_line);
+	set_title(chapters_array[chap_index].title)
 
 	// grab page
 	var page = $("#page-text"); 
@@ -95,6 +95,7 @@ function load_page(top_line) {
 	// new page num
 	$(".page_number").text(lineno_to_pageno(top_line))
 
+	// determines if we are at the very last page
 	if (Math.floor(top_line / page_length + 1) >= last_page_n) {
 		$(".next").hide();
 	}
@@ -102,16 +103,39 @@ function load_page(top_line) {
 		$(".next").show();
 	}
 
-	// build new page
+	// build the new page
 	for (var i = 0; i < page_length; ++i) {
+		
+		var line_array = ulysses_line_array[top_line + i].split(" ");
+		var linked_line = "";
 
-		var line = ulysses_line_array[top_line + i] + "<br>"
-		page.append(line)
+		for (var j = 0; j < line_array.length; ++j) {
+			console.log(current_query_regex)
+			if (current_query_regex && current_query_regex.test(line_array[j])) {
+				linked_line += "<a class=\"searched-word\">" + line_array[j] + "</a> "
+			}
+			else {
+				linked_line += "<a class=\"page-word\">" + line_array[j] + "</a> "
+			}
+		}
+
+		page.append(linked_line + "<br>");
 	}
+
+	// link up the words
+	$(function () {
+		$(".page-word").click(function(e) {
+			var text = e.target.innerHTML.toLowerCase();
+			perform_search(text);
+		});
+	});
 }
 
+// load the initial page
 load_page(0)
-set_title(chapters_array[current_chapter_index].title);
+set_title(chapters_array[0].title);
+
+// hide these for now
 $("#result-table").hide();
 $("#result-table-header").hide();
 
@@ -123,18 +147,20 @@ function set_title(title) {
 	$("#chapter-title").text(title);
 }
 
+function load_chapter(chap_index) {
+	current_top_line = chapters_array[chap_index].lineno;
+	load_page(current_top_line)
+}
+
 // attatch function to every chapter dropdown
 $(function() {
     $(".chapter-dropdown").click(function(e) {
     	var i = parseInt(e.target.attributes[1].value);
-    	var chapter = chapters_array[i];
-    	current_top_line = chapter.lineno;
-    	current_chapter_index = i;
-    	set_title(chapter.title)
-    	load_page(current_top_line)
+    	load_chapter(i);
     });
 });
 
+// attached function to the pagination button
 $(function() {
 	$(".next").click(function(e) {
 		current_top_line += page_length;
@@ -142,6 +168,7 @@ $(function() {
 	});
 });
 
+// attached function to the pagination button
 $(function() {
 	$(".last").click(function(e) {
 		current_top_line -= page_length;
@@ -149,6 +176,7 @@ $(function() {
 	});
 });
 
+// translates a line number to it's respective chapter index
 function lineno_to_chapter_index(lineno) {
 	for (var i = chapters_array.length - 1; i >= 0; --i) {
 		if (chapters_array[i].lineno <= lineno) {
@@ -165,75 +193,110 @@ function pageno_to_top_line(pageno) {
 	return (pageno - 1) * page_length;
 }
 
+function perform_search(dirty_query) {
+
+	var query = dirty_query.replace(/^[.,"':!?()-]+|[.,"':!?()-]+$/g, "");
+
+	if (! /\S/.test(query)) {
+		console.log("prevent");
+		return;
+	}
+
+	// hide the old stuff, show the new
+	$("#search-img").hide();
+	$("#result-table").show();
+	$("#result-table-header").show();
+
+	$("#search-term").text("Showing results for: " + query);
+
+	var table_body = $("#table-body");
+
+	// clear old table
+	table_body.empty();
+
+	// regex magic
+	current_query_regex = new RegExp("\\b" + query + "\\b", "gi")
+
+	// build new table
+	var count = 0;
+	ulysses_line_array.forEach(function (line, i) {
+		if (current_query_regex.test(line)) {
+			count++
+
+			// get the title and pageno
+			var chap_index = lineno_to_chapter_index(i);
+			var title = chapters_array[chap_index].title
+			var pageno = lineno_to_pageno(i);
+			var line_array = line.split(" ");
+			var linked_line = ""
+
+			for (var i = 0; i < line_array.length; ++i) {
+				if (current_query_regex.test(line_array[i])) {
+					linked_line += "<a class=\"searched-word\">" + line_array[i] + "</a> "
+				}
+				else {
+					linked_line += "<a class=\"result-word\">" + line_array[i] + "</a> "
+				}
+			}
+
+			// add the row
+			table_body.append("<tr>" +
+	                                "<td class=\"col-xs-3 chapter\">" +
+	                                	"<a class=\" result search-res-chapter\" chapter-index=\"" + chap_index + "\">" +
+	                                    title +
+	                                    "</a>" +
+	                                "</td>" +
+	                                "<td class=\"col-xs-3 line-number\">" +
+	                                    "<a class=\"result\" page=\"" + pageno + "\">" +
+	                                        i +
+	                                    "</a>" +
+	                                "</td>" +
+	                                "<td class=\"col-xs-6 line\">" +
+	                                    linked_line +
+	                                "</td>" +
+	                           "</tr>")
+
+		}
+	});
+
+	$("#occurences").text(count + " occurences");
+	$("#search-box").val(query);
+
+	// link up the words to their searches
+	$(function () {
+		$(".result-word").click(function(e) {
+			var text = e.target.innerHTML.toLowerCase();
+			perform_search(text);
+		});
+	});
+
+	// link up the lines to lead to pages
+	$(function() {
+		$(".result").click(function(e) {
+			var pageno = parseInt(e.target.attributes[1].value);
+			var lineno = pageno_to_top_line(pageno);
+			current_top_line = lineno;
+			load_page(lineno);
+		});
+	});
+
+	// link up the chapters
+	$(function() {
+		$(".search-res-chapter").click(function(e) {
+	    	var i = parseInt(e.target.attributes[1].value);
+	    	load_chapter(i);
+		});
+	});
+
+	load_page(current_top_line);
+}
+
+// attatches func for when search is performed
 $(function() {
 	$("#search-btn").click(function (e) {
-
-		$("#search-img").hide();
-		$("#result-table").show();
-		$("#result-table-header").show();
-
+		e.preventDefault();
 		var query = $("#search-box").val().toLowerCase();
-
-		$("#search-term").text("Showing results for: " + query);
-
-		var table_body = $("#table-body");
-
-		table_body.empty();
-		
-		var count = 0;
-		ulysses_line_array.forEach(function (line, i) {
-			if (line.toLowerCase().indexOf(query) > -1) {
-				count++
-
-				// get the title and pageno
-				var chap_index = lineno_to_chapter_index(i);
-				var title = chapters_array[chap_index].title
-				var pageno = lineno_to_pageno(i);
-
-				table_body.append("<tr>" +
-		                                "<td class=\"col-xs-3 chapter\">" +
-		                                	"<a class=\" result search-res-chapter\" chapter-index=\"" + chap_index + "\">" +
-		                                    title +
-		                                    "</a>" +
-		                                "</td>" +
-		                                "<td class=\"col-xs-3 line-number\">" +
-		                                    "<a class=\"result\" page=\"" + pageno + "\">" +
-		                                        i +
-		                                    "</a>" +
-		                                "</td>" +
-		                                "<td class=\"col-xs-6 line\">" +
-		                                    line +
-		                                "</td>" +
-		                           "</tr>")
-
-			}
-		});
-		console.log(count);
-		$("#occurences").text(count + " occurences");
-
-		$(function() {
-			$(".result").click(function(e) {
-				var pageno = parseInt(e.target.attributes[1].value);
-				var lineno = pageno_to_top_line(pageno);
-				var chap_index = lineno_to_chapter_index(lineno);
-				current_top_line = lineno;
-				current_chapter_index = chap_index;
-				set_title(chapters_array[chap_index].title);
-				load_page(lineno);
-			});
-		});
-
-		$(function() {
-			$(".search-res-chapter").click(function(e) {
-		    	var i = parseInt(e.target.attributes[1].value);
-		    	var chapter = chapters_array[i];
-		    	current_top_line = chapter.lineno;
-		    	current_chapter_index = i;
-		    	set_title(chapter.title)
-		    	load_page(current_top_line)
-			});
-		});
-
+		perform_search(query);
 	});
 });
 
