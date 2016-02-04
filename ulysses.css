@@ -32,6 +32,11 @@ a.word {
 	color: black;
 }
 
+a.new-word {
+	text-decoration: none;
+	color: black;
+}
+
 a.page-word, a.result-word {
 	text-decoration: none;
 	color: black;
@@ -47,7 +52,7 @@ a.searched-word {
 	background-color: lightgrey;
 }
 
-a.page-word:hover, a.result-word:hover, a.word:hover, a.link-word:hover {
+a.page-word:hover, a.result-word:hover, a.word:hover, a.link-word:hover, a.new-word:hover {
 	cursor: pointer;
 	text-decoration: underline;
 }

@@ -63,6 +63,18 @@ while (ulysses_line_array.length % page_length) {
 	ulysses_line_array.push("")
 }
 
+// // make the inverted index
+// var inverted_index = {}
+// ulysses_line_array.forEach(function (line, i) {
+// 	line.split(" ").forEach(function (dirty_word, j) {
+// 		var word = dirty_word.replace(/^[.,"':!?()-]+|[.,"':!?()-]+$/g, "").toLowerCase();
+// 		if (!inverted_index.hasOwnProperty(word)) {
+// 			inverted_index[word] = [];
+// 		}
+// 		inverted_index[word].push({lineno:i, chap_index:lineno_to_chapter_index(i), pageno:lineno_to_pageno(i)});
+// 	});
+// });
+
 // make the chapter dropdown menu
 var dropdown = $(".dropdown-menu");
 chapters_array.forEach(function (c, i) {
@@ -205,7 +217,9 @@ function perform_search(dirty_query) {
 	$("#result-table").show();
 	$("#result-table-header").show();
 
-	$("#search-term").text("Showing results for: " + query);
+	var st = $("#search-term");
+	st.empty();
+	st.append("<a class=\"new-word\">Showing</a> <a class=\"new-word\">results</a> <a class=\"new-word\">for</a>: <a class=\"new-word\">" + query + "</a>");
 
 	var table_body = $("#table-body");
 
@@ -215,8 +229,8 @@ function perform_search(dirty_query) {
 	// regex magic
 	current_query_regex = new RegExp("\\b" + query + "\\b", "i")
 
-	// build new table
 	var count = 0;
+	var table = "";
 	ulysses_line_array.forEach(function (line, i) {
 		if (current_query_regex.test(line)) {
 			count++
@@ -228,7 +242,8 @@ function perform_search(dirty_query) {
 			var line_array = line.split(" ");
 			var linked_line = ""
 
-			for (var j = 0; j < line_array.length; ++j) {
+			var line_array_length = line_array.length;
+			for (var j = 0; j < line_array_length; ++j) {
 				if (current_query_regex.test(line_array[j])) {
 					linked_line += "<a class=\"searched-word\">" + line_array[j] + "</a> "
 				}
@@ -238,7 +253,7 @@ function perform_search(dirty_query) {
 			}
 
 			// add the row
-			table_body.append("<tr>" +
+			table += 			"<tr>" +
 	                                "<td class=\"col-xs-3 chapter\">" +
 	                                	"<a class=\" result search-res-chapter\" chapter-index=\"" + chap_index + "\">" +
 	                                    title +
@@ -252,17 +267,31 @@ function perform_search(dirty_query) {
 	                                "<td class=\"col-xs-6 line\">" +
 	                                    linked_line +
 	                                "</td>" +
-	                           "</tr>")
+	                           "</tr>";
 
 		}
 	});
 
-	$("#occurences").text(count + " occurences");
+	// add table to DOM
+	table_body.append(table)
+
+	var occ = $("#occurences");
+	occ.empty()
+	occ.append("<a class=\"new-word\">" + count + "</a> <a class=\"new-word\">line</a> <a class=\"new-word\">occurences</a>");
+	
 	$("#search-box").val(query);
 
 	// link up the words to their searches
 	$(function () {
 		$(".result-word").click(function(e) {
+			var text = e.target.innerHTML.toLowerCase();
+			perform_search(text);
+		});
+	});
+
+	// link up the new words to their searches
+	$(function () {
+		$(".new-word").click(function(e) {
 			var text = e.target.innerHTML.toLowerCase();
 			perform_search(text);
 		});
