@@ -27,6 +27,11 @@ p {
 	background: url(loading.gif) center no-repeat #fff;
 }*/
 
+a.word {
+	text-decoration: none;
+	color: black;
+}
+
 a.page-word, a.result-word {
 	text-decoration: none;
 	color: black;
@@ -42,7 +47,7 @@ a.searched-word {
 	background-color: lightgrey;
 }
 
-a.page-word:hover, a.result-word:hover {
+a.page-word:hover, a.result-word:hover, a.word:hover, a.link-word:hover {
 	cursor: pointer;
 	text-decoration: underline;
 }

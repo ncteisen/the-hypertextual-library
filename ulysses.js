@@ -298,3 +298,19 @@ $(function() {
 	});
 });
 
+// link up the words to their searches
+$(function () {
+	$(".word").click(function(e) {
+		var text = e.target.innerHTML.toLowerCase();
+		perform_search(text);
+	});
+});
+
+// link up the words to their searches
+$(function () {
+	$(".link-word").click(function(e) {
+		var text = e.target.innerHTML.toLowerCase();
+		perform_search(text);
+	});
+});
+
