@@ -217,23 +217,22 @@ function perform_search(dirty_query) {
 	$("#result-table").show();
 	$("#result-table-header").show();
 
-	var st = $("#search-term");
-	st.empty();
-	st.append("<a class=\"new-word\">Showing</a> <a class=\"new-word\">results</a> <a class=\"new-word\">for</a>: <a class=\"new-word\">" + query + "</a>");
-
+	$("#search-term").text(query);
+ 
 	var table_body = $("#table-body");
 
 	// clear old table
 	table_body.empty();
 
 	// regex magic
-	current_query_regex = new RegExp("\\b" + query + "\\b", "i")
+	current_query_regex = new RegExp("\\b" + query + "\\b", "gi")
 
 	var count = 0;
 	var table = "";
 	ulysses_line_array.forEach(function (line, i) {
-		if (current_query_regex.test(line)) {
-			count++
+		var matches = line.match(current_query_regex)
+		if (matches) {
+			count += matches.length
 
 			// get the title and pageno
 			var chap_index = lineno_to_chapter_index(i);
@@ -275,9 +274,7 @@ function perform_search(dirty_query) {
 	// add table to DOM
 	table_body.append(table)
 
-	var occ = $("#occurences");
-	occ.empty()
-	occ.append("<a class=\"new-word\">" + count + "</a> <a class=\"new-word\">line</a> <a class=\"new-word\">occurences</a>");
+	$("#occurences").text(count);
 	
 	$("#search-box").val(query);
 

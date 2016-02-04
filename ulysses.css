@@ -27,6 +27,11 @@ p {
 	background: url(loading.gif) center no-repeat #fff;
 }*/
 
+a.num {
+	text-decoration: none;
+	color: grey;
+}
+
 a.word {
 	text-decoration: none;
 	color: black;
@@ -34,7 +39,7 @@ a.word {
 
 a.new-word {
 	text-decoration: none;
-	color: black;
+	color: grey;
 }
 
 a.page-word, a.result-word {
