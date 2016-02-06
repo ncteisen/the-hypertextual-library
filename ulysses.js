@@ -1,13 +1,15 @@
 
 'use strict'
 
+//console.log(document.location.search);
+
 // populate all globals
 var current_top_line = 0;
 var page_length = 35;
 var current_query_regex = null;
 
 // load up all the data structires we will need
-var ulysses_line_array_dirty = ulysses_raw_text.split('\n');
+var ulysses_line_array_dirty = raw_text.split('\n');
 
 // make the pageness work right. We will pad the end of every
 // chapter so that the whitespace completes the page. This
@@ -194,6 +196,7 @@ function lineno_to_chapter_index(lineno) {
 			return i;
 		}
 	}
+	return 0;
 }
 
 function lineno_to_pageno(lineno) {

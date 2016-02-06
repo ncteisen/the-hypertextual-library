@@ -1,6 +1,6 @@
 
 // The entire text of ulysses, made into a js string
-ulysses_raw_text = String.raw`
+raw_text = String.raw`
 -------- Telemachus ---------
 
 STATELY, PLUMP BUCK MULLIGAN CAME FROM THE STAIRHEAD, bearing a bowl of
