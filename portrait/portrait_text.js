@@ -1,6 +1,5 @@
 
 raw_text = String.raw`
-
 -------- Epigraph -------- 
 
 "Et ignotas animum dimittit in artes." Ovid, Metamorphoses, VIII., 18.

@@ -1,0 +1,39 @@
+{
+	"books" : [
+		{
+			"title" : "Ulysses",
+			"author" : "James Joyce",
+			"uniquename" : "ulysses"
+		},
+		{
+			"title" : "Portrait of the Artist as a Young Man",
+			"author" : "James Joyce",
+			"uniquename" : "portrait"
+		},
+		{
+			"title" : "Dubliners",
+			"author" : "James Joyce",
+			"uniquename" : "dubliners"
+		},
+		{
+			"title" : "War and Peace",
+			"author" : "Leo Tolstoy",
+			"uniquename" : "war_and_peace"
+		},
+		{
+			"title" : "Pride and Prejudice",
+			"author" : "Jane Austin",
+			"uniquename" : "pride_and_prejudice"
+		},
+		{
+			"title" : "Great Expectations",
+			"author" : "Charles Dickens",
+			"uniquename" : "great_expectations"
+		},
+		{
+			"title" : "A Tale of Two Cities",
+			"author" : "Charles Dickens",
+			"uniquename" : "tale_of_two_cities"
+		}
+	]
+}

@@ -1,7 +1,4 @@
-
 'use strict'
-
-//console.log(document.location.search);
 
 // populate all globals
 var current_top_line = 0;
@@ -9,15 +6,15 @@ var page_length = 35;
 var current_query_regex = null;
 
 // load up all the data structires we will need
-var ulysses_line_array_dirty = raw_text.split('\n');
+var line_array_dirty = raw_text.split('\n');
 
 // make the pageness work right. We will pad the end of every
 // chapter so that the whitespace completes the page. This
 // will prevent a chapter from starting mid page.
-var ulysses_line_array = []
+var line_array = []
 var line_count = 0;
 var first = true;
-ulysses_line_array_dirty.forEach(function (line, i) {
+line_array_dirty.forEach(function (line, i) {
 
 	// we don't need to do this for telemachus
 	if (first && is_title(line)) {
@@ -30,7 +27,7 @@ ulysses_line_array_dirty.forEach(function (line, i) {
 
 		// pad the rest of the page
 		while (line_count < page_length) {
-			ulysses_line_array.push("");
+			line_array.push("");
 			line_count++;
 		}
 
@@ -46,28 +43,29 @@ ulysses_line_array_dirty.forEach(function (line, i) {
 	}
 
 	// add the line
-	ulysses_line_array.push(line);
+	line_array.push(line);
 });
 
 
 // populate chapter data with the title and top lineno
 var chapters_array = []
-ulysses_line_array.forEach(function (line, i) {
+line_array.forEach(function (line, i) {
 	if (is_title(line)) {
 		var title = line.replace(/-/g,'')
 		chapters_array.push({title:title, lineno:i - 1});
 	}
 });
 
-// pad the last page of the book
-var last_page_n = Math.floor(ulysses_line_array.length / page_length)
-while (ulysses_line_array.length % page_length) {
-	ulysses_line_array.push("")
+// pad the last page of the book. kind of hacky
+// we can just pad it way more than we need
+var last_page_n = Math.floor(line_array.length / page_length)
+for (var i = 0; i < 100; ++i) {
+	line_array.push("")
 }
 
 // // make the inverted index
 // var inverted_index = {}
-// ulysses_line_array.forEach(function (line, i) {
+// line_array.forEach(function (line, i) {
 // 	line.split(" ").forEach(function (dirty_word, j) {
 // 		var word = dirty_word.replace(/^[.,"':!?()-]+|[.,"':!?()-]+$/g, "").toLowerCase();
 // 		if (!inverted_index.hasOwnProperty(word)) {
@@ -110,7 +108,7 @@ function load_page(top_line) {
 	$(".page_number").text(lineno_to_pageno(top_line))
 
 	// determines if we are at the very last page
-	if (Math.floor(top_line / page_length + 1) >= last_page_n) {
+	if (Math.floor(top_line / page_length) >= last_page_n) {
 		$(".next").hide();
 	}
 	else {
@@ -120,15 +118,15 @@ function load_page(top_line) {
 	// build the new page
 	for (var i = 0; i < page_length; ++i) {
 		
-		var line_array = ulysses_line_array[top_line + i].split(" ");
+		var page_line_array = line_array[top_line + i].split(" ");
 		var linked_line = "";
 
-		for (var j = 0; j < line_array.length; ++j) {
-			if (current_query_regex && current_query_regex.test(line_array[j])) {
-				linked_line += "<a class=\"searched-word\">" + line_array[j] + "</a> "
+		for (var j = 0; j < page_line_array.length; ++j) {
+			if (current_query_regex && current_query_regex.test(page_line_array[j])) {
+				linked_line += "<a class=\"searched-word\">" + page_line_array[j] + "</a> "
 			}
 			else {
-				linked_line += "<a class=\"page-word\">" + line_array[j] + "</a> "
+				linked_line += "<a class=\"page-word\">" + page_line_array[j] + "</a> "
 			}
 		}
 
@@ -152,12 +150,25 @@ set_title(chapters_array[0].title);
 $("#result-table").hide();
 $("#result-table-header").hide();
 
+var query = get_query_from_url(document.location.search);
+if (query) {
+	perform_search(query);
+}
+
 function is_title(line) {
 	return line.indexOf("--------") > -1
 }
 
 function set_title(title) {
 	$("#chapter-title").text(title);
+}
+
+function get_query_from_url(url) {
+	var match = /\?query=(.+)/.exec(url)
+	if (match) 
+		return match[1];
+	else
+		return null;
 }
 
 function load_chapter(chap_index) {
@@ -232,7 +243,7 @@ function perform_search(dirty_query) {
 
 	var count = 0;
 	var table = "";
-	ulysses_line_array.forEach(function (line, i) {
+	line_array.forEach(function (line, i) {
 		var matches = line.match(current_query_regex)
 		if (matches) {
 			count += matches.length
@@ -315,8 +326,18 @@ function perform_search(dirty_query) {
 		});
 	});
 
+	// manipulates the url
+	window.history.pushState(query, "", "?query=" + query);
+
 	load_page(current_top_line);
 }
+
+// links up the back/foward button to searches
+window.onpopstate = function(e){
+    if(e.state){
+        perform_search(e.state);
+    }
+};
 
 // attatches func for when search is performed
 $(function() {

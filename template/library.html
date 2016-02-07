@@ -1,0 +1,108 @@
+<html>
+
+    <head>
+        <title>The Hypertextual Library</title>
+        
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+        <!-- jQuery library -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+        <!-- Latest compiled JavaScript -->
+        <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+        <link rel="stylesheet" href="style.css" media="screen" title="no title" charset="utf-8">
+
+    </head>
+
+
+    <body>
+
+    <!-- <div class="se-pre-con"></div> -->
+
+<!-- *********************************    Navbar   ************************************ -->
+
+        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container top">
+                <div class="btn-group pull-right">
+                    <button type="button" class="btn btn-default" data-toggle="modal" data-target="#aboutModal">
+                        About This Site
+                    </button>
+                    <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Books
+                      <span class="caret"></span>
+                    </button>
+                    <ul class="dropdown-menu scrollable-menu">
+                        {dropdown}
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+<!-- *********************************    Title   ************************************ -->
+
+        <div class="row">
+            <div class="col-12">
+                <div class="filler"></div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <div class="jumbotron">
+                    <h1> 
+                        The Hypertextual Library
+                    </h1>
+                    <h4>
+                        Made by Noah Eisen and Robert Rose
+                    </h4>
+                </div>
+            </div>
+        </div>
+
+<!-- ******************************    Library   ************************************ -->
+
+<div class="container">
+    <div class="row">
+        <div class="row-height">
+            {book_list}
+        </div>
+    </div>
+</div>
+
+
+<!-- *********************************    Footer    ************************************ -->
+
+        <br><br>
+        <div class="row">
+            <div class="col-12 text-center">
+                <footer>
+                    <h6>
+                        Hyptertextual Literature. Made by <a href="http://noaheisen.com/" target="_">Noah Eisen</a> and <a href="https://www.linkedin.com/in/robert-rose-b4a98b104?authType=NAME_SEARCH&authToken=_mX-&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A444351658%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1454427639364%2Ctas%3Arobe" target="_">Robert Rose</a>
+                    </h6>
+                </footer>
+            </div>
+        </div>
+
+
+<!-- ******************************    Modal Popup   ************************************ -->
+
+
+        <div class="modal fade" id="aboutModal" tabindex="-1" role="dialog" aria-labelledby="aboutModalLabel">
+          <div class="modal-dialog" role="document">
+            <div class="modal-content">
+              <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="aboutModalLabel">About This Site</h4>
+              </div>
+              <div class="modal-body">
+                <a class="word" data-dismiss="modal">This</a> website was made by <a href="http://noaheisen.com/">Noah Eisen</a> and <a href="https://www.linkedin.com/in/robert-rose-b4a98b104?authType=NAME_SEARCH&authToken=_mX-&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A444351658%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1454427639364%2Ctas%3Arobe">Robert Rose</a>. Our initial goal was to improve the performance and aesthetics of <a href="http://www.doc.ic.ac.uk/~rac101/concord/texts/ulysses">this site</a>, which we both used while reading Ulysses. Rob made the initial version with the Flask library. His code can be found <a href="https://github.com/robroserobrose/ulysses">here</a>. Noah then rewrote all of the backend in Javascript, so this site can run in browser. Noah also extended the project to include more publicly available works. His code can be found <a href="https://github.com/ncteisen/ulysses-hypertext">here</a>. Hope you enjoy the site!
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+    </body>
+</html>

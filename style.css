@@ -32,6 +32,41 @@ a.num {
 	color: grey;
 }
 
+p.regular {
+	text-decoration: none;
+	color: black;
+}
+
+p.regular:hover {
+	text-decoration: none;
+}
+
+
+.pic-wrapper {
+	padding: 15px;
+	background-color: lightgrey;
+	border-radius: 15px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.pic-wrapper:hover {
+	background-color: lightblue;
+	text-decoration: none;
+}
+
+.pic {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.scrollable-menu {
+    height: auto;
+    max-height: 500px;
+    overflow-x: hidden;
+}
+
 a.word {
 	text-decoration: none;
 	color: black;

@@ -9,4 +9,4 @@ for line in sys.stdin.readlines():
 			delim -= 1;
 		print line[:delim]
 		line = line[delim:]
-	print line,
+	print line
