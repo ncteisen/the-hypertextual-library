@@ -1,9 +1,10 @@
 'use strict'
+//debugger;
 
 // populate all globals
 var current_top_line = 0;
 var page_length = 35;
-var current_query_regex = null;
+var current_linked_query_regex = null;
 
 // load up all the data structires we will need
 var line_array_dirty = raw_text.split('\n');
@@ -18,7 +19,6 @@ line_array_dirty.forEach(function (line, i) {
 
 	// we don't need to do this for telemachus
 	if (first && is_title(line)) {
-		line_count++;
 		first = false;
 	}
 
@@ -26,7 +26,7 @@ line_array_dirty.forEach(function (line, i) {
 	else if (!first && is_title(line)) {
 
 		// pad the rest of the page
-		while (line_count < page_length) {
+		while (line_count % page_length) {
 			line_array.push("");
 			line_count++;
 		}
@@ -36,23 +36,16 @@ line_array_dirty.forEach(function (line, i) {
 
 	}
 
-	// normal line count
-	else {
-		line_count++;
-		if (line_count == page_length) line_count = 0;
-	}
-
-	// add the line
+	line_count = (line_count + 1) % page_length;
 	line_array.push(line);
 });
-
 
 // populate chapter data with the title and top lineno
 var chapters_array = []
 line_array.forEach(function (line, i) {
 	if (is_title(line)) {
 		var title = line.replace(/-/g,'')
-		chapters_array.push({title:title, lineno:i - 1});
+		chapters_array.push({title:title, lineno:i});
 	}
 });
 
@@ -117,25 +110,27 @@ function load_page(top_line) {
 
 	// build the new page
 	for (var i = 0; i < page_length; ++i) {
-		
-		var page_line_array = line_array[top_line + i].split(" ");
-		var linked_line = "";
 
-		for (var j = 0; j < page_line_array.length; ++j) {
-			if (current_query_regex && current_query_regex.test(page_line_array[j])) {
-				linked_line += "<a class=\"searched-word\">" + page_line_array[j] + "</a> "
+		var linked_line = "<a class=\"result-word\">" + line_array[top_line + i].split(" ").join("</a> <a class=\"result-word\">") + "</a>";
+			
+			if (current_linked_query_regex) {
+
+				var m_arr;
+				while (m_arr = current_linked_query_regex.exec(linked_line)) {
+
+					var pos = m_arr.index;
+					linked_line = [linked_line.slice(0, pos), "<mark class=\"searched-word\">", linked_line.slice(pos)].join('');
+					var pos = current_linked_query_regex.lastIndex + 28;
+					linked_line = [linked_line.slice(0, pos), "</mark>", linked_line.slice(pos)].join('');
+				}
 			}
-			else {
-				linked_line += "<a class=\"page-word\">" + page_line_array[j] + "</a> "
-			}
-		}
 
 		page.append(linked_line + "<br>");
 	}
 
 	// link up the words
 	$(function () {
-		$(".page-word").click(function(e) {
+		$("#page .result-word").click(function(e) {
 			var text = e.target.innerHTML.toLowerCase();
 			perform_search(text);
 		});
@@ -166,7 +161,7 @@ function set_title(title) {
 function get_query_from_url(url) {
 	var match = /\?query=(.+)/.exec(url)
 	if (match) 
-		return match[1];
+		return match[1].replace(/%20/, " ");
 	else
 		return null;
 }
@@ -239,31 +234,36 @@ function perform_search(dirty_query) {
 	table_body.empty();
 
 	// regex magic
-	current_query_regex = new RegExp("\\b" + query + "\\b", "gi")
+	var query_regex = new RegExp("\\b" + query + "\\b", "gi")
+
+	var punctuation = String.raw`[\.,"':!\?\(\)-]?`;
+	var linked_query = "<a class=\"result-word\">" + query.split(" ").join(punctuation + "</a> <a class=\"result-word\">") + punctuation + "</a>";
+	current_linked_query_regex = new RegExp(linked_query, "gi");
 
 	var count = 0;
 	var table = "";
 	line_array.forEach(function (line, i) {
-		var matches = line.match(current_query_regex)
-		if (matches) {
-			count += matches.length
+
+		if (query_regex.test(line)) {
+
+			var linked_line = "<a class=\"result-word\">" + line.split(" ").join("</a> <a class=\"result-word\">") + "</a>";
+			
+			var m_arr;
+
+			while (m_arr = current_linked_query_regex.exec(linked_line)) {
+
+				count++
+
+				var pos = m_arr.index;
+				linked_line = [linked_line.slice(0, pos), "<mark class=\"searched-word\">", linked_line.slice(pos)].join('');
+				var pos = current_linked_query_regex.lastIndex + 28;
+				linked_line = [linked_line.slice(0, pos), "</mark>", linked_line.slice(pos)].join('');
+			}
 
 			// get the title and pageno
 			var chap_index = lineno_to_chapter_index(i);
 			var title = chapters_array[chap_index].title
 			var pageno = lineno_to_pageno(i);
-			var line_array = line.split(" ");
-			var linked_line = ""
-
-			var line_array_length = line_array.length;
-			for (var j = 0; j < line_array_length; ++j) {
-				if (current_query_regex.test(line_array[j])) {
-					linked_line += "<a class=\"searched-word\">" + line_array[j] + "</a> "
-				}
-				else {
-					linked_line += "<a class=\"result-word\">" + line_array[j] + "</a> "
-				}
-			}
 
 			// add the row
 			table += 			"<tr>" +
@@ -292,17 +292,10 @@ function perform_search(dirty_query) {
 	
 	$("#search-box").val(query);
 
-	// link up the words to their searches
-	$(function () {
-		$(".result-word").click(function(e) {
-			var text = e.target.innerHTML.toLowerCase();
-			perform_search(text);
-		});
-	});
 
-	// link up the new words to their searches
+	// link up the words
 	$(function () {
-		$(".new-word").click(function(e) {
+		$("#search-results .result-word").click(function(e) {
 			var text = e.target.innerHTML.toLowerCase();
 			perform_search(text);
 		});

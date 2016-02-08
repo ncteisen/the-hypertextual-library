@@ -1,18 +1,18 @@
 
 // The entire text of ulysses, made into a js string
 raw_text = String.raw`
--------- Telemachus ---------
+--------  Telemachus -------- 
 
 STATELY, PLUMP BUCK MULLIGAN CAME FROM THE STAIRHEAD, bearing a bowl of
 lather on which a mirror and a razor lay crossed. A yellow dressinggown,
 ungirdled, was sustained gently behind him by the mild morning air. He
 held the bowl aloft and intoned:
 
---INTROIBO AD ALTARE DEI.
+-- INTROIBO AD ALTARE DEI.
 
 Halted, he peered down the dark winding stairs and called out coarsely:
 
---Come up, Kinch! Come up, you fearful jesuit!
+-- Come up, Kinch! Come up, you fearful jesuit!
 
 Solemnly he came forward and mounted the round gunrest. He faced about
 and blessed gravely thrice the tower, the surrounding land and the
@@ -26,11 +26,11 @@ hair, grained and hued like pale oak.
 Buck Mulligan peeped an instant under the mirror and then covered
 the bowl smartly.
 
---Back to barracks! he said sternly.
+-- Back to barracks! he said sternly.
 
 He added in a preacher's tone:
 
---For this, O dearly beloved, is the genuine Christine: body and soul and
+-- For this, O dearly beloved, is the genuine Christine: body and soul and
 blood and ouns. Slow music, please. Shut your eyes, gents. One moment. A
 little trouble about those white corpuscles. Silence, all.
 
@@ -39,7 +39,7 @@ awhile in rapt attention, his even white teeth glistening here and there
 with gold points. Chrysostomos. Two strong shrill whistles answered
 through the calm.
 
---Thanks, old chap, he cried briskly. That will do nicely. Switch off the
+-- Thanks, old chap, he cried briskly. That will do nicely. Switch off the
 current, will you?
 
 He skipped off the gunrest and looked gravely at his watcher, gathering
@@ -47,7 +47,7 @@ about his legs the loose folds of his gown. The plump shadowed face and
 sullen oval jowl recalled a prelate, patron of arts in the middle ages. A
 pleasant smile broke quietly over his lips.
 
---The mockery of it! he said gaily. Your absurd name, an ancient Greek!
+-- The mockery of it! he said gaily. Your absurd name, an ancient Greek!
 
 He pointed his finger in friendly jest and went over to the parapet,
 laughing to himself. Stephen Dedalus stepped up, followed him wearily
@@ -57,26 +57,26 @@ lathered cheeks and neck.
 
 Buck Mulligan's gay voice went on.
 
---My name is absurd too: Malachi Mulligan, two dactyls. But it has a
+-- My name is absurd too: Malachi Mulligan, two dactyls. But it has a
 Hellenic ring, hasn't it? Tripping and sunny like the buck himself. We
 must go to Athens. Will you come if I can get the aunt to fork out twenty
 quid?
 
 He laid the brush aside and, laughing with delight, cried:
 
---Will he come? The jejune jesuit!
+-- Will he come? The jejune jesuit!
 
 Ceasing, he began to shave with care.
 
---Tell me, Mulligan, Stephen said quietly.
+-- Tell me, Mulligan, Stephen said quietly.
 
---Yes, my love?
+-- Yes, my love?
 
---How long is Haines going to stay in this tower?
+-- How long is Haines going to stay in this tower?
 
 Buck Mulligan showed a shaven cheek over his right shoulder.
 
---God, isn't he dreadful? he said frankly. A ponderous Saxon. He thinks
+-- God, isn't he dreadful? he said frankly. A ponderous Saxon. He thinks
 you're not a gentleman. God, these bloody English! Bursting with money
 and indigestion. Because he comes from Oxford. You know, Dedalus, you
 have the real Oxford manner. He can't make you out. O, my name for you is
@@ -84,12 +84,12 @@ the best: Kinch, the knife-blade.
 
 He shaved warily over his chin.
 
---He was raving all night about a black panther, Stephen said. Where is
+-- He was raving all night about a black panther, Stephen said. Where is
 his guncase?
 
---A woful lunatic! Mulligan said. Were you in a funk?
+-- A woful lunatic! Mulligan said. Were you in a funk?
 
---I was, Stephen said with energy and growing fear. Out here in the dark
+-- I was, Stephen said with energy and growing fear. Out here in the dark
 with a man I don't know raving and moaning to himself about shooting a
 black panther. You saved men from drowning. I'm not a hero, however. If
 he stays on here I am off.
@@ -97,24 +97,24 @@ he stays on here I am off.
 Buck Mulligan frowned at the lather on his razorblade. He hopped down
 from his perch and began to search his trouser pockets hastily.
 
---Scutter! he cried thickly.
+-- Scutter! he cried thickly.
 
 He came over to the gunrest and, thrusting a hand into Stephen's upper
 pocket, said:
 
---Lend us a loan of your noserag to wipe my razor.
+-- Lend us a loan of your noserag to wipe my razor.
 
 Stephen suffered him to pull out and hold up on show by its corner a
 dirty crumpled handkerchief. Buck Mulligan wiped the razorblade neatly.
 Then, gazing over the handkerchief, he said:
 
---The bard's noserag! A new art colour for our Irish poets: snotgreen.
+-- The bard's noserag! A new art colour for our Irish poets: snotgreen.
 You can almost taste it, can't you?
 
 He mounted to the parapet again and gazed out over Dublin bay, his fair
 oakpale hair stirring slightly.
 
---God! he said quietly. Isn't the sea what Algy calls it: a great sweet
+-- God! he said quietly. Isn't the sea what Algy calls it: a great sweet
 mother? The snotgreen sea. The scrotumtightening sea. EPI OINOPA PONTON.
 Ah, Dedalus, the Greeks! I must teach you. You must read them in the
 original. THALATTA! THALATTA! She is our great sweet mother. Come and
@@ -124,17 +124,17 @@ Stephen stood up and went over to the parapet. Leaning on it he looked
 down on the water and on the mailboat clearing the harbourmouth of
 Kingstown.
 
---Our mighty mother! Buck Mulligan said.
+-- Our mighty mother! Buck Mulligan said.
 
 He turned abruptly his grey searching eyes from the sea to Stephen's
 face.
 
---The aunt thinks you killed your mother, he said. That's why she won't
+-- The aunt thinks you killed your mother, he said. That's why she won't
 let me have anything to do with you.
 
---Someone killed her, Stephen said gloomily.
+-- Someone killed her, Stephen said gloomily.
 
---You could have knelt down, damn it, Kinch, when your dying mother asked
+-- You could have knelt down, damn it, Kinch, when your dying mother asked
 you, Buck Mulligan said. I'm hyperborean as much as you. But to think of
 your mother begging you with her last breath to kneel down and pray for
 her. And you refused. There is something sinister in you ...
@@ -142,7 +142,7 @@ her. And you refused. There is something sinister in you ...
 He broke off and lathered again lightly his farther cheek. A tolerant
 smile curled his lips.
 
---But a lovely mummer! he murmured to himself. Kinch, the loveliest
+-- But a lovely mummer! he murmured to himself. Kinch, the loveliest
 mummer of them all!
 
 He shaved evenly and with care, in silence, seriously.
@@ -161,21 +161,21 @@ from her rotting liver by fits of loud groaning vomiting.
 
 Buck Mulligan wiped again his razorblade.
 
---Ah, poor dogsbody! he said in a kind voice. I must give you a shirt and
+-- Ah, poor dogsbody! he said in a kind voice. I must give you a shirt and
 a few noserags. How are the secondhand breeks?
 
---They fit well enough, Stephen answered.
+-- They fit well enough, Stephen answered.
 
 Buck Mulligan attacked the hollow beneath his underlip.
 
---The mockery of it, he said contentedly. Secondleg they should be. God
+-- The mockery of it, he said contentedly. Secondleg they should be. God
 knows what poxy bowsy left them off. I have a lovely pair with a hair
 stripe, grey. You'll look spiffing in them. I'm not joking, Kinch. You
 look damn well when you're dressed.
 
---Thanks, Stephen said. I can't wear them if they are grey.
+-- Thanks, Stephen said. I can't wear them if they are grey.
 
---He can't wear them, Buck Mulligan told his face in the mirror.
+-- He can't wear them, Buck Mulligan told his face in the mirror.
 Etiquette is etiquette. He kills his mother but he can't wear grey
 trousers.
 
@@ -185,7 +185,7 @@ smooth skin.
 Stephen turned his gaze from the sea and to the plump face with its
 smokeblue mobile eyes.
 
---That fellow I was with in the Ship last night, said Buck Mulligan, says
+-- That fellow I was with in the Ship last night, said Buck Mulligan, says
 you have g.p.i. He's up in Dottyville with Connolly Norman. General
 paralysis of the insane!
 
@@ -194,36 +194,36 @@ in sunlight now radiant on the sea. His curling shaven lips laughed and
 the edges of his white glittering teeth. Laughter seized all his strong
 wellknit trunk.
 
---Look at yourself, he said, you dreadful bard!
+-- Look at yourself, he said, you dreadful bard!
 
 Stephen bent forward and peered at the mirror held out to him, cleft by a
 crooked crack. Hair on end. As he and others see me. Who chose this face
 for me? This dogsbody to rid of vermin. It asks me too.
 
---I pinched it out of the skivvy's room, Buck Mulligan said. It does her
+-- I pinched it out of the skivvy's room, Buck Mulligan said. It does her
 all right. The aunt always keeps plainlooking servants for Malachi. Lead
 him not into temptation. And her name is Ursula.
 
 Laughing again, he brought the mirror away from Stephen's peering eyes.
 
---The rage of Caliban at not seeing his face in a mirror, he said. If
+-- The rage of Caliban at not seeing his face in a mirror, he said. If
 Wilde were only alive to see you!
 
 Drawing back and pointing, Stephen said with bitterness:
 
---It is a symbol of Irish art. The cracked looking-glass of a servant.
+-- It is a symbol of Irish art. The cracked looking-glass of a servant.
 
 Buck Mulligan suddenly linked his arm in Stephen's and walked with him
 round the tower, his razor and mirror clacking in the pocket where he had
 thrust them.
 
---It's not fair to tease you like that, Kinch, is it? he said kindly. God
+-- It's not fair to tease you like that, Kinch, is it? he said kindly. God
 knows you have more spirit than any of them.
 
 Parried again. He fears the lancet of my art as I fear that of his. The
 cold steelpen.
 
---Cracked lookingglass of a servant! Tell that to the oxy chap downstairs
+-- Cracked lookingglass of a servant! Tell that to the oxy chap downstairs
 and touch him for a guinea. He's stinking with money and thinks you're
 not a gentleman. His old fellow made his tin by selling jalap to Zulus or
 some bloody swindle or other. God, Kinch, if you and I could only work
@@ -231,7 +231,7 @@ together we might do something for the island. Hellenise it.
 
 Cranly's arm. His arm.
 
---And to think of your having to beg from these swine. I'm the only one
+-- And to think of your having to beg from these swine. I'm the only one
 that knows what you are. Why don't you trust me more? What have you up
 your nose against me? Is it Haines? If he makes any noise here I'll bring
 down Seymour and we'll give him a ragging worse than they gave Clive
@@ -251,18 +251,18 @@ the sombre lawn watching narrowly the dancing motes of grasshalms.
 
 To ourselves ... new paganism ... omphalos.
 
---Let him stay, Stephen said. There's nothing wrong with him except at
+-- Let him stay, Stephen said. There's nothing wrong with him except at
 night.
 
---Then what is it? Buck Mulligan asked impatiently. Cough it up. I'm
+-- Then what is it? Buck Mulligan asked impatiently. Cough it up. I'm
 quite frank with you. What have you against me now?
 
 They halted, looking towards the blunt cape of Bray Head that lay on the
 water like the snout of a sleeping whale. Stephen freed his arm quietly.
 
---Do you wish me to tell you? he asked.
+-- Do you wish me to tell you? he asked.
 
---Yes, what is it? Buck Mulligan answered. I don't remember anything.
+-- Yes, what is it? Buck Mulligan answered. I don't remember anything.
 
 He looked in Stephen's face as he spoke. A light wind passed his brow,
 fanning softly his fair uncombed hair and stirring silver points of
@@ -270,31 +270,31 @@ anxiety in his eyes.
 
 Stephen, depressed by his own voice, said:
 
---Do you remember the first day I went to your house after my mother's
+-- Do you remember the first day I went to your house after my mother's
 death?
 
 Buck Mulligan frowned quickly and said:
 
---What? Where? I can't remember anything. I remember only ideas and
+-- What? Where? I can't remember anything. I remember only ideas and
 sensations. Why? What happened in the name of God?
 
---You were making tea, Stephen said, and went across the landing to get
+-- You were making tea, Stephen said, and went across the landing to get
 more hot water. Your mother and some visitor came out of the drawingroom.
 She asked you who was in your room.
 
---Yes? Buck Mulligan said. What did I say? I forget.
+-- Yes? Buck Mulligan said. What did I say? I forget.
 
---You said, Stephen answered, O, IT'S ONLY DEDALUS WHOSE MOTHER IS
+-- You said, Stephen answered, O, IT'S ONLY DEDALUS WHOSE MOTHER IS
 BEASTLY DEAD.
 
 A flush which made him seem younger and more engaging rose to Buck
 Mulligan's cheek.
 
---Did I say that? he asked. Well? What harm is that?
+-- Did I say that? he asked. Well? What harm is that?
 
 He shook his constraint from him nervously.
 
---And what is death, he asked, your mother's or yours or my own? You saw
+-- And what is death, he asked, your mother's or yours or my own? You saw
 only your mother die. I see them pop off every day in the Mater and
 Richmond and cut up into tripes in the dissectingroom. It's a beastly
 thing and nothing else. It simply doesn't matter. You wouldn't kneel down
@@ -310,15 +310,15 @@ offend the memory of your mother.
 He had spoken himself into boldness. Stephen, shielding the gaping wounds
 which the words had left in his heart, said very coldly:
 
---I am not thinking of the offence to my mother.
+-- I am not thinking of the offence to my mother.
 
---Of what then? Buck Mulligan asked.
+-- Of what then? Buck Mulligan asked.
 
---Of the offence to me, Stephen answered.
+-- Of the offence to me, Stephen answered.
 
 Buck Mulligan swung round on his heel.
 
---O, an impossible person! he exclaimed.
+-- O, an impossible person! he exclaimed.
 
 He walked off quickly round the parapet. Stephen stood at his post,
 gazing over the calm sea towards the headland. Sea and headland now grew
@@ -327,19 +327,19 @@ the fever of his cheeks.
 
 A voice within the tower called loudly:
 
---Are you up there, Mulligan?
+-- Are you up there, Mulligan?
 
---I'm coming, Buck Mulligan answered.
+-- I'm coming, Buck Mulligan answered.
 
 He turned towards Stephen and said:
 
---Look at the sea. What does it care about offences? Chuck Loyola, Kinch,
+-- Look at the sea. What does it care about offences? Chuck Loyola, Kinch,
 and come on down. The Sassenach wants his morning rashers.
 
 His head halted again for a moment at the top of the staircase, level
 with the roof:
 
---Don't mope over it all day, he said. I'm inconsequent. Give up the
+-- Don't mope over it all day, he said. I'm inconsequent. Give up the
 moody brooding.
 
 His head vanished but the drone of his descending voice boomed out of the
@@ -405,32 +405,32 @@ Ghoul! Chewer of corpses!
 
 No, mother! Let me be and let me live.
 
---Kinch ahoy!
+-- Kinch ahoy!
 
 Buck Mulligan's voice sang from within the tower. It came nearer up the
 staircase, calling again. Stephen, still trembling at his soul's cry,
 heard warm running sunlight and in the air behind him friendly words.
 
---Dedalus, come down, like a good mosey. Breakfast is ready. Haines is
+-- Dedalus, come down, like a good mosey. Breakfast is ready. Haines is
 apologising for waking us last night. It's all right.
 
---I'm coming, Stephen said, turning.
+-- I'm coming, Stephen said, turning.
 
---Do, for Jesus' sake, Buck Mulligan said. For my sake and for all our
+-- Do, for Jesus' sake, Buck Mulligan said. For my sake and for all our
 sakes.
 
 His head disappeared and reappeared.
 
---I told him your symbol of Irish art. He says it's very clever. Touch
+-- I told him your symbol of Irish art. He says it's very clever. Touch
 him for a quid, will you? A guinea, I mean.
 
---I get paid this morning, Stephen said.
+-- I get paid this morning, Stephen said.
 
---The school kip? Buck Mulligan said. How much? Four quid? Lend us one.
+-- The school kip? Buck Mulligan said. How much? Four quid? Lend us one.
 
---If you want it, Stephen said.
+-- If you want it, Stephen said.
 
---Four shining sovereigns, Buck Mulligan cried with delight. We'll have a
+-- Four shining sovereigns, Buck Mulligan cried with delight. We'll have a
 glorious drunk to astonish the druidy druids. Four omnipotent sovereigns.
 
 He flung up his hands and tramped down the stone stairs, singing out of
@@ -460,21 +460,21 @@ yellow glow. Two shafts of soft daylight fell across the flagged floor
 from the high barbacans: and at the meeting of their rays a cloud of
 coalsmoke and fumes of fried grease floated, turning.
 
---We'll be choked, Buck Mulligan said. Haines, open that door, will you?
+-- We'll be choked, Buck Mulligan said. Haines, open that door, will you?
 
 Stephen laid the shavingbowl on the locker. A tall figure rose from the
 hammock where it had been sitting, went to the doorway and pulled open
 the inner doors.
 
---Have you the key? a voice asked.
+-- Have you the key? a voice asked.
 
---Dedalus has it, Buck Mulligan said. Janey Mack, I'm choked!
+-- Dedalus has it, Buck Mulligan said. Janey Mack, I'm choked!
 
 He howled, without looking up from the fire:
 
---Kinch!
+-- Kinch!
 
---It's in the lock, Stephen said, coming forward.
+-- It's in the lock, Stephen said, coming forward.
 
 The key scraped round harshly twice and, when the heavy door had been set
 ajar, welcome light and bright air entered. Haines stood at the doorway,
@@ -483,7 +483,7 @@ to wait. Buck Mulligan tossed the fry on to the dish beside him. Then he
 carried the dish and a large teapot over to the table, set them down
 heavily and sighed with relief.
 
---I'm melting, he said, as the candle remarked when ... But, hush! Not a
+-- I'm melting, he said, as the candle remarked when ... But, hush! Not a
 word more on that subject! Kinch, wake up! Bread, butter, honey. Haines,
 come in. The grub is ready. Bless us, O Lord, and these thy gifts.
 Where's the sugar? O, jay, there's no milk.
@@ -491,75 +491,75 @@ Where's the sugar? O, jay, there's no milk.
 Stephen fetched the loaf and the pot of honey and the buttercooler from
 the locker. Buck Mulligan sat down in a sudden pet.
 
---What sort of a kip is this? he said. I told her to come after eight.
+-- What sort of a kip is this? he said. I told her to come after eight.
 
---We can drink it black, Stephen said thirstily. There's a lemon in the
+-- We can drink it black, Stephen said thirstily. There's a lemon in the
 locker.
 
---O, damn you and your Paris fads! Buck Mulligan said. I want Sandycove
+-- O, damn you and your Paris fads! Buck Mulligan said. I want Sandycove
 milk.
 
 Haines came in from the doorway and said quietly:
 
---That woman is coming up with the milk.
+-- That woman is coming up with the milk.
 
---The blessings of God on you! Buck Mulligan cried, jumping up from his
+-- The blessings of God on you! Buck Mulligan cried, jumping up from his
 chair. Sit down. Pour out the tea there. The sugar is in the bag. Here, I
 can't go fumbling at the damned eggs.
 
 He hacked through the fry on the dish and slapped it out on three plates,
 saying:
 
---IN NOMINE PATRIS ET FILII ET SPIRITUS SANCTI.
+-- IN NOMINE PATRIS ET FILII ET SPIRITUS SANCTI.
 
 Haines sat down to pour out the tea.
 
---I'm giving you two lumps each, he said. But, I say, Mulligan, you do
+-- I'm giving you two lumps each, he said. But, I say, Mulligan, you do
 make strong tea, don't you?
 
 Buck Mulligan, hewing thick slices from the loaf, said in an old woman's
 wheedling voice:
 
---When I makes tea I makes tea, as old mother Grogan said. And when I
+-- When I makes tea I makes tea, as old mother Grogan said. And when I
 makes water I makes water.
 
---By Jove, it is tea, Haines said.
+-- By Jove, it is tea, Haines said.
 
 Buck Mulligan went on hewing and wheedling:
 
---SO I DO, MRS CAHILL, says she. BEGOB, MA'AM, says Mrs Cahill, GOD SEND
+-- SO I DO, MRS CAHILL, says she. BEGOB, MA'AM, says Mrs Cahill, GOD SEND
 YOU DON'T MAKE THEM IN THE ONE POT.
 
 He lunged towards his messmates in turn a thick slice of bread, impaled
 on his knife.
 
---That's folk, he said very earnestly, for your book, Haines. Five lines
+-- That's folk, he said very earnestly, for your book, Haines. Five lines
 of text and ten pages of notes about the folk and the fishgods of
 Dundrum. Printed by the weird sisters in the year of the big wind.
 
 He turned to Stephen and asked in a fine puzzled voice, lifting his
 brows:
 
---Can you recall, brother, is mother Grogan's tea and water pot spoken of
+-- Can you recall, brother, is mother Grogan's tea and water pot spoken of
 in the Mabinogion or is it in the Upanishads?
 
---I doubt it, said Stephen gravely.
+-- I doubt it, said Stephen gravely.
 
---Do you now? Buck Mulligan said in the same tone. Your reasons, pray?
+-- Do you now? Buck Mulligan said in the same tone. Your reasons, pray?
 
---I fancy, Stephen said as he ate, it did not exist in or out of the
+-- I fancy, Stephen said as he ate, it did not exist in or out of the
 Mabinogion. Mother Grogan was, one imagines, a kinswoman of Mary Ann.
 
 Buck Mulligan's face smiled with delight.
 
---Charming! he said in a finical sweet voice, showing his white teeth and
+-- Charming! he said in a finical sweet voice, showing his white teeth and
 blinking his eyes pleasantly. Do you think she was? Quite charming!
 
 Then, suddenly overclouding all his features, he growled in a hoarsened
 rasping voice as he hewed again vigorously at the loaf:
 
 
-  --FOR OLD MARY ANN
+  -- FOR OLD MARY ANN
     SHE DOESN'T CARE A DAMN.
     BUT, HISING UP HER PETTICOATS ...
 
@@ -568,24 +568,24 @@ He crammed his mouth with fry and munched and droned.
 
 The doorway was darkened by an entering form.
 
---The milk, sir!
+-- The milk, sir!
 
---Come in, ma'am, Mulligan said. Kinch, get the jug.
+-- Come in, ma'am, Mulligan said. Kinch, get the jug.
 
 An old woman came forward and stood by Stephen's elbow.
 
---That's a lovely morning, sir, she said. Glory be to God.
+-- That's a lovely morning, sir, she said. Glory be to God.
 
---To whom? Mulligan said, glancing at her. Ah, to be sure!
+-- To whom? Mulligan said, glancing at her. Ah, to be sure!
 
 Stephen reached back and took the milkjug from the locker.
 
---The islanders, Mulligan said to Haines casually, speak frequently of
+-- The islanders, Mulligan said to Haines casually, speak frequently of
 the collector of prepuces.
 
---How much, sir? asked the old woman.
+-- How much, sir? asked the old woman.
 
---A quart, Stephen said.
+-- A quart, Stephen said.
 
 He watched her pour into the measure and thence into the jug rich white
 milk, not hers. Old shrunken paps. She poured again a measureful and a
@@ -599,22 +599,22 @@ immortal serving her conqueror and her gay betrayer, their common
 cuckquean, a messenger from the secret morning. To serve or to upbraid,
 whether he could not tell: but scorned to beg her favour.
 
---It is indeed, ma'am, Buck Mulligan said, pouring milk into their cups.
+-- It is indeed, ma'am, Buck Mulligan said, pouring milk into their cups.
 
---Taste it, sir, she said.
+-- Taste it, sir, she said.
 
 He drank at her bidding.
 
---If we could live on good food like that, he said to her somewhat
+-- If we could live on good food like that, he said to her somewhat
 loudly, we wouldn't have the country full of rotten teeth and rotten
 guts. Living in a bogswamp, eating cheap food and the streets paved with
 dust, horsedung and consumptives' spits.
 
---Are you a medical student, sir? the old woman asked.
+-- Are you a medical student, sir? the old woman asked.
 
---I am, ma'am, Buck Mulligan answered.
+-- I am, ma'am, Buck Mulligan answered.
 
---Look at that now, she said.
+-- Look at that now, she said.
 
 Stephen listened in scornful silence. She bows her old head to a voice
 that speaks to her loudly, her bonesetter, her medicineman: me she
@@ -623,38 +623,38 @@ of her but her woman's unclean loins, of man's flesh made not in God's
 likeness, the serpent's prey. And to the loud voice that now bids her be
 silent with wondering unsteady eyes.
 
---Do you understand what he says? Stephen asked her.
+-- Do you understand what he says? Stephen asked her.
 
---Is it French you are talking, sir? the old woman said to Haines.
+-- Is it French you are talking, sir? the old woman said to Haines.
 
 Haines spoke to her again a longer speech, confidently.
 
---Irish, Buck Mulligan said. Is there Gaelic on you?
+-- Irish, Buck Mulligan said. Is there Gaelic on you?
 
---I thought it was Irish, she said, by the sound of it. Are you from the
+-- I thought it was Irish, she said, by the sound of it. Are you from the
 west, sir?
 
---I am an Englishman, Haines answered.
+-- I am an Englishman, Haines answered.
 
---He's English, Buck Mulligan said, and he thinks we ought to speak Irish
+-- He's English, Buck Mulligan said, and he thinks we ought to speak Irish
 in Ireland.
 
---Sure we ought to, the old woman said, and I'm ashamed I don't speak the
+-- Sure we ought to, the old woman said, and I'm ashamed I don't speak the
 language myself. I'm told it's a grand language by them that knows.
 
---Grand is no name for it, said Buck Mulligan. Wonderful entirely. Fill
+-- Grand is no name for it, said Buck Mulligan. Wonderful entirely. Fill
 us out some more tea, Kinch. Would you like a cup, ma'am?
 
---No, thank you, sir, the old woman said, slipping the ring of the
+-- No, thank you, sir, the old woman said, slipping the ring of the
 milkcan on her forearm and about to go.
 
 Haines said to her:
 
---Have you your bill? We had better pay her, Mulligan, hadn't we?
+-- Have you your bill? We had better pay her, Mulligan, hadn't we?
 
 Stephen filled again the three cups.
 
---Bill, sir? she said, halting. Well, it's seven mornings a pint at
+-- Bill, sir? she said, halting. Well, it's seven mornings a pint at
 twopence is seven twos is a shilling and twopence over and these three
 mornings a quart at fourpence is three quarts is a shilling. That's a
 shilling and one and two is two and two, sir.
@@ -663,111 +663,111 @@ Buck Mulligan sighed and, having filled his mouth with a crust thickly
 buttered on both sides, stretched forth his legs and began to search his
 trouser pockets.
 
---Pay up and look pleasant, Haines said to him, smiling.
+-- Pay up and look pleasant, Haines said to him, smiling.
 
 Stephen filled a third cup, a spoonful of tea colouring faintly the thick
 rich milk. Buck Mulligan brought up a florin, twisted it round in his
 fingers and cried:
 
---A miracle!
+-- A miracle!
 
 He passed it along the table towards the old woman, saying:
 
---Ask nothing more of me, sweet. All I can give you I give.
+-- Ask nothing more of me, sweet. All I can give you I give.
 
 Stephen laid the coin in her uneager hand.
 
---We'll owe twopence, he said.
+-- We'll owe twopence, he said.
 
---Time enough, sir, she said, taking the coin. Time enough. Good morning,
+-- Time enough, sir, she said, taking the coin. Time enough. Good morning,
 sir.
 
 She curtseyed and went out, followed by Buck Mulligan's tender chant:
 
 
-  --HEART OF MY HEART, WERE IT MORE,
+  -- HEART OF MY HEART, WERE IT MORE,
     MORE WOULD BE LAID AT YOUR FEET.
 
 
 He turned to Stephen and said:
 
---Seriously, Dedalus. I'm stony. Hurry out to your school kip and bring
+-- Seriously, Dedalus. I'm stony. Hurry out to your school kip and bring
 us back some money. Today the bards must drink and junket. Ireland
 expects that every man this day will do his duty.
 
---That reminds me, Haines said, rising, that I have to visit your
+-- That reminds me, Haines said, rising, that I have to visit your
 national library today.
 
---Our swim first, Buck Mulligan said.
+-- Our swim first, Buck Mulligan said.
 
 He turned to Stephen and asked blandly:
 
---Is this the day for your monthly wash, Kinch?
+-- Is this the day for your monthly wash, Kinch?
 
 Then he said to Haines:
 
---The unclean bard makes a point of washing once a month.
+-- The unclean bard makes a point of washing once a month.
 
---All Ireland is washed by the gulfstream, Stephen said as he let honey
+-- All Ireland is washed by the gulfstream, Stephen said as he let honey
 trickle over a slice of the loaf.
 
 Haines from the corner where he was knotting easily a scarf about the
 loose collar of his tennis shirt spoke:
 
---I intend to make a collection of your sayings if you will let me.
+-- I intend to make a collection of your sayings if you will let me.
 
 Speaking to me. They wash and tub and scrub. Agenbite of inwit.
 Conscience. Yet here's a spot.
 
---That one about the cracked lookingglass of a servant being the symbol
+-- That one about the cracked lookingglass of a servant being the symbol
 of Irish art is deuced good.
 
 Buck Mulligan kicked Stephen's foot under the table and said with warmth
 of tone:
 
---Wait till you hear him on Hamlet, Haines.
+-- Wait till you hear him on Hamlet, Haines.
 
---Well, I mean it, Haines said, still speaking to Stephen. I was just
+-- Well, I mean it, Haines said, still speaking to Stephen. I was just
 thinking of it when that poor old creature came in.
 
---Would I make any money by it? Stephen asked.
+-- Would I make any money by it? Stephen asked.
 
 Haines laughed and, as he took his soft grey hat from the holdfast of the
 hammock, said:
 
---I don't know, I'm sure.
+-- I don't know, I'm sure.
 
 He strolled out to the doorway. Buck Mulligan bent across to Stephen and
 said with coarse vigour:
 
---You put your hoof in it now. What did you say that for?
+-- You put your hoof in it now. What did you say that for?
 
---Well? Stephen said. The problem is to get money. From whom? From the
+-- Well? Stephen said. The problem is to get money. From whom? From the
 milkwoman or from him. It's a toss up, I think.
 
---I blow him out about you, Buck Mulligan said, and then you come along
+-- I blow him out about you, Buck Mulligan said, and then you come along
 with your lousy leer and your gloomy jesuit jibes.
 
---I see little hope, Stephen said, from her or from him.
+-- I see little hope, Stephen said, from her or from him.
 
 Buck Mulligan sighed tragically and laid his hand on Stephen's arm.
 
---From me, Kinch, he said.
+-- From me, Kinch, he said.
 
 In a suddenly changed tone he added:
 
---To tell you the God's truth I think you're right. Damn all else they
+-- To tell you the God's truth I think you're right. Damn all else they
 are good for. Why don't you play them as I do? To hell with them all. Let
 us get out of the kip.
 
 He stood up, gravely ungirdled and disrobed himself of his gown, saying
 resignedly:
 
---Mulligan is stripped of his garments.
+-- Mulligan is stripped of his garments.
 
 He emptied his pockets on to the table.
 
---There's your snotrag, he said.
+-- There's your snotrag, he said.
 
 And putting on his stiff collar and rebellious tie he spoke to them,
 chiding them, and to his dangling watchchain. His hands plunged and
@@ -777,18 +777,18 @@ boots. Contradiction. Do I contradict myself? Very well then, I
 contradict myself. Mercurial Malachi. A limp black missile flew out of
 his talking hands.
 
---And there's your Latin quarter hat, he said.
+-- And there's your Latin quarter hat, he said.
 
 Stephen picked it up and put it on. Haines called to them from the
 doorway:
 
---Are you coming, you fellows?
+-- Are you coming, you fellows?
 
---I'm ready, Buck Mulligan answered, going towards the door. Come out,
+-- I'm ready, Buck Mulligan answered, going towards the door. Come out,
 Kinch. You have eaten all we left, I suppose. Resigned he passed out with
 grave words and gait, saying, wellnigh with sorrow:
 
---And going forth he met Butterly.
+-- And going forth he met Butterly.
 
 Stephen, taking his ashplant from its leaningplace, followed them out
 and, as they went down the ladder, pulled to the slow iron door and
@@ -796,65 +796,65 @@ locked it. He put the huge key in his inner pocket.
 
 At the foot of the ladder Buck Mulligan asked:
 
---Did you bring the key?
+-- Did you bring the key?
 
---I have it, Stephen said, preceding them.
+-- I have it, Stephen said, preceding them.
 
 He walked on. Behind him he heard Buck Mulligan club with his heavy
 bathtowel the leader shoots of ferns or grasses.
 
---Down, sir! How dare you, sir!
+-- Down, sir! How dare you, sir!
 
 Haines asked:
 
---Do you pay rent for this tower?
+-- Do you pay rent for this tower?
 
---Twelve quid, Buck Mulligan said.
+-- Twelve quid, Buck Mulligan said.
 
---To the secretary of state for war, Stephen added over his shoulder.
+-- To the secretary of state for war, Stephen added over his shoulder.
 
 They halted while Haines surveyed the tower and said at last:
 
---Rather bleak in wintertime, I should say. Martello you call it?
+-- Rather bleak in wintertime, I should say. Martello you call it?
 
---Billy Pitt had them built, Buck Mulligan said, when the French were on
+-- Billy Pitt had them built, Buck Mulligan said, when the French were on
 the sea. But ours is the OMPHALOS.
 
---What is your idea of Hamlet? Haines asked Stephen.
+-- What is your idea of Hamlet? Haines asked Stephen.
 
---No, no, Buck Mulligan shouted in pain. I'm not equal to Thomas Aquinas
+-- No, no, Buck Mulligan shouted in pain. I'm not equal to Thomas Aquinas
 and the fifty-five reasons he has made out to prop it up. Wait till I have
 a few pints in me first.
 
 He turned to Stephen, saying, as he pulled down neatly the peaks of his
 primrose waistcoat:
 
---You couldn't manage it under three pints, Kinch, could you?
+-- You couldn't manage it under three pints, Kinch, could you?
 
---It has waited so long, Stephen said listlessly, it can wait longer.
+-- It has waited so long, Stephen said listlessly, it can wait longer.
 
---You pique my curiosity, Haines said amiably. Is it some paradox?
+-- You pique my curiosity, Haines said amiably. Is it some paradox?
 
---Pooh! Buck Mulligan said. We have grown out of Wilde and paradoxes.
+-- Pooh! Buck Mulligan said. We have grown out of Wilde and paradoxes.
 It's quite simple. He proves by algebra that Hamlet's grandson is
 Shakespeare's grandfather and that he himself is the ghost of his own
 father.
 
---What? Haines said, beginning to point at Stephen. He himself?
+-- What? Haines said, beginning to point at Stephen. He himself?
 
 Buck Mulligan slung his towel stolewise round his neck and, bending in
 loose laughter, said to Stephen's ear:
 
---O, shade of Kinch the elder! Japhet in search of a father!
+-- O, shade of Kinch the elder! Japhet in search of a father!
 
---We're always tired in the morning, Stephen said to Haines. And it is
+-- We're always tired in the morning, Stephen said to Haines. And it is
 rather long to tell.
 
 Buck Mulligan, walking forward again, raised his hands.
 
---The sacred pint alone can unbind the tongue of Dedalus, he said.
+-- The sacred pint alone can unbind the tongue of Dedalus, he said.
 
---I mean to say, Haines explained to Stephen as they followed, this tower
+-- I mean to say, Haines explained to Stephen as they followed, this tower
 and these cliffs here remind me somehow of Elsinore. THAT BEETLES O'ER
 HIS BASE INTO THE SEA, ISN'T IT?
 
@@ -862,14 +862,14 @@ Buck Mulligan turned suddenly. for an instant towards Stephen but did not
 speak. In the bright silent instant Stephen saw his own image in cheap
 dusty mourning between their gay attires.
 
---It's a wonderful tale, Haines said, bringing them to halt again.
+-- It's a wonderful tale, Haines said, bringing them to halt again.
 
 Eyes, pale as the sea the wind had freshened, paler, firm and prudent.
 The seas' ruler, he gazed southward over the bay, empty save for the
 smokeplume of the mailboat vague on the bright skyline and a sail tacking
 by the Muglins.
 
---I read a theological interpretation of it somewhere, he said bemused.
+-- I read a theological interpretation of it somewhere, he said bemused.
 The Father and the Son idea. The Son striving to be atoned with the
 Father.
 
@@ -880,7 +880,7 @@ doll's head to and fro, the brims of his Panama hat quivering, and began
 to chant in a quiet happy foolish voice:
 
 
-  --I'M THE QUEEREST YOUNG FELLOW THAT EVER YOU HEARD.
+  -- I'M THE QUEEREST YOUNG FELLOW THAT EVER YOU HEARD.
     MY MOTHER'S A JEW, MY FATHER'S A BIRD.
     WITH JOSEPH THE JOINER I CANNOT AGREE.
     SO HERE'S TO DISCIPLES AND CALVARY.
@@ -889,7 +889,7 @@ to chant in a quiet happy foolish voice:
 He held up a forefinger of warning.
 
 
-  --IF ANYONE THINKS THAT I AMN'T DIVINE
+  -- IF ANYONE THINKS THAT I AMN'T DIVINE
     HE'LL GET NO FREE DRINKS WHEN I'M MAKING THE WINE
     BUT HAVE TO DRINK WATER AND WISH IT WERE PLAIN
     THAT I MAKE WHEN THE WINE BECOMES WATER AGAIN.
@@ -900,7 +900,7 @@ to a brow of the cliff, fluttered his hands at his sides like fins or
 wings of one about to rise in the air, and chanted:
 
 
-  --GOODBYE, NOW, GOODBYE! WRITE DOWN ALL I SAID
+  -- GOODBYE, NOW, GOODBYE! WRITE DOWN ALL I SAID
     AND TELL TOM, DIEK AND HARRY I ROSE FROM THE DEAD.
     WHAT'S BRED IN THE BONE CANNOT FAIL ME TO FLY
     AND OLIVET'S BREEZY ... GOODBYE, NOW, GOODBYE!
@@ -913,37 +913,37 @@ that bore back to them his brief birdsweet cries.
 Haines, who had been laughing guardedly, walked on beside Stephen and
 said:
 
---We oughtn't to laugh, I suppose. He's rather blasphemous. I'm not a
+-- We oughtn't to laugh, I suppose. He's rather blasphemous. I'm not a
 believer myself, that is to say. Still his gaiety takes the harm out of
 it somehow, doesn't it? What did he call it? Joseph the Joiner?
 
---The ballad of joking Jesus, Stephen answered.
+-- The ballad of joking Jesus, Stephen answered.
 
---O, Haines said, you have heard it before?
+-- O, Haines said, you have heard it before?
 
---Three times a day, after meals, Stephen said drily.
+-- Three times a day, after meals, Stephen said drily.
 
---You're not a believer, are you? Haines asked. I mean, a believer in the
+-- You're not a believer, are you? Haines asked. I mean, a believer in the
 narrow sense of the word. Creation from nothing and miracles and a
 personal God.
 
---There's only one sense of the word, it seems to me, Stephen said.
+-- There's only one sense of the word, it seems to me, Stephen said.
 
 Haines stopped to take out a smooth silver case in which twinkled a green
 stone. He sprang it open with his thumb and offered it.
 
---Thank you, Stephen said, taking a cigarette.
+-- Thank you, Stephen said, taking a cigarette.
 
 Haines helped himself and snapped the case to. He put it back in his
 sidepocket and took from his waistcoatpocket a nickel tinderbox, sprang
 it open too, and, having lit his cigarette, held the flaming spunk
 towards Stephen in the shell of his hands.
 
---Yes, of course, he said, as they went on again. Either you believe or
+-- Yes, of course, he said, as they went on again. Either you believe or
 you don't, isn't it? Personally I couldn't stomach that idea of a
 personal God. You don't stand for that, I suppose?
 
---You behold in me, Stephen said with grim displeasure, a horrible
+-- You behold in me, Stephen said with grim displeasure, a horrible
 example of free thought.
 
 He walked on, waiting to be spoken to, trailing his ashplant by his side.
@@ -953,30 +953,30 @@ the path. They will walk on it tonight, coming here in the dark. He wants
 that key. It is mine. I paid the rent. Now I eat his salt bread. Give him
 the key too. All. He will ask for it. That was in his eyes.
 
---After all, Haines began ...
+-- After all, Haines began ...
 
 Stephen turned and saw that the cold gaze which had measured him was not
 all unkind.
 
---After all, I should think you are able to free yourself. You are your
+-- After all, I should think you are able to free yourself. You are your
 own master, it seems to me.
 
---I am a servant of two masters, Stephen said, an English and an Italian.
+-- I am a servant of two masters, Stephen said, an English and an Italian.
 
---Italian? Haines said.
+-- Italian? Haines said.
 
 A crazy queen, old and jealous. Kneel down before me.
 
---And a third, Stephen said, there is who wants me for odd jobs.
+-- And a third, Stephen said, there is who wants me for odd jobs.
 
---Italian? Haines said again. What do you mean?
+-- Italian? Haines said again. What do you mean?
 
---The imperial British state, Stephen answered, his colour rising, and
+-- The imperial British state, Stephen answered, his colour rising, and
 the holy Roman catholic and apostolic church.
 
 Haines detached from his underlip some fibres of tobacco before he spoke.
 
---I can quite understand that, he said calmly. An Irishman must think
+-- I can quite understand that, he said calmly. An Irishman must think
 like that, I daresay. We feel in England that we have treated you rather
 unfairly. It seems history is to blame.
 
@@ -999,17 +999,17 @@ their lances and their shields.
 
 Hear, hear! Prolonged applause. ZUT! NOM DE DIEU!
 
---Of course I'm a Britisher, Haines's voice said, and I feel as one. I
+-- Of course I'm a Britisher, Haines's voice said, and I feel as one. I
 don't want to see my country fall into the hands of German jews either.
 That's our national problem, I'm afraid, just now.
 
 Two men stood at the verge of the cliff, watching: businessman, boatman.
 
---She's making for Bullock harbour.
+-- She's making for Bullock harbour.
 
 The boatman nodded towards the north of the bay with some disdain.
 
---There's five fathoms out there, he said. It'll be swept up that way
+-- There's five fathoms out there, he said. It'll be swept up that way
 when the tide comes in about one. It's nine days today.
 
 The man that was drowned. A sail veering about the blank bay waiting for
@@ -1021,14 +1021,14 @@ a stone, in shirtsleeves, his unclipped tie rippling over his shoulder. A
 young man clinging to a spur of rock near him, moved slowly frogwise his
 green legs in the deep jelly of the water.
 
---Is the brother with you, Malachi?
+-- Is the brother with you, Malachi?
 
---Down in Westmeath. With the Bannons.
+-- Down in Westmeath. With the Bannons.
 
---Still there? I got a card from Bannon. Says he found a sweet young
+-- Still there? I got a card from Bannon. Says he found a sweet young
 thing down there. Photo girl he calls her.
 
---Snapshot, eh? Brief exposure.
+-- Snapshot, eh? Brief exposure.
 
 Buck Mulligan sat down to unlace his boots. An elderly man shot up near
 the spur of rock a blowing red face. He scrambled up by the stones, water
@@ -1040,76 +1040,76 @@ Buck Mulligan made way for him to scramble past and, glancing at Haines
 and Stephen, crossed himself piously with his thumbnail at brow and lips
 and breastbone.
 
---Seymour's back in town, the young man said, grasping again his spur of
+-- Seymour's back in town, the young man said, grasping again his spur of
 rock. Chucked medicine and going in for the army.
 
---Ah, go to God! Buck Mulligan said.
+-- Ah, go to God! Buck Mulligan said.
 
---Going over next week to stew. You know that red Carlisle girl, Lily?
+-- Going over next week to stew. You know that red Carlisle girl, Lily?
 
---Yes.
+-- Yes.
 
---Spooning with him last night on the pier. The father is rotto with
+-- Spooning with him last night on the pier. The father is rotto with
 money.
 
---Is she up the pole?
+-- Is she up the pole?
 
---Better ask Seymour that.
+-- Better ask Seymour that.
 
---Seymour a bleeding officer! Buck Mulligan said.
+-- Seymour a bleeding officer! Buck Mulligan said.
 
 He nodded to himself as he drew off his trousers and stood up, saying
 tritely:
 
---Redheaded women buck like goats.
+-- Redheaded women buck like goats.
 
 He broke off in alarm, feeling his side under his flapping shirt.
 
---My twelfth rib is gone, he cried. I'm the UBERMENSCH. Toothless Kinch
+-- My twelfth rib is gone, he cried. I'm the UBERMENSCH. Toothless Kinch
 and I, the supermen.
 
 He struggled out of his shirt and flung it behind him to where his
 clothes lay.
 
---Are you going in here, Malachi?
+-- Are you going in here, Malachi?
 
---Yes. Make room in the bed.
+-- Yes. Make room in the bed.
 
 The young man shoved himself backward through the water and reached the
 middle of the creek in two long clean strokes. Haines sat down on a
 stone, smoking.
 
---Are you not coming in? Buck Mulligan asked.
+-- Are you not coming in? Buck Mulligan asked.
 
---Later on, Haines said. Not on my breakfast.
+-- Later on, Haines said. Not on my breakfast.
 
 Stephen turned away.
 
---I'm going, Mulligan, he said.
+-- I'm going, Mulligan, he said.
 
---Give us that key, Kinch, Buck Mulligan said, to keep my chemise flat.
+-- Give us that key, Kinch, Buck Mulligan said, to keep my chemise flat.
 
 Stephen handed him the key. Buck Mulligan laid it across his heaped
 clothes.
 
---And twopence, he said, for a pint. Throw it there.
+-- And twopence, he said, for a pint. Throw it there.
 
 Stephen threw two pennies on the soft heap. Dressing, undressing. Buck
 Mulligan erect, with joined hands before him, said solemnly:
 
---He who stealeth from the poor lendeth to the Lord. Thus spake
+-- He who stealeth from the poor lendeth to the Lord. Thus spake
 Zarathustra.
 
 His plump body plunged.
 
---We'll see you again, Haines said, turning as Stephen walked up the path
+-- We'll see you again, Haines said, turning as Stephen walked up the path
 and smiling at wild Irish.
 
 Horn of a bull, hoof of a horse, smile of a Saxon.
 
---The Ship, Buck Mulligan cried. Half twelve.
+-- The Ship, Buck Mulligan cried. Half twelve.
 
---Good, Stephen said.
+-- Good, Stephen said.
 
 He walked along the upwardcurving path.
 
@@ -1129,18 +1129,18 @@ seal's, far out on the water, round.
 Usurper.
 
 
--------- Nestor ---------
+--------  Nestor ---------
 
 
---You, Cochrane, what city sent for him?
+-- You, Cochrane, what city sent for him?
 
---Tarentum, sir.
+-- Tarentum, sir.
 
---Very good. Well?
+-- Very good. Well?
 
---There was a battle, sir.
+-- There was a battle, sir.
 
---Very good. Where?
+-- Very good. Where?
 
 The boy's blank face asked the blank window.
 
@@ -1149,40 +1149,40 @@ memory fabled it. A phrase, then, of impatience, thud of Blake's wings of
 excess. I hear the ruin of all space, shattered glass and toppling
 masonry, and time one livid final flame. What's left us then?
 
---I forget the place, sir. 279 B. C.
+-- I forget the place, sir. 279 B. C.
 
---Asculum, Stephen said, glancing at the name and date in the gorescarred
+-- Asculum, Stephen said, glancing at the name and date in the gorescarred
 book.
 
---Yes, sir. And he said: ANOTHER VICTORY LIKE THAT AND WE ARE DONE FOR.
+-- Yes, sir. And he said: ANOTHER VICTORY LIKE THAT AND WE ARE DONE FOR.
 
 That phrase the world had remembered. A dull ease of the mind. From a
 hill above a corpsestrewn plain a general speaking to his officers,
 leaned upon his spear. Any general to any officers. They lend ear.
 
---You, Armstrong, Stephen said. What was the end of Pyrrhus?
+-- You, Armstrong, Stephen said. What was the end of Pyrrhus?
 
---End of Pyrrhus, sir?
+-- End of Pyrrhus, sir?
 
---I know, sir. Ask me, sir, Comyn said.
+-- I know, sir. Ask me, sir, Comyn said.
 
---Wait. You, Armstrong. Do you know anything about Pyrrhus?
+-- Wait. You, Armstrong. Do you know anything about Pyrrhus?
 
 A bag of figrolls lay snugly in Armstrong's satchel. He curled them
 between his palms at whiles and swallowed them softly. Crumbs adhered to
 the tissue of his lips. A sweetened boy's breath. Welloff people, proud
 that their eldest son was in the navy. Vico road, Dalkey.
 
---Pyrrhus, sir? Pyrrhus, a pier.
+-- Pyrrhus, sir? Pyrrhus, a pier.
 
 All laughed. Mirthless high malicious laughter. Armstrong looked round at
 his classmates, silly glee in profile. In a moment they will laugh more
 loudly, aware of my lack of rule and of the fees their papas pay.
 
---Tell me now, Stephen said, poking the boy's shoulder with the book,
+-- Tell me now, Stephen said, poking the boy's shoulder with the book,
 what is a pier.
 
---A pier, sir, Armstrong said. A thing out in the water. A kind of a
+-- A pier, sir, Armstrong said. A thing out in the water. A kind of a
 bridge. Kingstown pier, sir.
 
 Some laughed again: mirthless but with meaning. Two in the back bench
@@ -1191,11 +1191,11 @@ With envy he watched their faces: Edith, Ethel, Gerty, Lily. Their likes:
 their breaths, too, sweetened with tea and jam, their bracelets tittering
 in the struggle.
 
---Kingstown pier, Stephen said. Yes, a disappointed bridge.
+-- Kingstown pier, Stephen said. Yes, a disappointed bridge.
 
 The words troubled their gaze.
 
---How, sir? Comyn asked. A bridge is across a river.
+-- How, sir? Comyn asked. A bridge is across a river.
 
 For Haines's chapbook. No-one here to hear. Tonight deftly amid wild
 drink and talk, to pierce the polished mail of his mind. What then? A
@@ -1211,25 +1211,25 @@ possibilities they have ousted. But can those have been possible seeing
 that they never were? Or was that only possible which came to pass?
 Weave, weaver of the wind.
 
---Tell us a story, sir.
+-- Tell us a story, sir.
 
---O, do, sir. A ghoststory.
+-- O, do, sir. A ghoststory.
 
---Where do you begin in this? Stephen asked, opening another book.
+-- Where do you begin in this? Stephen asked, opening another book.
 
---WEEP NO MORE, Comyn said.
+-- WEEP NO MORE, Comyn said.
 
---Go on then, Talbot.
+-- Go on then, Talbot.
 
---And the story, sir?
+-- And the story, sir?
 
---After, Stephen said. Go on, Talbot.
+-- After, Stephen said. Go on, Talbot.
 
 A swarthy boy opened a book and propped it nimbly under the breastwork of
 his satchel. He recited jerks of verse with odd glances at the text:
 
 
-  --WEEP NO MORE, WOFUL SHEPHERDS, WEEP NO MORE
+  -- WEEP NO MORE, WOFUL SHEPHERDS, WEEP NO MORE
     FOR LYCIDAS, YOUR SORROW, IS NOT DEAD,
     SUNK THOUGH HE BE BENEATH THE WATERY FLOOR ...
 
@@ -1249,13 +1249,13 @@ forms.
 Talbot repeated:
 
 
-  --THROUGH THE DEAR MIGHT OF HIM THAT WALKED THE WAVES,
+  -- THROUGH THE DEAR MIGHT OF HIM THAT WALKED THE WAVES,
     THROUGH THE DEAR MIGHT ...
 
 
---Turn over, Stephen said quietly. I don't see anything.
+-- Turn over, Stephen said quietly. I don't see anything.
 
---What, sir? Talbot asked simply, bending forward.
+-- What, sir? Talbot asked simply, bending forward.
 
 His hand turned the page over. He leaned back and went on again,
 having just remembered. Of him that walked the waves. Here also over
@@ -1272,25 +1272,25 @@ looms. Ay.
 
 Talbot slid his closed book into his satchel.
 
---Have I heard all? Stephen asked.
+-- Have I heard all? Stephen asked.
 
---Yes, sir. Hockey at ten, sir.
+-- Yes, sir. Hockey at ten, sir.
 
---Half day, sir. Thursday.
+-- Half day, sir. Thursday.
 
---Who can answer a riddle? Stephen asked.
+-- Who can answer a riddle? Stephen asked.
 
 They bundled their books away, pencils clacking, pages rustling.
 Crowding together they strapped and buckled their satchels, all gabbling
 gaily:
 
---A riddle, sir? Ask me, sir.
+-- A riddle, sir? Ask me, sir.
 
---O, ask me, sir.
+-- O, ask me, sir.
 
---A hard one, sir.
+-- A hard one, sir.
 
---This is the riddle, Stephen said:
+-- This is the riddle, Stephen said:
 
 
     THE COCK CREW,
@@ -1303,25 +1303,25 @@ gaily:
 
 What is that?
 
---What, sir?
+-- What, sir?
 
---Again, sir. We didn't hear.
+-- Again, sir. We didn't hear.
 
 Their eyes grew bigger as the lines were repeated. After a silence
 Cochrane said:
 
---What is it, sir? We give it up.
+-- What is it, sir? We give it up.
 
 Stephen, his throat itching, answered:
 
---The fox burying his grandmother under a hollybush.
+-- The fox burying his grandmother under a hollybush.
 
 He stood up and gave a shout of nervous laughter to which their cries
 echoed dismay.
 
 A stick struck the door and a voice in the corridor called:
 
---Hockey!
+-- Hockey!
 
 They broke asunder, sidling out of their benches, leaping them.
 Quickly they were gone and from the lumberroom came the rattle of sticks
@@ -1337,19 +1337,19 @@ He held out his copybook. The word SUMS was written on the
 headline. Beneath were sloping figures and at the foot a crooked signature
 with blind loops and a blot. Cyril Sargent: his name and seal.
 
---Mr Deasy told me to write them out all again, he said, and show them to
+-- Mr Deasy told me to write them out all again, he said, and show them to
 you, sir.
 
 Stephen touched the edges of the book. Futility.
 
---Do you understand how to do them now? he asked.
+-- Do you understand how to do them now? he asked.
 
---Numbers eleven to fifteen, Sargent answered. Mr Deasy said I was to
+-- Numbers eleven to fifteen, Sargent answered. Mr Deasy said I was to
 copy them off the board, sir.
 
---Can you do them. yourself? Stephen asked.
+-- Can you do them. yourself? Stephen asked.
 
---No, sir.
+-- No, sir.
 
 Ugly and futile: lean neck and thick hair and a stain of ink, a snail's
 bed. Yet someone had loved him, borne him in her arms and in her heart.
@@ -1377,9 +1377,9 @@ movement, flashing in their mocking mirrors the obscure soul of the
 world, a darkness shining in brightness which brightness could not
 comprehend.
 
---Do you understand now? Can you work the second for yourself?
+-- Do you understand now? Can you work the second for yourself?
 
---Yes, sir.
+-- Yes, sir.
 
 In long shaky strokes Sargent copied the data. Waiting always for a
 word of help his hand moved faithfully the unsteady symbols, a faint hue
@@ -1395,23 +1395,23 @@ tyranny: tyrants, willing to be dethroned.
 
 The sum was done.
 
---It is very simple, Stephen said as he stood up.
+-- It is very simple, Stephen said as he stood up.
 
---Yes, sir. Thanks, Sargent answered.
+-- Yes, sir. Thanks, Sargent answered.
 
 He dried the page with a sheet of thin blottingpaper and carried his
 copybook back to his bench.
 
---You had better get your stick and go out to the others, Stephen said as
+-- You had better get your stick and go out to the others, Stephen said as
 he followed towards the door the boy's graceless form.
 
---Yes, sir.
+-- Yes, sir.
 
 In the corridor his name was heard, called from the playfield.
 
---Sargent!
+-- Sargent!
 
---Run on, Stephen said. Mr Deasy is calling you.
+-- Run on, Stephen said. Mr Deasy is calling you.
 
 He stood in the porch and watched the laggard hurry towards the
 scrappy field where sharp voices were in strife. They were sorted in teams
@@ -1419,17 +1419,17 @@ and Mr Deasy came away stepping over wisps of grass with gaitered feet.
 When he had reached the schoolhouse voices again contending called to
 him. He turned his angry white moustache.
 
---What is it now? he cried continually without listening.
+-- What is it now? he cried continually without listening.
 
---Cochrane and Halliday are on the same side, sir, Stephen said.
+-- Cochrane and Halliday are on the same side, sir, Stephen said.
 
---Will you wait in my study for a moment, Mr Deasy said, till I restore
+-- Will you wait in my study for a moment, Mr Deasy said, till I restore
 order here.
 
 And as he stepped fussily back across the field his old man's voice
 cried sternly:
 
---What is the matter? What is it now?
+-- What is the matter? What is it now?
 
 Their sharp voices cried about him on all sides: their many forms
 closed round him, the garish sunshine bleaching the honey of his illdyed
@@ -1445,13 +1445,13 @@ all the gentiles: world without end.
 A hasty step over the stone porch and in the corridor. Blowing out his
 rare moustache Mr Deasy halted at the table.
 
---First, our little financial settlement, he said.
+-- First, our little financial settlement, he said.
 
 He brought out of his coat a pocketbook bound by a leather thong. It
 slapped open and he took from it two notes, one of joined halves, and laid
 them carefully on the table.
 
---Two, he said, strapping and stowing his pocketbook away.
+-- Two, he said, strapping and stowing his pocketbook away.
 
 And now his strongroom for the gold. Stephen's embarrassed hand
 moved over the shells heaped in the cold stone mortar: whelks and money
@@ -1461,45 +1461,45 @@ hollow shells.
 
 A sovereign fell, bright and new, on the soft pile of the tablecloth.
 
---Three, Mr Deasy said, turning his little savingsbox about in his hand.
+-- Three, Mr Deasy said, turning his little savingsbox about in his hand.
 These are handy things to have. See. This is for sovereigns. This is for
 shillings. Sixpences, halfcrowns. And here crowns. See.
 
 He shot from it two crowns and two shillings.
 
---Three twelve, he said. I think you'll find that's right.
+-- Three twelve, he said. I think you'll find that's right.
 
---Thank you, sir, Stephen said, gathering the money together with shy
+-- Thank you, sir, Stephen said, gathering the money together with shy
 haste and putting it all in a pocket of his trousers.
 
---No thanks at all, Mr Deasy said. You have earned it.
+-- No thanks at all, Mr Deasy said. You have earned it.
 
 Stephen's hand, free again, went back to the hollow shells. Symbols
 too of beauty and of power. A lump in my pocket: symbols soiled by greed
 and misery.
 
---Don't carry it like that, Mr Deasy said. You'll pull it out somewhere
+-- Don't carry it like that, Mr Deasy said. You'll pull it out somewhere
 and lose it. You just buy one of these machines. You'll find them very
 handy.
 
 Answer something.
 
---Mine would be often empty, Stephen said.
+-- Mine would be often empty, Stephen said.
 
 The same room and hour, the same wisdom: and I the same. Three
 times now. Three nooses round me here. Well? I can break them in this
 instant if I will.
 
---Because you don't save, Mr Deasy said, pointing his finger. You don't
+-- Because you don't save, Mr Deasy said, pointing his finger. You don't
 know yet what money is. Money is power. When you have lived as long as I
 have. I know, I know. If youth but knew. But what does Shakespeare say?
 PUT BUT MONEY IN THY PURSE.
 
---Iago, Stephen murmured.
+-- Iago, Stephen murmured.
 
 He lifted his gaze from the idle shells to the old man's stare.
 
---He knew what money was, Mr Deasy said. He made money. A poet, yes,
+-- He knew what money was, Mr Deasy said. He made money. A poet, yes,
 but an Englishman too. Do you know what is the pride of the English? Do
 you know what is the proudest word you will ever hear from an
 Englishman's mouth?
@@ -1507,17 +1507,17 @@ Englishman's mouth?
 The seas' ruler. His seacold eyes looked on the empty bay: it seems
 history is to blame: on me and on my words, unhating.
 
---That on his empire, Stephen said, the sun never sets.
+-- That on his empire, Stephen said, the sun never sets.
 
---Ba! Mr Deasy cried. That's not English. A French Celt said that. He
+-- Ba! Mr Deasy cried. That's not English. A French Celt said that. He
 tapped his savingsbox against his thumbnail.
 
---I will tell you, he said solemnly, what is his proudest boast. I PAID
+-- I will tell you, he said solemnly, what is his proudest boast. I PAID
 MY WAY.
 
 Good man, good man.
 
---I PAID MY WAY. I NEVER BORROWED A SHILLING IN MY LIFE. Can you feel
+-- I PAID MY WAY. I NEVER BORROWED A SHILLING IN MY LIFE. Can you feel
 that? I OWE NOTHING. Can you?
 
 Mulligan, nine pounds, three pairs of socks, one pair brogues, ties.
@@ -1526,20 +1526,20 @@ Temple, two lunches. Russell, one guinea, Cousins, ten shillings, Bob
 Reynolds, half a guinea, Koehler, three guineas, Mrs MacKernan, five
 weeks' board. The lump I have is useless.
 
---For the moment, no, Stephen answered.
+-- For the moment, no, Stephen answered.
 
 Mr Deasy laughed with rich delight, putting back his savingsbox.
 
---I knew you couldn't, he said joyously. But one day you must feel it. We
+-- I knew you couldn't, he said joyously. But one day you must feel it. We
 are a generous people but we must also be just.
 
---I fear those big words, Stephen said, which make us so unhappy.
+-- I fear those big words, Stephen said, which make us so unhappy.
 
 Mr Deasy stared sternly for some moments over the mantelpiece at
 the shapely bulk of a man in tartan filibegs: Albert Edward, prince of
 Wales.
 
---You think me an old fogey and an old tory, his thoughtful voice said. I
+-- You think me an old fogey and an old tory, his thoughtful voice said. I
 saw three generations since O'Connell's time. I remember the famine
 in '46. Do you know that the orange lodges agitated for repeal of the
 union twenty years before O'Connell did or before the prelates of your
@@ -1552,13 +1552,13 @@ Croppies lie down.
 
 Stephen sketched a brief gesture.
 
---I have rebel blood in me too, Mr Deasy said. On the spindle side. But I
+-- I have rebel blood in me too, Mr Deasy said. On the spindle side. But I
 am descended from sir John Blackwood who voted for the union. We are all
 Irish, all kings' sons.
 
---Alas, Stephen said.
+-- Alas, Stephen said.
 
---PER VIAS RECTAS, Mr Deasy said firmly, was his motto. He voted for it
+-- PER VIAS RECTAS, Mr Deasy said firmly, was his motto. He voted for it
 and put on his topboots to ride to Dublin from the Ards of Down to do so.
 
 
@@ -1570,14 +1570,14 @@ A gruff squire on horseback with shiny topboots. Soft day, sir John!
 Soft day, your honour! ... Day! ... Day! ... Two topboots jog dangling
 on to Dublin. Lal the ral the ra. Lal the ral the raddy.
 
---That reminds me, Mr Deasy said. You can do me a favour, Mr Dedalus,
+-- That reminds me, Mr Deasy said. You can do me a favour, Mr Dedalus,
 with some of your literary friends. I have a letter here for the press.
 Sit down a moment. I have just to copy the end.
 
 He went to the desk near the window, pulled in his chair twice and
 read off some words from the sheet on the drum of his typewriter.
 
---Sit down. Excuse me, he said over his shoulder, THE DICTATES OF COMMON
+-- Sit down. Excuse me, he said over his shoulder, THE DICTATES OF COMMON
 SENSE. Just a moment.
 
 He peered from under his shaggy brows at the manuscript by his
@@ -1591,7 +1591,7 @@ Westminster's Shotover, the duke of Beaufort's Ceylon, PRIX DE PARIS,
 1866. Elfin riders sat them, watchful of a sign. He saw their speeds,
 backing king's colours, and shouted with the shouts of vanished crowds.
 
---Full stop, Mr Deasy bade his keys. But prompt ventilation of this
+-- Full stop, Mr Deasy bade his keys. But prompt ventilation of this
 allimportant question ...
 
 Where Cranly led me to get rich quick, hunting his winners among
@@ -1609,11 +1609,11 @@ seems to be slightly crawsick? Jousts. Time shocked rebounds, shock by
 shock. Jousts, slush and uproar of battles, the frozen deathspew of the
 slain, a shout of spearspikes baited with men's bloodied guts.
 
---Now then, Mr Deasy said, rising.
+-- Now then, Mr Deasy said, rising.
 
 He came to the table, pinning together his sheets. Stephen stood up.
 
---I have put the matter into a nutshell, Mr Deasy said. It's about the
+-- I have put the matter into a nutshell, Mr Deasy said. It's about the
 foot and mouth disease. Just look through it. There can be no two opinions
 on the matter.
 
@@ -1625,7 +1625,7 @@ channel. The pluterperfect imperturbability of the department of
 agriculture. Pardoned a classical allusion. Cassandra. By a woman who
 was no better than she should be. To come to the point at issue.
 
---I don't mince words, do I? Mr Deasy asked as Stephen read on.
+-- I don't mince words, do I? Mr Deasy asked as Stephen read on.
 
 Foot and mouth disease. Known as Koch's preparation. Serum and
 virus. Percentage of salted horses. Rinderpest. Emperor's horses at
@@ -1634,7 +1634,7 @@ Courteous offer a fair trial. Dictates of common sense. Allimportant
 question. In every sense of the word take the bull by the horns. Thanking
 you for the hospitality of your columns.
 
---I want that to be printed and read, Mr Deasy said. You will see at the
+-- I want that to be printed and read, Mr Deasy said. You will see at the
 next outbreak they will put an embargo on Irish cattle. And it can be
 cured. It is cured. My cousin, Blackwood Price, writes to me it is
 regularly treated and cured in Austria by cattledoctors there. They offer
@@ -1644,7 +1644,7 @@ by ... intrigues by ... backstairs influence by ...
 
 He raised his forefinger and beat the air oldly before his voice spoke.
 
---Mark my words, Mr Dedalus, he said. England is in the hands of the
+-- Mark my words, Mr Dedalus, he said. England is in the hands of the
 jews. In all the highest places: her finance, her press. And they are the
 signs of a nation's decay. Wherever they gather they eat up the nation's
 vital strength. I have seen it coming these years. As sure as we are
@@ -1654,7 +1654,7 @@ Old England is dying.
 He stepped swiftly off, his eyes coming to blue life as they passed a
 broad sunbeam. He faced about and back again.
 
---Dying, he said again, if not dead by now.
+-- Dying, he said again, if not dead by now.
 
 
     THE HARLOT'S CRY FROM STREET TO STREET
@@ -1664,10 +1664,10 @@ broad sunbeam. He faced about and back again.
 His eyes open wide in vision stared sternly across the sunbeam in
 which he halted.
 
---A merchant, Stephen said, is one who buys cheap and sells dear, jew or
+-- A merchant, Stephen said, is one who buys cheap and sells dear, jew or
 gentile, is he not?
 
---They sinned against the light, Mr Deasy said gravely. And you can see
+-- They sinned against the light, Mr Deasy said gravely. And you can see
 the darkness in their eyes. And that is why they are wanderers on the
 earth to this day.
 
@@ -1681,35 +1681,35 @@ to heap and hoard. Time surely would scatter all. A hoard heaped by the
 roadside: plundered and passing on. Their eyes knew their years of
 wandering and, patient, knew the dishonours of their flesh.
 
---Who has not? Stephen said.
+-- Who has not? Stephen said.
 
---What do you mean? Mr Deasy asked.
+-- What do you mean? Mr Deasy asked.
 
 He came forward a pace and stood by the table. His underjaw fell
 sideways open uncertainly. Is this old wisdom? He waits to hear from me.
 
---History, Stephen said, is a nightmare from which I am trying to awake.
+-- History, Stephen said, is a nightmare from which I am trying to awake.
 
 From the playfield the boys raised a shout. A whirring whistle: goal.
 What if that nightmare gave you a back kick?
 
---The ways of the Creator are not our ways, Mr Deasy said. All human
+-- The ways of the Creator are not our ways, Mr Deasy said. All human
 history moves towards one great goal, the manifestation of God.
 
 Stephen jerked his thumb towards the window, saying:
 
---That is God.
+-- That is God.
 
 Hooray! Ay! Whrrwhee!
 
---What? Mr Deasy asked.
+-- What? Mr Deasy asked.
 
---A shout in the street, Stephen answered, shrugging his shoulders.
+-- A shout in the street, Stephen answered, shrugging his shoulders.
 
 Mr Deasy looked down and held for awhile the wings of his nose
 tweaked between his fingers. Looking up again he set them free.
 
---I am happier than you are, he said. We have committed many errors and
+-- I am happier than you are, he said. We have committed many errors and
 many sins. A woman brought sin into the world. For a woman who was no
 better than she should be, Helen, the runaway wife of Menelaus, ten years
 the Greeks made war on Troy. A faithless wife first brought the strangers
@@ -1725,50 +1725,50 @@ fight for the right till the end.
 
 Stephen raised the sheets in his hand.
 
---Well, sir, he began ...
+-- Well, sir, he began ...
 
---I foresee, Mr Deasy said, that you will not remain here very long at
+-- I foresee, Mr Deasy said, that you will not remain here very long at
 this work. You were not born to be a teacher, I think. Perhaps I am
 wrong.
 
---A learner rather, Stephen said.
+-- A learner rather, Stephen said.
 
 And here what will you learn more?
 
 Mr Deasy shook his head.
 
---Who knows? he said. To learn one must be humble. But life is the great
+-- Who knows? he said. To learn one must be humble. But life is the great
 teacher.
 
 Stephen rustled the sheets again.
 
---As regards these, he began.
+-- As regards these, he began.
 
---Yes, Mr Deasy said. You have two copies there. If you can have them
+-- Yes, Mr Deasy said. You have two copies there. If you can have them
 published at once.
 
 TELEGRAPH. IRISH HOMESTEAD.
 
---I will try, Stephen said, and let you know tomorrow. I know two editors
+-- I will try, Stephen said, and let you know tomorrow. I know two editors
 slightly.
 
---That will do, Mr Deasy said briskly. I wrote last night to Mr Field,
+-- That will do, Mr Deasy said briskly. I wrote last night to Mr Field,
 M.P. There is a meeting of the cattletraders' association today at the
 City Arms hotel. I asked him to lay my letter before the meeting. You see
 if you can get it into your two papers. What are they?
 
---THE EVENING TELEGRAPH ...
+-- THE EVENING TELEGRAPH ...
 
---That will do, Mr Deasy said. There is no time to lose. Now I have to
+-- That will do, Mr Deasy said. There is no time to lose. Now I have to
 answer that letter from my cousin.
 
---Good morning, sir, Stephen said, putting the sheets in his pocket.
+-- Good morning, sir, Stephen said, putting the sheets in his pocket.
 Thank you.
 
---Not at all, Mr Deasy said as he searched the papers on his desk. I like
+-- Not at all, Mr Deasy said as he searched the papers on his desk. I like
 to break a lance with you, old as I am.
 
---Good morning, sir, Stephen said again, bowing to his bent back.
+-- Good morning, sir, Stephen said again, bowing to his bent back.
 
 He went out by the open porch and down the gravel path under the
 trees, hearing the cries of voices and crack of sticks from the playfield.
@@ -1776,38 +1776,38 @@ The lions couchant on the pillars as he passed out through the gate:
 toothless terrors. Still I will help him in his fight. Mulligan will dub
 me a new name: the bullockbefriending bard.
 
---Mr Dedalus!
+-- Mr Dedalus!
 
 Running after me. No more letters, I hope.
 
---Just one moment.
+-- Just one moment.
 
---Yes, sir, Stephen said, turning back at the gate.
+-- Yes, sir, Stephen said, turning back at the gate.
 
 Mr Deasy halted, breathing hard and swallowing his breath.
 
---I just wanted to say, he said. Ireland, they say, has the honour of
+-- I just wanted to say, he said. Ireland, they say, has the honour of
 being the only country which never persecuted the jews. Do you know that?
 No. And do you know why?
 
 He frowned sternly on the bright air.
 
---Why, sir? Stephen asked, beginning to smile.
+-- Why, sir? Stephen asked, beginning to smile.
 
---Because she never let them in, Mr Deasy said solemnly.
+-- Because she never let them in, Mr Deasy said solemnly.
 
 A coughball of laughter leaped from his throat dragging after it a
 rattling chain of phlegm. He turned back quickly, coughing, laughing, his
 lifted arms waving to the air.
 
---She never let them in, he cried again through his laughter as he
+-- She never let them in, he cried again through his laughter as he
 stamped on gaitered feet over the gravel of the path. That's why.
 
 On his wise shoulders through the checkerwork of leaves the sun flung
 spangles, dancing coins.
 
 
--------- Proteus ---------
+--------  Proteus ---------
 
 
 Ineluctable modality of the visible: at least that if no more, thought
@@ -1899,19 +1899,19 @@ wonder, by Christ!
 I pull the wheezy bell of their shuttered cottage: and wait. They take
 me for a dun, peer out from a coign of vantage.
 
---It's Stephen, sir.
+-- It's Stephen, sir.
 
---Let him in. Let Stephen in.
+-- Let him in. Let Stephen in.
 
 A bolt drawn back and Walter welcomes me.
 
---We thought you were someone else.
+-- We thought you were someone else.
 
 In his broad bed nuncle Richie, pillowed and blanketed, extends over
 the hillock of his knees a sturdy forearm. Cleanchested. He has washed the
 upper moiety.
 
---Morrow, nephew.
+-- Morrow, nephew.
 
 He lays aside the lapboard whereon he drafts his bills of costs for the
 eyes of master Goff and master Shapland Tandy, filing consents and
@@ -1919,27 +1919,27 @@ common searches and a writ of DUCES TECUM. A bogoak frame over his bald
 head: Wilde's REQUIESCAT. The drone of his misleading whistle brings
 Walter back.
 
---Yes, sir?
+-- Yes, sir?
 
---Malt for Richie and Stephen, tell mother. Where is she?
+-- Malt for Richie and Stephen, tell mother. Where is she?
 
---Bathing Crissie, sir.
+-- Bathing Crissie, sir.
 
 Papa's little bedpal. Lump of love.
 
---No, uncle Richie ...
+-- No, uncle Richie ...
 
---Call me Richie. Damn your lithia water. It lowers. Whusky!
+-- Call me Richie. Damn your lithia water. It lowers. Whusky!
 
---Uncle Richie, really ...
+-- Uncle Richie, really ...
 
---Sit down or by the law Harry I'll knock you down.
+-- Sit down or by the law Harry I'll knock you down.
 
 Walter squints vainly for a chair.
 
---He has nothing to sit down on, sir.
+-- He has nothing to sit down on, sir.
 
---He has nowhere to put it, you mug. Bring in our chippendale chair.
+-- He has nowhere to put it, you mug. Bring in our chippendale chair.
 Would you like a bite of something? None of your damned lawdeedaw airs
 here. The rich of a rasher fried with a herring? Sure? So much the better.
 We have nothing in the house but backache pills.
@@ -1961,7 +1961,7 @@ library where you read the fading prophecies of Joachim Abbas. For
 whom? The hundredheaded rabble of the cathedral close. A hater of his
 kind ran from them to the wood of madness, his mane foaming in the
 moon, his eyeballs stars. Houyhnhnm, horsenostrilled. The oval equine
-faces, Temple, Buck Mulligan, Foxy Campbell, Lanternjaws. Abbas father,--
+faces, Temple, Buck Mulligan, Foxy Campbell, Lanternjaws. Abbas father,-- 
 furious dean, what offence laid fire to their brains? Paff! DESCENDE,
 CALVE, UT NE AMPLIUS DECALVERIS. A garland of grey hair on his comminated
 head see him me clambering down to the footpace (DESCENDE!), clutching a
@@ -2017,9 +2017,9 @@ He halted. I have passed the way to aunt Sara's. Am I not going
 there? Seems not. No-one about. He turned northeast and crossed the
 firmer sand towards the Pigeonhouse.
 
---QUI VOUS A MIS DANS CETTE FICHUE POSITION?
+-- QUI VOUS A MIS DANS CETTE FICHUE POSITION?
 
---C'EST LE PIGEON, JOSEPH.
+-- C'EST LE PIGEON, JOSEPH.
 
 Patrice, home on furlough, lapped warm milk with me in the bar
 MacMahon. Son of the wild goose, Kevin Egan of Paris. My father's a bird,
@@ -2028,12 +2028,12 @@ Lap, LAPIN. He hopes to win in the GROS LOTS. About the nature of women he
 read in Michelet. But he must send me LA VIE DE JESUS by M. Leo Taxil.
 Lent it to his friend.
 
---C'EST TORDANT, VOUS SAVEZ. MOI, JE SUIS SOCIALISTE. JE NE CROIS PAS EN
+-- C'EST TORDANT, VOUS SAVEZ. MOI, JE SUIS SOCIALISTE. JE NE CROIS PAS EN
 L'EXISTENCE DE DIEU. FAUT PAS LE DIRE A MON P-RE.
 
---IL CROIT?
+-- IL CROIT?
 
---MON PERE, OUI.
+-- MON PERE, OUI.
 
 SCHLUSS. He laps.
 
@@ -2065,7 +2065,7 @@ slimy pier at Newhaven. COMMENT? Rich booty you brought back; LE TUTU,
 five tattered numbers of PANTALON BLANC ET CULOTTE ROUGE; a blue
 French telegram, curiosity to show:
 
---Mother dying come home father.
+-- Mother dying come home father.
 
 The aunt thinks you killed your mother. That's why she won't.
 
@@ -2160,7 +2160,7 @@ sinking, creeping duskward over the dial floor. Blue dusk, nightfall, deep
 blue night. In the darkness of the dome they wait, their pushedback
 chairs, my obelisk valise, around a board of abandoned platters. Who to
 clear it? He has the key. I will not sleep there when this night comes.
-A shut door of a silent tower, entombing their--blind bodies, the
+A shut door of a silent tower, entombing their-- blind bodies, the
 panthersahib and his pointer. Call: no answer. He lifted his feet up from
 the suck and turned back by the mole of boulders. Take all, keep all. My
 soul walks with me, form of forms. So in the moon's midwatches I pace the
@@ -2246,7 +2246,7 @@ dog all over the dead dog's bedraggled fell. Dogskull, dogsniff, eyes on
 the ground, moves to one great goal. Ah, poor dogsbody! Here lies poor
 dogsbody's body.
 
---Tatters! Out of that, you mongrel!
+-- Tatters! Out of that, you mongrel!
 
 The cry brought him skulking back to his master and a blunt bootless
 kick sent him unscathed across a spit of sand, crouched in flight. He
@@ -2433,7 +2433,7 @@ the air high spars of a threemaster, her sails brailed up on the
 crosstrees, homing, upstream, silently moving, a silent ship.
 
 
--------- Calypso ---------
+--------  Calypso ---------
 
 
 Mr Leopold Bloom ate with relish the inner organs of beasts and fowls. He
@@ -2455,9 +2455,9 @@ hob and set it sideways on the fire. It sat there, dull and squat, its
 spout stuck out. Cup of tea soon. Good. Mouth dry. The cat walked stiffly
 round a leg of the table with tail on high.
 
---Mkgnao!
+-- Mkgnao!
 
---O, there you are, Mr Bloom said, turning from the fire.
+-- O, there you are, Mr Bloom said, turning from the fire.
 
 The cat mewed in answer and stalked again stiffly round a leg of the
 table, mewing. Just how she stalks over my writingtable. Prr. Scratch my
@@ -2467,21 +2467,21 @@ Mr Bloom watched curiously, kindly the lithe black form. Clean to see:
 the gloss of her sleek hide, the white button under the butt of her tail,
 the green flashing eyes. He bent down to her, his hands on his knees.
 
---Milk for the pussens, he said.
+-- Milk for the pussens, he said.
 
---Mrkgnao! the cat cried.
+-- Mrkgnao! the cat cried.
 
 They call them stupid. They understand what we say better than we
 understand them. She understands all she wants to. Vindictive too. Cruel.
 Her nature. Curious mice never squeal. Seem to like it. Wonder what I
 look like to her. Height of a tower? No, she can jump me.
 
---Afraid of the chickens she is, he said mockingly. Afraid of the
+-- Afraid of the chickens she is, he said mockingly. Afraid of the
 chookchooks. I never saw such a stupid pussens as the pussens.
 
 Cruel. Her nature. Curious mice never squeal. Seem to like it.
 
---Mrkrgnao! the cat said loudly.
+-- Mrkrgnao! the cat said loudly.
 
 She blinked up out of her avid shameclosing eyes, mewing plaintively and
 long, showing him her milkwhite teeth. He watched the dark eyeslits
@@ -2489,7 +2489,7 @@ narrowing with greed till her eyes were green stones. Then he went to the
 dresser, took the jug Hanlon's milkman had just filled for him, poured
 warmbubbled milk on a saucer and set it slowly on the floor.
 
---Gurrhr! she cried, running to lap.
+-- Gurrhr! she cried, running to lap.
 
 He watched the bristles shining wirily in the weak light as she tipped
 three times and licked lightly. Wonder is it true if you clip them they
@@ -2510,15 +2510,15 @@ she likes in the morning. Still perhaps: once in a way.
 
 He said softly in the bare hall:
 
---I'm going round the corner. Be back in a minute.
+-- I'm going round the corner. Be back in a minute.
 
 And when he had heard his voice say it he added:
 
---You don't want anything for breakfast?
+-- You don't want anything for breakfast?
 
 A sleepy soft grunt answered:
 
---Mn.
+-- Mn.
 
 No. She didn't want anything. He heard then a warm heavy sigh, softer, as
 she turned over and the loose brass quoits of the bedstead jingled. Must
@@ -2595,13 +2595,13 @@ Dignam, Mr O'Rourke.
 Turning into Dorset street he said freshly in greeting through the
 doorway:
 
---Good day, Mr O'Rourke.
+-- Good day, Mr O'Rourke.
 
---Good day to you.
+-- Good day to you.
 
---Lovely weather, sir.
+-- Lovely weather, sir.
 
---'Tis all that.
+-- 'Tis all that.
 
 Where do they get the money? Coming up redheaded curates from the county
 Leitrim, rinsing empties and old man in the cellar. Then, lo and behold,
@@ -2652,11 +2652,11 @@ whack by whack.
 The porkbutcher snapped two sheets from the pile, wrapped up her prime
 sausages and made a red grimace.
 
---Now, my miss, he said.
+-- Now, my miss, he said.
 
 She tendered a coin, smiling boldly, holding her thick wrist out.
 
---Thank you, my miss. And one shilling threepence change. For you,
+-- Thank you, my miss. And one shilling threepence change. For you,
 please?
 
 Mr Bloom pointed quickly. To catch up and walk behind her if she went
@@ -2669,21 +2669,21 @@ disregard glowed to weak pleasure within his breast. For another: a
 constable off duty cuddling her in Eccles lane. They like them sizeable.
 Prime sausage. O please, Mr Policeman, I'm lost in the wood.
 
---Threepence, please.
+-- Threepence, please.
 
 His hand accepted the moist tender gland and slid it into a sidepocket.
 Then it fetched up three coins from his trousers' pocket and laid them on
 the rubber prickles. They lay, were read quickly and quickly slid, disc
 by disc, into the till.
 
---Thank you, sir. Another time.
+-- Thank you, sir. Another time.
 
 A speck of eager fire from foxeyes thanked him. He withdrew his gaze
 after an instant. No: better not: another time.
 
---Good morning, he said, moving away.
+-- Good morning, he said, moving away.
 
---Good morning, sir.
+-- Good morning, sir.
 
 No sign. Gone. What matter?
 
@@ -2751,49 +2751,49 @@ Two letters and a card lay on the hallfloor. He stooped and gathered
 them. Mrs Marion Bloom. His quickened heart slowed at once. Bold hand.
 Mrs Marion.
 
---Poldy!
+-- Poldy!
 
 Entering the bedroom he halfclosed his eyes and walked through warm
 yellow twilight towards her tousled head.
 
---Who are the letters for?
+-- Who are the letters for?
 
 He looked at them. Mullingar. Milly.
 
---A letter for me from Milly, he said carefully, and a card to you. And a
+-- A letter for me from Milly, he said carefully, and a card to you. And a
 letter for you.
 
 He laid her card and letter on the twill bedspread near the curve of her
 knees.
 
---Do you want the blind up?
+-- Do you want the blind up?
 
 Letting the blind up by gentle tugs halfway his backward eye saw her
 glance at the letter and tuck it under her pillow.
 
---That do? he asked, turning.
+-- That do? he asked, turning.
 
 She was reading the card, propped on her elbow.
 
---She got the things, she said.
+-- She got the things, she said.
 
 He waited till she had laid the card aside and curled herself back slowly
 with a snug sigh.
 
---Hurry up with that tea, she said. I'm parched.
+-- Hurry up with that tea, she said. I'm parched.
 
---The kettle is boiling, he said.
+-- The kettle is boiling, he said.
 
 But he delayed to clear the chair: her striped petticoat, tossed soiled
 linen: and lifted all in an armful on to the foot of the bed.
 
 As he went down the kitchen stairs she called:
 
---Poldy!
+-- Poldy!
 
---What?
+-- What?
 
---Scald the teapot.
+-- Scald the teapot.
 
 On the boil sure enough: a plume of steam from the spout. He scalded and
 rinsed out the teapot and put in four full spoons of tea, tilting the
@@ -2836,7 +2836,7 @@ upstairs, his thumb hooked in the teapot handle.
 Nudging the door open with his knee he carried the tray in and set it on
 the chair by the bedhead.
 
---What a time you were! she said.
+-- What a time you were! she said.
 
 She set the brasses jingling as she raised herself briskly, an elbow on
 the pillow. He looked calmly down on her bulk and between her large soft
@@ -2847,63 +2847,63 @@ she poured.
 A strip of torn envelope peeped from under the dimpled pillow. In the act
 of going he stayed to straighten the bedspread.
 
---Who was the letter from? he asked.
+-- Who was the letter from? he asked.
 
 Bold hand. Marion.
 
---O, Boylan, she said. He's bringing the programme.
+-- O, Boylan, she said. He's bringing the programme.
 
---What are you singing?
+-- What are you singing?
 
---LA CI DAREM with J. C. Doyle, she said, and LOVE'S OLD SWEET SONG.
+-- LA CI DAREM with J. C. Doyle, she said, and LOVE'S OLD SWEET SONG.
 
 Her full lips, drinking, smiled. Rather stale smell that incense leaves
 next day. Like foul flowerwater.
 
---Would you like the window open a little?
+-- Would you like the window open a little?
 
 She doubled a slice of bread into her mouth, asking:
 
---What time is the funeral?
+-- What time is the funeral?
 
---Eleven, I think, he answered. I didn't see the paper.
+-- Eleven, I think, he answered. I didn't see the paper.
 
 Following the pointing of her finger he took up a leg of her soiled
 drawers from the bed. No? Then, a twisted grey garter looped round a
 stocking: rumpled, shiny sole.
 
---No: that book.
+-- No: that book.
 
 Other stocking. Her petticoat.
 
---It must have fell down, she said.
+-- It must have fell down, she said.
 
 He felt here and there. VOGLIO E NON VORREI. Wonder if she pronounces
 that right: VOGLIO. Not in the bed. Must have slid down. He stooped and
 lifted the valance. The book, fallen, sprawled against the bulge of the
 orangekeyed chamberpot.
 
---Show here, she said. I put a mark in it. There's a word I wanted to ask
+-- Show here, she said. I put a mark in it. There's a word I wanted to ask
 you.
 
 She swallowed a draught of tea from her cup held by nothandle and, having
 wiped her fingertips smartly on the blanket, began to search the text
 with the hairpin till she reached the word.
 
---Met him what? he asked.
+-- Met him what? he asked.
 
---Here, she said. What does that mean?
+-- Here, she said. What does that mean?
 
 He leaned downward and read near her polished thumbnail.
 
---Metempsychosis?
+-- Metempsychosis?
 
---Yes. Who's he when he's at home?
+-- Yes. Who's he when he's at home?
 
---Metempsychosis, he said, frowning. It's Greek: from the Greek. That
+-- Metempsychosis, he said, frowning. It's Greek: from the Greek. That
 means the transmigration of souls.
 
---O, rocks! she said. Tell us in plain words.
+-- O, rocks! she said. Tell us in plain words.
 
 He smiled, glancing askance at her mocking eyes. The same young eyes. The
 first night after the charades. Dolphin's Barn. He turned over the
@@ -2916,21 +2916,21 @@ we'll break our sides. Families of them. Bone them young so they
 metamspychosis. That we live after death. Our souls. That a man's soul
 after he dies. Dignam's soul ...
 
---Did you finish it? he asked.
+-- Did you finish it? he asked.
 
---Yes, she said. There's nothing smutty in it. Is she in love with the
+-- Yes, she said. There's nothing smutty in it. Is she in love with the
 first fellow all the time?
 
---Never read it. Do you want another?
+-- Never read it. Do you want another?
 
---Yes. Get another of Paul de Kock's. Nice name he has.
+-- Yes. Get another of Paul de Kock's. Nice name he has.
 
 She poured more tea into her cup, watching it flow sideways.
 
 Must get that Capel street library book renewed or they'll write to
 Kearney, my guarantor. Reincarnation: that's the word.
 
---Some people believe, he said, that we go on living in another body
+-- Some people believe, he said, that we go on living in another body
 after death, that we lived before. They call it reincarnation. That we
 all lived before on the earth thousands of years ago or some other
 planet. They say we have forgotten it. Some say they remember their past
@@ -2947,16 +2947,16 @@ Greece: and for instance all the people that lived then.
 
 He turned the pages back.
 
---Metempsychosis, he said, is what the ancient Greeks called it. They
+-- Metempsychosis, he said, is what the ancient Greeks called it. They
 used to believe you could be changed into an animal or a tree, for
 instance. What they called nymphs, for example.
 
 Her spoon ceased to stir up the sugar. She gazed straight before her,
 inhaling through her arched nostrils.
 
---There's a smell of burn, she said. Did you leave anything on the fire?
+-- There's a smell of burn, she said. Did you leave anything on the fire?
 
---The kidney! he cried suddenly.
+-- The kidney! he cried suddenly.
 
 He fitted the book roughly into his inner pocket and, stubbing his toes
 against the broken commode, hurried out towards the smell, stepping
@@ -3063,7 +3063,7 @@ with her back to the fire too.
 He felt heavy, full: then a gentle loosening of his bowels. He stood up,
 undoing the waistband of his trousers. The cat mewed to him.
 
---Miaow! he said in answer. Wait till I'm ready.
+-- Miaow! he said in answer. Wait till I'm ready.
 
 Heaviness: hot day coming. Too much trouble to fag up the stairs to the
 landing.
@@ -3077,7 +3077,7 @@ bounds. Ah, wanted to go upstairs, curl up in a ball on the bed.
 
 Listening, he heard her voice:
 
---Come, come, pussy. Come.
+-- Come, come, pussy. Come.
 
 He went out through the backdoor into the garden: stood to listen towards
 the next garden. No sound. Perhaps hanging clothes out to dry. The maid
@@ -3178,7 +3178,7 @@ Quarter to. There again: the overtone following through the air, a third.
 
 Poor Dignam!
 
--------- Lotus-Eaters ---------
+--------  Lotus-Eaters ---------
 
 By lorries along sir John Rogerson's quay Mr Bloom walked soberly, past
 Windmill lane, Leask's the linseed crusher, the postal telegraph office.
@@ -3241,7 +3241,7 @@ the postoffice. Too late box. Post here. No-one. In.
 
 He handed the card through the brass grill.
 
---Are there any letters for me? he asked.
+-- Are there any letters for me? he asked.
 
 While the postmistress searched a pigeonhole he gazed at the recruiting
 poster with soldiers of all arms on parade: and held the tip of his baton
@@ -3279,32 +3279,32 @@ pinned on: photo perhaps. Hair? No.
 M'Coy. Get rid of him quickly. Take me out of my way. Hate company when
 you.
 
---Hello, Bloom. Where are you off to?
+-- Hello, Bloom. Where are you off to?
 
---Hello, M'Coy. Nowhere in particular.
+-- Hello, M'Coy. Nowhere in particular.
 
---How's the body?
+-- How's the body?
 
---Fine. How are you?
+-- Fine. How are you?
 
---Just keeping alive, M'Coy said.
+-- Just keeping alive, M'Coy said.
 
 His eyes on the black tie and clothes he asked with low respect:
 
---Is there any ... no trouble I hope? I see you're ...
+-- Is there any ... no trouble I hope? I see you're ...
 
---O, no, Mr Bloom said. Poor Dignam, you know. The funeral is today.
+-- O, no, Mr Bloom said. Poor Dignam, you know. The funeral is today.
 
---To be sure, poor fellow. So it is. What time?
+-- To be sure, poor fellow. So it is. What time?
 
 A photo it isn't. A badge maybe.
 
---E ... eleven, Mr Bloom answered.
+-- E ... eleven, Mr Bloom answered.
 
---I must try to get out there, M'Coy said. Eleven, is it? I only heard it
+-- I must try to get out there, M'Coy said. Eleven, is it? I only heard it
 last night. Who was telling me? Holohan. You know Hoppy?
 
---I know.
+-- I know.
 
 Mr Bloom gazed across the road at the outsider drawn up before the door
 of the Grosvenor. The porter hoisted the valise up on the well. She stood
@@ -3316,7 +3316,7 @@ match. Women all for caste till you touch the spot. Handsome is and
 handsome does. Reserved about to yield. The honourable Mrs and Brutus is
 an honourable man. Possess her once take the starch out of her.
 
---I was with Bob Doran, he's on one of his periodical bends, and what do
+-- I was with Bob Doran, he's on one of his periodical bends, and what do
 you call him Bantam Lyons. Just down there in Conway's we were.
 
 Doran Lyons in Conway's. She raised a gloved hand to her hair. In came
@@ -3326,7 +3326,7 @@ braided drums. Clearly I can see today. Moisture about gives long sight
 perhaps. Talking of one thing or another. Lady's hand. Which side will
 she get up?
 
---And he said: SAD THING ABOUT OUR POOR FRIEND PADDY! WHAT PADDY? I said.
+-- And he said: SAD THING ABOUT OUR POOR FRIEND PADDY! WHAT PADDY? I said.
 POOR LITTLE PADDY DIGNAM, he said.
 
 Off to the country: Broadstone probably. High brown boots with laces
@@ -3334,16 +3334,16 @@ dangling. Wellturned foot. What is he foostering over that change for?
 Sees me looking. Eye out for other fellow always. Good fallback. Two
 strings to her bow.
 
---WHY? I said. WHAT'S WRONG WITH HIM? I said.
+-- WHY? I said. WHAT'S WRONG WITH HIM? I said.
 
 Proud: rich: silk stockings.
 
---Yes, Mr Bloom said.
+-- Yes, Mr Bloom said.
 
 He moved a little to the side of M'Coy's talking head. Getting up in a
 minute.
 
---WHAT'S WRONG WITH HIM? He said. HE'S DEAD, he said. And, faith, he
+-- WHAT'S WRONG WITH HIM? He said. HE'S DEAD, he said. And, faith, he
 filled up. IS IT PADDY DIGNAM? I said. I couldn't believe it when I heard
 it. I was with him no later than Friday last or Thursday was it in the
 Arch. YES, he said. HE'S GONE. HE DIED ON MONDAY, POOR FELLOW. Watch!
@@ -3356,17 +3356,17 @@ the peri. Always happening like that. The very moment. Girl in Eustace
 street hallway Monday was it settling her garter. Her friend covering the
 display of. ESPRIT DE CORPS. Well, what are you gaping at?
 
---Yes, yes, Mr Bloom said after a dull sigh. Another gone.
+-- Yes, yes, Mr Bloom said after a dull sigh. Another gone.
 
---One of the best, M'Coy said.
+-- One of the best, M'Coy said.
 
 The tram passed. They drove off towards the Loop Line bridge, her rich
 gloved hand on the steel grip. Flicker, flicker: the laceflare of her hat
 in the sun: flicker, flick.
 
---Wife well, I suppose? M'Coy's changed voice said.
+-- Wife well, I suppose? M'Coy's changed voice said.
 
---O, yes, Mr Bloom said. Tiptop, thanks.
+-- O, yes, Mr Bloom said. Tiptop, thanks.
 
 He unrolled the newspaper baton idly and read idly:
 
@@ -3377,16 +3377,16 @@ He unrolled the newspaper baton idly and read idly:
     WITH IT AN ABODE OF BLISS.
 
 
---My missus has just got an engagement. At least it's not settled yet.
+-- My missus has just got an engagement. At least it's not settled yet.
 
 Valise tack again. By the way no harm. I'm off that, thanks.
 
 Mr Bloom turned his largelidded eyes with unhasty friendliness.
 
---My wife too, he said. She's going to sing at a swagger affair in the
+-- My wife too, he said. She's going to sing at a swagger affair in the
 Ulster Hall, Belfast, on the twenty-fifth.
 
---That so? M'Coy said. Glad to hear that, old man. Who's getting it up?
+-- That so? M'Coy said. Glad to hear that, old man. Who's getting it up?
 
 Mrs Marion Bloom. Not up yet. Queen was in her bedroom eating bread and.
 No book. Blackened court cards laid along her thigh by sevens. Dark lady
@@ -3400,31 +3400,31 @@ and fair man. Letter. Cat furry black ball. Torn strip of envelope.
     COMES LO-OVE'S OLD ...
 
 
---It's a kind of a tour, don't you see, Mr Bloom said thoughtfully.
+-- It's a kind of a tour, don't you see, Mr Bloom said thoughtfully.
 SWEEEET SONG.  There's a committee formed. Part shares and part profits.
 
 M'Coy nodded, picking at his moustache stubble.
 
---O, well, he said. That's good news.
+-- O, well, he said. That's good news.
 
 He moved to go.
 
---Well, glad to see you looking fit, he said. Meet you knocking around.
+-- Well, glad to see you looking fit, he said. Meet you knocking around.
 
---Yes, Mr Bloom said.
+-- Yes, Mr Bloom said.
 
---Tell you what, M'Coy said. You might put down my name at the funeral,
+-- Tell you what, M'Coy said. You might put down my name at the funeral,
 will you? I'd like to go but I mightn't be able, you see. There's a
 drowning case at Sandycove may turn up and then the coroner and myself
 would have to go down if the body is found. You just shove in my name if
 I'm not there, will you?
 
---I'll do that, Mr Bloom said, moving to get off. That'll be all right.
+-- I'll do that, Mr Bloom said, moving to get off. That'll be all right.
 
---Right, M'Coy said brightly. Thanks, old man. I'd go if I possibly
+-- Right, M'Coy said brightly. Thanks, old man. I'd go if I possibly
 could. Well, tolloll. Just C. P. M'Coy will do.
 
---That will be done, Mr Bloom answered firmly.
+-- That will be done, Mr Bloom answered firmly.
 
 Didn't catch me napping that wheeze. The quick touch. Soft mark. I'd like
 my job. Valise I have a particular fancy for. Leather. Capped corners,
@@ -3722,7 +3722,7 @@ sat back quietly in his bench. The priest came down from the altar,
 holding the thing out from him, and he and the massboy answered each other
 in Latin. Then the priest knelt down and began to read off a card:
 
---O God, our refuge and our strength ...
+-- O God, our refuge and our strength ...
 
 Mr Bloom put his face forward to catch the words. English. Throw
 them the bone. I remember slightly. How long since your last mass?
@@ -3748,7 +3748,7 @@ church: they mapped out the whole theology of it.
 
 The priest prayed:
 
---Blessed Michael, archangel, defend us in the hour of conflict. Be our
+-- Blessed Michael, archangel, defend us in the hour of conflict. Be our
 safeguard against the wickedness and snares of the devil (may God restrain
 him, we humbly pray!): and do thou, O prince of the heavenly host, by the
 power of God thrust Satan down to hell and with him those other wicked
@@ -3798,20 +3798,20 @@ Lovephiltres. Paragoric poppysyrup bad for cough. Clogs the pores or the
 phlegm. Poisons the only cures. Remedy where you least expect it. Clever
 of nature.
 
---About a fortnight ago, sir?
+-- About a fortnight ago, sir?
 
---Yes, Mr Bloom said.
+-- Yes, Mr Bloom said.
 
 He waited by the counter, inhaling slowly the keen reek of drugs, the
 dusty dry smell of sponges and loofahs. Lot of time taken up telling your
 aches and pains.
 
---Sweet almond oil and tincture of benzoin, Mr Bloom said, and then
+-- Sweet almond oil and tincture of benzoin, Mr Bloom said, and then
 orangeflower water ...
 
 It certainly did make her skin so delicate white like wax.
 
---And white wax also, he said.
+-- And white wax also, he said.
 
 Brings out the darkness of her eyes. Looking at me, the sheet up to
 her eyes, Spanish, smelling herself, when I was fixing the links in my
@@ -3827,29 +3827,29 @@ think I. Yes I. Do it in the bath. Curious longing I. Water to water.
 Combine business with pleasure. Pity no time for massage. Feel fresh then
 all the day. Funeral be rather glum.
 
---Yes, sir, the chemist said. That was two and nine. Have you brought a
+-- Yes, sir, the chemist said. That was two and nine. Have you brought a
 bottle?
 
---No, Mr Bloom said. Make it up, please. I'll call later in the day and
+-- No, Mr Bloom said. Make it up, please. I'll call later in the day and
 I'll take one of these soaps. How much are they?
 
---Fourpence, sir.
+-- Fourpence, sir.
 
 Mr Bloom raised a cake to his nostrils. Sweet lemony wax.
 
---I'll take this one, he said. That makes three and a penny.
+-- I'll take this one, he said. That makes three and a penny.
 
---Yes, sir, the chemist said. You can pay all together, sir, when you
+-- Yes, sir, the chemist said. You can pay all together, sir, when you
 come back.
 
---Good, Mr Bloom said.
+-- Good, Mr Bloom said.
 
 He strolled out of the shop, the newspaper baton under his armpit,
 the coolwrappered soap in his left hand.
 
 At his armpit Bantam Lyons' voice and hand said:
 
---Hello, Bloom. What's the best news? Is that today's? Show us a minute.
+-- Hello, Bloom. What's the best news? Is that today's? Show us a minute.
 
 Shaved off his moustache again, by Jove! Long cold upper lip. To
 look younger. He does look balmy. Younger than I am.
@@ -3858,31 +3858,31 @@ Bantam Lyons's yellow blacknailed fingers unrolled the baton. Wants
 a wash too. Take off the rough dirt. Good morning, have you used Pears'
 soap? Dandruff on his shoulders. Scalp wants oiling.
 
---I want to see about that French horse that's running today, Bantam
+-- I want to see about that French horse that's running today, Bantam
 Lyons said. Where the bugger is it?
 
 He rustled the pleated pages, jerking his chin on his high collar.
 Barber's itch. Tight collar he'll lose his hair. Better leave him the
 paper and get shut of him.
 
---You can keep it, Mr Bloom said.
+-- You can keep it, Mr Bloom said.
 
---Ascot. Gold cup. Wait, Bantam Lyons muttered. Half a mo. Maximum
+-- Ascot. Gold cup. Wait, Bantam Lyons muttered. Half a mo. Maximum
 the second.
 
---I was just going to throw it away, Mr Bloom said.
+-- I was just going to throw it away, Mr Bloom said.
 
 Bantam Lyons raised his eyes suddenly and leered weakly.
 
---What's that? his sharp voice said.
+-- What's that? his sharp voice said.
 
---I say you can keep it, Mr Bloom answered. I was going to throw it away
+-- I say you can keep it, Mr Bloom answered. I was going to throw it away
 that moment.
 
 Bantam Lyons doubted an instant, leering: then thrust the outspread
 sheets back on Mr Bloom's arms.
 
---I'll risk it, he said. Here, thanks.
+-- I'll risk it, he said. Here, thanks.
 
 He sped off towards Conway's corner. God speed scut.
 
@@ -3923,22 +3923,22 @@ floating, floating hair of the stream around the limp father of thousands,
 a languid floating flower.
 
 
--------- Hades ---------
+--------  Hades ---------
 
 
 Martin Cunningham, first, poked his silkhatted head into the creaking
 carriage and, entering deftly, seated himself. Mr Power stepped in after
 him, curving his height with care.
 
---Come on, Simon.
+-- Come on, Simon.
 
---After you, Mr Bloom said.
+-- After you, Mr Bloom said.
 
 Mr Dedalus covered himself quickly and got in, saying:
 
 Yes, yes.
 
---Are we all here now? Martin Cunningham asked. Come along, Bloom.
+-- Are we all here now? Martin Cunningham asked. Come along, Bloom.
 
 Mr Bloom entered and sat in the vacant place. He pulled the door to
 after him and slammed it twice till it shut tight. He passed an arm
@@ -3968,37 +3968,37 @@ passing along the tramtracks. Tritonville road. Quicker. The wheels
 rattled rolling over the cobbled causeway and the crazy glasses shook
 rattling in the doorframes.
 
---What way is he taking us? Mr Power asked through both windows.
+-- What way is he taking us? Mr Power asked through both windows.
 
---Irishtown, Martin Cunningham said. Ringsend. Brunswick street.
+-- Irishtown, Martin Cunningham said. Ringsend. Brunswick street.
 
 Mr Dedalus nodded, looking out.
 
---That's a fine old custom, he said. I am glad to see it has not died out.
+-- That's a fine old custom, he said. I am glad to see it has not died out.
 
 All watched awhile through their windows caps and hats lifted by
 passers. Respect. The carriage swerved from the tramtrack to the smoother
 road past Watery lane. Mr Bloom at gaze saw a lithe young man, clad in
 mourning, a wide hat.
 
---There's a friend of yours gone by, Dedalus, he said.
+-- There's a friend of yours gone by, Dedalus, he said.
 
---Who is that?
+-- Who is that?
 
---Your son and heir.
+-- Your son and heir.
 
---Where is he? Mr Dedalus said, stretching over across.
+-- Where is he? Mr Dedalus said, stretching over across.
 
 The carriage, passing the open drains and mounds of rippedup
 roadway before the tenement houses, lurched round the corner and,
 swerving back to the tramtrack, rolled on noisily with chattering wheels.
 Mr Dedalus fell back, saying:
 
---Was that Mulligan cad with him? His FIDUS ACHATES!
+-- Was that Mulligan cad with him? His FIDUS ACHATES!
 
---No, Mr Bloom said. He was alone.
+-- No, Mr Bloom said. He was alone.
 
---Down with his aunt Sally, I suppose, Mr Dedalus said, the Goulding
+-- Down with his aunt Sally, I suppose, Mr Dedalus said, the Goulding
 faction, the drunken little costdrawer and Crissie, papa's little lump of
 dung, the wise child that knows her own father.
 
@@ -4013,7 +4013,7 @@ Beginning to tell on him now: that backache of his, I fear. Wife ironing
 his back. Thinks he'll cure it with pills. All breadcrumbs they are.
 About six hundred per cent profit.
 
---He's in with a lowdown crowd, Mr Dedalus snarled. That Mulligan is a
+-- He's in with a lowdown crowd, Mr Dedalus snarled. That Mulligan is a
 contaminated bloody doubledyed ruffian by all accounts. His name stinks
 all over Dublin. But with the help of God and His blessed mother I'll make
 it my business to write a letter one of those days to his mother or his
@@ -4022,7 +4022,7 @@ tickle his catastrophe, believe you me.
 
 He cried above the clatter of the wheels:
 
---I won't have her bastard of a nephew ruin my son. A counterjumper's
+-- I won't have her bastard of a nephew ruin my son. A counterjumper's
 son. Selling tapes in my cousin, Peter Paul M'Swiney's. Not likely.
 
 He ceased. Mr Bloom glanced from his angry moustache to Mr Power's
@@ -4040,9 +4040,9 @@ Got big then. Had to refuse the Greystones concert. My son inside
 her. I could have helped him on in life. I could. Make him independent.
 Learn German too.
 
---Are we late? Mr Power asked.
+-- Are we late? Mr Power asked.
 
---Ten minutes, Martin Cunningham said, looking at his watch.
+-- Ten minutes, Martin Cunningham said, looking at his watch.
 
 Molly. Milly. Same thing watered down. Her tomboy oaths. O jumping
 Jupiter! Ye gods and little fishes! Still, she's a dear girl. Soon
@@ -4051,56 +4051,56 @@ too. Life, life.
 
 The carriage heeled over and back, their four trunks swaying.
 
---Corny might have given us a more commodious yoke, Mr Power said.
+-- Corny might have given us a more commodious yoke, Mr Power said.
 
---He might, Mr Dedalus said, if he hadn't that squint troubling him. Do
+-- He might, Mr Dedalus said, if he hadn't that squint troubling him. Do
 you follow me?
 
 He closed his left eye. Martin Cunningham began to brush away
 crustcrumbs from under his thighs.
 
---What is this, he said, in the name of God? Crumbs?
+-- What is this, he said, in the name of God? Crumbs?
 
---Someone seems to have been making a picnic party here lately, Mr Power
+-- Someone seems to have been making a picnic party here lately, Mr Power
 said.
 
 All raised their thighs and eyed with disfavour the mildewed
 buttonless leather of the seats. Mr Dedalus, twisting his nose, frowned
 downward and said:
 
---Unless I'm greatly mistaken. What do you think, Martin?
+-- Unless I'm greatly mistaken. What do you think, Martin?
 
---It struck me too, Martin Cunningham said.
+-- It struck me too, Martin Cunningham said.
 
 Mr Bloom set his thigh down. Glad I took that bath. Feel my feet
 quite clean. But I wish Mrs Fleming had darned these socks better.
 
 Mr Dedalus sighed resignedly.
 
---After all, he said, it's the most natural thing in the world.
+-- After all, he said, it's the most natural thing in the world.
 
---Did Tom Kernan turn up? Martin Cunningham asked, twirling the peak
+-- Did Tom Kernan turn up? Martin Cunningham asked, twirling the peak
 of his beard gently.
 
---Yes, Mr Bloom answered. He's behind with Ned Lambert and Hynes.
+-- Yes, Mr Bloom answered. He's behind with Ned Lambert and Hynes.
 
---And Corny Kelleher himself? Mr Power asked.
+-- And Corny Kelleher himself? Mr Power asked.
 
---At the cemetery, Martin Cunningham said.
+-- At the cemetery, Martin Cunningham said.
 
---I met M'Coy this morning, Mr Bloom said. He said he'd try to come.
+-- I met M'Coy this morning, Mr Bloom said. He said he'd try to come.
 
 The carriage halted short.
 
---What's wrong?
+-- What's wrong?
 
---We're stopped.
+-- We're stopped.
 
---Where are we?
+-- Where are we?
 
 Mr Bloom put his head out of the window.
 
---The grand canal, he said.
+-- The grand canal, he said.
 
 Gasworks. Whooping cough they say it cures. Good job Milly never
 got it. Poor children! Doubles them up black and blue in convulsions.
@@ -4115,45 +4115,45 @@ A raindrop spat on his hat. He drew back and saw an instant of
 shower spray dots over the grey flags. Apart. Curious. Like through a
 colander. I thought it would. My boots were creaking I remember now.
 
---The weather is changing, he said quietly.
+-- The weather is changing, he said quietly.
 
---A pity it did not keep up fine, Martin Cunningham said.
+-- A pity it did not keep up fine, Martin Cunningham said.
 
---Wanted for the country, Mr Power said. There's the sun again coming out.
+-- Wanted for the country, Mr Power said. There's the sun again coming out.
 
 Mr Dedalus, peering through his glasses towards the veiled sun,
 hurled a mute curse at the sky.
 
---It's as uncertain as a child's bottom, he said.
+-- It's as uncertain as a child's bottom, he said.
 
---We're off again.
+-- We're off again.
 
 The carriage turned again its stiff wheels and their trunks swayed
 gently. Martin Cunningham twirled more quickly the peak of his beard.
 
---Tom Kernan was immense last night, he said. And Paddy Leonard taking
+-- Tom Kernan was immense last night, he said. And Paddy Leonard taking
 him off to his face.
 
---O, draw him out, Martin, Mr Power said eagerly. Wait till you hear him,
+-- O, draw him out, Martin, Mr Power said eagerly. Wait till you hear him,
 Simon, on Ben Dollard's singing of THE CROPPY BOY.
 
---Immense, Martin Cunningham said pompously. HIS SINGING OF THAT SIMPLE
+-- Immense, Martin Cunningham said pompously. HIS SINGING OF THAT SIMPLE
 BALLAD, MARTIN, IS THE MOST TRENCHANT RENDERING I EVER HEARD IN THE WHOLE
 COURSE OF MY EXPERIENCE.
 
---Trenchant, Mr Power said laughing. He's dead nuts on that. And the
+-- Trenchant, Mr Power said laughing. He's dead nuts on that. And the
 retrospective arrangement.
 
---Did you read Dan Dawson's speech? Martin Cunningham asked.
+-- Did you read Dan Dawson's speech? Martin Cunningham asked.
 
---I did not then, Mr Dedalus said. Where is it?
+-- I did not then, Mr Dedalus said. Where is it?
 
---In the paper this morning.
+-- In the paper this morning.
 
 Mr Bloom took the paper from his inside pocket. That book I must
 change for her.
 
---No, no, Mr Dedalus said quickly. Later on please.
+-- No, no, Mr Dedalus said quickly. Later on please.
 
 Mr Bloom's glance travelled down the edge of the paper, scanning the
 deaths: Callan, Coleman, Dignam, Fawcett, Lowry, Naumann, Peake, what
@@ -4201,14 +4201,14 @@ He's coming in the afternoon. Her songs.
 
 Plasto's. Sir Philip Crampton's memorial fountain bust. Who was he?
 
---How do you do? Martin Cunningham said, raising his palm to his brow
+-- How do you do? Martin Cunningham said, raising his palm to his brow
 in salute.
 
---He doesn't see us, Mr Power said. Yes, he does. How do you do?
+-- He doesn't see us, Mr Power said. Yes, he does. How do you do?
 
---Who? Mr Dedalus asked.
+-- Who? Mr Dedalus asked.
 
---Blazes Boylan, Mr Power said. There he is airing his quiff.
+-- Blazes Boylan, Mr Power said. There he is airing his quiff.
 
 Just that moment I was thinking.
 
@@ -4230,26 +4230,26 @@ glance over their faces.
 
 Mr Power asked:
 
---How is the concert tour getting on, Bloom?
+-- How is the concert tour getting on, Bloom?
 
---O, very well, Mr Bloom said. I hear great accounts of it. It's a good
+-- O, very well, Mr Bloom said. I hear great accounts of it. It's a good
 idea, you see ...
 
---Are you going yourself?
+-- Are you going yourself?
 
---Well no, Mr Bloom said. In point of fact I have to go down to the
+-- Well no, Mr Bloom said. In point of fact I have to go down to the
 county Clare on some private business. You see the idea is to tour the
 chief towns. What you lose on one you can make up on the other.
 
---Quite so, Martin Cunningham said. Mary Anderson is up there now.
+-- Quite so, Martin Cunningham said. Mary Anderson is up there now.
 
 Have you good artists?
 
---Louis Werner is touring her, Mr Bloom said. O yes, we'll have all
+-- Louis Werner is touring her, Mr Bloom said. O yes, we'll have all
 topnobbers. J. C. Doyle and John MacCormack I hope and. The best, in
 fact.
 
---And MADAME, Mr Power said smiling. Last but not least.
+-- And MADAME, Mr Power said smiling. Last but not least.
 
 Mr Bloom unclasped his hands in a gesture of soft politeness and
 clasped them. Smith O'Brien. Someone has laid a bunch of flowers there.
@@ -4259,7 +4259,7 @@ wheeling by Farrell's statue united noiselessly their unresisting knees.
 Oot: a dullgarbed old man from the curbstone tendered his wares, his
 mouth opening: oot.
 
---Four bootlaces for a penny.
+-- Four bootlaces for a penny.
 
 Wonder why he was struck off the rolls. Had his office in Hume
 street. Same house as Molly's namesake, Tweedy, crown solicitor for
@@ -4285,98 +4285,98 @@ They passed under the hugecloaked Liberator's form.
 
 Martin Cunningham nudged Mr Power.
 
---Of the tribe of Reuben, he said.
+-- Of the tribe of Reuben, he said.
 
 A tall blackbearded figure, bent on a stick, stumping round the corner
 of Elvery's Elephant house, showed them a curved hand open on his spine.
 
---In all his pristine beauty, Mr Power said.
+-- In all his pristine beauty, Mr Power said.
 
 Mr Dedalus looked after the stumping figure and said mildly:
 
---The devil break the hasp of your back!
+-- The devil break the hasp of your back!
 
 Mr Power, collapsing in laughter, shaded his face from the window as
 the carriage passed Gray's statue.
 
---We have all been there, Martin Cunningham said broadly.
+-- We have all been there, Martin Cunningham said broadly.
 
 His eyes met Mr Bloom's eyes. He caressed his beard, adding:
 
---Well, nearly all of us.
+-- Well, nearly all of us.
 
 Mr Bloom began to speak with sudden eagerness to his companions' faces.
 
---That's an awfully good one that's going the rounds about Reuben J and
+-- That's an awfully good one that's going the rounds about Reuben J and
 the son.
 
---About the boatman? Mr Power asked.
+-- About the boatman? Mr Power asked.
 
---Yes. Isn't it awfully good?
+-- Yes. Isn't it awfully good?
 
---What is that? Mr Dedalus asked. I didn't hear it.
+-- What is that? Mr Dedalus asked. I didn't hear it.
 
---There was a girl in the case, Mr Bloom began, and he determined to send
+-- There was a girl in the case, Mr Bloom began, and he determined to send
 him to the Isle of Man out of harm's way but when they were both ...
 
---What? Mr Dedalus asked. That confirmed bloody hobbledehoy is it?
+-- What? Mr Dedalus asked. That confirmed bloody hobbledehoy is it?
 
---Yes, Mr Bloom said. They were both on the way to the boat and he tried
+-- Yes, Mr Bloom said. They were both on the way to the boat and he tried
 to drown ...
 
---Drown Barabbas! Mr Dedalus cried. I wish to Christ he did!
+-- Drown Barabbas! Mr Dedalus cried. I wish to Christ he did!
 
 Mr Power sent a long laugh down his shaded nostrils.
 
---No, Mr Bloom said, the son himself ...
+-- No, Mr Bloom said, the son himself ...
 
 Martin Cunningham thwarted his speech rudely:
 
---Reuben and the son were piking it down the quay next the river on their
+-- Reuben and the son were piking it down the quay next the river on their
 way to the Isle of Man boat and the young chiseller suddenly got loose and
 over the wall with him into the Liffey.
 
---For God's sake! Mr Dedalus exclaimed in fright. Is he dead?
+-- For God's sake! Mr Dedalus exclaimed in fright. Is he dead?
 
---Dead! Martin Cunningham cried. Not he! A boatman got a pole and
+-- Dead! Martin Cunningham cried. Not he! A boatman got a pole and
 fished him out by the slack of the breeches and he was landed up to the
 father on the quay more dead than alive. Half the town was there.
 
---Yes, Mr Bloom said. But the funny part is ...
+-- Yes, Mr Bloom said. But the funny part is ...
 
---And Reuben J, Martin Cunningham said, gave the boatman a florin for
+-- And Reuben J, Martin Cunningham said, gave the boatman a florin for
 saving his son's life.
 
 A stifled sigh came from under Mr Power's hand.
 
---O, he did, Martin Cunningham affirmed. Like a hero. A silver florin.
+-- O, he did, Martin Cunningham affirmed. Like a hero. A silver florin.
 
---Isn't it awfully good? Mr Bloom said eagerly.
+-- Isn't it awfully good? Mr Bloom said eagerly.
 
---One and eightpence too much, Mr Dedalus said drily.
+-- One and eightpence too much, Mr Dedalus said drily.
 
 Mr Power's choked laugh burst quietly in the carriage.
 
 Nelson's pillar.
 
---Eight plums a penny! Eight for a penny!
+-- Eight plums a penny! Eight for a penny!
 
---We had better look a little serious, Martin Cunningham said.
+-- We had better look a little serious, Martin Cunningham said.
 
 Mr Dedalus sighed.
 
---Ah then indeed, he said, poor little Paddy wouldn't grudge us a laugh.
+-- Ah then indeed, he said, poor little Paddy wouldn't grudge us a laugh.
 Many a good one he told himself.
 
---The Lord forgive me! Mr Power said, wiping his wet eyes with his
+-- The Lord forgive me! Mr Power said, wiping his wet eyes with his
 fingers. Poor Paddy! I little thought a week ago when I saw him last and
 he was in his usual health that I'd be driving after him like this. He's
 gone from us.
 
---As decent a little man as ever wore a hat, Mr Dedalus said. He went
+-- As decent a little man as ever wore a hat, Mr Dedalus said. He went
 very suddenly.
 
---Breakdown, Martin Cunningham said. Heart.
+-- Breakdown, Martin Cunningham said. Heart.
 
 He tapped his chest sadly.
 
@@ -4386,13 +4386,13 @@ colouring it.
 
 Mr Power gazed at the passing houses with rueful apprehension.
 
---He had a sudden death, poor fellow, he said.
+-- He had a sudden death, poor fellow, he said.
 
---The best death, Mr Bloom said.
+-- The best death, Mr Bloom said.
 
 Their wide open eyes looked at him.
 
---No suffering, he said. A moment and all is over. Like dying in sleep.
+-- No suffering, he said. A moment and all is over. Like dying in sleep.
 
 No-one spoke.
 
@@ -4407,7 +4407,7 @@ corner, galloping. A tiny coffin flashed by. In a hurry to bury. A
 mourning coach. Unmarried. Black for the married. Piebald for bachelors.
 Dun for a nun.
 
---Sad, Martin Cunningham said. A child.
+-- Sad, Martin Cunningham said. A child.
 
 A dwarf's face, mauve and wrinkled like little Rudy's was. Dwarf's
 body, weak as putty, in a whitelined deal box. Burial friendly society
@@ -4415,25 +4415,25 @@ pays. Penny a week for a sod of turf. Our. Little. Beggar. Baby.
 Meant nothing. Mistake of nature. If it's healthy it's from the mother.
 If not from the man. Better luck next time.
 
---Poor little thing, Mr Dedalus said. It's well out of it.
+-- Poor little thing, Mr Dedalus said. It's well out of it.
 
 The carriage climbed more slowly the hill of Rutland square. Rattle
 his bones. Over the stones. Only a pauper. Nobody owns.
 
---In the midst of life, Martin Cunningham said.
+-- In the midst of life, Martin Cunningham said.
 
---But the worst of all, Mr Power said, is the man who takes his own life.
+-- But the worst of all, Mr Power said, is the man who takes his own life.
 
 Martin Cunningham drew out his watch briskly, coughed and put it back.
 
---The greatest disgrace to have in the family, Mr Power added.
+-- The greatest disgrace to have in the family, Mr Power added.
 
---Temporary insanity, of course, Martin Cunningham said decisively. We
+-- Temporary insanity, of course, Martin Cunningham said decisively. We
 must take a charitable view of it.
 
---They say a man who does it is a coward, Mr Dedalus said.
+-- They say a man who does it is a coward, Mr Dedalus said.
 
---It is not for us to judge, Martin Cunningham said.
+-- It is not for us to judge, Martin Cunningham said.
 
 Mr Bloom, about to speak, closed his lips again. Martin Cunningham's
 large eyes. Looking away now. Sympathetic human man he is. Intelligent.
@@ -4468,14 +4468,14 @@ No more pain. Wake no more. Nobody owns.
 
 The carriage rattled swiftly along Blessington street. Over the stones.
 
---We are going the pace, I think, Martin Cunningham said.
+-- We are going the pace, I think, Martin Cunningham said.
 
---God grant he doesn't upset us on the road, Mr Power said.
+-- God grant he doesn't upset us on the road, Mr Power said.
 
---I hope not, Martin Cunningham said. That will be a great race tomorrow
+-- I hope not, Martin Cunningham said. That will be a great race tomorrow
 in Germany. The Gordon Bennett.
 
---Yes, by Jove, Mr Dedalus said. That will be worth seeing, faith.
+-- Yes, by Jove, Mr Dedalus said. That will be worth seeing, faith.
 
 As they turned into Berkeley street a streetorgan near the Basin sent
 over and after them a rollicking rattling song of the halls. Has anybody
@@ -4490,16 +4490,16 @@ that was dressed that bite the bee gave me. He's gone over to the lying-in
 hospital they told me. From one extreme to the other. The carriage
 galloped round a corner: stopped.
 
---What's wrong now?
+-- What's wrong now?
 
 A divided drove of branded cattle passed the windows, lowing,
 slouching by on padded hoofs, whisking their tails slowly on their clotted
 bony croups. Outside them and through them ran raddled sheep bleating
 their fear.
 
---Emigrants, Mr Power said.
+-- Emigrants, Mr Power said.
 
---Huuuh! the drover's voice cried, his switch sounding on their flanks.
+-- Huuuh! the drover's voice cried, his switch sounding on their flanks.
 
 Huuuh! out of that!
 
@@ -4513,37 +4513,37 @@ train at Clonsilla.
 
 The carriage moved on through the drove.
 
---I can't make out why the corporation doesn't run a tramline from the
+-- I can't make out why the corporation doesn't run a tramline from the
 parkgate to the quays, Mr Bloom said. All those animals could be taken in
 trucks down to the boats.
 
---Instead of blocking up the thoroughfare, Martin Cunningham said. Quite
+-- Instead of blocking up the thoroughfare, Martin Cunningham said. Quite
 right. They ought to.
 
---Yes, Mr Bloom said, and another thing I often thought, is to have
+-- Yes, Mr Bloom said, and another thing I often thought, is to have
 municipal funeral trams like they have in Milan, you know. Run the line
 out to the cemetery gates and have special trams, hearse and carriage and
 all. Don't you see what I mean?
 
---O, that be damned for a story, Mr Dedalus said. Pullman car and saloon
+-- O, that be damned for a story, Mr Dedalus said. Pullman car and saloon
 diningroom.
 
---A poor lookout for Corny, Mr Power added.
+-- A poor lookout for Corny, Mr Power added.
 
---Why? Mr Bloom asked, turning to Mr Dedalus. Wouldn't it be more
+-- Why? Mr Bloom asked, turning to Mr Dedalus. Wouldn't it be more
 decent than galloping two abreast?
 
---Well, there's something in that, Mr Dedalus granted.
+-- Well, there's something in that, Mr Dedalus granted.
 
---And, Martin Cunningham said, we wouldn't have scenes like that when
+-- And, Martin Cunningham said, we wouldn't have scenes like that when
 the hearse capsized round Dunphy's and upset the coffin on to the road.
 
---That was terrible, Mr Power's shocked face said, and the corpse fell
+-- That was terrible, Mr Power's shocked face said, and the corpse fell
 about the road. Terrible!
 
---First round Dunphy's, Mr Dedalus said, nodding. Gordon Bennett cup.
+-- First round Dunphy's, Mr Dedalus said, nodding. Gordon Bennett cup.
 
---Praises be to God! Martin Cunningham said piously.
+-- Praises be to God! Martin Cunningham said piously.
 
 Bom! Upset. A coffin bumped out on to the road. Burst open. Paddy
 Dignam shot out and rolling over stiff in the dust in a brown habit too
@@ -4552,7 +4552,7 @@ now. Quite right to close it. Looks horrid open. Then the insides
 decompose quickly. Much better to close up all the orifices. Yes, also.
 With wax. The sphincter loose. Seal up all.
 
---Dunphy's, Mr Power announced as the carriage turned right.
+-- Dunphy's, Mr Power announced as the carriage turned right.
 
 Dunphy's corner. Mourning coaches drawn up, drowning their grief.
 A pause by the wayside. Tiptop position for a pub. Expect we'll pull up
@@ -4587,13 +4587,13 @@ hat, saluting Paddy Dignam.
 
 They drove on past Brian Boroimhe house. Near it now.
 
---I wonder how is our friend Fogarty getting on, Mr Power said.
+-- I wonder how is our friend Fogarty getting on, Mr Power said.
 
---Better ask Tom Kernan, Mr Dedalus said.
+-- Better ask Tom Kernan, Mr Dedalus said.
 
---How is that? Martin Cunningham said. Left him weeping, I suppose?
+-- How is that? Martin Cunningham said. Left him weeping, I suppose?
 
---Though lost to sight, Mr Dedalus said, to memory dear.
+-- Though lost to sight, Mr Dedalus said, to memory dear.
 
 The carriage steered left for Finglas road.
 
@@ -4613,14 +4613,14 @@ Gloomy gardens then went by: one by one: gloomy houses.
 
 Mr Power pointed.
 
---That is where Childs was murdered, he said. The last house.
+-- That is where Childs was murdered, he said. The last house.
 
---So it is, Mr Dedalus said. A gruesome case. Seymour Bushe got him off.
+-- So it is, Mr Dedalus said. A gruesome case. Seymour Bushe got him off.
 Murdered his brother. Or so they said.
 
---The crown had no evidence, Mr Power said.
+-- The crown had no evidence, Mr Power said.
 
---Only circumstantial, Martin Cunningham added. That's the maxim of
+-- Only circumstantial, Martin Cunningham added. That's the maxim of
 the law. Better for ninetynine guilty to escape than for one innocent
 person to be wrongfully condemned.
 
@@ -4689,33 +4689,33 @@ All walked after.
 
 Martin Cunningham whispered:
 
---I was in mortal agony with you talking of suicide before Bloom.
+-- I was in mortal agony with you talking of suicide before Bloom.
 
---What? Mr Power whispered. How so?
+-- What? Mr Power whispered. How so?
 
---His father poisoned himself, Martin Cunningham whispered. Had the
+-- His father poisoned himself, Martin Cunningham whispered. Had the
 Queen's hotel in Ennis. You heard him say he was going to Clare.
 Anniversary.
 
---O God! Mr Power whispered. First I heard of it. Poisoned himself?
+-- O God! Mr Power whispered. First I heard of it. Poisoned himself?
 
 He glanced behind him to where a face with dark thinking eyes
 followed towards the cardinal's mausoleum. Speaking.
 
---Was he insured? Mr Bloom asked.
+-- Was he insured? Mr Bloom asked.
 
---I believe so, Mr Kernan answered. But the policy was heavily mortgaged.
+-- I believe so, Mr Kernan answered. But the policy was heavily mortgaged.
 Martin is trying to get the youngster into Artane.
 
---How many children did he leave?
+-- How many children did he leave?
 
---Five. Ned Lambert says he'll try to get one of the girls into Todd's.
+-- Five. Ned Lambert says he'll try to get one of the girls into Todd's.
 
---A sad case, Mr Bloom said gently. Five young children.
+-- A sad case, Mr Bloom said gently. Five young children.
 
---A great blow to the poor wife, Mr Kernan added.
+-- A great blow to the poor wife, Mr Kernan added.
 
---Indeed yes, Mr Bloom agreed.
+-- Indeed yes, Mr Bloom agreed.
 
 Has the laugh at him now.
 
@@ -4732,35 +4732,35 @@ Something new to hope for not like the past she wanted back, waiting. It
 never comes. One must go first: alone, under the ground: and lie no more
 in her warm bed.
 
---How are you, Simon? Ned Lambert said softly, clasping hands. Haven't
+-- How are you, Simon? Ned Lambert said softly, clasping hands. Haven't
 seen you for a month of Sundays.
 
---Never better. How are all in Cork's own town?
+-- Never better. How are all in Cork's own town?
 
---I was down there for the Cork park races on Easter Monday, Ned
+-- I was down there for the Cork park races on Easter Monday, Ned
 Lambert said. Same old six and eightpence. Stopped with Dick Tivy.
 
---And how is Dick, the solid man?
+-- And how is Dick, the solid man?
 
---Nothing between himself and heaven, Ned Lambert answered.
+-- Nothing between himself and heaven, Ned Lambert answered.
 
---By the holy Paul! Mr Dedalus said in subdued wonder. Dick Tivy bald?
+-- By the holy Paul! Mr Dedalus said in subdued wonder. Dick Tivy bald?
 
---Martin is going to get up a whip for the youngsters, Ned Lambert said,
+-- Martin is going to get up a whip for the youngsters, Ned Lambert said,
 pointing ahead. A few bob a skull. Just to keep them going till the
 insurance is cleared up.
 
---Yes, yes, Mr Dedalus said dubiously. Is that the eldest boy in front?
+-- Yes, yes, Mr Dedalus said dubiously. Is that the eldest boy in front?
 
---Yes, Ned Lambert said, with the wife's brother. John Henry Menton is
+-- Yes, Ned Lambert said, with the wife's brother. John Henry Menton is
 behind. He put down his name for a quid.
 
---I'll engage he did, Mr Dedalus said. I often told poor Paddy he ought
+-- I'll engage he did, Mr Dedalus said. I often told poor Paddy he ought
 to mind that job. John Henry is not the worst in the world.
 
---How did he lose it? Ned Lambert asked. Liquor, what?
+-- How did he lose it? Ned Lambert asked. Liquor, what?
 
---Many a good man's fault, Mr Dedalus said with a sigh.
+-- Many a good man's fault, Mr Dedalus said with a sigh.
 
 They halted about the door of the mortuary chapel. Mr Bloom stood
 behind the boy with the wreath looking down at his sleekcombed hair and
@@ -4794,7 +4794,7 @@ sideways like a sheep in clover Dedalus says he will. With a belly on him
 like a poisoned pup. Most amusing expressions that man finds. Hhhn: burst
 sideways.
 
---NON INTRES IN JUDICIUM CUM SERVO TUO, DOMINE.
+-- NON INTRES IN JUDICIUM CUM SERVO TUO, DOMINE.
 
 Makes them feel more important to be prayed over in Latin. Requiem
 mass. Crape weepers. Blackedged notepaper. Your name on the altarlist.
@@ -4815,7 +4815,7 @@ bucket and shook it over the coffin. Then he walked to the other end and
 shook it again. Then he came back and put it back in the bucket. As you
 were before you rested. It's all written down: he has to do it.
 
---ET NE NOS INDUCAS IN TENTATIONEM.
+-- ET NE NOS INDUCAS IN TENTATIONEM.
 
 The server piped the answers in the treble. I often thought it would be
 better to have boy servants. Up to fifteen or so. After that, of
@@ -4829,7 +4829,7 @@ childbirth, men with beards, baldheaded businessmen, consumptive girls
 with little sparrows' breasts. All the year round he prayed the same thing
 over them all and shook water on top of them: sleep. On Dignam now.
 
---IN PARADISUM.
+-- IN PARADISUM.
 
 Said he was going to paradise or is in paradise. Says that over everybody.
 Tiresome kind of a job. But he has to say something.
@@ -4846,37 +4846,37 @@ followed the trundled barrow along a lane of sepulchres.
 
 The ree the ra the ree the ra the roo. Lord, I mustn't lilt here.
 
---The O'Connell circle, Mr Dedalus said about him.
+-- The O'Connell circle, Mr Dedalus said about him.
 
 Mr Power's soft eyes went up to the apex of the lofty cone.
 
---He's at rest, he said, in the middle of his people, old Dan O'. But his
+-- He's at rest, he said, in the middle of his people, old Dan O'. But his
 heart is buried in Rome. How many broken hearts are buried here, Simon!
 
---Her grave is over there, Jack, Mr Dedalus said. I'll soon be stretched
+-- Her grave is over there, Jack, Mr Dedalus said. I'll soon be stretched
 beside her. Let Him take me whenever He likes.
 
 Breaking down, he began to weep to himself quietly, stumbling a little
 in his walk. Mr Power took his arm.
 
---She's better where she is, he said kindly.
+-- She's better where she is, he said kindly.
 
---I suppose so, Mr Dedalus said with a weak gasp. I suppose she is in
+-- I suppose so, Mr Dedalus said with a weak gasp. I suppose she is in
 heaven if there is a heaven.
 
 Corny Kelleher stepped aside from his rank and allowed the mourners to
 plod by.
 
---Sad occasions, Mr Kernan began politely.
+-- Sad occasions, Mr Kernan began politely.
 
 Mr Bloom closed his eyes and sadly twice bowed his head.
 
---The others are putting on their hats, Mr Kernan said. I suppose we can
+-- The others are putting on their hats, Mr Kernan said. I suppose we can
 do so too. We are the last. This cemetery is a treacherous place.
 
 They covered their heads.
 
---The reverend gentleman read the service too quickly, don't you think?
+-- The reverend gentleman read the service too quickly, don't you think?
 Mr Kernan said with reproof.
 
 Mr Bloom nodded gravely looking in the quick bloodshot eyes. Secret
@@ -4885,16 +4885,16 @@ the last. In the same boat. Hope he'll say something else.
 
 Mr Kernan added:
 
---The service of the Irish church used in Mount Jerome is simpler, more
+-- The service of the Irish church used in Mount Jerome is simpler, more
 impressive I must say.
 
 Mr Bloom gave prudent assent. The language of course was another thing.
 
 Mr Kernan said with solemnity:
 
---I AM THE RESURRECTION AND THE LIFE. That touches a man's inmost heart.
+-- I AM THE RESURRECTION AND THE LIFE. That touches a man's inmost heart.
 
---It does, Mr Bloom said.
+-- It does, Mr Bloom said.
 
 Your heart perhaps but what price the fellow in the six feet by two
 with his toes to the daisies? No touching that. Seat of the affections.
@@ -4910,43 +4910,43 @@ a skull. Twelve grammes one pennyweight. Troy measure.
 
 Corny Kelleher fell into step at their side.
 
---Everything went off A1, he said. What?
+-- Everything went off A1, he said. What?
 
 He looked on them from his drawling eye. Policeman's shoulders. With
 your tooraloom tooraloom.
 
---As it should be, Mr Kernan said.
+-- As it should be, Mr Kernan said.
 
---What? Eh? Corny Kelleher said.
+-- What? Eh? Corny Kelleher said.
 
 Mr Kernan assured him.
 
---Who is that chap behind with Tom Kernan? John Henry Menton asked. I
+-- Who is that chap behind with Tom Kernan? John Henry Menton asked. I
 know his face.
 
 Ned Lambert glanced back.
 
---Bloom, he said, Madame Marion Tweedy that was, is, I mean, the
+-- Bloom, he said, Madame Marion Tweedy that was, is, I mean, the
 soprano. She's his wife.
 
---O, to be sure, John Henry Menton said. I haven't seen her for some time.
+-- O, to be sure, John Henry Menton said. I haven't seen her for some time.
 he was a finelooking woman. I danced with her, wait, fifteen seventeen
 golden years ago, at Mat Dillon's in Roundtown. And a good armful she
 was.
 
 He looked behind through the others.
 
---What is he? he asked. What does he do? Wasn't he in the stationery line?
+-- What is he? he asked. What does he do? Wasn't he in the stationery line?
 I fell foul of him one evening, I remember, at bowls.
 
 Ned Lambert smiled.
 
---Yes, he was, he said, in Wisdom Hely's. A traveller for blottingpaper.
+-- Yes, he was, he said, in Wisdom Hely's. A traveller for blottingpaper.
 
---In God's name, John Henry Menton said, what did she marry a coon like
+-- In God's name, John Henry Menton said, what did she marry a coon like
 that for? She had plenty of game in her then.
 
---Has still, Ned Lambert said. He does some canvassing for ads.
+-- Has still, Ned Lambert said. He does some canvassing for ads.
 
 John Henry Menton's large eyes stared ahead.
 
@@ -4954,27 +4954,27 @@ The barrow turned into a side lane. A portly man, ambushed among
 the grasses, raised his hat in homage. The gravediggers touched their
 caps.
 
---John O'Connell, Mr Power said pleased. He never forgets a friend.
+-- John O'Connell, Mr Power said pleased. He never forgets a friend.
 
 Mr O'Connell shook all their hands in silence. Mr Dedalus said:
 
---I am come to pay you another visit.
+-- I am come to pay you another visit.
 
---My dear Simon, the caretaker answered in a low voice. I don't want your
+-- My dear Simon, the caretaker answered in a low voice. I don't want your
 custom at all.
 
 Saluting Ned Lambert and John Henry Menton he walked on at Martin
 Cunningham's side puzzling two long keys at his back.
 
---Did you hear that one, he asked them, about Mulcahy from the Coombe?
+-- Did you hear that one, he asked them, about Mulcahy from the Coombe?
 
---I did not, Martin Cunningham said.
+-- I did not, Martin Cunningham said.
 
 They bent their silk hats in concert and Hynes inclined his ear. The
 caretaker hung his thumbs in the loops of his gold watchchain and spoke in
 a discreet tone to their vacant smiles.
 
---They tell the story, he said, that two drunks came out here one foggy
+-- They tell the story, he said, that two drunks came out here one foggy
 evening to look for the grave of a friend of theirs. They asked for
 Mulcahy from the Coombe and were told where he was buried. After traipsing
 about in the fog they found the grave sure enough. One of the drunks spelt
@@ -4984,17 +4984,17 @@ of Our Saviour the widow had got put up.
 The caretaker blinked up at one of the sepulchres they passed. He
 resumed:
 
---And, after blinking up at the sacred figure, NOT A BLOODY BIT LIKE THE
+-- And, after blinking up at the sacred figure, NOT A BLOODY BIT LIKE THE
 MAN, says he. THAT'S NOT MULCAHY, says he, WHOEVER DONE IT.
 
 Rewarded by smiles he fell back and spoke with Corny Kelleher, accepting
 the dockets given him, turning them over and scanning them as he walked.
 
---That's all done with a purpose, Martin Cunningham explained to Hynes.
+-- That's all done with a purpose, Martin Cunningham explained to Hynes.
 
---I know, Hynes said. I know that.
+-- I know, Hynes said. I know that.
 
---To cheer a fellow up, Martin Cunningham said. It's pure goodheartedness:
+-- To cheer a fellow up, Martin Cunningham said. It's pure goodheartedness:
 damn the thing else.
 
 Mr Bloom admired the caretaker's prosperous bulk. All want to be on
@@ -5062,9 +5062,9 @@ of mourning first. Hard to imagine his funeral. Seems a sort of a joke.
 Read your own obituary notice they say you live longer. Gives you second
 wind. New lease of life.
 
---How many have-you for tomorrow? the caretaker asked.
+-- How many have-you for tomorrow? the caretaker asked.
 
---Two, Corny Kelleher said. Half ten and eleven.
+-- Two, Corny Kelleher said. Half ten and eleven.
 
 The caretaker put the papers in his pocket. The barrow had ceased to
 trundle. The mourners split and moved to each side of the hole, stepping
@@ -5166,13 +5166,13 @@ his ground, he traversed the dismal fields.
 Hynes jotting down something in his notebook. Ah, the names. But he
 knows them all. No: coming to me.
 
---I am just taking the names, Hynes said below his breath. What is your
+-- I am just taking the names, Hynes said below his breath. What is your
 christian name? I'm not sure.
 
---L, Mr Bloom said. Leopold. And you might put down M'Coy's name too.
+-- L, Mr Bloom said. Leopold. And you might put down M'Coy's name too.
 He asked me to.
 
---Charley, Hynes said writing. I know. He was on the FREEMAN once.
+-- Charley, Hynes said writing. I know. He was on the FREEMAN once.
 
 So he was before he got the job in the morgue under Louis Byrne.
 Good idea a postmortem for doctors. Find out what they imagine they
@@ -5181,19 +5181,19 @@ ads. Charley, you're my darling. That was why he asked me to. O well,
 does no harm. I saw to that, M'Coy. Thanks, old chap: much obliged.
 Leave him under an obligation: costs nothing.
 
---And tell us, Hynes said, do you know that fellow in the, fellow was
+-- And tell us, Hynes said, do you know that fellow in the, fellow was
 over there in the ...
 
 He looked around.
 
---Macintosh. Yes, I saw him, Mr Bloom said. Where is he now?
+-- Macintosh. Yes, I saw him, Mr Bloom said. Where is he now?
 
---M'Intosh, Hynes said scribbling. I don't know who he is. Is that
+-- M'Intosh, Hynes said scribbling. I don't know who he is. Is that
 his name?
 
 He moved away, looking about him.
 
---No, Mr Bloom began, turning and stopping. I say, Hynes!
+-- No, Mr Bloom began, turning and stopping. I say, Hynes!
 
 Didn't hear. What? Where has he disappeared to? Not a sign. Well of
 all the. Has anybody here seen? Kay ee double ell. Become invisible. Good
@@ -5201,7 +5201,7 @@ Lord, what became of him?
 
 A seventh gravedigger came beside Mr Bloom to take up an idle spade.
 
---O, excuse me!
+-- O, excuse me!
 
 He stepped aside nimbly.
 
@@ -5220,19 +5220,19 @@ trouble. Headshake. I know that. For yourselves just.
 The mourners moved away slowly without aim, by devious paths,
 staying at whiles to read a name on a tomb.
 
---Let us go round by the chief's grave, Hynes said. We have time.
+-- Let us go round by the chief's grave, Hynes said. We have time.
 
---Let us, Mr Power said.
+-- Let us, Mr Power said.
 
 They turned to the right, following their slow thoughts. With awe Mr
 Power's blank voice spoke:
 
---Some say he is not in that grave at all. That the coffin was filled
+-- Some say he is not in that grave at all. That the coffin was filled
 with stones. That one day he will come again.
 
 Hynes shook his head.
 
---Parnell will never come again, he said. He's there, all that was mortal
+-- Parnell will never come again, he said. He's there, all that was mortal
 of him. Peace to his ashes.
 
 Mr Bloom walked unheeded along his grove by saddened angels,
@@ -5339,23 +5339,23 @@ Fellow always like that, mortified if women are by.
 
 Got a dinge in the side of his hat. Carriage probably.
 
---Excuse me, sir, Mr Bloom said beside them.
+-- Excuse me, sir, Mr Bloom said beside them.
 
 They stopped.
 
---Your hat is a little crushed, Mr Bloom said pointing.
+-- Your hat is a little crushed, Mr Bloom said pointing.
 
 John Henry Menton stared at him for an instant without moving.
 
---There, Martin Cunningham helped, pointing also. John Henry Menton took
+-- There, Martin Cunningham helped, pointing also. John Henry Menton took
 off his hat, bulged out the dinge and smoothed the nap with care on his
 coatsleeve. He clapped the hat on his head again.
 
---It's all right now, Martin Cunningham said.
+-- It's all right now, Martin Cunningham said.
 
 John Henry Menton jerked his head down in acknowledgment.
 
---Thank you, he said shortly.
+-- Thank you, he said shortly.
 
 They walked on towards the gates. Mr Bloom, chapfallen, drew
 behind a few paces so as not to overhear. Martin laying down the law.
@@ -5368,7 +5368,7 @@ Get the pull over him that way.
 Thank you. How grand we are this morning!
 
 
--------- Aeolus ---------
+--------  Aeolus ---------
 
 
     IN THE HEART OF THE HIBERNIAN METROPOLIS
@@ -5380,15 +5380,15 @@ Palmerston Park and upper Rathmines, Sandymount Green, Rathmines,
 Ringsend and Sandymount Tower, Harold's Cross. The hoarse Dublin
 United Tramway Company's timekeeper bawled them off:
 
---Rathgar and Terenure!
+-- Rathgar and Terenure!
 
---Come on, Sandymount Green!
+-- Come on, Sandymount Green!
 
 Right and left parallel clanging ringing a doubledecker and a
 singledeck moved from their railheads, swerved to the down line, glided
 parallel.
 
---Start, Palmerston Park!
+-- Start, Palmerston Park!
 
 
     THE WEARER OF THE CROWN
@@ -5409,9 +5409,9 @@ stores and bumped them up on the brewery float. On the brewery float
 bumped dullthudding barrels rolled by grossbooted draymen out of
 Prince's stores.
 
---There it is, Red Murray said. Alexander Keyes.
+-- There it is, Red Murray said. Alexander Keyes.
 
---Just cut it out, will you? Mr Bloom said, and I'll take it round to the
+-- Just cut it out, will you? Mr Bloom said, and I'll take it round to the
 TELEGRAPH office.
 
 The door of Ruttledge's office creaked again. Davy Stephens, minute
@@ -5421,12 +5421,12 @@ with a roll of papers under his cape, a king's courier.
 Red Murray's long shears sliced out the advertisement from the
 newspaper in four clean strokes. Scissors and paste.
 
---I'll go through the printingworks, Mr Bloom said, taking the cut square.
+-- I'll go through the printingworks, Mr Bloom said, taking the cut square.
 
---Of course, if he wants a par, Red Murray said earnestly, a pen behind
+-- Of course, if he wants a par, Red Murray said earnestly, a pen behind
 his ear, we can do him one.
 
---Right, Mr Bloom said with a nod. I'll rub that in.
+-- Right, Mr Bloom said with a nod. I'll rub that in.
 
 We.
 
@@ -5437,7 +5437,7 @@ We.
 
 Red Murray touched Mr Bloom's arm with the shears and whispered:
 
---Brayden.
+-- Brayden.
 
 Mr Bloom turned and saw the liveried porter raise his lettered cap as a
 stately figure entered between the newsboards of the WEEKLY FREEMAN AND
@@ -5448,7 +5448,7 @@ step: back. All his brains are in the nape of his neck, Simon Dedalus
 says. Welts of flesh behind on him. Fat folds of neck, fat, neck, fat,
 neck.
 
---Don't you think his face is like Our Saviour? Red Murray whispered.
+-- Don't you think his face is like Our Saviour? Red Murray whispered.
 
 The door of Ruttledge's office whispered: ee: cree. They always build
 one door opposite another for the wind to. Way in. Way out.
@@ -5456,9 +5456,9 @@ one door opposite another for the wind to. Way in. Way out.
 Our Saviour: beardframed oval face: talking in the dusk. Mary,
 Martha. Steered by an umbrella sword to the footlights: Mario the tenor.
 
---Or like Mario, Mr Bloom said.
+-- Or like Mario, Mr Bloom said.
 
---Yes, Red Murray agreed. But Mario was said to be the picture of Our
+-- Yes, Red Murray agreed. But Mario was said to be the picture of Our
 Saviour.
 
 Jesusmario with rougy cheeks, doublet and spindle legs. Hand on his
@@ -5472,18 +5472,18 @@ heart. In MARTHA.
     THE CROZIER AND THE PEN
 
 
---His grace phoned down twice this morning, Red Murray said gravely.
+-- His grace phoned down twice this morning, Red Murray said gravely.
 
 They watched the knees, legs, boots vanish. Neck.
 
 A telegram boy stepped in nimbly, threw an envelope on the counter
 and stepped off posthaste with a word:
 
---FREEMAN!
+-- FREEMAN!
 
 Mr Bloom said slowly:
 
---Well, he is one of our saviours also.
+-- Well, he is one of our saviours also.
 
 A meek smile accompanied him as he lifted the counterflap, as he
 passed in through a sidedoor and along the warm dark stairs and passage,
@@ -5532,7 +5532,7 @@ Now if he got paralysed there and no-one knew how to stop them they'd
 clank on and on the same, print it over and over and up and back.
 Monkeydoodle the whole thing. Want a cool head.
 
---Well, get it into the evening edition, councillor, Hynes said.
+-- Well, get it into the evening edition, councillor, Hynes said.
 
 Soon be calling him my lord mayor. Long John is backing him, they say.
 
@@ -5540,18 +5540,18 @@ The foreman, without answering, scribbled press on a corner of the
 sheet and made a sign to a typesetter. He handed the sheet silently over
 the dirty glass screen.
 
---Right: thanks, Hynes said moving off.
+-- Right: thanks, Hynes said moving off.
 
 Mr Bloom stood in his way.
 
---If you want to draw the cashier is just going to lunch, he said,
+-- If you want to draw the cashier is just going to lunch, he said,
 pointing backward with his thumb.
 
---Did you? Hynes asked.
+-- Did you? Hynes asked.
 
---Mm, Mr Bloom said. Look sharp and you'll catch him.
+-- Mm, Mr Bloom said. Look sharp and you'll catch him.
 
---Thanks, old man, Hynes said. I'll tap him too.
+-- Thanks, old man, Hynes said. I'll tap him too.
 
 He hurried on eagerly towards the FREEMAN'S JOURNAL.
 
@@ -5563,15 +5563,15 @@ Three bob I lent him in Meagher's. Three weeks. Third hint.
 
 Mr Bloom laid his cutting on Mr Nannetti's desk.
 
---Excuse me, councillor, he said. This ad, you see. Keyes, you remember?
+-- Excuse me, councillor, he said. This ad, you see. Keyes, you remember?
 
 Mr Nannetti considered the cutting awhile and nodded.
 
---He wants it in for July, Mr Bloom said.
+-- He wants it in for July, Mr Bloom said.
 
 The foreman moved his pencil towards it.
 
---But wait, Mr Bloom said. He wants it changed. Keyes, you see. He wants
+-- But wait, Mr Bloom said. He wants it changed. Keyes, you see. He wants
 two keys at the top.
 
 Hell of a racket they make. He doesn't hear it. Nannan. Iron nerves.
@@ -5580,7 +5580,7 @@ Maybe he understands what I.
 The foreman turned round to hear patiently and, lifting an elbow,
 began to scratch slowly in the armpit of his alpaca jacket.
 
---Like that, Mr Bloom said, crossing his forefingers at the top.
+-- Like that, Mr Bloom said, crossing his forefingers at the top.
 
 Let him take that in first.
 
@@ -5597,34 +5597,34 @@ swiftly on the scarred woodwork.
     HOUSE OF KEY(E)S
 
 
---Like that, see. Two crossed keys here. A circle. Then here the name.
+-- Like that, see. Two crossed keys here. A circle. Then here the name.
 Alexander Keyes, tea, wine and spirit merchant. So on.
 
 Better not teach him his own business.
 
---You know yourself, councillor, just what he wants. Then round the top
+-- You know yourself, councillor, just what he wants. Then round the top
 in leaded: the house of keys. You see? Do you think that's a good idea?
 
 The foreman moved his scratching hand to his lower ribs and scratched
 there quietly.
 
---The idea, Mr Bloom said, is the house of keys. You know, councillor,
+-- The idea, Mr Bloom said, is the house of keys. You know, councillor,
 the Manx parliament. Innuendo of home rule. Tourists, you know, from the
 isle of Man. Catches the eye, you see. Can you do that?
 
 I could ask him perhaps about how to pronounce that VOGLIO. But
 then if he didn't know only make it awkward for him. Better not.
 
---We can do that, the foreman said. Have you the design?
+-- We can do that, the foreman said. Have you the design?
 
---I can get it, Mr Bloom said. It was in a Kilkenny paper. He has a house
+-- I can get it, Mr Bloom said. It was in a Kilkenny paper. He has a house
 there too. I'll just run out and ask him. Well, you can do that and just a
 little par calling attention. You know the usual. Highclass licensed
 premises. Longfelt want. So on.
 
 The foreman thought for an instant.
 
---We can do that, he said. Let him give us a three months' renewal.
+-- We can do that, he said. Let him give us a three months' renewal.
 
 A typesetter brought him a limp galleypage. He began to check it
 silently. Mr Bloom stood by, hearing the loud throbs of cranks, watching
@@ -5657,25 +5657,25 @@ own way. Sllt.
 
 The foreman handed back the galleypage suddenly, saying:
 
---Wait. Where's the archbishop's letter? It's to be repeated in the
+-- Wait. Where's the archbishop's letter? It's to be repeated in the
 TELEGRAPH. Where's what's his name?
 
 He looked about him round his loud unanswering machines.
 
---Monks, sir? a voice asked from the castingbox.
+-- Monks, sir? a voice asked from the castingbox.
 
---Ay. Where's Monks?
+-- Ay. Where's Monks?
 
---Monks!
+-- Monks!
 
 Mr Bloom took up his cutting. Time to get out.
 
---Then I'll get the design, Mr Nannetti, he said, and you'll give it a
+-- Then I'll get the design, Mr Nannetti, he said, and you'll give it a
 good place I know.
 
---Monks!
+-- Monks!
 
---Yes, sir.
+-- Yes, sir.
 
 Three months' renewal. Want to get some wind off my chest first. Try
 it anyhow. Rub in August: good idea: horseshow month. Ballsbridge.
@@ -5742,17 +5742,17 @@ He entered softly.
     ERIN, GREEN GEM OF THE SILVER SEA
 
 
---The ghost walks, professor MacHugh murmured softly, biscuitfully to
+-- The ghost walks, professor MacHugh murmured softly, biscuitfully to
 the dusty windowpane.
 
 Mr Dedalus, staring from the empty fireplace at Ned Lambert's
 quizzing face, asked of it sourly:
 
---Agonising Christ, wouldn't it give you a heartburn on your arse?
+-- Agonising Christ, wouldn't it give you a heartburn on your arse?
 
 Ned Lambert, seated on the table, read on:
 
---OR AGAIN, NOTE THE MEANDERINGS OF SOME PURLING RILL AS IT BABBLES ON
+-- OR AGAIN, NOTE THE MEANDERINGS OF SOME PURLING RILL AS IT BABBLES ON
 ITS WAY, THO' QUARRELLING WITH THE STONY OBSTACLES, TO THE TUMBLING WATERS
 OF NEPTUNE'S BLUE DOMAIN, 'MID MOSSY BANKS, FANNED BY GENTLEST ZEPHYRS,
 PLAYED ON BY THE GLORIOUS SUNLIGHT OR 'NEATH THE SHADOWS CAST O'ER ITS
@@ -5760,16 +5760,16 @@ PENSIVE BOSOM BY THE OVERARCHING LEAFAGE OF THE GIANTS OF THE FOREST. What
 about that, Simon? he asked over the fringe of his newspaper. How's that
 for high?
 
---Changing his drink, Mr Dedalus said.
+-- Changing his drink, Mr Dedalus said.
 
 Ned Lambert, laughing, struck the newspaper on his knees, repeating:
 
---THE PENSIVE BOSOM AND THE OVERARSING LEAFAGE. O boys! O boys!
+-- THE PENSIVE BOSOM AND THE OVERARSING LEAFAGE. O boys! O boys!
 
---And Xenophon looked upon Marathon, Mr Dedalus said, looking again
+-- And Xenophon looked upon Marathon, Mr Dedalus said, looking again
 on the fireplace and to the window, and Marathon looked on the sea.
 
---That will do, professor MacHugh cried from the window. I don't want to
+-- That will do, professor MacHugh cried from the window. I don't want to
 hear any more of the stuff.
 
 He ate off the crescent of water biscuit he had been nibbling and,
@@ -5784,48 +5784,48 @@ Johnny, make room for your uncle. The right honourable Hedges Eyre
 Chatterton. Daresay he writes him an odd shaky cheque or two on gale days.
 Windfall when he kicks out. Alleluia.
 
---Just another spasm, Ned Lambert said.
+-- Just another spasm, Ned Lambert said.
 
---What is it? Mr Bloom asked.
+-- What is it? Mr Bloom asked.
 
---A recently discovered fragment of Cicero, professor MacHugh answered
+-- A recently discovered fragment of Cicero, professor MacHugh answered
 with pomp of tone. OUR LOVELY LAND.
 
 
     SHORT BUT TO THE POINT
 
 
---Whose land? Mr Bloom said simply.
+-- Whose land? Mr Bloom said simply.
 
---Most pertinent question, the professor said between his chews. With an
+-- Most pertinent question, the professor said between his chews. With an
 accent on the whose.
 
---Dan Dawson's land Mr Dedalus said.
+-- Dan Dawson's land Mr Dedalus said.
 
---Is it his speech last night? Mr Bloom asked.
+-- Is it his speech last night? Mr Bloom asked.
 
 Ned Lambert nodded.
 
---But listen to this, he said.
+-- But listen to this, he said.
 
 The doorknob hit Mr Bloom in the small of the back as the door was
 pushed in.
 
---Excuse me, J. J. O'Molloy said, entering.
+-- Excuse me, J. J. O'Molloy said, entering.
 
 Mr Bloom moved nimbly aside.
 
---I beg yours, he said.
+-- I beg yours, he said.
 
---Good day, Jack.
+-- Good day, Jack.
 
---Come in. Come in.
+-- Come in. Come in.
 
---Good day.
+-- Good day.
 
---How are you, Dedalus?
+-- How are you, Dedalus?
 
---Well. And yourself?
+-- Well. And yourself?
 
 J. J. O'Molloy shook his head.
 
@@ -5837,14 +5837,14 @@ Cleverest fellow at the junior bar he used to be. Decline, poor chap.
 That hectic flush spells finis for a man. Touch and go with him. What's in
 the wind, I wonder. Money worry.
 
---OR AGAIN IF WE BUT CLIMB THE SERRIED MOUNTAIN PEAKS.
+-- OR AGAIN IF WE BUT CLIMB THE SERRIED MOUNTAIN PEAKS.
 
---You're looking extra.
+-- You're looking extra.
 
---Is the editor to be seen? J. J. O'Molloy asked, looking towards the
+-- Is the editor to be seen? J. J. O'Molloy asked, looking towards the
 inner door.
 
---Very much so, professor MacHugh said. To be seen and heard. He's in
+-- Very much so, professor MacHugh said. To be seen and heard. He's in
 his sanctum with Lenehan.
 
 J. J. O'Molloy strolled to the sloping desk and began to turn back the
@@ -5861,19 +5861,19 @@ breath. Wouldn't know which to believe. One story good till you hear the
 next. Go for one another baldheaded in the papers and then all blows over.
 Hail fellow well met the next moment.
 
---Ah, listen to this for God' sake, Ned Lambert pleaded. OR AGAIN IF WE
+-- Ah, listen to this for God' sake, Ned Lambert pleaded. OR AGAIN IF WE
 BUT CLIMB THE SERRIED MOUNTAIN PEAKS ...
 
---Bombast! the professor broke in testily. Enough of the inflated
+-- Bombast! the professor broke in testily. Enough of the inflated
 windbag!
 
---PEAKS, Ned Lambert went on, TOWERING HIGH ON HIGH, TO BATHE OUR SOULS,
+-- PEAKS, Ned Lambert went on, TOWERING HIGH ON HIGH, TO BATHE OUR SOULS,
 AS IT WERE ...
 
---Bathe his lips, Mr Dedalus said. Blessed and eternal God! Yes? Is he
+-- Bathe his lips, Mr Dedalus said. Blessed and eternal God! Yes? Is he
 taking anything for it?
 
---AS 'TWERE, IN THE PEERLESS PANORAMA OF IRELAND'S PORTFOLIO, UNMATCHED,
+-- AS 'TWERE, IN THE PEERLESS PANORAMA OF IRELAND'S PORTFOLIO, UNMATCHED,
 DESPITE THEIR WELLPRAISED PROTOTYPES IN OTHER VAUNTED PRIZE REGIONS, FOR
 VERY BEAUTY, OF BOSKY GROVE AND UNDULATING PLAIN AND LUSCIOUS PASTURELAND
 OF VERNAL GREEN, STEEPED IN THE TRANSCENDENT TRANSLUCENT GLOW OF OUR MILD
@@ -5883,12 +5883,12 @@ MYSTERIOUS IRISH TWILIGHT ...
     HIS NATIVE DORIC
 
 
---The moon, professor MacHugh said. He forgot Hamlet.
+-- The moon, professor MacHugh said. He forgot Hamlet.
 
---THAT MANTLES THE VISTA FAR AND WIDE AND WAIT TILL THE GLOWING ORB OF
+-- THAT MANTLES THE VISTA FAR AND WIDE AND WAIT TILL THE GLOWING ORB OF
 THE MOON SHINE FORTH TO IRRADIATE HER SILVER EFFULGENCE ...
 
---O! Mr Dedalus cried, giving vent to a hopeless groan. Shite and onions!
+-- O! Mr Dedalus cried, giving vent to a hopeless groan. Shite and onions!
 That'll do, Ned. Life is too short.
 
 He took off his silk hat and, blowing out impatiently his bushy
@@ -5898,7 +5898,7 @@ Ned Lambert tossed the newspaper aside, chuckling with delight. An
 instant after a hoarse bark of laughter burst over professor MacHugh's
 unshaven blackspectacled face.
 
---Doughy Daw! he cried.
+-- Doughy Daw! he cried.
 
 
     WHAT WETHERUP SAID
@@ -5915,46 +5915,46 @@ The inner door was opened violently and a scarlet beaked face,
 crested by a comb of feathery hair, thrust itself in. The bold blue eyes
 stared about them and the harsh voice asked:
 
---What is it?
+-- What is it?
 
---And here comes the sham squire himself! professor MacHugh said grandly.
+-- And here comes the sham squire himself! professor MacHugh said grandly.
 
---Getonouthat, you bloody old pedagogue! the editor said in recognition.
+-- Getonouthat, you bloody old pedagogue! the editor said in recognition.
 
---Come, Ned, Mr Dedalus said, putting on his hat. I must get a drink
+-- Come, Ned, Mr Dedalus said, putting on his hat. I must get a drink
 after that.
 
---Drink! the editor cried. No drinks served before mass.
+-- Drink! the editor cried. No drinks served before mass.
 
---Quite right too, Mr Dedalus said, going out. Come on, Ned.
+-- Quite right too, Mr Dedalus said, going out. Come on, Ned.
 
 Ned Lambert sidled down from the table. The editor's blue eyes roved
 towards Mr Bloom's face, shadowed by a smile.
 
---Will you join us, Myles? Ned Lambert asked.
+-- Will you join us, Myles? Ned Lambert asked.
 
 
     MEMORABLE BATTLES RECALLED
 
 
---North Cork militia! the editor cried, striding to the mantelpiece. We
+-- North Cork militia! the editor cried, striding to the mantelpiece. We
 won every time! North Cork and Spanish officers!
 
---Where was that, Myles? Ned Lambert asked with a reflective glance at
+-- Where was that, Myles? Ned Lambert asked with a reflective glance at
 his toecaps.
 
---In Ohio! the editor shouted.
+-- In Ohio! the editor shouted.
 
---So it was, begad, Ned Lambert agreed.
+-- So it was, begad, Ned Lambert agreed.
 
 Passing out he whispered to J. J. O'Molloy:
 
---Incipient jigs. Sad case.
+-- Incipient jigs. Sad case.
 
---Ohio! the editor crowed in high treble from his uplifted scarlet face.
+-- Ohio! the editor crowed in high treble from his uplifted scarlet face.
 My Ohio!
 
---A perfect cretic! the professor said. Long, short and long.
+-- A perfect cretic! the professor said. Long, short and long.
 
 
     O, HARP EOLIAN!
@@ -5964,26 +5964,26 @@ He took a reel of dental floss from his waistcoat pocket and, breaking
 off a piece, twanged it smartly between two and two of his resonant
 unwashed teeth.
 
---Bingbang, bangbang.
+-- Bingbang, bangbang.
 
 Mr Bloom, seeing the coast clear, made for the inner door.
 
---Just a moment, Mr Crawford, he said. I just want to phone about an ad.
+-- Just a moment, Mr Crawford, he said. I just want to phone about an ad.
 
 He went in.
 
---What about that leader this evening? professor MacHugh asked, coming
+-- What about that leader this evening? professor MacHugh asked, coming
 to the editor and laying a firm hand on his shoulder.
 
---That'll be all right, Myles Crawford said more calmly. Never you fret.
+-- That'll be all right, Myles Crawford said more calmly. Never you fret.
 Hello, Jack. That's all right.
 
---Good day, Myles, J. J. O'Molloy said, letting the pages he held slip
+-- Good day, Myles, J. J. O'Molloy said, letting the pages he held slip
 limply back on the file. Is that Canada swindle case on today?
 
 The telephone whirred inside.
 
---Twentyeight ... No, twenty ... Double four ... Yes.
+-- Twentyeight ... No, twenty ... Double four ... Yes.
 
 
     SPOT THE WINNER
@@ -5991,7 +5991,7 @@ The telephone whirred inside.
 
 Lenehan came out of the inner office with SPORT'S tissues.
 
---Who wants a dead cert for the Gold cup? he asked. Sceptre with O.
+-- Who wants a dead cert for the Gold cup? he asked. Sceptre with O.
 Madden up.
 
 He tossed the tissues on to the table.
@@ -5999,37 +5999,37 @@ He tossed the tissues on to the table.
 Screams of newsboys barefoot in the hall rushed near and the door
 was flung open.
 
---Hush, Lenehan said. I hear feetstoops.
+-- Hush, Lenehan said. I hear feetstoops.
 
 Professor MacHugh strode across the room and seized the cringing
 urchin by the collar as the others scampered out of the hall and down the
 steps. The tissues rustled up in the draught, floated softly in the air
 blue scrawls and under the table came to earth.
 
---It wasn't me, sir. It was the big fellow shoved me, sir.
+-- It wasn't me, sir. It was the big fellow shoved me, sir.
 
---Throw him out and shut the door, the editor said. There's a hurricane
+-- Throw him out and shut the door, the editor said. There's a hurricane
 blowing.
 
 Lenehan began to paw the tissues up from the floor, grunting as he
 stooped twice.
 
---Waiting for the racing special, sir, the newsboy said. It was Pat
+-- Waiting for the racing special, sir, the newsboy said. It was Pat
 Farrell shoved me, sir.
 
 He pointed to two faces peering in round the doorframe.
 
---Him, sir.
+-- Him, sir.
 
---Out of this with you, professor MacHugh said gruffly.
+-- Out of this with you, professor MacHugh said gruffly.
 
 He hustled the boy out and banged the door to.
 
 J. J. O'Molloy turned the files crackingly over, murmuring, seeking:
 
---Continued on page six, column four.
+-- Continued on page six, column four.
 
---Yes, EVENING TELEGRAPH here, Mr Bloom phoned from the inner office. Is
+-- Yes, EVENING TELEGRAPH here, Mr Bloom phoned from the inner office. Is
 the boss ...? Yes, TELEGRAPH ... To where? Aha! Which auction rooms? ...
 Aha! I see ... Right. I'll catch him.
 
@@ -6040,19 +6040,19 @@ Aha! I see ... Right. I'll catch him.
 The bell whirred again as he rang off. He came in quickly and
 bumped against Lenehan who was struggling up with the second tissue.
 
---PARDON, MONSIEUR, Lenehan said, clutching him for an instant and making
+-- PARDON, MONSIEUR, Lenehan said, clutching him for an instant and making
 a grimace.
 
---My fault, Mr Bloom said, suffering his grip. Are you hurt? I'm in a
+-- My fault, Mr Bloom said, suffering his grip. Are you hurt? I'm in a
 hurry.
 
---Knee, Lenehan said.
+-- Knee, Lenehan said.
 
 He made a comic face and whined, rubbing his knee:
 
---The accumulation of the ANNO DOMINI.
+-- The accumulation of the ANNO DOMINI.
 
---Sorry, Mr Bloom said.
+-- Sorry, Mr Bloom said.
 
 He went to the door and, holding it ajar, paused. J. J. O'Molloy
 slapped the heavy pages over. The noise of two shrill voices, a
@@ -6060,32 +6060,32 @@ mouthorgan, echoed in the bare hallway from the newsboys squatted on the
 doorsteps:
 
 
-  --WE ARE THE BOYS OF WEXFORD
+  -- WE ARE THE BOYS OF WEXFORD
     WHO FOUGHT WITH HEART AND HAND.
 
 
     EXIT BLOOM
 
 
---I'm just running round to Bachelor's walk, Mr Bloom said, about this ad
+-- I'm just running round to Bachelor's walk, Mr Bloom said, about this ad
 of Keyes's. Want to fix it up. They tell me he's round there in Dillon's.
 
 He looked indecisively for a moment at their faces. The editor who,
 leaning against the mantelshelf, had propped his head on his hand,
 suddenly stretched forth an arm amply.
 
---Begone! he said. The world is before you.
+-- Begone! he said. The world is before you.
 
---Back in no time, Mr Bloom said, hurrying out.
+-- Back in no time, Mr Bloom said, hurrying out.
 
 J. J. O'Molloy took the tissues from Lenehan's hand and read them,
 blowing them apart gently, without comment.
 
---He'll get that advertisement, the professor said, staring through his
+-- He'll get that advertisement, the professor said, staring through his
 blackrimmed spectacles over the crossblind. Look at the young scamps after
 him.
 
---Show. Where? Lenehan cried, running to the window.
+-- Show. Where? Lenehan cried, running to the window.
 
 
     A STREET CORTEGE
@@ -6095,7 +6095,7 @@ Both smiled over the crossblind at the file of capering newsboys in Mr
 Bloom's wake, the last zigzagging white on the breeze a mocking kite, a
 tail of white bowknots.
 
---Look at the young guttersnipe behind him hue and cry, Lenehan said, and
+-- Look at the young guttersnipe behind him hue and cry, Lenehan said, and
 you'll kick. O, my rib risible! Taking off his flat spaugs and the walk.
 Small nines. Steal upon larks.
 
@@ -6103,21 +6103,21 @@ He began to mazurka in swift caricature across the floor on sliding
 feet past the fireplace to J. J. O'Molloy who placed the tissues in his
 receiving hands.
 
---What's that? Myles Crawford said with a start. Where are the other two
+-- What's that? Myles Crawford said with a start. Where are the other two
 gone?
 
---Who? the professor said, turning. They're gone round to the Oval for a
+-- Who? the professor said, turning. They're gone round to the Oval for a
 drink. Paddy Hooper is there with Jack Hall. Came over last night.
 
---Come on then, Myles Crawford said. Where's my hat?
+-- Come on then, Myles Crawford said. Where's my hat?
 
 He walked jerkily into the office behind, parting the vent of his jacket,
 jingling his keys in his back pocket. They jingled then in the air and
 against the wood as he locked his desk drawer.
 
---He's pretty well on, professor MacHugh said in a low voice.
+-- He's pretty well on, professor MacHugh said in a low voice.
 
---Seems to be, J. J. O'Molloy said, taking out a cigarettecase in
+-- Seems to be, J. J. O'Molloy said, taking out a cigarettecase in
 murmuring meditation, but it is not always as it seems. Who has the most
 matches?
 
@@ -6129,44 +6129,44 @@ He offered a cigarette to the professor and took one himself. Lenehan
 promptly struck a match for them and lit their cigarettes in turn. J. J.
 O'Molloy opened his case again and offered it.
 
---THANKY VOUS, Lenehan said, helping himself.
+-- THANKY VOUS, Lenehan said, helping himself.
 
 The editor came from the inner office, a straw hat awry on his brow.
 He declaimed in song, pointing sternly at professor MacHugh:
 
 
-  --'TWAS RANK AND FAME THAT TEMPTED THEE,
+  -- 'TWAS RANK AND FAME THAT TEMPTED THEE,
     'TWAS EMPIRE CHARMED THY HEART.
 
 
 The professor grinned, locking his long lips.
 
---Eh? You bloody old Roman empire? Myles Crawford said.
+-- Eh? You bloody old Roman empire? Myles Crawford said.
 
 He took a cigarette from the open case. Lenehan, lighting it for him
 with quick grace, said:
 
---Silence for my brandnew riddle!
+-- Silence for my brandnew riddle!
 
---IMPERIUM ROMANUM, J. J. O'Molloy said gently. It sounds nobler than
+-- IMPERIUM ROMANUM, J. J. O'Molloy said gently. It sounds nobler than
 British or Brixton. The word reminds one somehow of fat in the fire.
 
 Myles Crawford blew his first puff violently towards the ceiling.
 
---That's it, he said. We are the fat. You and I are the fat in the fire.
+-- That's it, he said. We are the fat. You and I are the fat in the fire.
 We haven't got the chance of a snowball in hell.
 
 
     THE GRANDEUR THAT WAS ROME
 
 
---Wait a moment, professor MacHugh said, raising two quiet claws. We
+-- Wait a moment, professor MacHugh said, raising two quiet claws. We
 mustn't be led away by words, by sounds of words. We think of Rome,
 imperial, imperious, imperative.
 
 He extended elocutionary arms from frayed stained shirtcuffs, pausing:
 
---What was their civilisation? Vast, I allow: but vile. Cloacae: sewers.
+-- What was their civilisation? Vast, I allow: but vile. Cloacae: sewers.
 The Jews in the wilderness and on the mountaintop said: IT IS MEET TO BE
 HERE. LET US BUILD AN ALTAR TO JEHOVAH. The Roman, like the Englishman who
 follows in his footsteps, brought to every new shore on which he set his
@@ -6174,30 +6174,30 @@ foot (on our shore he never set it) only his cloacal obsession. He gazed
 about him in his toga and he said: IT IS MEET TO BE HERE. LET US CONSTRUCT
 A WATERCLOSET.
 
---Which they accordingly did do, Lenehan said. Our old ancient ancestors,
+-- Which they accordingly did do, Lenehan said. Our old ancient ancestors,
 as we read in the first chapter of Guinness's, were partial to the running
 stream.
 
---They were nature's gentlemen, J. J. O'Molloy murmured. But we have
+-- They were nature's gentlemen, J. J. O'Molloy murmured. But we have
 also Roman law.
 
---And Pontius Pilate is its prophet, professor MacHugh responded.
+-- And Pontius Pilate is its prophet, professor MacHugh responded.
 
---Do you know that story about chief baron Palles? J. J. O'Molloy asked.
+-- Do you know that story about chief baron Palles? J. J. O'Molloy asked.
 It was at the royal university dinner. Everything was going
 swimmingly ...
 
---First my riddle, Lenehan said. Are you ready?
+-- First my riddle, Lenehan said. Are you ready?
 
 Mr O'Madden Burke, tall in copious grey of Donegal tweed, came in
 from the hallway. Stephen Dedalus, behind him, uncovered as he entered.
 
---ENTREZ, MES ENFANTS! Lenehan cried.
+-- ENTREZ, MES ENFANTS! Lenehan cried.
 
---I escort a suppliant, Mr O'Madden Burke said melodiously. Youth led by
+-- I escort a suppliant, Mr O'Madden Burke said melodiously. Youth led by
 Experience visits Notoriety.
 
---How do you do? the editor said, holding out a hand. Come in. Your
+-- How do you do? the editor said, holding out a hand. Come in. Your
 governor is just gone.
 
 
@@ -6206,18 +6206,18 @@ governor is just gone.
 
 Lenehan said to all:
 
---Silence! What opera resembles a railwayline? Reflect, ponder,
+-- Silence! What opera resembles a railwayline? Reflect, ponder,
 excogitate, reply.
 
 Stephen handed over the typed sheets, pointing to the title and signature.
 
---Who? the editor asked.
+-- Who? the editor asked.
 
 Bit torn off.
 
---Mr Garrett Deasy, Stephen said.
+-- Mr Garrett Deasy, Stephen said.
 
---That old pelters, the editor said. Who tore it? Was he short taken?
+-- That old pelters, the editor said. Who tore it? Was he short taken?
 
 
     ON SWIFT SAIL FLAMING
@@ -6226,7 +6226,7 @@ Bit torn off.
     MOUTH TO MY MOUTH.
 
 
---Good day, Stephen, the professor said, coming to peer over their
+-- Good day, Stephen, the professor said, coming to peer over their
 shoulders. Foot and mouth? Are you turned ...?
 
 Bullockbefriending bard.
@@ -6235,10 +6235,10 @@ Bullockbefriending bard.
     SHINDY IN WELLKNOWN RESTAURANT
 
 
---Good day, sir, Stephen answered blushing. The letter is not mine. Mr
+-- Good day, sir, Stephen answered blushing. The letter is not mine. Mr
 Garrett Deasy asked me to ...
 
---O, I know him, Myles Crawford said, and I knew his wife too. The
+-- O, I know him, Myles Crawford said, and I knew his wife too. The
 bloodiest old tartar God ever made. By Jesus, she had the foot and mouth
 disease and no mistake! The night she threw the soup in the waiter's face
 in the Star and Garter. Oho!
@@ -6246,23 +6246,23 @@ in the Star and Garter. Oho!
 A woman brought sin into the world. For Helen, the runaway wife of
 Menelaus, ten years the Greeks. O'Rourke, prince of Breffni.
 
---Is he a widower? Stephen asked.
+-- Is he a widower? Stephen asked.
 
---Ay, a grass one, Myles Crawford said, his eye running down the
+-- Ay, a grass one, Myles Crawford said, his eye running down the
 typescript. Emperor's horses. Habsburg. An Irishman saved his life on the
 ramparts of Vienna. Don't you forget! Maximilian Karl O'Donnell, graf
 von Tirconnell in Ireland. Sent his heir over to make the king an Austrian
 fieldmarshal now. Going to be trouble there one day. Wild geese. O yes,
 every time. Don't you forget that!
 
---The moot point is did he forget it, J. J. O'Molloy said quietly,
+-- The moot point is did he forget it, J. J. O'Molloy said quietly,
 turning a horseshoe paperweight. Saving princes is a thank you job.
 
 Professor MacHugh turned on him.
 
---And if not? he said.
+-- And if not? he said.
 
---I'll tell you how it was, Myles Crawford began. A Hungarian it was one
+-- I'll tell you how it was, Myles Crawford began. A Hungarian it was one
 day ...
 
 
@@ -6272,7 +6272,7 @@ day ...
     NOBLE MARQUESS MENTIONED
 
 
---We were always loyal to lost causes, the professor said. Success for us
+-- We were always loyal to lost causes, the professor said. Success for us
 is the death of the intellect and of the imagination. We were never loyal
 to the successful. We serve them. I teach the blatant Latin language. I
 speak the tongue of a race the acme of whose mentality is the maxim: time
@@ -6286,7 +6286,7 @@ Lord Jesus? Lord Salisbury? A sofa in a westend club. But the Greek!
 A smile of light brightened his darkrimmed eyes, lengthened his long
 lips.
 
---The Greek! he said again. KYRIOS! Shining word! The vowels the Semite
+-- The Greek! he said again. KYRIOS! Shining word! The vowels the Semite
 and the Saxon know not. KYRIE! The radiance of the intellect. I ought to
 profess Greek, the language of the mind. KYRIE ELEISON! The closetmaker
 and the cloacamaker will never be lords of our spirit. We are liege
@@ -6298,10 +6298,10 @@ Loyal to a lost cause.
 
 He strode away from them towards the window.
 
---They went forth to battle, Mr O'Madden Burke said greyly, but they
+-- They went forth to battle, Mr O'Madden Burke said greyly, but they
 always fell.
 
---Boohoo! Lenehan wept with a little noise. Owing to a brick received in
+-- Boohoo! Lenehan wept with a little noise. Owing to a brick received in
 the latter half of the MATINEE. Poor, poor, poor Pyrrhus!
 
 He whispered then near Stephen's ear:
@@ -6309,7 +6309,7 @@ He whispered then near Stephen's ear:
 
     LENEHAN'S LIMERICK
 
-  --THERE'S A PONDEROUS PUNDIT MACHUGH
+  -- THERE'S A PONDEROUS PUNDIT MACHUGH
     WHO WEARS GOGGLES OF EBONY HUE.
     AS HE MOSTLY SEES DOUBLE
     TO WEAR THEM WHY TROUBLE?
@@ -6320,24 +6320,24 @@ In mourning for Sallust, Mulligan says. Whose mother is beastly dead.
 
 Myles Crawford crammed the sheets into a sidepocket.
 
---That'll be all right, he said. I'll read the rest after. That'll be all
+-- That'll be all right, he said. I'll read the rest after. That'll be all
 right.
 
 Lenehan extended his hands in protest.
 
---But my riddle! he said. What opera is like a railwayline?
+-- But my riddle! he said. What opera is like a railwayline?
 
---Opera? Mr O'Madden Burke's sphinx face reriddled.
+-- Opera? Mr O'Madden Burke's sphinx face reriddled.
 
 Lenehan announced gladly:
 
 
---THE ROSE OF CASTILE. See the wheeze? Rows of cast steel. Gee!
+-- THE ROSE OF CASTILE. See the wheeze? Rows of cast steel. Gee!
 
 He poked Mr O'Madden Burke mildly in the spleen. Mr O'Madden Burke
 fell back with grace on his umbrella, feigning a gasp.
 
---Help! he sighed. I feel a strong weakness.
+-- Help! he sighed. I feel a strong weakness.
 
 Lenehan, rising to tiptoe, fanned his face rapidly with the rustling
 tissues.
@@ -6345,9 +6345,9 @@ tissues.
 The professor, returning by way of the files, swept his hand across
 Stephen's and Mr O'Madden Burke's loose ties.
 
---Paris, past and present, he said. You look like communards.
+-- Paris, past and present, he said. You look like communards.
 
---Like fellows who had blown up the Bastile, J. J. O'Molloy said in quiet
+-- Like fellows who had blown up the Bastile, J. J. O'Molloy said in quiet
 mockery. Or was it you shot the lord lieutenant of Finland between you?
 You look as though you had done the deed. General Bobrikoff.
 
@@ -6355,22 +6355,22 @@ You look as though you had done the deed. General Bobrikoff.
     OMNIUM GATHERUM
 
 
---We were only thinking about it, Stephen said.
+-- We were only thinking about it, Stephen said.
 
---All the talents, Myles Crawford said. Law, the classics ...
+-- All the talents, Myles Crawford said. Law, the classics ...
 
---The turf, Lenehan put in.
+-- The turf, Lenehan put in.
 
---Literature, the press.
+-- Literature, the press.
 
---If Bloom were here, the professor said. The gentle art of advertisement.
+-- If Bloom were here, the professor said. The gentle art of advertisement.
 
---And Madam Bloom, Mr O'Madden Burke added. The vocal muse. Dublin's
+-- And Madam Bloom, Mr O'Madden Burke added. The vocal muse. Dublin's
 prime favourite.
 
  Lenehan gave a loud cough.
 
---Ahem! he said very softly. O, for a fresh of breath air! I caught a
+-- Ahem! he said very softly. O, for a fresh of breath air! I caught a
 cold in the park. The gate was open.
 
 
@@ -6379,27 +6379,27 @@ cold in the park. The gate was open.
 
 The editor laid a nervous hand on Stephen's shoulder.
 
---I want you to write something for me, he said. Something with a bite in
+-- I want you to write something for me, he said. Something with a bite in
 it. You can do it. I see it in your face. IN THE LEXICON OF YOUTH ...
 
 See it in your face. See it in your eye. Lazy idle little schemer.
 
---Foot and mouth disease! the editor cried in scornful invective. Great
+-- Foot and mouth disease! the editor cried in scornful invective. Great
 nationalist meeting in Borris-in-Ossory. All balls! Bulldosing the public!
 Give them something with a bite in it. Put us all into it, damn its soul.
 Father, Son and Holy Ghost and Jakes M'Carthy.
 
---We can all supply mental pabulum, Mr O'Madden Burke said.
+-- We can all supply mental pabulum, Mr O'Madden Burke said.
 
 Stephen raised his eyes to the bold unheeding stare.
 
---He wants you for the pressgang, J. J. O'Molloy said.
+-- He wants you for the pressgang, J. J. O'Molloy said.
 
 
     THE GREAT GALLAHER
 
 
---You can do it, Myles Crawford repeated, clenching his hand in emphasis.
+-- You can do it, Myles Crawford repeated, clenching his hand in emphasis.
 Wait a minute. We'll paralyse Europe as Ignatius Gallaher used to say when
 he was on the shaughraun, doing billiardmarking in the Clarence. Gallaher,
 that was a pressman for you. That was a pen. You know how he made his
@@ -6409,36 +6409,36 @@ the Phoenix park, before you were born, I suppose. I'll show you.
 
 He pushed past them to the files.
 
---Look at here, he said turning. The NEW YORK WORLD cabled for a special.
+-- Look at here, he said turning. The NEW YORK WORLD cabled for a special.
 Remember that time?
 
 Professor MacHugh nodded.
 
---NEW YORK WORLD, the editor said, excitedly pushing back his straw hat.
+-- NEW YORK WORLD, the editor said, excitedly pushing back his straw hat.
 Where it took place. Tim Kelly, or Kavanagh I mean. Joe Brady and the
 rest of them. Where Skin-the-Goat drove the car. Whole route, see?
 
---Skin-the-Goat, Mr O'Madden Burke said. Fitzharris. He has that
+-- Skin-the-Goat, Mr O'Madden Burke said. Fitzharris. He has that
 cabman's shelter, they say, down there at Butt bridge. Holohan told me.
 You know Holohan?
 
---Hop and carry one, is it? Myles Crawford said.
+-- Hop and carry one, is it? Myles Crawford said.
 
---And poor Gumley is down there too, so he told me, minding stones for
+-- And poor Gumley is down there too, so he told me, minding stones for
 the corporation. A night watchman.
 
 Stephen turned in surprise.
 
---Gumley? he said. You don't say so? A friend of my father's, is it?
+-- Gumley? he said. You don't say so? A friend of my father's, is it?
 
---Never mind Gumley, Myles Crawford cried angrily. Let Gumley mind
+-- Never mind Gumley, Myles Crawford cried angrily. Let Gumley mind
 the stones, see they don't run away. Look at here. What did Ignatius
 Gallaher do? I'll tell you. Inspiration of genius. Cabled right away. Have
 you WEEKLY FREEMAN of 17 March? Right. Have you got that?
 
 He flung back pages of the files and stuck his finger on a point.
 
---Take page four, advertisement for Bransome's coffee, let us say. Have
+-- Take page four, advertisement for Bransome's coffee, let us say. Have
 you got that? Right.
 
 The telephone whirred.
@@ -6447,84 +6447,84 @@ The telephone whirred.
     A DISTANT VOICE
 
 
---I'll answer it, the professor said, going.
+-- I'll answer it, the professor said, going.
 
---B is parkgate. Good.
+-- B is parkgate. Good.
 
 His finger leaped and struck point after point, vibrating.
 
---T is viceregal lodge. C is where murder took place. K is Knockmaroon
+-- T is viceregal lodge. C is where murder took place. K is Knockmaroon
 gate.
 
 The loose flesh of his neck shook like a cock's wattles. An illstarched
 dicky jutted up and with a rude gesture he thrust it back into his
 waistcoat.
 
---Hello? EVENING TELEGRAPH here ... Hello?... Who's there? ...
+-- Hello? EVENING TELEGRAPH here ... Hello?... Who's there? ...
 Yes ... Yes ... Yes.
 
---F to P is the route Skin-the-Goat drove the car for an alibi, Inchicore,
+-- F to P is the route Skin-the-Goat drove the car for an alibi, Inchicore,
 Roundtown, Windy Arbour, Palmerston Park, Ranelagh. F.A.B.P. Got that?
 X is Davy's publichouse in upper Leeson street.
 
 The professor came to the inner door.
 
---Bloom is at the telephone, he said.
+-- Bloom is at the telephone, he said.
 
---Tell him go to hell, the editor said promptly. X is Davy's publichouse,
+-- Tell him go to hell, the editor said promptly. X is Davy's publichouse,
 see?
 
 
     CLEVER, VERY
 
 
---Clever, Lenehan said. Very.
+-- Clever, Lenehan said. Very.
 
---Gave it to them on a hot plate, Myles Crawford said, the whole bloody
+-- Gave it to them on a hot plate, Myles Crawford said, the whole bloody
 history.
 
 Nightmare from which you will never awake.
 
---I saw it, the editor said proudly. I was present. Dick Adams, the
+-- I saw it, the editor said proudly. I was present. Dick Adams, the
 besthearted bloody Corkman the Lord ever put the breath of life in, and
 myself.
 
 Lenehan bowed to a shape of air, announcing:
 
---Madam, I'm Adam. And Able was I ere I saw Elba.
+-- Madam, I'm Adam. And Able was I ere I saw Elba.
 
---History! Myles Crawford cried. The Old Woman of Prince's street was
+-- History! Myles Crawford cried. The Old Woman of Prince's street was
 there first. There was weeping and gnashing of teeth over that. Out of an
 advertisement. Gregor Grey made the design for it. That gave him the leg
 up. Then Paddy Hooper worked Tay Pay who took him on to the STAR.
 Now he's got in with Blumenfeld. That's press. That's talent. Pyatt! He
 was all their daddies!
 
---The father of scare journalism, Lenehan confirmed, and the
+-- The father of scare journalism, Lenehan confirmed, and the
 brother-in-law of Chris Callinan.
 
---Hello? ... Are you there? ... Yes, he's here still. Come across
+-- Hello? ... Are you there? ... Yes, he's here still. Come across
 yourself.
 
---Where do you find a pressman like that now, eh? the editor cried.
+-- Where do you find a pressman like that now, eh? the editor cried.
 He flung the pages down.
 
---Clamn dever, Lenehan said to Mr O'Madden Burke.
+-- Clamn dever, Lenehan said to Mr O'Madden Burke.
 
---Very smart, Mr O'Madden Burke said.
+-- Very smart, Mr O'Madden Burke said.
 
 Professor MacHugh came from the inner office.
 
---Talking about the invincibles, he said, did you see that some hawkers
+-- Talking about the invincibles, he said, did you see that some hawkers
 were up before the recorder ...
 
---O yes, J. J. O'Molloy said eagerly. Lady Dudley was walking home
+-- O yes, J. J. O'Molloy said eagerly. Lady Dudley was walking home
 through the park to see all the trees that were blown down by that cyclone
 last year and thought she'd buy a view of Dublin. And it turned out to be
 a commemoration postcard of Joe Brady or Number One or Skin-the-Goat.
 Right outside the viceregal lodge, imagine!
 
---They're only in the hook and eye department, Myles Crawford said.
+-- They're only in the hook and eye department, Myles Crawford said.
 Psha! Press and the bar! Where have you a man now at the bar like those
 fellows, like Whiteside, like Isaac Butt, like silvertongued O'Hagan. Eh?
 Ah, bloody nonsense. Psha! Only in the halfpenny place.
@@ -6553,7 +6553,7 @@ russet, entwining, PER L'AER PERSO, in mauve, in purple, QUELLA PACIFICA
 ORIAFIAMMA, gold of oriflamme, DI RIMIRAR FE PIU ARDENTI. But I old men,
 penitent, leadenfooted, underdarkneath the night: mouth south: tomb womb.
 
---Speak up for yourself, Mr O'Madden Burke said.
+-- Speak up for yourself, Mr O'Madden Burke said.
 
 
     SUFFICIENT FOR THE DAY ...
@@ -6561,7 +6561,7 @@ penitent, leadenfooted, underdarkneath the night: mouth south: tomb womb.
 
 J. J. O'Molloy, smiling palely, took up the gage.
 
---My dear Myles, he said, flinging his cigarette aside, you put a false
+-- My dear Myles, he said, flinging his cigarette aside, you put a false
 construction on my words. I hold no brief, as at present advised, for the
 third profession qua profession but your Cork legs are running away with
 you. Why not bring in Henry Grattan and Flood and Demosthenes and
@@ -6575,21 +6575,21 @@ eloquence like Whiteside? Sufficient for the day is the newspaper thereof.
     LINKS WITH BYGONE DAYS OF YORE
 
 
---Grattan and Flood wrote for this very paper, the editor cried in his
+-- Grattan and Flood wrote for this very paper, the editor cried in his
 face. Irish volunteers. Where are you now? Established 1763. Dr Lucas.
 Who have you now like John Philpot Curran? Psha!
 
---Well, J. J. O'Molloy said, Bushe K.C., for example.
+-- Well, J. J. O'Molloy said, Bushe K.C., for example.
 
---Bushe? the editor said. Well, yes: Bushe, yes. He has a strain of it in
+-- Bushe? the editor said. Well, yes: Bushe, yes. He has a strain of it in
 his blood. Kendal Bushe or I mean Seymour Bushe.
 
---He would have been on the bench long ago, the professor said, only
+-- He would have been on the bench long ago, the professor said, only
 for ... But no matter.
 
 J. J. O'Molloy turned to Stephen and said quietly and slowly:
 
---One of the most polished periods I think I ever listened to in my life
+-- One of the most polished periods I think I ever listened to in my life
 fell from the lips of Seymour Bushe. It was in that case of fratricide,
 the Childs murder case. Bushe defended him.
 
@@ -6600,19 +6600,19 @@ the Childs murder case. Bushe defended him.
 By the way how did he find that out? He died in his sleep. Or the
 other story, beast with two backs?
 
---What was that? the professor asked.
+-- What was that? the professor asked.
 
 
     ITALIA, MAGISTRA ARTIUM
 
 
---He spoke on the law of evidence, J. J. O'Molloy said, of Roman justice
+-- He spoke on the law of evidence, J. J. O'Molloy said, of Roman justice
 as contrasted with the earlier Mosaic code, the LEX TALIONIS. And he cited
 the Moses of Michelangelo in the vatican.
 
---Ha.
+-- Ha.
 
---A few wellchosen words, Lenehan prefaced. Silence!
+-- A few wellchosen words, Lenehan prefaced. Silence!
 
 Pause. J. J. O'Molloy took out his cigarettecase.
 
@@ -6630,7 +6630,7 @@ that determined the whole aftercourse of both our lives.
 
 J. J. O'Molloy resumed, moulding his words:
 
---He said of it: THAT STONY EFFIGY IN FROZEN MUSIC, HORNED AND TERRIBLE,
+-- He said of it: THAT STONY EFFIGY IN FROZEN MUSIC, HORNED AND TERRIBLE,
 OF THE HUMAN FORM DIVINE, THAT ETERNAL SYMBOL OF WISDOM AND OF PROPHECY
 WHICH, IF AUGHT THAT THE IMAGINATION OR THE HAND OF SCULPTOR HAS WROUGHT
 IN MARBLE OF SOULTRANSFIGURED AND OF SOULTRANSFIGURING DESERVES TO LIVE,
@@ -6638,24 +6638,24 @@ DESERVES TO LIVE.
 
 His slim hand with a wave graced echo and fall.
 
---Fine! Myles Crawford said at once.
+-- Fine! Myles Crawford said at once.
 
---The divine afflatus, Mr O'Madden Burke said.
+-- The divine afflatus, Mr O'Madden Burke said.
 
---You like it? J. J. O'Molloy asked Stephen.
+-- You like it? J. J. O'Molloy asked Stephen.
 
 Stephen, his blood wooed by grace of language and gesture, blushed.
 He took a cigarette from the case. J. J. O'Molloy offered his case to
 Myles Crawford. Lenehan lit their cigarettes as before and took his
 trophy, saying:
 
---Muchibus thankibus.
+-- Muchibus thankibus.
 
 
     A MAN OF HIGH MORALE
 
 
---Professor Magennis was speaking to me about you, J. J. O'Molloy said to
+-- Professor Magennis was speaking to me about you, J. J. O'Molloy said to
 Stephen. What do you think really of that hermetic crowd, the opal hush
 poets: A. E. the mastermystic? That Blavatsky woman started it. She was a
 nice old bag of tricks. A. E. has been telling some yankee interviewer
@@ -6666,7 +6666,7 @@ A. E.'s leg. He is a man of the very highest morale, Magennis.
 Speaking about me. What did he say? What did he say? What did he
 say about me? Don't ask.
 
---No, thanks, professor MacHugh said, waving the cigarettecase aside.
+-- No, thanks, professor MacHugh said, waving the cigarettecase aside.
 Wait a moment. Let me say one thing. The finest display of oratory I ever
 heard was a speech made by John F Taylor at the college historical
 society. Mr Justice Fitzgibbon, the present lord justice of appeal, had
@@ -6675,16 +6675,16 @@ advocating the revival of the Irish tongue.
 
 He turned towards Myles Crawford and said:
 
---You know Gerald Fitzgibbon. Then you can imagine the style of his
+-- You know Gerald Fitzgibbon. Then you can imagine the style of his
 discourse.
 
---He is sitting with Tim Healy, J. J. O'Molloy said, rumour has it, on
+-- He is sitting with Tim Healy, J. J. O'Molloy said, rumour has it, on
 the Trinity college estates commission.
 
---He is sitting with a sweet thing, Myles Crawford said, in a child's
+-- He is sitting with a sweet thing, Myles Crawford said, in a child's
 frock. Go on. Well?
 
---It was the speech, mark you, the professor said, of a finished orator,
+-- It was the speech, mark you, the professor said, of a finished orator,
 full of courteous haughtiness and pouring in chastened diction I will not
 say the vials of his wrath but pouring the proud man's contumely upon the
 new movement. It was then a new movement. We were weak, therefore
@@ -6700,7 +6700,7 @@ ringfinger touching lightly the black rims, steadied them to a new focus.
 
 In ferial tone he addressed J. J. O'Molloy:
 
---Taylor had come there, you must know, from a sickbed. That he had
+-- Taylor had come there, you must know, from a sickbed. That he had
 prepared his speech I do not believe for there was not even one
 shorthandwriter in the hall. His dark lean face had a growth of shaggy
 beard round it. He wore a loose white silk neckcloth and altogether he
@@ -6711,7 +6711,7 @@ Stephen's face and then bent at once to the ground, seeking. His unglazed
 linen collar appeared behind his bent head, soiled by his withering hair.
 Still seeking, he said:
 
---When Fitzgibbon's speech had ended John F Taylor rose to reply.
+-- When Fitzgibbon's speech had ended John F Taylor rose to reply.
 Briefly, as well as I can bring them to mind, his words were these.
 
 He raised his head firmly. His eyes bethought themselves once more.
@@ -6719,7 +6719,7 @@ Witless shellfish swam in the gross lenses to and fro, seeking outlet.
 
 He began:
 
---MR CHAIRMAN, LADIES AND GENTLEMEN: GREAT WAS MY ADMIRATION IN LISTENING
+-- MR CHAIRMAN, LADIES AND GENTLEMEN: GREAT WAS MY ADMIRATION IN LISTENING
 TO THE REMARKS ADDRESSED TO THE YOUTH OF IRELAND A MOMENT SINCE BY MY
 LEARNED FRIEND. IT SEEMED TO ME THAT I HAD BEEN TRANSPORTED INTO A COUNTRY
 FAR AWAY FROM THIS COUNTRY, INTO AN AGE REMOTE FROM THIS AGE, THAT I STOOD
@@ -6731,7 +6731,7 @@ ascending in frail stalks that flowered with his speech. And let our
 crooked smokes. Noble words coming. Look out. Could you try your hand at
 it yourself?
 
---AND IT SEEMED TO ME THAT I HEARD THE VOICE OF THAT EGYPTIAN HIGHPRIEST
+-- AND IT SEEMED TO ME THAT I HEARD THE VOICE OF THAT EGYPTIAN HIGHPRIEST
 RAISED IN A TONE OF LIKE HAUGHTINESS AND LIKE PRIDE. I HEARD HIS WORDS AND
 THEIR MEANING WAS REVEALED TO ME.
 
@@ -6743,7 +6743,7 @@ It was revealed to me that those things are good which yet are
 corrupted which neither if they were supremely good nor unless they were
 good could be corrupted. Ah, curse you! That's saint Augustine.
 
---WHY WILL YOU JEWS NOT ACCEPT OUR CULTURE, OUR RELIGION AND OUR
+-- WHY WILL YOU JEWS NOT ACCEPT OUR CULTURE, OUR RELIGION AND OUR
 LANGUAGE? YOU ARE A TRIBE OF NOMAD HERDSMEN: WE ARE A MIGHTY PEOPLE. YOU
 HAVE NO CITIES NOR NO WEALTH: OUR CITIES ARE HIVES OF HUMANITY AND OUR
 GALLEYS, TRIREME AND  QUADRIREME, LADEN WITH ALL MANNER MERCHANDISE FURROW
@@ -6758,7 +6758,7 @@ Child, man, effigy.
 By the Nilebank the babemaries kneel, cradle of bulrushes: a man
 supple in combat: stonehorned, stonebearded, heart of stone.
 
---YOU PRAY TO A LOCAL AND OBSCURE IDOL: OUR TEMPLES, MAJESTIC AND
+-- YOU PRAY TO A LOCAL AND OBSCURE IDOL: OUR TEMPLES, MAJESTIC AND
 MYSTERIOUS, ARE THE ABODES OF ISIS AND OSIRIS, OF HORUS AND AMMON RA.
 YOURS SERFDOM, AWE AND HUMBLENESS: OURS THUNDER AND THE SEAS. ISRAEL IS
 WEAK AND FEW ARE HER CHILDREN: EGYPT IS AN HOST AND TERRIBLE ARE HER ARMS.
@@ -6767,7 +6767,7 @@ WEAK AND FEW ARE HER CHILDREN: EGYPT IS AN HOST AND TERRIBLE ARE HER ARMS.
 A dumb belch of hunger cleft his speech. He lifted his voice above it
 boldly:
 
---BUT, LADIES AND GENTLEMEN, HAD THE YOUTHFUL MOSES LISTENED TO AND
+-- BUT, LADIES AND GENTLEMEN, HAD THE YOUTHFUL MOSES LISTENED TO AND
 ACCEPTED THAT VIEW OF LIFE, HAD HE BOWED HIS HEAD AND BOWED HIS WILL AND
 BOWED HIS SPIRIT BEFORE THAT ARROGANT ADMONITION HE WOULD NEVER HAVE
 BROUGHT THE CHOSEN PEOPLE OUT OF THEIR HOUSE OF BONDAGE, NOR FOLLOWED THE
@@ -6779,21 +6779,21 @@ THE TABLES OF THE LAW, GRAVEN IN THE LANGUAGE OF THE OUTLAW.
 He ceased and looked at them, enjoying a silence.
 
 
-    OMINOUS--FOR HIM!
+    OMINOUS-- FOR HIM!
 
 
 J. J. O'Molloy said not without regret:
 
---And yet he died without having entered the land of promise.
+-- And yet he died without having entered the land of promise.
 
---A sudden--at--the--moment--though--from--lingering--illness--
-often--previously--expectorated--demise, Lenehan added. And with a
+-- A sudden-- at-- the-- moment-- though-- from-- lingering-- illness-- 
+often-- previously-- expectorated-- demise, Lenehan added. And with a
 great future behind him.
 
 The troop of bare feet was heard rushing along the hallway and
 pattering up the staircase.
 
---That is oratory, the professor said uncontradicted. Gone with the wind.
+-- That is oratory, the professor said uncontradicted. Gone with the wind.
 Hosts at Mullaghmast and Tara of the kings. Miles of ears of porches.
 The tribune's words, howled and scattered to the four winds. A people
 sheltered within his voice. Dead noise. Akasic records of all that ever
@@ -6801,33 +6801,33 @@ anywhere wherever was. Love and laud him: me no more.
 
 I have money.
 
---Gentlemen, Stephen said. As the next motion on the agenda paper may I
+-- Gentlemen, Stephen said. As the next motion on the agenda paper may I
 suggest that the house do now adjourn?
 
---You take my breath away. It is not perchance a French compliment? Mr
+-- You take my breath away. It is not perchance a French compliment? Mr
 O'Madden Burke asked. 'Tis the hour, methinks, when the winejug,
 metaphorically speaking, is most grateful in Ye ancient hostelry.
 
---That it be and hereby is resolutely resolved. All that are in favour
+-- That it be and hereby is resolutely resolved. All that are in favour
 say ay, Lenehan announced. The contrary no. I declare it carried. To which
 particular boosing shed? ... My casting vote is: Mooney's!
 
 He led the way, admonishing:
 
---We will sternly refuse to partake of strong waters, will we not? Yes,
+-- We will sternly refuse to partake of strong waters, will we not? Yes,
 we will not. By no manner of means.
 
 Mr O'Madden Burke, following close, said with an ally's lunge of his
 umbrella:
 
---Lay on, Macduff!
+-- Lay on, Macduff!
 
---Chip of the old block! the editor cried, clapping Stephen on the
+-- Chip of the old block! the editor cried, clapping Stephen on the
 shoulder. Let us go. Where are those blasted keys?
 
 He fumbled in his pocket pulling out the crushed typesheets.
 
---Foot and mouth. I know. That'll be all right. That'll go in. Where are
+-- Foot and mouth. I know. That'll be all right. That'll go in. Where are
 they? That's all right.
 
 He thrust the sheets back and went into the inner office.
@@ -6838,31 +6838,31 @@ He thrust the sheets back and went into the inner office.
 
 J. J. O'Molloy, about to follow him in, said quietly to Stephen:
 
---I hope you will live to see it published. Myles, one moment.
+-- I hope you will live to see it published. Myles, one moment.
 
 He went into the inner office, closing the door behind him.
 
---Come along, Stephen, the professor said. That is fine, isn't it? It has
+-- Come along, Stephen, the professor said. That is fine, isn't it? It has
 the prophetic vision. FUIT ILIUM! The sack of windy Troy. Kingdoms of this
 world. The masters of the Mediterranean are fellaheen today.
 
 The first newsboy came pattering down the stairs at their heels and
 rushed out into the street, yelling:
 
---Racing special!
+-- Racing special!
 
 Dublin. I have much, much to learn.
 
 They turned to the left along Abbey street.
 
---I have a vision too, Stephen said.
+-- I have a vision too, Stephen said.
 
---Yes? the professor said, skipping to get into step. Crawford will
+-- Yes? the professor said, skipping to get into step. Crawford will
 follow.
 
 Another newsboy shot past them, yelling as he ran:
 
---Racing special!
+-- Racing special!
 
 
     DEAR DIRTY DUBLIN
@@ -6870,12 +6870,12 @@ Another newsboy shot past them, yelling as he ran:
 
 Dubliners.
 
---Two Dublin vestals, Stephen said, elderly and pious, have lived fifty
+-- Two Dublin vestals, Stephen said, elderly and pious, have lived fifty
 and fiftythree years in Fumbally's lane.
 
---Where is that? the professor asked.
+-- Where is that? the professor asked.
 
---Off Blackpitts, Stephen said.
+-- Off Blackpitts, Stephen said.
 
 Damp night reeking of hungry dough. Against the wall. Face
 glistering tallow under her fustian shawl. Frantic hearts. Akasic records.
@@ -6883,20 +6883,20 @@ Quicker, darlint!
 
 On now. Dare it. Let there be life.
 
---They want to see the views of Dublin from the top of Nelson's pillar.
+-- They want to see the views of Dublin from the top of Nelson's pillar.
 They save up three and tenpence in a red tin letterbox moneybox. They
 shake out the threepenny bits and sixpences and coax out the pennies with
 the blade of a knife. Two and three in silver and one and seven in
 coppers. They put on their bonnets and best clothes and take their
 umbrellas for fear it may come on to rain.
 
---Wise virgins, professor MacHugh said.
+-- Wise virgins, professor MacHugh said.
 
 
     LIFE ON THE RAW
 
 
---They buy one and fourpenceworth of brawn and four slices of panloaf at
+-- They buy one and fourpenceworth of brawn and four slices of panloaf at
 the north city diningrooms in Marlborough street from Miss Kate Collins,
 proprietress ... They purchase four and twenty ripe plums from a girl at
 the foot of Nelson's pillar to take off the thirst of the brawn. They give
@@ -6911,7 +6911,7 @@ has the lumbago for which she rubs on Lourdes water, given her by a lady
 who got a bottleful from a passionist father. Florence MacCabe takes a
 crubeen and a bottle of double X for supper every Saturday.
 
---Antithesis, the professor said nodding twice. Vestal virgins. I can see
+-- Antithesis, the professor said nodding twice. Vestal virgins. I can see
 them. What's keeping our friend?
 
 He turned.
@@ -6921,7 +6921,7 @@ all directions, yelling, their white papers fluttering. Hard after them
 Myles Crawford appeared on the steps, his hat aureoling his scarlet face,
 talking with J. J. O'Molloy.
 
---Come along, the professor cried, waving his arm.
+-- Come along, the professor cried, waving his arm.
 
 He set off again to walk by Stephen's side.
 
@@ -6929,27 +6929,27 @@ He set off again to walk by Stephen's side.
     RETURN OF BLOOM
 
 
---Yes, he said. I see them.
+-- Yes, he said. I see them.
 
 Mr Bloom, breathless, caught in a whirl of wild newsboys near the
 offices of the IRISH CATHOLIC AND DUBLIN PENNY JOURNAL, called:
 
---Mr Crawford! A moment!
+-- Mr Crawford! A moment!
 
---TELEGRAPH! Racing special!
+-- TELEGRAPH! Racing special!
 
---What is it? Myles Crawford said, falling back a pace.
+-- What is it? Myles Crawford said, falling back a pace.
 
 A newsboy cried in Mr Bloom's face:
 
---Terrible tragedy in Rathmines! A child bit by a bellows!
+-- Terrible tragedy in Rathmines! A child bit by a bellows!
 
 
 
     INTERVIEW WITH THE EDITOR
 
 
---Just this ad, Mr Bloom said, pushing through towards the steps,
+-- Just this ad, Mr Bloom said, pushing through towards the steps,
 puffing, and taking the cutting from his pocket. I spoke with Mr Keyes
 just now. He'll give a renewal for two months, he says. After he'll see.
 But he wants a par to call attention in the TELEGRAPH too, the Saturday
@@ -6964,7 +6964,7 @@ just a little puff. What will I tell him, Mr Crawford?
     K.M.A.
 
 
---Will you tell him he can kiss my arse? Myles Crawford said throwing out
+-- Will you tell him he can kiss my arse? Myles Crawford said throwing out
 his arm for emphasis. Tell him that straight from the stable.
 
 A bit nervy. Look out for squalls. All off for a drink. Arm in arm.
@@ -6973,7 +6973,7 @@ that young Dedalus the moving spirit. Has a good pair of boots on him
 today. Last time I saw him he had his heels on view. Been walking in muck
 somewhere. Careless chap. What was he doing in Irishtown?
 
---Well, Mr Bloom said, his eyes returning, if I can get the design I
+-- Well, Mr Bloom said, his eyes returning, if I can get the design I
 suppose it's worth a short par. He'd give the ad, I think. I'll tell
 him ...
 
@@ -6981,7 +6981,7 @@ him ...
     K.M.R.I.A.
 
 
---He can kiss my royal Irish arse, Myles Crawford cried loudly over his
+-- He can kiss my royal Irish arse, Myles Crawford cried loudly over his
 shoulder. Any time he likes, tell him.
 
 While Mr Bloom stood weighing the point and about to smile he strode
@@ -6991,7 +6991,7 @@ on jerkily.
     RAISING THE WIND
 
 
---NULLA BONA, Jack, he said, raising his hand to his chin. I'm up to
+-- NULLA BONA, Jack, he said, raising his hand to his chin. I'm up to
 here. I've been through the hoop myself. I was looking for a fellow to
 back a bill for me no later than last week. Sorry, Jack. You must take the
 will for the deed. With a heart and a half if I could raise the wind
@@ -7000,22 +7000,22 @@ anyhow.
 J. J. O'Molloy pulled a long face and walked on silently. They caught
 up on the others and walked abreast.
 
---When they have eaten the brawn and the bread and wiped their twenty
+-- When they have eaten the brawn and the bread and wiped their twenty
 fingers in the paper the bread was wrapped in they go nearer to the
 railings.
 
---Something for you, the professor explained to Myles Crawford. Two old
+-- Something for you, the professor explained to Myles Crawford. Two old
 Dublin women on the top of Nelson's pillar.
 
 
-    SOME COLUMN!--
+    SOME COLUMN!-- 
     THAT'S WHAT WADDLER ONE SAID
 
 
---That's new, Myles Crawford said. That's copy. Out for the waxies
+-- That's new, Myles Crawford said. That's copy. Out for the waxies
 Dargle. Two old trickies, what?
 
---But they are afraid the pillar will fall, Stephen went on. They see the
+-- But they are afraid the pillar will fall, Stephen went on. They see the
 roofs and argue about where the different churches are: Rathmines' blue
 dome, Adam and Eve's, saint Laurence O'Toole's. But it makes them giddy to
 look so they pull up their skirts ...
@@ -7024,13 +7024,13 @@ look so they pull up their skirts ...
     THOSE SLIGHTLY RAMBUNCTIOUS FEMALES
 
 
---Easy all, Myles Crawford said. No poetic licence. We're in the
+-- Easy all, Myles Crawford said. No poetic licence. We're in the
 archdiocese here.
 
---And settle down on their striped petticoats, peering up at the statue
+-- And settle down on their striped petticoats, peering up at the statue
 of the onehandled adulterer.
 
---Onehandled adulterer! the professor cried. I like that. I see the idea.
+-- Onehandled adulterer! the professor cried. I like that. I see the idea.
 I see what you mean.
 
 
@@ -7038,7 +7038,7 @@ I see what you mean.
     VELOCITOUS AEROLITHS, BELIEF
 
 
---It gives them a crick in their necks, Stephen said, and they are too
+-- It gives them a crick in their necks, Stephen said, and they are too
 tired to look up or down or to speak. They put the bag of plums between
 them and eat the plums out of it, one after another, wiping off with their
 handkerchiefs the plumjuice that dribbles out of their mouths and spitting
@@ -7047,7 +7047,7 @@ the plumstones slowly out between the railings.
 He gave a sudden loud young laugh as a close. Lenehan and Mr O'Madden
 Burke, hearing, turned, beckoned and led on across towards Mooney's.
 
---Finished? Myles Crawford said. So long as they do no worse.
+-- Finished? Myles Crawford said. So long as they do no worse.
 
 
     SOPHIST WALLOPS HAUGHTY HELEN SQUARE ON
@@ -7055,7 +7055,7 @@ Burke, hearing, turned, beckoned and led on across towards Mooney's.
     VOW PEN IS CHAMP.
 
 
---You remind me of Antisthenes, the professor said, a disciple of
+-- You remind me of Antisthenes, the professor said, a disciple of
 Gorgias, the sophist. It is said of him that none could tell if he were
 bitterer against others or against himself. He was the son of a noble and
 a bondwoman. And he wrote a book in which he took away the palm of beauty
@@ -7079,10 +7079,10 @@ rattling crates of bottles, rattled, rolled, horsedrawn, rapidly.
 
 
 
-    WHAT?--AND LIKEWISE--WHERE?
+    WHAT?-- AND LIKEWISE-- WHERE?
 
 
---But what do you call it? Myles Crawford asked. Where did they get the
+-- But what do you call it? Myles Crawford asked. Where did they get the
 plums?
 
 
@@ -7090,17 +7090,17 @@ plums?
     SOPHOMORE PLUMPS FOR OLD MAN MOSES.
 
 
---Call it, wait, the professor said, opening his long lips wide to
+-- Call it, wait, the professor said, opening his long lips wide to
 reflect. Call it, let me see. Call it: DEUS NOBIS HAEC OTIA FECIT.
 
---No, Stephen said. I call it A PISGAH SIGHT OF PALESTINE OR THE PARABLE
+-- No, Stephen said. I call it A PISGAH SIGHT OF PALESTINE OR THE PARABLE
 OF THE PLUMS.
 
---I see, the professor said.
+-- I see, the professor said.
 
 He laughed richly.
 
---I see, he said again with new pleasure. Moses and the promised land. We
+-- I see, he said again with new pleasure. Moses and the promised land. We
 gave him that idea, he added to J. J. O'Molloy.
 
 
@@ -7110,7 +7110,7 @@ gave him that idea, he added to J. J. O'Molloy.
 J. J. O'Molloy sent a weary sidelong glance towards the statue and
 held his peace.
 
---I see, the professor said.
+-- I see, the professor said.
 
 He halted on sir John Gray's pavement island and peered aloft at Nelson
 through the meshes of his wry smile.
@@ -7118,17 +7118,17 @@ through the meshes of his wry smile.
 
     DIMINISHED DIGITS PROVE TOO TITILLATING
     FOR FRISKY FRUMPS. ANNE WIMBLES, FLO
-    WANGLES--YET CAN YOU BLAME THEM?
+    WANGLES-- YET CAN YOU BLAME THEM?
 
 
---Onehandled adulterer, he said smiling grimly. That tickles me, I must
+-- Onehandled adulterer, he said smiling grimly. That tickles me, I must
 say.
 
---Tickled the old ones too, Myles Crawford said, if the God Almighty's
+-- Tickled the old ones too, Myles Crawford said, if the God Almighty's
 truth was known.
 
 
--------- Lestrygonians ---------
+--------  Lestrygonians ---------
 
 
 Pineapple rock, lemon platt, butter scotch. A sugarsticky girl
@@ -7222,7 +7222,7 @@ Solemn.
     DOOMED FOR A CERTAIN TIME TO WALK THE EARTH.
 
 
---Two apples a penny! Two for a penny!
+-- Two apples a penny! Two for a penny!
 
 His gaze passed over the glazed apples serried on her stand.
 Australians they must be this time of year. Shiny peels: polishes them up
@@ -7383,36 +7383,36 @@ her. Always liked to let her self out. Sitting there after till near two
 taking out her hairpins. Milly tucked up in beddyhouse. Happy. Happy.
 That was the night ...
 
---O, Mr Bloom, how do you do?
+-- O, Mr Bloom, how do you do?
 
---O, how do you do, Mrs Breen?
+-- O, how do you do, Mrs Breen?
 
---No use complaining. How is Molly those times? Haven't seen her for ages.
+-- No use complaining. How is Molly those times? Haven't seen her for ages.
 
---In the pink, Mr Bloom said gaily. Milly has a position down in
+-- In the pink, Mr Bloom said gaily. Milly has a position down in
 Mullingar, you know.
 
---Go away! Isn't that grand for her?
+-- Go away! Isn't that grand for her?
 
---Yes. In a photographer's there. Getting on like a house on fire. How are
+-- Yes. In a photographer's there. Getting on like a house on fire. How are
 all your charges?
 
---All on the baker's list, Mrs Breen said.
+-- All on the baker's list, Mrs Breen said.
 
 How many has she? No other in sight.
 
---You're in black, I see. You have no ...
+-- You're in black, I see. You have no ...
 
---No, Mr Bloom said. I have just come from a funeral.
+-- No, Mr Bloom said. I have just come from a funeral.
 
 Going to crop up all day, I foresee. Who's dead, when and what did
 he die of? Turn up like a bad penny.
 
---O, dear me, Mrs Breen said. I hope it wasn't any near relation.
+-- O, dear me, Mrs Breen said. I hope it wasn't any near relation.
 
 May as well get her sympathy.
 
---Dignam, Mr Bloom said. An old friend of mine. He died quite suddenly,
+-- Dignam, Mr Bloom said. An old friend of mine. He died quite suddenly,
 poor fellow. Heart trouble, I believe. Funeral was this morning.
 
 
@@ -7422,15 +7422,15 @@ poor fellow. Heart trouble, I believe. Funeral was this morning.
     DIDDLEDIDDLE ...
 
 
---Sad to lose the old friends, Mrs Breen's womaneyes said melancholily.
+-- Sad to lose the old friends, Mrs Breen's womaneyes said melancholily.
 
 Now that's quite enough about that. Just: quietly: husband.
 
---And your lord and master?
+-- And your lord and master?
 
 Mrs Breen turned up her two large eyes. Hasn't lost them anyhow.
 
---O, don't be talking! she said. He's a caution to rattlesnakes. He's in
+-- O, don't be talking! she said. He's a caution to rattlesnakes. He's in
 there now with his lawbooks finding out the law of libel. He has me
 heartscalded. Wait till I show you.
 
@@ -7449,38 +7449,38 @@ Husband barging. Where's the ten shillings I gave you on Monday? Are
 you feeding your little brother's family? Soiled handkerchief:
 medicinebottle. Pastille that was fell. What is she? ...
 
---There must be a new moon out, she said. He's always bad then. Do you
+-- There must be a new moon out, she said. He's always bad then. Do you
 know what he did last night?
 
 Her hand ceased to rummage. Her eyes fixed themselves on him, wide
 in alarm, yet smiling.
 
---What? Mr Bloom asked.
+-- What? Mr Bloom asked.
 
 Let her speak. Look straight in her eyes. I believe you. Trust me.
 
---Woke me up in the night, she said. Dream he had, a nightmare.
+-- Woke me up in the night, she said. Dream he had, a nightmare.
 
 Indiges.
 
---Said the ace of spades was walking up the stairs.
+-- Said the ace of spades was walking up the stairs.
 
---The ace of spades! Mr Bloom said.
+-- The ace of spades! Mr Bloom said.
 
 She took a folded postcard from her handbag.
 
---Read that, she said. He got it this morning.
+-- Read that, she said. He got it this morning.
 
---What is it? Mr Bloom asked, taking the card. U.P.?
+-- What is it? Mr Bloom asked, taking the card. U.P.?
 
---U.P.: up, she said. Someone taking a rise out of him. It's a great shame
+-- U.P.: up, she said. Someone taking a rise out of him. It's a great shame
 for them whoever he is.
 
---Indeed it is, Mr Bloom said.
+-- Indeed it is, Mr Bloom said.
 
 She took back the card, sighing.
 
---And now he's going round to Mr Menton's office. He's going to take an
+-- And now he's going round to Mr Menton's office. He's going to take an
 action for ten thousand pounds, he says.
 
 She folded the card into her untidy bag and snapped the catch.
@@ -7500,60 +7500,60 @@ was. In Luke Doyle's long ago. Dolphin's Barn, the charades. U.P.: up.
 
 Change the subject.
 
---Do you ever see anything of Mrs Beaufoy? Mr Bloom asked.
+-- Do you ever see anything of Mrs Beaufoy? Mr Bloom asked.
 
---Mina Purefoy? she said.
+-- Mina Purefoy? she said.
 
 Philip Beaufoy I was thinking. Playgoers' Club. Matcham often
 thinks of the masterstroke. Did I pull the chain? Yes. The last act.
 
---Yes.
+-- Yes.
 
---I just called to ask on the way in is she over it. She's in the lying-in
+-- I just called to ask on the way in is she over it. She's in the lying-in
 hospital in Holles street. Dr Horne got her in. She's three days bad now.
 
---O, Mr Bloom said. I'm sorry to hear that.
+-- O, Mr Bloom said. I'm sorry to hear that.
 
---Yes, Mrs Breen said. And a houseful of kids at home. It's a very stiff
+-- Yes, Mrs Breen said. And a houseful of kids at home. It's a very stiff
 birth, the nurse told me.
 
----O, Mr Bloom said.
+-- -O, Mr Bloom said.
 
 His heavy pitying gaze absorbed her news. His tongue clacked in
 compassion. Dth! Dth!
 
---I'm sorry to hear that, he said. Poor thing! Three days! That's terrible
+-- I'm sorry to hear that, he said. Poor thing! Three days! That's terrible
 for her.
 
 Mrs Breen nodded.
 
---She was taken bad on the Tuesday ...
+-- She was taken bad on the Tuesday ...
 
 Mr Bloom touched her funnybone gently, warning her:
 
---Mind! Let this man pass.
+-- Mind! Let this man pass.
 
 A bony form strode along the curbstone from the river staring with a
 rapt gaze into the sunlight through a heavystringed glass. Tight as a
 skullpiece a tiny hat gripped his head. From his arm a folded dustcoat, a
 stick and an umbrella dangled to his stride.
 
---Watch him, Mr Bloom said. He always walks outside the lampposts. Watch!
+-- Watch him, Mr Bloom said. He always walks outside the lampposts. Watch!
 
---Who is he if it's a fair question? Mrs Breen asked. Is he dotty?
+-- Who is he if it's a fair question? Mrs Breen asked. Is he dotty?
 
---His name is Cashel Boyle O'Connor Fitzmaurice Tisdall Farrell, Mr
+-- His name is Cashel Boyle O'Connor Fitzmaurice Tisdall Farrell, Mr
 Bloom said smiling. Watch!
 
---He has enough of them, she said. Denis will be like that one of these
+-- He has enough of them, she said. Denis will be like that one of these
 days.
 
 She broke off suddenly.
 
---There he is, she said. I must go after him. Goodbye. Remember me to
+-- There he is, she said. I must go after him. Goodbye. Remember me to
 Molly, won't you?
 
---I will, Mr Bloom said.
+-- I will, Mr Bloom said.
 
 He watched her dodge through passers towards the shopfronts. Denis
 Breen in skimpy frockcoat and blue canvas shoes shuffled out of Harrison's
@@ -7698,11 +7698,11 @@ where Mrs Purefoy. Wheels within wheels. Police whistle in my ears still.
 All skedaddled. Why he fixed on me. Give me in charge. Right here it
 began.
 
---Up the Boers!
+-- Up the Boers!
 
---Three cheers for De Wet!
+-- Three cheers for De Wet!
 
---We'll hang Joe Chamberlain on a sourapple tree.
+-- We'll hang Joe Chamberlain on a sourapple tree.
 
 Silly billies: mob of young cubs yelling their guts out. Vinegar hill.
 The Butter exchange band. Few years' time half of them magistrates and
@@ -7720,14 +7720,14 @@ who is the gentleman does be visiting there? Was the young master saying
 anything? Peeping Tom through the keyhole. Decoy duck. Hotblooded young
 student fooling round her fat arms ironing.
 
---Are those yours, Mary?
+-- Are those yours, Mary?
 
---I don't wear such things ... Stop or I'll tell the missus on you.
+-- I don't wear such things ... Stop or I'll tell the missus on you.
 Out half the night.
 
---There are great times coming, Mary. Wait till you see.
+-- There are great times coming, Mary. Wait till you see.
 
---Ah, gelong with your great times coming.
+-- Ah, gelong with your great times coming.
 
 Barmaids too. Tobaccoshopgirls.
 
@@ -7804,7 +7804,7 @@ banquet. Eating orangepeels in the park. Simon Dedalus said when they put
 him in parliament that Parnell would come back from the grave and lead
 him out of the house of commons by the arm.
 
---Of the twoheaded octopus, one of whose heads is the head upon which
+-- Of the twoheaded octopus, one of whose heads is the head upon which
 the ends of the world have forgotten to come while the other speaks with a
 Scotch accent. The tentacles ...
 
@@ -7962,15 +7962,15 @@ Perfumed bodies, warm, full. All kissed, yielded: in deep summer fields,
 tangled pressed grass, in trickling hallways of tenements, along sofas,
 creaking beds.
 
---Jack, love!
+-- Jack, love!
 
---Darling!
+-- Darling!
 
---Kiss me, Reggy!
+-- Kiss me, Reggy!
 
---My boy!
+-- My boy!
 
---Love!
+-- Love!
 
 His heart astir he pushed in the door of the Burton restaurant. Stink
 gripped his trembling breath: pungent meatjuice, slush of greens. See the
@@ -7993,9 +7993,9 @@ Sletty southward of the Boyne. Wonder what he was eating. Something
 galoptious. Saint Patrick converted him to Christianity. Couldn't swallow
 it all however.
 
---Roast beef and cabbage.
+-- Roast beef and cabbage.
 
---One stew.
+-- One stew.
 
 Smells of men. Spaton sawdust, sweetish warmish cigarette smoke, reek of
 plug, spilt beer, men's beery piss, the stale of ferment.
@@ -8011,9 +8011,9 @@ plate, man! Get out of this.
 He gazed round the stooled and tabled eaters, tightening the wings of
 his nose.
 
---Two stouts here.
+-- Two stouts here.
 
---One corned and cabbage.
+-- One corned and cabbage.
 
 That fellow ramming a knifeful of cabbage down as if his life
 depended on it. Good stroke. Give me the fidgets to look. Safer to eat
@@ -8031,16 +8031,16 @@ thu Unchster Bunk un Munchday. Ha? Did you, faith?
 
 Mr Bloom raised two fingers doubtfully to his lips. His eyes said:
 
---Not here. Don't see him.
+-- Not here. Don't see him.
 
 Out. I hate dirty eaters.
 
 He backed towards the door. Get a light snack in Davy Byrne's. Stopgap.
 Keep me going. Had a good breakfast.
 
---Roast and mashed here.
+-- Roast and mashed here.
 
---Pint of stout.
+-- Pint of stout.
 
 Every fellow for his own, tooth and nail. Gulp. Grub. Gulp. Gobstuff.
 
@@ -8085,13 +8085,13 @@ once.
 
 What will I take now? He drew his watch. Let me see now. Shandygaff?
 
---Hello, Bloom, Nosey Flynn said from his nook.
+-- Hello, Bloom, Nosey Flynn said from his nook.
 
---Hello, Flynn.
+-- Hello, Flynn.
 
---How's things?
+-- How's things?
 
---Tiptop ... Let me see. I'll take a glass of burgundy and ... let
+-- Tiptop ... Let me see. I'll take a glass of burgundy and ... let
 me see.
 
 Sardines on the shelves. Almost taste them by looking. Sandwich?
@@ -8110,9 +8110,9 @@ depend on some fellow's digestion. Religions. Christmas turkeys and geese.
 Slaughter of innocents. Eat drink and be merry. Then casual wards full
 after. Heads bandaged. Cheese digests all but itself. Mity cheese.
 
---Have you a cheese sandwich?
+-- Have you a cheese sandwich?
 
---Yes, sir.
+-- Yes, sir.
 
 Like a few olives too if they had them. Italian I prefer. Good glass of
 burgundy take away that. Lubricate. A nice salad, cool as a cucumber, Tom
@@ -8120,46 +8120,46 @@ Kernan can dress. Puts gusto into it. Pure olive oil. Milly served me that
 cutlet with a sprig of parsley. Take one Spanish onion. God made food, the
 devil the cooks. Devilled crab.
 
---Wife well?
+-- Wife well?
 
---Quite well, thanks ... A cheese sandwich, then. Gorgonzola, have you?
+-- Quite well, thanks ... A cheese sandwich, then. Gorgonzola, have you?
 
---Yes, sir.
+-- Yes, sir.
 
 Nosey Flynn sipped his grog.
 
---Doing any singing those times?
+-- Doing any singing those times?
 
 Look at his mouth. Could whistle in his own ear. Flap ears to match.
 Music. Knows as much about it as my coachman. Still better tell him. Does
 no harm. Free ad.
 
---She's engaged for a big tour end of this month. You may have heard
+-- She's engaged for a big tour end of this month. You may have heard
 perhaps.
 
---No. O, that's the style. Who's getting it up?
+-- No. O, that's the style. Who's getting it up?
 
 The curate served.
 
---How much is that?
+-- How much is that?
 
---Seven d., sir ... Thank you, sir.
+-- Seven d., sir ... Thank you, sir.
 
 Mr Bloom cut his sandwich into slender strips. MR MACTRIGGER. Easier
 than the dreamy creamy stuff. HIS FIVE HUNDRED WIVES. HAD THE TIME OF
 THEIR LIVES.
 
---Mustard, sir?
+-- Mustard, sir?
 
---Thank you.
+-- Thank you.
 
 He studded under each lifted strip yellow blobs. THEIR LIVES. I have it.
 IT GREW BIGGER AND BIGGER AND BIGGER.
 
---Getting it up? he said. Well, it's like a company idea, you see. Part
+-- Getting it up? he said. Well, it's like a company idea, you see. Part
 shares and part profits.
 
---Ay, now I remember, Nosey Flynn said, putting his hand in his pocket to
+-- Ay, now I remember, Nosey Flynn said, putting his hand in his pocket to
 scratch his groin. Who is this was telling me? Isn't Blazes Boylan mixed
 up in it?
 
@@ -8175,13 +8175,13 @@ Wine.
 He smellsipped the cordial juice and, bidding his throat strongly to
 speed it, set his wineglass delicately down.
 
---Yes, he said. He's the organiser in point of fact.
+-- Yes, he said. He's the organiser in point of fact.
 
 No fear: no brains.
 
 Nosey Flynn snuffled and scratched. Flea having a good square meal.
 
---He had a good slice of luck, Jack Mooney was telling me, over that
+-- He had a good slice of luck, Jack Mooney was telling me, over that
 boxingmatch Myler Keogh won again that soldier in the Portobello
 barracks. By God, he had the little kipper down in the county Carlow he
 was telling me ...
@@ -8189,7 +8189,7 @@ was telling me ...
 Hope that dewdrop doesn't come down into his glass. No, snuffled it
 up.
 
---For near a month, man, before it came off. Sucking duck eggs by God till
+-- For near a month, man, before it came off. Sucking duck eggs by God till
 further orders. Keep him off the boose, see? O, by God, Blazes is a hairy
 chap.
 
@@ -8198,13 +8198,13 @@ shirtsleeves, cleaning his lips with two wipes of his napkin. Herring's
 blush. Whose smile upon each feature plays with such and such replete.
 Too much fat on the parsnips.
 
---And here's himself and pepper on him, Nosey Flynn said. Can you give
+-- And here's himself and pepper on him, Nosey Flynn said. Can you give
 us a good one for the Gold cup?
 
---I'm off that, Mr Flynn, Davy Byrne answered. I never put anything on a
+-- I'm off that, Mr Flynn, Davy Byrne answered. I never put anything on a
 horse.
 
---You're right there, Nosey Flynn said.
+-- You're right there, Nosey Flynn said.
 
 Mr Bloom ate his strips of sandwich, fresh clean bread, with relish of
 disgust pungent mustard, the feety savour of green cheese. Sips of his
@@ -8214,31 +8214,31 @@ the chill off.
 Nice quiet bar. Nice piece of wood in that counter. Nicely planed.
 Like the way it curves there.
 
---I wouldn't do anything at all in that line, Davy Byrne said. It ruined
+-- I wouldn't do anything at all in that line, Davy Byrne said. It ruined
 many a man, the same horses.
 
 Vintners' sweepstake. Licensed for the sale of beer, wine and spirits
 for consumption on the premises. Heads I win tails you lose.
 
---True for you, Nosey Flynn said. Unless you're in the know. There's no
+-- True for you, Nosey Flynn said. Unless you're in the know. There's no
 straight sport going now. Lenehan gets some good ones. He's giving
 Sceptre today. Zinfandel's the favourite, lord Howard de Walden's, won at
 Epsom. Morny Cannon is riding him. I could have got seven to one against
 Saint Amant a fortnight before.
 
---That so? Davy Byrne said ...
+-- That so? Davy Byrne said ...
 
 He went towards the window and, taking up the pettycash book, scanned
 its pages.
 
---I could, faith, Nosey Flynn said, snuffling. That was a rare bit of
+-- I could, faith, Nosey Flynn said, snuffling. That was a rare bit of
 horseflesh. Saint Frusquin was her sire. She won in a thunderstorm,
 Rothschild's filly, with wadding in her ears. Blue jacket and yellow cap.
 Bad luck to big Ben Dollard and his John O'Gaunt. He put me off it. Ay.
 
 He drank resignedly from his tumbler, running his fingers down the flutes.
 
---Ay, he said, sighing.
+-- Ay, he said, sighing.
 
 Mr Bloom, champing, standing, looked upon his sigh. Nosey
 numbskull. Will I tell him that horse Lenehan? He knows already. Better
@@ -8347,154 +8347,154 @@ youth enjoyed her, to the yard.
 
 When the sound of his boots had ceased Davy Byrne said from his book:
 
---What is this he is? Isn't he in the insurance line?
+-- What is this he is? Isn't he in the insurance line?
 
---He's out of that long ago, Nosey Flynn said. He does canvassing for the
+-- He's out of that long ago, Nosey Flynn said. He does canvassing for the
 FREEMAN.
 
---I know him well to see, Davy Byrne said. Is he in trouble?
+-- I know him well to see, Davy Byrne said. Is he in trouble?
 
---Trouble? Nosey Flynn said. Not that I heard of. Why?
+-- Trouble? Nosey Flynn said. Not that I heard of. Why?
 
---I noticed he was in mourning.
+-- I noticed he was in mourning.
 
---Was he? Nosey Flynn said. So he was, faith. I asked him how was all at
+-- Was he? Nosey Flynn said. So he was, faith. I asked him how was all at
 home. You're right, by God. So he was.
 
---I never broach the subject, Davy Byrne said humanely, if I see a
+-- I never broach the subject, Davy Byrne said humanely, if I see a
 gentleman is in trouble that way. It only brings it up fresh in their
 minds.
 
---It's not the wife anyhow, Nosey Flynn said. I met him the day before
+-- It's not the wife anyhow, Nosey Flynn said. I met him the day before
 yesterday and he coming out of that Irish farm dairy John Wyse Nolan's
 wife has in Henry street with a jar of cream in his hand taking it home
 to his better half. She's well nourished, I tell you. Plovers on toast.
 
---And is he doing for the FREEMAN? Davy Byrne said.
+-- And is he doing for the FREEMAN? Davy Byrne said.
 
 Nosey Flynn pursed his lips.
 
----He doesn't buy cream on the ads he picks up. You can make bacon of
+-- -He doesn't buy cream on the ads he picks up. You can make bacon of
 that.
 
---How so? Davy Byrne asked, coming from his book.
+-- How so? Davy Byrne asked, coming from his book.
 
 Nosey Flynn made swift passes in the air with juggling fingers. He
 winked.
 
---He's in the craft, he said.
+-- He's in the craft, he said.
 
----Do you tell me so? Davy Byrne said.
+-- -Do you tell me so? Davy Byrne said.
 
---Very much so, Nosey Flynn said. Ancient free and accepted order. He's
+-- Very much so, Nosey Flynn said. Ancient free and accepted order. He's
 an excellent brother. Light, life and love, by God. They give him a leg
-up. I was told that by a--well, I won't say who.
+up. I was told that by a-- well, I won't say who.
 
---Is that a fact?
+-- Is that a fact?
 
---O, it's a fine order, Nosey Flynn said. They stick to you when you're
+-- O, it's a fine order, Nosey Flynn said. They stick to you when you're
 down. I know a fellow was trying to get into it. But they're as close as
 damn it. By God they did right to keep the women out of it.
 
 Davy Byrne smiledyawnednodded all in one:
 
---Iiiiiichaaaaaaach!
+-- Iiiiiichaaaaaaach!
 
---There was one woman, Nosey Flynn said, hid herself in a clock to find
+-- There was one woman, Nosey Flynn said, hid herself in a clock to find
 out what they do be doing. But be damned but they smelt her out and swore
 her in on the spot a master mason. That was one of the saint Legers of
 Doneraile.
 
 Davy Byrne, sated after his yawn, said with tearwashed eyes:
 
---And is that a fact? Decent quiet man he is. I often saw him in here and
-I never once saw him--you know, over the line.
+-- And is that a fact? Decent quiet man he is. I often saw him in here and
+I never once saw him-- you know, over the line.
 
---God Almighty couldn't make him drunk, Nosey Flynn said firmly. Slips
+-- God Almighty couldn't make him drunk, Nosey Flynn said firmly. Slips
 off when the fun gets too hot. Didn't you see him look at his watch? Ah,
 you weren't there. If you ask him to have a drink first thing he does he
 outs with the watch to see what he ought to imbibe. Declare to God he
 does.
 
---There are some like that, Davy Byrne said. He's a safe man, I'd say.
+-- There are some like that, Davy Byrne said. He's a safe man, I'd say.
 
---He's not too bad, Nosey Flynn said, snuffling it up. He's been known to
+-- He's not too bad, Nosey Flynn said, snuffling it up. He's been known to
 put his hand down too to help a fellow. Give the devil his due. O, Bloom
 has his good points. But there's one thing he'll never do.
 
 His hand scrawled a dry pen signature beside his grog.
 
---I know, Davy Byrne said.
+-- I know, Davy Byrne said.
 
---Nothing in black and white, Nosey Flynn said.
+-- Nothing in black and white, Nosey Flynn said.
 
 Paddy Leonard and Bantam Lyons came in. Tom Rochford followed frowning, a
 plaining hand on his claret waistcoat.
 
---Day, Mr Byrne.
+-- Day, Mr Byrne.
 
---Day, gentlemen.
+-- Day, gentlemen.
 
 They paused at the counter.
 
---Who's standing? Paddy Leonard asked.
+-- Who's standing? Paddy Leonard asked.
 
---I'm sitting anyhow, Nosey Flynn answered.
+-- I'm sitting anyhow, Nosey Flynn answered.
 
---Well, what'll it be? Paddy Leonard asked.
+-- Well, what'll it be? Paddy Leonard asked.
 
---I'll take a stone ginger, Bantam Lyons said.
+-- I'll take a stone ginger, Bantam Lyons said.
 
---How much? Paddy Leonard cried. Since when, for God' sake? What's yours,
+-- How much? Paddy Leonard cried. Since when, for God' sake? What's yours,
 Tom?
 
---How is the main drainage? Nosey Flynn asked, sipping.
+-- How is the main drainage? Nosey Flynn asked, sipping.
 
 For answer Tom Rochford pressed his hand to his breastbone and hiccupped.
 
---Would I trouble you for a glass of fresh water, Mr Byrne? he said.
+-- Would I trouble you for a glass of fresh water, Mr Byrne? he said.
 
---Certainly, sir.
+-- Certainly, sir.
 
 Paddy Leonard eyed his alemates.
 
---Lord love a duck, he said. Look at what I'm standing drinks to! Cold
+-- Lord love a duck, he said. Look at what I'm standing drinks to! Cold
 water and gingerpop! Two fellows that would suck whisky off a sore leg.
 He has some bloody horse up his sleeve for the Gold cup. A dead snip.
 
---Zinfandel is it? Nosey Flynn asked.
+-- Zinfandel is it? Nosey Flynn asked.
 
 Tom Rochford spilt powder from a twisted paper into the water set before
 him.
 
---That cursed dyspepsia, he said before drinking.
+-- That cursed dyspepsia, he said before drinking.
 
---Breadsoda is very good, Davy Byrne said.
+-- Breadsoda is very good, Davy Byrne said.
 
 Tom Rochford nodded and drank.
 
---Is it Zinfandel?
+-- Is it Zinfandel?
 
---Say nothing! Bantam Lyons winked. I'm going to plunge five bob on my
+-- Say nothing! Bantam Lyons winked. I'm going to plunge five bob on my
 own.
 
---Tell us if you're worth your salt and be damned to you, Paddy Leonard
+-- Tell us if you're worth your salt and be damned to you, Paddy Leonard
 said. Who gave it to you?
 
 Mr Bloom on his way out raised three fingers in greeting.
 
---So long! Nosey Flynn said.
+-- So long! Nosey Flynn said.
 
 The others turned.
 
---That's the man now that gave it to me, Bantam Lyons whispered.
+-- That's the man now that gave it to me, Bantam Lyons whispered.
 
---Prrwht! Paddy Leonard said with scorn. Mr Byrne, sir, we'll take two of
+-- Prrwht! Paddy Leonard said with scorn. Mr Byrne, sir, we'll take two of
 your small Jamesons after that and a ...
 
---Stone ginger, Davy Byrne added civilly.
+-- Stone ginger, Davy Byrne added civilly.
 
---Ay, Paddy Leonard said. A suckingbottle for the baby.
+-- Ay, Paddy Leonard said. A suckingbottle for the baby.
 
 Mr Bloom walked towards Dawson street, his tongue brushing his teeth
 smooth. Something green it would have to be: spinach, say. Then with
@@ -8527,7 +8527,7 @@ body changing biliary duct spleen squirting liver gastric juice coils of
 intestines like pipes. But the poor buffer would have to stand all the
 time with his insides entrails on show. Science.
 
---A CENAR TECO.
+-- A CENAR TECO.
 
 What does that TECO mean? Tonight perhaps.
 
@@ -8565,12 +8565,12 @@ bait. Why we left the church of Rome.
 A blind stripling stood tapping the curbstone with his slender cane. No
 tram in sight. Wants to cross.
 
---Do you want to cross? Mr Bloom asked.
+-- Do you want to cross? Mr Bloom asked.
 
 The blind stripling did not answer. His wallface frowned weakly. He moved
 his head uncertainly.
 
---You're in Dawson street, Mr Bloom said. Molesworth street is opposite.
+-- You're in Dawson street, Mr Bloom said. Molesworth street is opposite.
 Do you want to cross? There's nothing in the way.
 
 The cane moved out trembling to the left. Mr Bloom's eye followed its
@@ -8578,12 +8578,12 @@ line and saw again the dyeworks' van drawn up before Drago's. Where I saw
 his brillantined hair just when I was. Horse drooping. Driver in John
 Long's. Slaking his drouth.
 
---There's a van there, Mr Bloom said, but it's not moving. I'll see you
+-- There's a van there, Mr Bloom said, but it's not moving. I'll see you
 across. Do you want to go to Molesworth street?
 
---Yes, the stripling answered. South Frederick street.
+-- Yes, the stripling answered. South Frederick street.
 
---Come, Mr Bloom said.
+-- Come, Mr Bloom said.
 
 He touched the thin elbow gently: then took the limp seeing hand to guide
 it forward.
@@ -8591,7 +8591,7 @@ it forward.
 Say something to him. Better not do the condescending. They mistrust what
 you tell them. Pass a common remark.
 
---The rain kept off.
+-- The rain kept off.
 
 No answer.
 
@@ -8601,11 +8601,11 @@ Milly's was. Sensitive. Sizing me up I daresay from my hand. Wonder if he
 has a name. Van. Keep his cane clear of the horse's legs: tired drudge
 get his doze. That's right. Clear. Behind a bull: in front of a horse.
 
---Thanks, sir.
+-- Thanks, sir.
 
 Knows I'm a man. Voice.
 
---Right now? First turn to the left.
+-- Right now? First turn to the left.
 
 The blind stripling tapped the curbstone and went on his way, drawing his
 cane back, feeling again.
@@ -8732,12 +8732,12 @@ lotion have to call tepid paper stuck. Ah soap there I yes. Gate.
 Safe!
 
 
--------- Scylla and Charybdis ---------
+--------  Scylla and Charybdis ---------
 
 
 Urbane, to comfort them, the quaker librarian purred:
 
---And we have, have we not, those priceless pages of WILHELM MEISTER. A
+-- And we have, have we not, those priceless pages of WILHELM MEISTER. A
 great poet on a great brother poet. A hesitating soul taking arms against
 a sea of troubles, torn by conflicting doubts, as one sees in real life.
 
@@ -8747,7 +8747,7 @@ backward a sinkapace on the solemn floor.
 A noiseless attendant setting open the door but slightly made him a
 noiseless beck.
 
---Directly, said he, creaking to go, albeit lingering. The beautiful
+-- Directly, said he, creaking to go, albeit lingering. The beautiful
 ineffectual dreamer who comes to grief against hard facts. One always
 feels that Goethe's judgments are so true. True in the larger analysis.
 
@@ -8757,10 +8757,10 @@ gone.
 
 Two left.
 
---Monsieur de la Palice, Stephen sneered, was alive fifteen minutes
+-- Monsieur de la Palice, Stephen sneered, was alive fifteen minutes
 before his death.
 
---Have you found those six brave medicals, John Eglinton asked with
+-- Have you found those six brave medicals, John Eglinton asked with
 elder's gall, to write PARADISE LOST at your dictation? THE SORROWS OF
 SATAN he calls it.
 
@@ -8774,7 +8774,7 @@ Smile. Smile Cranly's smile.
     JOLLY OLD MEDI ...
 
 
---I feel you would need one more for HAMLET. Seven is dear to the mystic
+-- I feel you would need one more for HAMLET. Seven is dear to the mystic
 mind. The shining seven W.B. calls them.
 
 Glittereyed his rufous skull close to his greencapped desklamp sought the
@@ -8799,11 +8799,11 @@ Mulligan has my telegram.
 
 Folly. Persist.
 
---Our young Irish bards, John Eglinton censured, have yet to create a
+-- Our young Irish bards, John Eglinton censured, have yet to create a
 figure which the world will set beside Saxon Shakespeare's Hamlet though
 I admire him, as old Ben did, on this side idolatry.
 
---All these questions are purely academic, Russell oracled out of his
+-- All these questions are purely academic, Russell oracled out of his
 shadow. I mean, whether Hamlet is Shakespeare or James I or Essex.
 Clergymen's discussions of the historicity of Jesus. Art has to reveal to
 us ideas, formless spiritual essences. The supreme question about a work
@@ -8816,10 +8816,10 @@ schoolboys.
 A. E. has been telling some yankee interviewer. Wall, tarnation strike
 me!
 
---The schoolmen were schoolboys first, Stephen said superpolitely.
+-- The schoolmen were schoolboys first, Stephen said superpolitely.
 Aristotle was once Plato's schoolboy.
 
---And has remained so, one should hope, John Eglinton sedately said. One
+-- And has remained so, one should hope, John Eglinton sedately said. One
 can see him, a model schoolboy with his diploma under his arm.
 
 He laughed again at the now smiling bearded face.
@@ -8844,16 +8844,16 @@ naughtn't when a lady's ashowing of her elemental.
 Mr Best entered, tall, young, mild, light. He bore in his hand with grace
 a notebook, new, large, clean, bright.
 
---That model schoolboy, Stephen said, would find Hamlet's musings about
+-- That model schoolboy, Stephen said, would find Hamlet's musings about
 the afterlife of his princely soul, the improbable, insignificant and
 undramatic monologue, as shallow as Plato's.
 
 John Eglinton, frowning, said, waxing wroth:
 
---Upon my word it makes my blood boil to hear anyone compare Aristotle
+-- Upon my word it makes my blood boil to hear anyone compare Aristotle
 with Plato.
 
---Which of the two, Stephen asked, would have banished me from his
+-- Which of the two, Stephen asked, would have banished me from his
 commonwealth?
 
 Unsheathe your dagger definitions. Horseness is the whatness of allhorse.
@@ -8865,11 +8865,11 @@ Hold to the now, the here, through which all future plunges to the past.
 
 Mr Best came forward, amiable, towards his colleague.
 
---Haines is gone, he said.
+-- Haines is gone, he said.
 
---Is he?
+-- Is he?
 
---I was showing him Jubainville's book. He's quite enthusiastic, don't
+-- I was showing him Jubainville's book. He's quite enthusiastic, don't
 you know, about Hyde's LOVESONGS OF CONNACHT. I couldn't bring him in to
 hear the discussion. He's gone to Gill's to buy it.
 
@@ -8880,12 +8880,12 @@ hear the discussion. He's gone to Gill's to buy it.
     IN LEAN UNLOVELY ENGLISH.
 
 
---The peatsmoke is going to his head, John Eglinton opined.
+-- The peatsmoke is going to his head, John Eglinton opined.
 
 We feel in England. Penitent thief. Gone. I smoked his baccy. Green
 twinkling stone. An emerald set in the ring of the sea.
 
---People do not know how dangerous lovesongs can be, the auric egg of
+-- People do not know how dangerous lovesongs can be, the auric egg of
 Russell warned occultly. The movements which work revolutions in the
 world are born out of the dreams and visions in a peasant's heart on the
 hillside. For them the earth is not an exploitable ground but the living
@@ -8896,7 +8896,7 @@ poor of heart, the life of Homer's Phaeacians.
 
 From these words Mr Best turned an unoffending face to Stephen.
 
---Mallarme, don't you know, he said, has written those wonderful prose
+-- Mallarme, don't you know, he said, has written those wonderful prose
 poems Stephen MacKenna used to read to me in Paris. The one about HAMLET.
 He says: IL SE PROMENE, LISANT AU LIVRE DE LUI-MEME, don't you know,
 READING THE BOOK OF HIMSELF. He describes HAMLET given in a French town,
@@ -8913,19 +8913,19 @@ His free hand graciously wrote tiny signs in air.
 
  He repeated to John Eglinton's newgathered frown:
 
---PIECE DE SHAKESPEARE, don't you know. It's so French. The French point
+-- PIECE DE SHAKESPEARE, don't you know. It's so French. The French point
 of view. HAMLET OU ...
 
---The absentminded beggar, Stephen ended.
+-- The absentminded beggar, Stephen ended.
 
  John Eglinton laughed.
 
---Yes, I suppose it would be, he said. Excellent people, no doubt, but
+-- Yes, I suppose it would be, he said. Excellent people, no doubt, but
 distressingly shortsighted in some matters.
 
  Sumptuous and stagnant exaggeration of murder.
 
---A deathsman of the soul Robert Greene called him, Stephen said. Not for
+-- A deathsman of the soul Robert Greene called him, Stephen said. Not for
 nothing was he a butcher's son, wielding the sledded poleaxe and spitting
 in his palms. Nine lives are taken off for his father's one. Our Father
 who art in purgatory. Khaki Hamlets don't hesitate to shoot. The
@@ -8940,7 +8940,7 @@ Cranly, I his mute orderly, following battles from afar.
 
 Between the Saxon smile and yankee yawp. The devil and the deep sea.
 
---He will have it that HAMLET is a ghoststory, John Eglinton said for Mr
+-- He will have it that HAMLET is a ghoststory, John Eglinton said for Mr
 Best's behoof. Like the fat boy in Pickwick he wants to make our flesh
 creep.
 
@@ -8954,7 +8954,7 @@ My flesh hears him: creeping, hears.
     IF THOU DIDST EVER ...
 
 
---What is a ghost? Stephen said with tingling energy. One who has faded
+-- What is a ghost? Stephen said with tingling energy. One who has faded
 into impalpability through death, through absence, through change of
 manners. Elizabethan London lay as far from Stratford as corrupt Paris
 lies from virgin Dublin. Who is the ghost from LIMBO PATRUM, returning to
@@ -8964,7 +8964,7 @@ John Eglinton shifted his spare body, leaning back to judge.
 
 Lifted.
 
---It is this hour of a day in mid June, Stephen said, begging with a
+-- It is this hour of a day in mid June, Stephen said, begging with a
 swift glance their hearing. The flag is up on the playhouse by the
 bankside. The bear Sackerson growls in the pit near it, Paris garden.
 Canvasclimbers who sailed with Drake chew their sausages among the
@@ -8972,14 +8972,14 @@ groundlings.
 
 Local colour. Work in all you know. Make them accomplices.
 
---Shakespeare has left the huguenot's house in Silver street and walks by
+-- Shakespeare has left the huguenot's house in Silver street and walks by
 the swanmews along the riverbank. But he does not stay to feed the pen
 chivying her game of cygnets towards the rushes. The swan of Avon has
 other thoughts.
 
 Composition of place. Ignatius Loyola, make haste to help me!
 
---The play begins. A player comes on under the shadow, made up in the
+-- The play begins. A player comes on under the shadow, made up in the
 castoff mail of a court buck, a wellset man with a bass voice. It is the
 ghost, the king, a king and no king, and the player is Shakespeare who
 has studied HAMLET all the years of his life which were not vanity in
@@ -9001,12 +9001,12 @@ he did not draw or foresee the logical conclusion of those premises: you
 are the dispossessed son: I am the murdered father: your mother is the
 guilty queen, Ann Shakespeare, born Hathaway?
 
---But this prying into the family life of a great man, Russell began
+-- But this prying into the family life of a great man, Russell began
 impatiently.
 
 Art thou there, truepenny?
 
---Interesting only to the parish clerk. I mean, we have the plays. I mean
+-- Interesting only to the parish clerk. I mean, we have the plays. I mean
 when we read the poetry of KING LEAR what is it to us how the poet lived?
 As for living our servants can do that for us, Villiers de l'Isle has
 said. Peeping and prying into greenroom gossip of the day, the poet's
@@ -9059,11 +9059,11 @@ I, I and I. I.
 
 A.E.I.O.U.
 
---Do you mean to fly in the face of the tradition of three centuries?
+-- Do you mean to fly in the face of the tradition of three centuries?
 John Eglinton's carping voice asked. Her ghost at least has been laid for
 ever. She died, for literature at least, before she was born.
 
---She died, Stephen retorted, sixtyseven years after she was born. She
+-- She died, Stephen retorted, sixtyseven years after she was born. She
 saw him into and out of the world. She took his first embraces. She bore
 his children and she laid pennies on his eyes to keep his eyelids closed
 when he lay on his deathbed.
@@ -9076,33 +9076,33 @@ I wept alone.
 
 John Eglinton looked in the tangled glowworm of his lamp.
 
---The world believes that Shakespeare made a mistake, he said, and got
+-- The world believes that Shakespeare made a mistake, he said, and got
 out of it as quickly and as best he could.
 
---Bosh! Stephen said rudely. A man of genius makes no mistakes. His
+-- Bosh! Stephen said rudely. A man of genius makes no mistakes. His
 errors are volitional and are the portals of discovery.
 
 Portals of discovery opened to let in the quaker librarian,
 softcreakfooted, bald, eared and assiduous.
 
---A shrew, John Eglinton said shrewdly, is not a useful portal of
+-- A shrew, John Eglinton said shrewdly, is not a useful portal of
 discovery, one should imagine. What useful discovery did Socrates learn
 from Xanthippe?
 
---Dialectic, Stephen answered: and from his mother how to bring thoughts
+-- Dialectic, Stephen answered: and from his mother how to bring thoughts
 into the world. What he learnt from his other wife Myrto (ABSIT NOMEN!),
 Socratididion's Epipsychidion, no man, not a woman, will ever know. But
 neither the midwife's lore nor the caudlelectures saved him from the
 archons of Sinn Fein and their naggin of hemlock.
 
---But Ann Hathaway? Mr Best's quiet voice said forgetfully. Yes, we seem
+-- But Ann Hathaway? Mr Best's quiet voice said forgetfully. Yes, we seem
 to be forgetting her as Shakespeare himself forgot her.
 
 His look went from brooder's beard to carper's skull, to remind, to chide
 them not unkindly, then to the baldpink lollard costard, guiltless though
 maligned.
 
---He had a good groatsworth of wit, Stephen said, and no truant memory.
+-- He had a good groatsworth of wit, Stephen said, and no truant memory.
 He carried a memory in his wallet as he trudged to Romeville whistling
 THE GIRL I LEFT BEHIND ME. If the earthquake did not time it we should
 know where to place poor Wat, sitting in his form, the cry of hounds, the
@@ -9124,7 +9124,7 @@ And my turn? When?
 
 Come!
 
---Ryefield, Mr Best said brightly, gladly, raising his new book, gladly,
+-- Ryefield, Mr Best said brightly, gladly, raising his new book, gladly,
 brightly.
 
 He murmured then with blond delight for all:
@@ -9139,18 +9139,18 @@ Paris: the wellpleased pleaser.
 A tall figure in bearded homespun rose from shadow and unveiled its
 cooperative watch.
 
---I am afraid I am due at the HOMESTEAD.
+-- I am afraid I am due at the HOMESTEAD.
 
 Whither away? Exploitable ground.
 
---Are you going? John Eglinton's active eyebrows asked. Shall we see you
+-- Are you going? John Eglinton's active eyebrows asked. Shall we see you
 at Moore's tonight? Piper is coming.
 
---Piper! Mr Best piped. Is Piper back?
+-- Piper! Mr Best piped. Is Piper back?
 
 Peter Piper pecked a peck of pick of peck of pickled pepper.
 
---I don't know if I can. Thursday. We have our meeting. If I can get away
+-- I don't know if I can. Thursday. We have our meeting. If I can get away
 in time.
 
 Yogibogeybox in Dawson chambers. ISIS UNVEILED. Their Pali book we tried
@@ -9167,7 +9167,7 @@ souls. Engulfed with wailing creecries, whirled, whirling, they bewail.
     FOR YEARS IN THIS FLESHCASE A SHESOUL DWELT.
 
 
---They say we are to have a literary surprise, the quaker librarian said,
+-- They say we are to have a literary surprise, the quaker librarian said,
 friendly and earnest. Mr Russell, rumour has it, is gathering together a
 sheaf of our younger poets' verses. We are all looking forward anxiously.
 
@@ -9202,13 +9202,13 @@ Cordelia. CORDOGLIO. Lir's loneliest daughter.
 
 Nookshotten. Now your best French polish.
 
---Thank you very much, Mr Russell, Stephen said, rising. If you will be
+-- Thank you very much, Mr Russell, Stephen said, rising. If you will be
 so kind as to give the letter to Mr Norman ...
 
---O, yes. If he considers it important it will go in. We have so much
+-- O, yes. If he considers it important it will go in. We have so much
 correspondence.
 
---I understand, Stephen said. Thanks.
+-- I understand, Stephen said. Thanks.
 
 God ild you. The pigs' paper. Bullockbefriending.
 
@@ -9220,19 +9220,19 @@ Stephen sat down.
 
 The quaker librarian came from the leavetakers. Blushing, his mask said:
 
---Mr Dedalus, your views are most illuminating.
+-- Mr Dedalus, your views are most illuminating.
 
 He creaked to and fro, tiptoing up nearer heaven by the altitude of a
 chopine, and, covered by the noise of outgoing, said low:
 
---Is it your view, then, that she was not faithful to the poet?
+-- Is it your view, then, that she was not faithful to the poet?
 
 Alarmed face asks me. Why did he come? Courtesy or an inward light?
 
---Where there is a reconciliation, Stephen said, there must have been
+-- Where there is a reconciliation, Stephen said, there must have been
 first a sundering.
 
---Yes.
+-- Yes.
 
 Christfox in leather trews, hiding, a runaway in blighted treeforks, from
 hue and cry. Knowing no vixen, walking lonely in the chase. Women he won
@@ -9241,7 +9241,7 @@ tapsters' wives. Fox and geese. And in New Place a slack dishonoured body
 that once was comely, once as sweet, as fresh as cinnamon, now her leaves
 falling, all, bare, frighted of the narrow grave and unforgiven.
 
---Yes. So you think ...
+-- Yes. So you think ...
 
 The door closed behind the outgoer.
 
@@ -9263,11 +9263,11 @@ They are still. Once quick in the brains of men. Still: but an itch of
 death is in them, to tell me in my ear a maudlin tale, urge me to wreak
 their will.
 
---Certainly, John Eglinton mused, of all great men he is the most
+-- Certainly, John Eglinton mused, of all great men he is the most
 enigmatic. We know nothing but that he lived and suffered. Not even so
 much. Others abide our question. A shadow hangs over all the rest.
 
---But HAMLET is so personal, isn't it? Mr Best pleaded. I mean, a kind of
+-- But HAMLET is so personal, isn't it? Mr Best pleaded. I mean, a kind of
 private paper, don't you know, of his private life. I mean, I don't care
 a button, don't you know, who is killed or who is guilty ...
 
@@ -9277,7 +9277,7 @@ SHAGART. Put beurla on it, littlejohn.
 
 Quoth littlejohn Eglinton:
 
---I was prepared for paradoxes from what Malachi Mulligan told us but I
+-- I was prepared for paradoxes from what Malachi Mulligan told us but I
 may as well warn you that if you want to shake my belief that Shakespeare
 is Hamlet you have a stern task before you.
 
@@ -9287,7 +9287,7 @@ Stephen withstood the bane of miscreant eyes glinting stern under
 wrinkled brows. A basilisk. E QUANDO VEDE L'UOMO L'ATTOSCA. Messer
 Brunetto, I thank thee for the word.
 
---As we, or mother Dana, weave and unweave our bodies, Stephen said, from
+-- As we, or mother Dana, weave and unweave our bodies, Stephen said, from
 day to day, their molecules shuttled to and fro, so does the artist weave
 and unweave his image. And as the mole on my right breast is where it was
 when I was born, though all my body has been woven of new stuff time
@@ -9300,28 +9300,28 @@ from that which then I shall be.
 
 Drummond of Hawthornden helped you at that stile.
 
---Yes, Mr Best said youngly. I feel Hamlet quite young. The bitterness
+-- Yes, Mr Best said youngly. I feel Hamlet quite young. The bitterness
 might be from the father but the passages with Ophelia are surely from
 the son.
 
 Has the wrong sow by the lug. He is in my father. I am in his son.
 
---That mole is the last to go, Stephen said, laughing.
+-- That mole is the last to go, Stephen said, laughing.
 
 John Eglinton made a nothing pleasing mow.
 
---If that were the birthmark of genius, he said, genius would be a drug
+-- If that were the birthmark of genius, he said, genius would be a drug
 in the market. The plays of Shakespeare's later years which Renan admired
 so much breathe another spirit.
 
---The spirit of reconciliation, the quaker librarian breathed.
+-- The spirit of reconciliation, the quaker librarian breathed.
 
---There can be no reconciliation, Stephen said, if there has not been a
+-- There can be no reconciliation, Stephen said, if there has not been a
 sundering.
 
 Said that.
 
---If you want to know what are the events which cast their shadow over
+-- If you want to know what are the events which cast their shadow over
 the hell of time of KING LEAR, OTHELLO, HAMLET, TROILUS AND CRESSIDA,
 look to see when and how the shadow lifts. What softens the heart of a
 man, shipwrecked in storms dire, Tried, like another Ulysses, Pericles,
@@ -9329,9 +9329,9 @@ prince of Tyre?
 
 Head, redconecapped, buffeted, brineblinded.
 
---A child, a girl, placed in his arms, Marina.
+-- A child, a girl, placed in his arms, Marina.
 
---The leaning of sophists towards the bypaths of apocrypha is a constant
+-- The leaning of sophists towards the bypaths of apocrypha is a constant
 quantity, John Eglinton detected. The highroads are dreary but they lead
 to the town.
 
@@ -9346,41 +9346,41 @@ of the moon: TIR NA N-OG. Booted the twain and staved.
     WILL WE BE THERE BY CANDLELIGHT?
 
 
---Mr Brandes accepts it, Stephen said, as the first play of the closing
+-- Mr Brandes accepts it, Stephen said, as the first play of the closing
 period.
 
---Does he? What does Mr Sidney Lee, or Mr Simon Lazarus as some aver his
+-- Does he? What does Mr Sidney Lee, or Mr Simon Lazarus as some aver his
 name is, say of it?
 
---Marina, Stephen said, a child of storm, Miranda, a wonder, Perdita,
+-- Marina, Stephen said, a child of storm, Miranda, a wonder, Perdita,
 that which was lost. What was lost is given back to him: his daughter's
 child. MY DEAREST WIFE, Pericles says, WAS LIKE THIS MAID. Will any man
 love the daughter if he has not loved the mother?
 
---The art of being a grandfather, Mr Best gan murmur. L'ART D'ETRE GRAND
+-- The art of being a grandfather, Mr Best gan murmur. L'ART D'ETRE GRAND
 ...
 
---Will he not see reborn in her, with the memory of his own youth added,
+-- Will he not see reborn in her, with the memory of his own youth added,
 another image?
 
 Do you know what you are talking about? Love, yes. Word known to all men.
 Amor vero aliquid alicui bonum vult unde et ea quae concupiscimus ...
 
---His own image to a man with that queer thing genius is the standard of
+-- His own image to a man with that queer thing genius is the standard of
 all experience, material and moral. Such an appeal will touch him. The
 images of other males of his blood will repel him. He will see in them
 grotesque attempts of nature to foretell or to repeat himself.
 
 The benign forehead of the quaker librarian enkindled rosily with hope.
 
---I hope Mr Dedalus will work out his theory for the enlightenment of the
+-- I hope Mr Dedalus will work out his theory for the enlightenment of the
 public. And we ought to mention another Irish commentator, Mr George
 Bernard Shaw. Nor should we forget Mr Frank Harris. His articles on
 Shakespeare in the SATURDAY REVIEW were surely brilliant. Oddly enough he
 too draws for us an unhappy relation with the dark lady of the sonnets.
 The favoured rival is William Herbert, earl of Pembroke. I own that if
 the poet must be rejected such a rejection would seem more in harmony
-with--what shall I say?--our notions of what ought not to have been.
+with-- what shall I say?-- our notions of what ought not to have been.
 
 Felicitously he ceased and held a meek head among them, auk's egg, prize
 of their fray.
@@ -9388,7 +9388,7 @@ of their fray.
 He thous and thees her with grave husbandwords. Dost love, Miriam? Dost
 love thy man?
 
---That may be too, Stephen said. There's a saying of Goethe's which Mr
+-- That may be too, Stephen said. There's a saying of Goethe's which Mr
 Magee likes to quote. Beware of what you wish for in youth because you
 will get it in middle life. Why does he send to one who is a BUONAROBA, a
 bay where all men ride, a maid of honour with a scandalous girlhood, a
@@ -9407,7 +9407,7 @@ rages commingle in a whirlpool.
 
 They list. And in the porches of their ears I pour.
 
---The soul has been before stricken mortally, a poison poured in the
+-- The soul has been before stricken mortally, a poison poured in the
 porch of a sleeping ear. But those who are done to death in sleep cannot
 know the manner of their quell unless their Creator endow their souls
 with that knowledge in the life to come. The poisoning and the beast with
@@ -9425,7 +9425,7 @@ or what you will, the sea's voice, a voice heard only in the heart of him
 who is the substance of his shadow, the son consubstantial with the
 father.
 
---Amen! was responded from the doorway.
+-- Amen! was responded from the doorway.
 
 Hast thou found me, O mine enemy?
 
@@ -9434,7 +9434,7 @@ ENTR'ACTE.
 A ribald face, sullen as a dean's, Buck Mulligan came forward, then
 blithe in motley, towards the greeting of their smiles. My telegram.
 
---You were speaking of the gaseous vertebrate, if I mistake not? he asked
+-- You were speaking of the gaseous vertebrate, if I mistake not? he asked
 of Stephen.
 
 Primrosevested he greeted gaily with his doffed Panama as with a bauble.
@@ -9451,12 +9451,12 @@ and there these nineteen hundred years sitteth on the right hand of His
 Own Self but yet shall come in the latter day to doom the quick and dead
 when all the quick shall be dead already.
 
-Glo--o--ri--a in ex--cel--sis De--o.
+Glo-- o-- ri-- a in ex-- cel-- sis De-- o.
 
 He lifts his hands. Veils fall. O, flowers! Bells with bells with bells
 aquiring.
 
---Yes, indeed, the quaker librarian said. A most instructive discussion.
+-- Yes, indeed, the quaker librarian said. A most instructive discussion.
 Mr Mulligan, I'll be bound, has his theory too of the play and of
 Shakespeare. All sides of life should be represented.
 
@@ -9464,36 +9464,36 @@ He smiled on all sides equally.
 
 Buck Mulligan thought, puzzled:
 
---Shakespeare? he said. I seem to know the name.
+-- Shakespeare? he said. I seem to know the name.
 
 A flying sunny smile rayed in his loose features.
 
---To be sure, he said, remembering brightly. The chap that writes like
+-- To be sure, he said, remembering brightly. The chap that writes like
 Synge.
 
 Mr Best turned to him.
 
---Haines missed you, he said. Did you meet him? He'll see you after at
+-- Haines missed you, he said. Did you meet him? He'll see you after at
 the D. B. C. He's gone to Gill's to buy Hyde's LOVESONGS OF CONNACHT.
 
---I came through the museum, Buck Mulligan said. Was he here?
+-- I came through the museum, Buck Mulligan said. Was he here?
 
---The bard's fellowcountrymen, John Eglinton answered, are rather tired
+-- The bard's fellowcountrymen, John Eglinton answered, are rather tired
 perhaps of our brilliancies of theorising. I hear that an actress played
 Hamlet for the fourhundredandeighth time last night in Dublin. Vining
 held that the prince was a woman. Has no-one made him out to be an
 Irishman? Judge Barton, I believe, is searching for some clues. He swears
 (His Highness not His Lordship) by saint Patrick.
 
---The most brilliant of all is that story of Wilde's, Mr Best said,
+-- The most brilliant of all is that story of Wilde's, Mr Best said,
 lifting his brilliant notebook. That PORTRAIT OF MR W. H. where he proves
 that the sonnets were written by a Willie Hughes, a man all hues.
 
---For Willie Hughes, is it not? the quaker librarian asked.
+-- For Willie Hughes, is it not? the quaker librarian asked.
 
 Or Hughie Wills? Mr William Himself. W. H.: who am I?
 
---I mean, for Willie Hughes, Mr Best said, amending his gloss easily. Of
+-- I mean, for Willie Hughes, Mr Best said, amending his gloss easily. Of
 course it's all paradox, don't you know, Hughes and hews and hues, the
 colour, but it's so typical the way he works it out. It's the very
 essence of Wilde, don't you know. The light touch.
@@ -9516,7 +9516,7 @@ send them. Yea, turtledove her.
 
 Eve. Naked wheatbellied sin. A snake coils her, fang in's kiss.
 
---Do you think it is only a paradox? the quaker librarian was asking. The
+-- Do you think it is only a paradox? the quaker librarian was asking. The
 mocker is never taken seriously when he is most serious.
 
 They talked seriously of mocker's seriousness.
@@ -9525,11 +9525,11 @@ Buck Mulligan's again heavy face eyed Stephen awhile. Then, his head
 wagging, he came near, drew a folded telegram from his pocket. His mobile
 lips read, smiling with new delight.
 
---Telegram! he said. Wonderful inspiration! Telegram! A papal bull!
+-- Telegram! he said. Wonderful inspiration! Telegram! A papal bull!
 
 He sat on a corner of the unlit desk, reading aloud joyfully:
 
---THE SENTIMENTALIST IS HE WHO WOULD ENJOY WITHOUT INCURRING THE IMMENSE
+-- THE SENTIMENTALIST IS HE WHO WOULD ENJOY WITHOUT INCURRING THE IMMENSE
 DEBTORSHIP FOR A THING DONE. Signed: Dedalus. Where did you launch it
 from? The kips? No. College Green. Have you drunk the four quid? The aunt
 is going to call on your unsubstantial father. Telegram! Malachi
@@ -9539,7 +9539,7 @@ priestified Kinchite!
 Joyfully he thrust message and envelope into a pocket but keened in a
 querulous brogue:
 
---It's what I'm telling you, mister honey, it's queer and sick we were,
+-- It's what I'm telling you, mister honey, it's queer and sick we were,
 Haines and myself, the time himself brought it in. 'Twas murmur we did
 for a gallus potion would rouse a friar, I'm thinking, and he limp with
 leching. And we one hour and two hours and three hours in Connery's
@@ -9547,7 +9547,7 @@ sitting civil waiting for pints apiece.
 
 He wailed:
 
---And we to be there, mavrone, and you to be unbeknownst sending us your
+-- And we to be there, mavrone, and you to be unbeknownst sending us your
 conglomerations the way we to have our tongues out a yard long like the
 drouthy clerics do be fainting for a pussful.
 
@@ -9555,16 +9555,16 @@ Stephen laughed.
 
 Quickly, warningfully Buck Mulligan bent down.
 
---The tramper Synge is looking for you, he said, to murder you. He heard
+-- The tramper Synge is looking for you, he said, to murder you. He heard
 you pissed on his halldoor in Glasthule. He's out in pampooties to murder
 you.
 
---Me! Stephen exclaimed. That was your contribution to literature.
+-- Me! Stephen exclaimed. That was your contribution to literature.
 
 Buck Mulligan gleefully bent back, laughing to the dark eavesdropping
 ceiling.
 
---Murder you! he laughed.
+-- Murder you! he laughed.
 
 Harsh gargoyle face that warred against me over our mess of hash of
 lights in rue Saint-Andre-des-Arts. In words of words for words,
@@ -9572,33 +9572,33 @@ palabras. Oisin with Patrick. Faunman he met in Clamart woods,
 brandishing a winebottle. C'EST VENDREDI SAINT! Murthering Irish. His
 image, wandering, he met. I mine. I met a fool i'the forest.
 
---Mr Lyster, an attendant said from the door ajar.
+-- Mr Lyster, an attendant said from the door ajar.
 
--- ... in which everyone can find his own. So Mr Justice Madden in his
+--  ... in which everyone can find his own. So Mr Justice Madden in his
 DIARY OF MASTER WILLIAM SILENCE has found the hunting terms ... Yes? What
 is it?
 
---There's a gentleman here, sir, the attendant said, coming forward and
+-- There's a gentleman here, sir, the attendant said, coming forward and
 offering a card. From the FREEMAN. He wants to see the files of the
 KILKENNY PEOPLE for last year.
 
---Certainly, certainly, certainly. Is the gentleman? ...
+-- Certainly, certainly, certainly. Is the gentleman? ...
 
 He took the eager card, glanced, not saw, laid down unglanced, looked,
 asked, creaked, asked:
 
---Is he? ... O, there!
+-- Is he? ... O, there!
 
 Brisk in a galliard he was off, out. In the daylit corridor he talked
 with voluble pains of zeal, in duty bound, most fair, most kind, most
 honest broadbrim.
 
---This gentleman? FREEMAN'S JOURNAL? KILKENNY PEOPLE? To be sure. Good
+-- This gentleman? FREEMAN'S JOURNAL? KILKENNY PEOPLE? To be sure. Good
 day, sir. KILKENNY ... We have certainly ...
 
 A patient silhouette waited, listening.
 
---All the leading provincial ... NORTHERN WHIG, CORK EXAMINER,
+-- All the leading provincial ... NORTHERN WHIG, CORK EXAMINER,
 ENNISCORTHY GUARDIAN, 1903 ... Will you please? ... Evans, conduct this
 gentleman ... If you just follow the atten ... Or, please allow me ...
 This way ... Please, sir ...
@@ -9608,31 +9608,31 @@ dark figure following his hasty heels.
 
 The door closed.
 
---The sheeny! Buck Mulligan cried.
+-- The sheeny! Buck Mulligan cried.
 
 He jumped up and snatched the card.
 
---What's his name? Ikey Moses? Bloom.
+-- What's his name? Ikey Moses? Bloom.
 
 He rattled on:
 
---Jehovah, collector of prepuces, is no more. I found him over in the
+-- Jehovah, collector of prepuces, is no more. I found him over in the
 museum where I went to hail the foamborn Aphrodite. The Greek mouth that
 has never been twisted in prayer. Every day we must do homage to her.
 LIFE OF LIFE, THY LIPS ENKINDLE.
 
 Suddenly he turned to Stephen:
 
---He knows you. He knows your old fellow. O, I fear me, he is Greeker
+-- He knows you. He knows your old fellow. O, I fear me, he is Greeker
 than the Greeks. His pale Galilean eyes were upon her mesial groove.
 Venus Kallipyge. O, the thunder of those loins! THE GOD PURSUING THE
 MAIDEN HID.
 
---We want to hear more, John Eglinton decided with Mr Best's approval. We
+-- We want to hear more, John Eglinton decided with Mr Best's approval. We
 begin to be interested in Mrs S. Till now we had thought of her, if at
 all, as a patient Griselda, a Penelope stayathome.
 
---Antisthenes, pupil of Gorgias, Stephen said, took the palm of beauty
+-- Antisthenes, pupil of Gorgias, Stephen said, took the palm of beauty
 from Kyrios Menelaus' brooddam, Argive Helen, the wooden mare of Troy in
 whom a score of heroes slept, and handed it to poor Penelope. Twenty
 years he lived in London and, during part of that time, he drew a salary
@@ -9656,14 +9656,14 @@ punks of the bankside, a penny a time.
 Cours la Reine. ENCORE VINGT SOUS. NOUS FERONS DE PETITES COCHONNERIES.
 MINETTE? TU VEUX?
 
---The height of fine society. And sir William Davenant of oxford's mother
+-- The height of fine society. And sir William Davenant of oxford's mother
 with her cup of canary for any cockcanary.
 
 Buck Mulligan, his pious eyes upturned, prayed:
 
---Blessed Margaret Mary Anycock!
+-- Blessed Margaret Mary Anycock!
 
---And Harry of six wives' daughter. And other lady friends from neighbour
+-- And Harry of six wives' daughter. And other lady friends from neighbour
 seats as Lawn Tennyson, gentleman poet, sings. But all those twenty years
 what do you suppose poor Penelope in Stratford was doing behind the
 diamond panes?
@@ -9675,19 +9675,19 @@ a reek of lust and squalor, hands are laid on whiteness.
 
 Buck Mulligan rapped John Eglinton's desk sharply.
 
---Whom do you suspect? he challenged.
+-- Whom do you suspect? he challenged.
 
---Say that he is the spurned lover in the sonnets. Once spurned twice
+-- Say that he is the spurned lover in the sonnets. Once spurned twice
 spurned. But the court wanton spurned him for a lord, his dearmylove.
 
 Love that dare not speak its name.
 
---As an Englishman, you mean, John sturdy Eglinton put in, he loved a
+-- As an Englishman, you mean, John sturdy Eglinton put in, he loved a
 lord.
 
 Old wall where sudden lizards flash. At Charenton I watched them.
 
---It seems so, Stephen said, when he wants to do for him, and for all
+-- It seems so, Stephen said, when he wants to do for him, and for all
 other and singular uneared wombs, the holy office an ostler does for the
 stallion. Maybe, like Socrates, he had a midwife to mother as he had a
 shrew to wife. But she, the giglot wanton, did not break a bedvow. Two
@@ -9697,7 +9697,7 @@ Ann, I take it, was hot in the blood. Once a wooer, twice a wooer.
 
 Stephen turned boldly in his chair.
 
---The burden of proof is with you not with me, he said frowning. If you
+-- The burden of proof is with you not with me, he said frowning. If you
 deny that in the fifth scene of HAMLET he has branded her with infamy
 tell me why there is no mention of her during the thirtyfour years
 between the day she married him and the day she buried him. All those
@@ -9747,18 +9747,18 @@ Woa!
 AMPLIUS. IN SOCIETATE HUMANA HOC EST MAXIME NECESSARIUM UT SIT AMICITIA
 INTER MULTOS.
 
---Saint Thomas, Stephen began ...
+-- Saint Thomas, Stephen began ...
 
---ORA PRO NOBIS, Monk Mulligan groaned, sinking to a chair.
+-- ORA PRO NOBIS, Monk Mulligan groaned, sinking to a chair.
 
 There he keened a wailing rune.
 
---POGUE MAHONE! ACUSHLA MACHREE! It's destroyed we are from this day!
+-- POGUE MAHONE! ACUSHLA MACHREE! It's destroyed we are from this day!
 It's destroyed we are surely!
 
 All smiled their smiles.
 
---Saint Thomas, Stephen smiling said, whose gorbellied works I enjoy
+-- Saint Thomas, Stephen smiling said, whose gorbellied works I enjoy
 reading in the original, writing of incest from a standpoint different
 from that of the new Viennese school Mr Magee spoke of, likens it in his
 wise and curious way to an avarice of the emotions. He means that the
@@ -9774,23 +9774,23 @@ tightly also to what he calls his rights over her whom he calls his wife.
 No sir smile neighbour shall covet his ox or his wife or his manservant
 or his maidservant or his jackass.
 
---Or his jennyass, Buck Mulligan antiphoned.
+-- Or his jennyass, Buck Mulligan antiphoned.
 
---Gentle Will is being roughly handled, gentle Mr Best said gently.
+-- Gentle Will is being roughly handled, gentle Mr Best said gently.
 
---Which will? gagged sweetly Buck Mulligan. We are getting mixed.
+-- Which will? gagged sweetly Buck Mulligan. We are getting mixed.
 
---The will to live, John Eglinton philosophised, for poor Ann, Will's
+-- The will to live, John Eglinton philosophised, for poor Ann, Will's
 widow, is the will to die.
 
---REQUIESCAT! Stephen prayed.
+-- REQUIESCAT! Stephen prayed.
 
 
     WHAT OF ALL THE WILL TO DO?
     IT HAS VANISHED LONG AGO ...
 
 
---She lies laid out in stark stiffness in that secondbest bed, the mobled
+-- She lies laid out in stark stiffness in that secondbest bed, the mobled
 queen, even though you prove that a bed in those days was as rare as a
 motorcar is now and that its carvings were the wonder of seven parishes.
 In old age she takes up with gospellers (one stayed with her at New Place
@@ -9803,7 +9803,7 @@ DEVOUT SOULS SNEEZE. Venus has twisted her lips in prayer. Agenbite of
 inwit: remorse of conscience. It is an age of exhausted whoredom groping
 for its god.
 
---History shows that to be true, INQUIT EGLINTONUS CHRONOLOLOGOS. The
+-- History shows that to be true, INQUIT EGLINTONUS CHRONOLOLOGOS. The
 ages succeed one another. But we have it on high authority that a man's
 worst enemies shall be those of his own house and family. I feel that
 Russell is right. What do we care for his wife or father? I should say
@@ -9824,7 +9824,7 @@ Hurrying to her squalid deathlair from gay Paris on the quayside I
 touched his hand. The voice, new warmth, speaking. Dr Bob Kenny is
 attending her. The eyes that wish me well. But do not know me.
 
---A father, Stephen said, battling against hopelessness, is a necessary
+-- A father, Stephen said, battling against hopelessness, is a necessary
 evil. He wrote the play in the months that followed his father's death.
 If you hold that he, a greying man with two marriageable daughters, with
 thirtyfive years of life, NEL MEZZO DEL CAMMIN DI NOSTRA VITA, with fifty
@@ -9852,7 +9852,7 @@ AMPLIUS. ADHUC. ITERUM. POSTEA.
 
 Are you condemned to do this?
 
---They are sundered by a bodily shame so steadfast that the criminal
+-- They are sundered by a bodily shame so steadfast that the criminal
 annals of the world, stained with all other incests and bestialities,
 hardly record its breach. Sons with mothers, sires with daughters, lesbic
 sisters, loves that dare not speak their name, nephews with grandmothers,
@@ -9863,13 +9863,13 @@ envy, his friend his father's enemy.
 
 In rue Monsieur-le-Prince I thought it.
 
---What links them in nature? An instant of blind rut.
+-- What links them in nature? An instant of blind rut.
 
 Am I a father? If I were?
 
 Shrunken uncertain hand.
 
---Sabellius, the African, subtlest heresiarch of all the beasts of the
+-- Sabellius, the African, subtlest heresiarch of all the beasts of the
 field, held that the Father was Himself His Own Son. The bulldog of
 Aquin, with whom no word shall be impossible, refutes him. Well: if the
 father who has not a son be not a father can the son who has not a father
@@ -9885,13 +9885,13 @@ glancing, a merry puritan, through the twisted eglantine.
 
 Flatter. Rarely. But flatter.
 
---Himself his own father, Sonmulligan told himself. Wait. I am big with
+-- Himself his own father, Sonmulligan told himself. Wait. I am big with
 child. I have an unborn child in my brain. Pallas Athena! A play! The
 play's the thing! Let me parturiate!
 
 He clasped his paunchbrow with both birthaiding hands.
 
---As for his family, Stephen said, his mother's name lives in the forest
+-- As for his family, Stephen said, his mother's name lives in the forest
 of Arden. Her death brought from him the scene with Volumnia in
 CORIOLANUS. His boyson's death is the deathscene of young Arthur in KING
 JOHN. Hamlet, the black prince, is Hamnet Shakespeare. Who the girls in
@@ -9899,7 +9899,7 @@ THE TEMPEST, in PERICLES, in WINTER'S TALE are we know. Who Cleopatra,
 fleshpot of Egypt, and Cressid and Venus are we may guess. But there is
 another member of his family who is recorded.
 
---The plot thickens, John Eglinton said.
+-- The plot thickens, John Eglinton said.
 
 The quaker librarian, quaking, tiptoed in, quake, his mask, quake, with
 haste, quake, quack.
@@ -9972,10 +9972,10 @@ Read the skies. AUTONTIMORUMENOS. BOUS STEPHANOUMENOS. Where's your
 configuration? Stephen, Stephen, cut the bread even. S. D: SUA DONNA.
 GIA: DI LUI. GELINDO RISOLVE DI NON AMARE S. D.
 
---What is that, Mr Dedalus? the quaker librarian asked. Was it a
+-- What is that, Mr Dedalus? the quaker librarian asked. Was it a
 celestial phenomenon?
 
---A star by night, Stephen said. A pillar of the cloud by day.
+-- A star by night, Stephen said. A pillar of the cloud by day.
 
 What more's to speak?
 
@@ -9984,7 +9984,7 @@ Stephen looked on his hat, his stick, his boots.
 STEPHANOS, my crown. My sword. His boots are spoiling the shape of
 my feet. Buy a pair. Holes in my socks. Handkerchief too.
 
---You make good use of the name, John Eglinton allowed. Your own name
+-- You make good use of the name, John Eglinton allowed. Your own name
 is strange enough. I suppose it explains your fantastical humour.
 
 Me, Magee and Mulligan.
@@ -9995,7 +9995,7 @@ PATER, AIT. Seabedabbled, fallen, weltering. Lapwing you are. Lapwing be.
 
 Mr Best eagerquietly lifted his book to say:
 
---That's very interesting because that brother motive, don't you know, we
+-- That's very interesting because that brother motive, don't you know, we
 find also in the old Irish myths. Just what you say. The three brothers
 Shakespeare. In Grimm too, don't you know, the fairytales. The third
 brother that always marries the sleeping beauty and wins the best prize.
@@ -10004,7 +10004,7 @@ Best of Best brothers. Good, better, best.
 
 The quaker librarian springhalted near.
 
---I should like to know, he said, which brother you ... I understand you
+-- I should like to know, he said, which brother you ... I understand you
 to suggest there was misconduct with one of the brothers ... But
 perhaps I am anticipating?
 
@@ -10012,18 +10012,18 @@ He caught himself in the act: looked at all: refrained.
 
 An attendant from the doorway called:
 
---Mr Lyster! Father Dineen wants ...
+-- Mr Lyster! Father Dineen wants ...
 
---O, Father Dineen! Directly.
+-- O, Father Dineen! Directly.
 
 Swiftly rectly creaking rectly rectly he was rectly gone.
 
 John Eglinton touched the foil.
 
---Come, he said. Let us hear what you have to say of Richard and
+-- Come, he said. Let us hear what you have to say of Richard and
 Edmund. You kept them for the last, didn't you?
 
---In asking you to remember those two noble kinsmen nuncle Richie and
+-- In asking you to remember those two noble kinsmen nuncle Richie and
 nuncle Edmund, Stephen answered, I feel I am asking too much perhaps. A
 brother is as easily forgotten as an umbrella.
 
@@ -10039,7 +10039,7 @@ I am tired of my voice, the voice of Esau. My kingdom for a drink.
 
 On.
 
---You will say those names were already in the chronicles from which he
+-- You will say those names were already in the chronicles from which he
 took the stuff of his plays. Why did he take them rather than others?
 Richard, a whoreson crookback, misbegotten, makes love to a widowed
 Ann (what's in a name?), woos and wins her, a whoreson merry widow.
@@ -10050,12 +10050,12 @@ the angel of the world. Why is the underplot of KING LEAR in which Edmund
 figures lifted out of Sidney's ARCADIA and spatchcocked on to a Celtic
 legend older than history?
 
---That was Will's way, John Eglinton defended. We should not now
+-- That was Will's way, John Eglinton defended. We should not now
 combine a Norse saga with an excerpt from a novel by George Meredith.
 QUE VOULEZ-VOUS? Moore would say. He puts Bohemia on the seacoast and
 makes Ulysses quote Aristotle.
 
---Why? Stephen answered himself. Because the theme of the false or the
+-- Why? Stephen answered himself. Because the theme of the false or the
 usurping or the adulterous brother or all three in one is to Shakespeare,
 what the poor are not, always with him. The note of banishment,
 banishment from the heart, banishment from home, sounds uninterruptedly
@@ -10073,31 +10073,31 @@ the lines of his last written words, it is petrified on his tombstone
 under which her four bones are not to be laid. Age has not withered it.
 Beauty and peace have not done it away. It is in infinite variety
 everywhere in the world he has created, in MUCH ADO ABOUT NOTHING, twice
-in AS YOU LIKE IT, in THE TEMPEST, in HAMLET, in MEASURE FOR MEASURE--and
+in AS YOU LIKE IT, in THE TEMPEST, in HAMLET, in MEASURE FOR MEASURE-- and
 in all the other plays which I have not read.
 
 He laughed to free his mind from his mind's bondage.
 
 Judge Eglinton summed up.
 
---The truth is midway, he affirmed. He is the ghost and the prince. He is
+-- The truth is midway, he affirmed. He is the ghost and the prince. He is
 all in all.
 
---He is, Stephen said. The boy of act one is the mature man of act five.
+-- He is, Stephen said. The boy of act one is the mature man of act five.
 All in all. In CYMBELINE, in OTHELLO he is bawd and cuckold. He acts and
 is acted on. Lover of an ideal or a perversion, like Jose he kills the
 real Carmen. His unremitting intellect is the hornmad Iago ceaselessly
 willing that the moor in him shall suffer.
 
---Cuckoo! Cuckoo! Cuck Mulligan clucked lewdly. O word of fear!
+-- Cuckoo! Cuckoo! Cuck Mulligan clucked lewdly. O word of fear!
 
 Dark dome received, reverbed.
 
---And what a character is Iago! undaunted John Eglinton exclaimed.
+-- And what a character is Iago! undaunted John Eglinton exclaimed.
 When all is said Dumas FILS (or is it Dumas PERE?) is right. After God
 Shakespeare has created most.
 
---Man delights him not nor woman neither, Stephen said. He returns after
+-- Man delights him not nor woman neither, Stephen said. He returns after
 a life of absence to that spot of earth where he was born, where he has
 always been, man and boy, a silent witness and there, his journey of life
 ended, he plants his mulberrytree in the earth. Then dies. The motion is
@@ -10122,18 +10122,18 @@ and would be bawd and cuckold too but  that in the economy of heaven,
 foretold by Hamlet, there are no more marriages, glorified man, an
 androgynous angel, being a wife unto himself.
 
---EUREKA! Buck Mulligan cried. EUREKA!
+-- EUREKA! Buck Mulligan cried. EUREKA!
 
 Suddenly happied he jumped up and reached in a stride John Eglinton's
 desk.
 
---May I? he said. The Lord has spoken to Malachi.
+-- May I? he said. The Lord has spoken to Malachi.
 
 He began to scribble on a slip of paper.
 
 Take some slips from the counter going out.
 
---Those who are married, Mr Best, douce herald, said, all save one, shall
+-- Those who are married, Mr Best, douce herald, said, all save one, shall
 live. The rest shall keep as they are.
 
 He laughed, unmarried, at Eglinton Johannes, of arts a bachelor.
@@ -10141,18 +10141,18 @@ He laughed, unmarried, at Eglinton Johannes, of arts a bachelor.
 Unwed, unfancied, ware of wiles, they fingerponder nightly each his
 variorum edition of THE TAMING OF THE SHREW.
 
---You are a delusion, said roundly John Eglinton to Stephen. You have
+-- You are a delusion, said roundly John Eglinton to Stephen. You have
 brought us all this way to show us a French triangle. Do you believe your
 own theory?
 
---No, Stephen said promptly.
+-- No, Stephen said promptly.
 
---Are you going to write it? Mr Best asked. You ought to make it a
+-- Are you going to write it? Mr Best asked. You ought to make it a
 dialogue, don't you know, like the Platonic dialogues Wilde wrote.
 
 John Eclecticon doubly smiled.
 
---Well, in that case, he said, I don't see why you should expect payment
+-- Well, in that case, he said, I don't see why you should expect payment
 for it since you don't believe it yourself. Dowden believes there is some
 mystery in HAMLET but will say no more. Herr Bleibtreu, the man Piper met
 in Berlin, who is working up that Rutland theory, believes that the secret
@@ -10164,25 +10164,25 @@ I believe, O Lord, help my unbelief. That is, help me to believe or help
 me to unbelieve? Who helps to believe? EGOMEN. Who to unbelieve? Other
 chap.
 
---You are the only contributor to DANA who asks for pieces of silver. Then
+-- You are the only contributor to DANA who asks for pieces of silver. Then
 I don't know about the next number. Fred Ryan wants space for an article
 on economics.
 
 Fraidrine. Two pieces of silver he lent me. Tide you over. Economics.
 
---For a guinea, Stephen said, you can publish this interview.
+-- For a guinea, Stephen said, you can publish this interview.
 
 Buck Mulligan stood up from his laughing scribbling, laughing: and
 then gravely said, honeying malice:
 
---I called upon the bard Kinch at his summer residence in upper
+-- I called upon the bard Kinch at his summer residence in upper
 Mecklenburgh street and found him deep in the study of the SUMMA CONTRA
 GENTILES in the company of two gonorrheal ladies, Fresh Nelly and Rosalie,
 the coalquay whore.
 
 He broke away.
 
---Come, Kinch. Come, wandering Aengus of the birds.
+-- Come, Kinch. Come, wandering Aengus of the birds.
 
 Come, Kinch. You have eaten all we left. Ay. I will serve you your orts
 and offals.
@@ -10191,12 +10191,12 @@ Stephen rose.
 
 Life is many days. This will end.
 
---We shall see you tonight, John Eglinton said. NOTRE AMI Moore says
+-- We shall see you tonight, John Eglinton said. NOTRE AMI Moore says
 Malachi Mulligan must be there.
 
 Buck Mulligan flaunted his slip and panama.
 
---Monsieur Moore, he said, lecturer on French letters to the youth of
+-- Monsieur Moore, he said, lecturer on French letters to the youth of
 Ireland. I'll be there. Come, Kinch, the bards must drink. Can you walk
 straight?
 
@@ -10223,11 +10223,11 @@ The constant readers' room. In the readers' book Cashel Boyle
 O'Connor Fitzmaurice Tisdall Farrell parafes his polysyllables. Item: was
 Hamlet mad? The quaker's pate godlily with a priesteen in booktalk.
 
---O please do, sir ... I shall be most pleased ...
+-- O please do, sir ... I shall be most pleased ...
 
 Amused Buck Mulligan mused in pleasant murmur with himself, selfnodding:
 
---A pleased bottom.
+-- A pleased bottom.
 
 The turnstile.
 
@@ -10244,7 +10244,7 @@ Puck Mulligan, panamahelmeted, went step by step, iambing, trolling:
 
 He spluttered to the air:
 
---O, the chinless Chinaman! Chin Chon Eg Lin Ton. We went over to their
+-- O, the chinless Chinaman! Chin Chon Eg Lin Ton. We went over to their
 playbox, Haines and I, the plumbers' hall. Our players are creating a new
 art for Europe like the Greeks or M. Maeterlinck. Abbey Theatre! I smell
 the pubic sweat of monks.
@@ -10262,7 +10262,7 @@ minion of pleasure, Phedo's toyable fair hair.
 
 Eh ... I just eh ... wanted ... I forgot ... he ...
 
---Longworth and M'Curdy Atkinson were there ...
+-- Longworth and M'Curdy Atkinson were there ...
 
 Puck Mulligan footed featly, trilling:
 
@@ -10281,24 +10281,24 @@ Jest on. Know thyself.
 
 Halted, below me, a quizzer looks at me. I halt.
 
---Mournful mummer, Buck Mulligan moaned. Synge has left off wearing
+-- Mournful mummer, Buck Mulligan moaned. Synge has left off wearing
 black to be like nature. Only crows, priests and English coal are black.
 
 A laugh tripped over his lips.
 
---Longworth is awfully sick, he said, after what you wrote about that old
+-- Longworth is awfully sick, he said, after what you wrote about that old
 hake Gregory. O you inquisitional drunken jewjesuit! She gets you a job on
 the paper and then you go and slate her drivel to Jaysus. Couldn't you do
 the Yeats touch?
 
 He went on and down, mopping, chanting with waving graceful arms:
 
---The most beautiful book that has come out of our country in my time.
+-- The most beautiful book that has come out of our country in my time.
 One thinks of Homer.
 
 He stopped at the stairfoot.
 
---I have conceived a play for the mummers, he said solemnly.
+-- I have conceived a play for the mummers, he said solemnly.
 
 The pillared Moorish hall, shadows entwined. Gone the nine men's
 morrice with caps of indices.
@@ -10316,11 +10316,11 @@ In sweetly varying voices Buck Mulligan read his tablet:
 
 He turned a happy patch's smirk to Stephen, saying:
 
---The disguise, I fear, is thin. But listen.
+-- The disguise, I fear, is thin. But listen.
 
 He read, MARCATO:
 
---Characters:
+-- Characters:
 
 
     TODY TOSTOFF (a ruined Pole)
@@ -10337,11 +10337,11 @@ He read, MARCATO:
 He laughed, lolling a to and fro head, walking on, followed by Stephen:
 and mirthfully he told the shadows, souls of men:
 
---O, the night in the Camden hall when the daughters of Erin had to lift
+-- O, the night in the Camden hall when the daughters of Erin had to lift
 their skirts to step over you as you lay in your mulberrycoloured,
 multicoloured, multitudinous vomit!
 
---The most innocent son of Erin, Stephen said, for whom they ever lifted
+-- The most innocent son of Erin, Stephen said, for whom they ever lifted
 them.
 
 About to pass through the doorway, feeling one behind, he stood aside.
@@ -10354,7 +10354,7 @@ My will: his will that fronts me. Seas between.
 
 A man passed out between them, bowing, greeting.
 
---Good day again, Buck Mulligan said.
+-- Good day again, Buck Mulligan said.
 
 The portico.
 
@@ -10362,7 +10362,7 @@ Here I watched the birds for augury. Aengus of the birds. They go,
 they come. Last night I flew. Easily flew. Men wondered. Street of harlots
 after. A creamfruit melon he held to me. In. You will see.
 
---The wandering jew, Buck Mulligan whispered with clown's awe. Did you
+-- The wandering jew, Buck Mulligan whispered with clown's awe. Did you
 see his eye? He looked upon you to lust after you. I fear thee, ancient
 mariner. O, Kinch, thou art in peril. Get thee a breechpad.
 
@@ -10390,7 +10390,7 @@ from wide earth an altar.
     FROM OUR BLESS'D ALTARS.
 
 
--------- Wandering Rocks ---------
+--------  Wandering Rocks ---------
 
 
 The superior, the very reverend John Conmee S.J. reset his smooth
@@ -10414,7 +10414,7 @@ NOT HAVE ABANDONED ME IN MY OLD DAYS. He walked by the treeshade of
 sunnywinking leaves: and towards him came the wife of Mr David Sheehy
 M.P.
 
---Very well, indeed, father. And you, father?
+-- Very well, indeed, father. And you, father?
 
 Father Conmee was wonderfully well indeed. He would go to Buxton
 probably for the waters. And her boys, were they getting on well at
@@ -10428,7 +10428,7 @@ Father Conmee was very glad to see the wife of Mr David Sheehy
 M.P. Iooking so well and he begged to be remembered to Mr David Sheehy
 M.P. Yes, he would certainly call.
 
---Good afternoon, Mrs Sheehy.
+-- Good afternoon, Mrs Sheehy.
 
 Father Conmee doffed his silk hat and smiled, as he took leave, at the
 jet beads of her mantilla inkshining in the sun. And smiled yet again, in
@@ -10437,7 +10437,7 @@ going. He had cleaned his teeth, he knew, with arecanut paste.
 Father Conmee walked and, walking, smiled for he thought on Father
 Bernard Vaughan's droll eyes and cockney voice.
 
---Pilate! Wy don't you old back that owlin mob?
+-- Pilate! Wy don't you old back that owlin mob?
 
 A zealous man, however. Really he was. And really did great good in.
 his way. Beyond a doubt. He loved Ireland, he said, and he loved the
@@ -10455,13 +10455,13 @@ have.
 Father Conmee gave a letter from his breast to Master Brunny Lynam
 and pointed to the red pillarbox at the corner of Fitzgibbon street.
 
---But mind you don't post yourself into the box, little man, he said.
+-- But mind you don't post yourself into the box, little man, he said.
 
 The boys sixeyed Father Conmee and laughed:
 
---O, sir.
+-- O, sir.
 
---Well, let me see if you can post a letter, Father Conmee said.
+-- Well, let me see if you can post a letter, Father Conmee said.
 
 Master Brunny Lynam ran across the road and put Father Conmee's
 letter to father provincial into the mouth of the bright red letterbox.
@@ -10676,19 +10676,19 @@ downtilted, chewing his blade of hay.
 
 Constable 57C, on his beat, stood to pass the time of day.
 
---That's a fine day, Mr Kelleher.
+-- That's a fine day, Mr Kelleher.
 
---Ay, Corny Kelleher said.
+-- Ay, Corny Kelleher said.
 
---It's very close, the constable said.
+-- It's very close, the constable said.
 
 Corny Kelleher sped a silent jet of hayjuice arching from his mouth
 while a generous white arm from a window in Eccles street flung forth a
 coin.
 
---What's the best news? he asked.
+-- What's the best news? he asked.
 
---I seen that particular party last evening, the constable said with bated
+-- I seen that particular party last evening, the constable said with bated
 breath.
 
 
@@ -10700,12 +10700,12 @@ skirting Rabaiotti's icecream car, and jerked himself up Eccles street.
 Towards Larry O'Rourke, in shirtsleeves in his doorway, he growled
 unamiably:
 
---FOR ENGLAND ...
+-- FOR ENGLAND ...
 
 He swung himself violently forward past Katey and Boody Dedalus,
 halted and growled:
 
---HOME AND BEAUTY.
+-- HOME AND BEAUTY.
 
 J. J. O'Molloy's white careworn face was told that Mr Lambert was
 in the warehouse with a visitor.
@@ -10717,7 +10717,7 @@ four strides.
 
 He halted and growled angrily:
 
---FOR ENGLAND ...
+-- FOR ENGLAND ...
 
 Two barefoot urchins, sucking long liquorice laces, halted near him,
 gaping at his stump with their yellowslobbered mouths.
@@ -10725,7 +10725,7 @@ gaping at his stump with their yellowslobbered mouths.
 He swung himself forward in vigorous jerks, halted, lifted his head
 towards a window and bayed deeply:
 
---HOME AND BEAUTY.
+-- HOME AND BEAUTY.
 
 The gay sweet chirping whistling within went on a bar or two, ceased.
 The blind of the window was drawn aside. A card UNFURNISHED APARTMENTS
@@ -10736,7 +10736,7 @@ hand flung forth a coin over the area railings. It fell on the path.
 One of the urchins ran to it, picked it up and dropped it into the
 minstrel's cap, saying:
 
---There, sir.
+-- There, sir.
 
 
     * * * * *
@@ -10745,69 +10745,69 @@ minstrel's cap, saying:
 Katey and Boody Dedalus shoved in the door of the closesteaming
 kitchen.
 
---Did you put in the books? Boody asked.
+-- Did you put in the books? Boody asked.
 
 Maggy at the range rammed down a greyish mass beneath bubbling
 suds twice with her potstick and wiped her brow.
 
---They wouldn't give anything on them, she said.
+-- They wouldn't give anything on them, she said.
 
 Father Conmee walked through Clongowes fields, his thinsocked
 ankles tickled by stubble.
 
---Where did you try? Boody asked.
+-- Where did you try? Boody asked.
 
---M'Guinness's.
+-- M'Guinness's.
 
 Boody stamped her foot and threw her satchel on the table.
 
---Bad cess to her big face! she cried.
+-- Bad cess to her big face! she cried.
 
 Katey went to the range and peered with squinting eyes.
 
---What's in the pot? she asked.
+-- What's in the pot? she asked.
 
---Shirts, Maggy said.
+-- Shirts, Maggy said.
 
 Boody cried angrily:
 
---Crickey, is there nothing for us to eat?
+-- Crickey, is there nothing for us to eat?
 
 Katey, lifting the kettlelid in a pad of her stained skirt, asked:
 
---And what's in this?
+-- And what's in this?
 
 A heavy fume gushed in answer.
 
---Peasoup, Maggy said.
+-- Peasoup, Maggy said.
 
---Where did you get it? Katey asked.
+-- Where did you get it? Katey asked.
 
---Sister Mary Patrick, Maggy said.
+-- Sister Mary Patrick, Maggy said.
 
 The lacquey rang his bell.
 
---Barang!
+-- Barang!
 
 Boody sat down at the table and said hungrily:
 
---Give us it here.
+-- Give us it here.
 
 Maggy poured yellow thick soup from the kettle into a bowl. Katey,
 sitting opposite Boody, said quietly, as her fingertip lifted to her mouth
 random crumbs:
 
---A good job we have that much. Where's Dilly?
+-- A good job we have that much. Where's Dilly?
 
---Gone to meet father, Maggy said.
+-- Gone to meet father, Maggy said.
 
 Boody, breaking big chunks of bread into the yellow soup, added:
 
---Our father who art not in heaven.
+-- Our father who art not in heaven.
 
 Maggy, pouring yellow soup in Katey's bowl, exclaimed:
 
---Boody! For shame!
+-- Boody! For shame!
 
 A skiff, a crumpled throwaway, Elijah is coming, rode lightly down
 the Liffey, under Loopline bridge, shooting the rapids where water chafed
@@ -10821,11 +10821,11 @@ The blond girl in Thornton's bedded the wicker basket with rustling
 fibre. Blazes Boylan handed her the bottle swathed in pink tissue paper
 and a small jar.
 
---Put these in first, will you? he said.
+-- Put these in first, will you? he said.
 
---Yes, sir, the blond girl said. And the fruit on top.
+-- Yes, sir, the blond girl said. And the fruit on top.
 
---That'll do, game ball, Blazes Boylan said.
+-- That'll do, game ball, Blazes Boylan said.
 
 She bestowed fat pears neatly, head by tail, and among them ripe
 shamefaced peaches.
@@ -10840,53 +10840,53 @@ plodding towards their goal.
 He turned suddenly from a chip of strawberries, drew a gold watch
 from his fob and held it at its chain's length.
 
---Can you send them by tram? Now?
+-- Can you send them by tram? Now?
 
 A darkbacked figure under Merchants' arch scanned books on the
 hawker's cart.
 
---Certainly, sir. Is it in the city?
+-- Certainly, sir. Is it in the city?
 
---O, yes, Blazes Boylan said. Ten minutes.
+-- O, yes, Blazes Boylan said. Ten minutes.
 
 The blond girl handed him a docket and pencil.
 
---Will you write the address, sir?
+-- Will you write the address, sir?
 
 Blazes Boylan at the counter wrote and pushed the docket to her.
 
---Send it at once, will you? he said. It's for an invalid.
+-- Send it at once, will you? he said. It's for an invalid.
 
---Yes, sir. I will, sir.
+-- Yes, sir. I will, sir.
 
 Blazes Boylan rattled merry money in his trousers' pocket.
 
---What's the damage? he asked.
+-- What's the damage? he asked.
 
 The blond girl's slim fingers reckoned the fruits.
 
 Blazes Boylan looked into the cut of her blouse. A young pullet. He
 took a red carnation from the tall stemglass.
 
---This for me? he asked gallantly.
+-- This for me? he asked gallantly.
 
 The blond girl glanced sideways at him, got up regardless, with his tie
 a bit crooked, blushing.
 
---Yes, sir, she said.
+-- Yes, sir, she said.
 
 Bending archly she reckoned again fat pears and blushing peaches.
 
 Blazes Boylan looked in her blouse with more favour, the stalk of the
 red flower between his smiling teeth.
 
---May I say a word to your telephone, missy? he asked roguishly.
+-- May I say a word to your telephone, missy? he asked roguishly.
 
 
     * * * * *
 
 
---MA! Almidano Artifoni said.
+-- MA! Almidano Artifoni said.
 
 He gazed over Stephen's shoulder at Goldsmith's knobby poll.
 
@@ -10895,34 +10895,34 @@ gripping the handrests. Palefaces. Men's arms frankly round their stunted
 forms. They looked from Trinity to the blind columned porch of the bank
 of Ireland where pigeons roocoocooed.
 
---ANCH'IO HO AVUTO DI QUESTE IDEE, Almidano Artifoni said, QUAND' ERO
+-- ANCH'IO HO AVUTO DI QUESTE IDEE, Almidano Artifoni said, QUAND' ERO
 GIOVINE COME LEI. EPPOI MI SONO CONVINTO CHE IL MONDO E UNA BESTIA.
 PECCATO. PERCHE LA SUA VOCE ... SAREBBE UN CESPITE DI RENDITA, VIA.
 INVECE, LEI SI SACRIFICA.
 
---SACRIFIZIO INCRUENTO, Stephen said smiling, swaying his ashplant in slow
+-- SACRIFIZIO INCRUENTO, Stephen said smiling, swaying his ashplant in slow
 swingswong from its midpoint, lightly.
 
---SPERIAMO, the round mustachioed face said pleasantly. MA, DIA RETTA A
+-- SPERIAMO, the round mustachioed face said pleasantly. MA, DIA RETTA A
 ME. CI RIFLETTA.
 
 By the stern stone hand of Grattan, bidding halt, an Inchicore tram
 unloaded straggling Highland soldiers of a band.
 
---CI RIFLETTERO, Stephen said, glancing down the solid trouserleg.
+-- CI RIFLETTERO, Stephen said, glancing down the solid trouserleg.
 
---MA, SUL SERIO, EH? Almidano Artifoni said.
+-- MA, SUL SERIO, EH? Almidano Artifoni said.
 
 His heavy hand took Stephen's firmly. Human eyes. They gazed
 curiously an instant and turned quickly towards a Dalkey tram.
 
---ECCOLO, Almidano Artifoni said in friendly haste. VENGA A TROVARMI E CI
+-- ECCOLO, Almidano Artifoni said in friendly haste. VENGA A TROVARMI E CI
 PENSI. ADDIO, CARO.
 
---ARRIVEDERLA, MAESTRO, Stephen said, raising his hat when his hand was
+-- ARRIVEDERLA, MAESTRO, Stephen said, raising his hat when his hand was
 freed. E GRAZIE.
 
---DI CHE? Almidano Artifoni said. SCUSI, EH? TANTE BELLE COSE!
+-- DI CHE? Almidano Artifoni said. SCUSI, EH? TANTE BELLE COSE!
 
 Almidano Artifoni, holding up a baton of rolled music as a signal,
 trotted on stout trousers after the Dalkey tram. In vain he trotted,
@@ -10945,7 +10945,7 @@ them: six.
 
 Miss Dunne clicked on the keyboard:
 
---16 June 1904.
+-- 16 June 1904.
 
 Five tallwhitehatted sandwichmen between Monypeny's corner and
 the slab where Wolfe Tone's statue was not, eeled themselves turning
@@ -10963,14 +10963,14 @@ till seven.
 
 The telephone rang rudely by her ear.
 
---Hello. Yes, sir. No, sir. Yes, sir. I'll ring them up after five. Only
+-- Hello. Yes, sir. No, sir. Yes, sir. I'll ring them up after five. Only
 those two, sir, for Belfast and Liverpool. All right, sir. Then I can go
 after six if you're not back. A quarter after. Yes, sir. Twentyseven and
 six. I'll tell him. Yes: one, seven, six.
 
 She scribbled three figures on an envelope.
 
---Mr Boylan! Hello! That gentleman from SPORT was in looking for you.
+-- Mr Boylan! Hello! That gentleman from SPORT was in looking for you.
 Mr Lenehan, yes. He said he'll be in the Ormond at four. No, sir. Yes,
 sir. I'll ring them up after five.
 
@@ -10980,20 +10980,20 @@ sir. I'll ring them up after five.
 
 Two pink faces turned in the flare of the tiny torch.
 
---Who's that? Ned Lambert asked. Is that Crotty?
+-- Who's that? Ned Lambert asked. Is that Crotty?
 
---Ringabella and Crosshaven, a voice replied groping for foothold.
+-- Ringabella and Crosshaven, a voice replied groping for foothold.
 
---Hello, Jack, is that yourself? Ned Lambert said, raising in salute his
+-- Hello, Jack, is that yourself? Ned Lambert said, raising in salute his
 pliant lath among the flickering arches. Come on. Mind your steps there.
 
 The vesta in the clergyman's uplifted hand consumed itself in a long soft
 flame and was let fall. At their feet its red speck died: and mouldy air
 closed round them.
 
---How interesting! a refined accent said in the gloom.
+-- How interesting! a refined accent said in the gloom.
 
---Yes, sir, Ned Lambert said heartily. We are standing in the historic
+-- Yes, sir, Ned Lambert said heartily. We are standing in the historic
 council chamber of saint Mary's abbey where silken Thomas proclaimed
 himself a rebel in 1534. This is the most historic spot in all Dublin.
 O'Madden Burke is going to write something about it one of these days. The
@@ -11001,17 +11001,17 @@ old bank of Ireland was over the way till the time of the union and the
 original jews' temple was here too before they built their synagogue over
 in Adelaide road. You were never here before, Jack, were you?
 
---No, Ned.
+-- No, Ned.
 
---He rode down through Dame walk, the refined accent said, if my
+-- He rode down through Dame walk, the refined accent said, if my
 memory serves me. The mansion of the Kildares was in Thomas court.
 
---That's right, Ned Lambert said. That's quite right, sir.
+-- That's right, Ned Lambert said. That's quite right, sir.
 
---If you will be so kind then, the clergyman said, the next time to allow
+-- If you will be so kind then, the clergyman said, the next time to allow
 me perhaps ...
 
---Certainly, Ned Lambert said. Bring the camera whenever you like. I'll
+-- Certainly, Ned Lambert said. Bring the camera whenever you like. I'll
 get those bags cleared away from the windows. You can take it from here or
 from here.
 
@@ -11020,15 +11020,15 @@ seedbags and points of vantage on the floor.
 
 From a long face a beard and gaze hung on a chessboard.
 
---I'm deeply obliged, Mr Lambert, the clergyman said. I won't trespass on
+-- I'm deeply obliged, Mr Lambert, the clergyman said. I won't trespass on
 your valuable time ...
 
---You're welcome, sir, Ned Lambert said. Drop in whenever you like. Next
+-- You're welcome, sir, Ned Lambert said. Drop in whenever you like. Next
 week, say. Can you see?
 
---Yes, yes. Good afternoon, Mr Lambert. Very pleased to have met you.
+-- Yes, yes. Good afternoon, Mr Lambert. Very pleased to have met you.
 
---Pleasure is mine, sir, Ned Lambert answered.
+-- Pleasure is mine, sir, Ned Lambert answered.
 
 He followed his guest to the outlet and then whirled his lath away
 among the pillars. With J. J. O'Molloy he came forth slowly into Mary's
@@ -11037,18 +11037,18 @@ meal, O'Connor, Wexford.
 
 He stood to read the card in his hand.
 
---The reverend Hugh C. Love, Rathcoffey. Present address: Saint
+-- The reverend Hugh C. Love, Rathcoffey. Present address: Saint
 Michael's, Sallins. Nice young chap he is. He's writing a book about the
 Fitzgeralds he told me. He's well up in history, faith.
 
 The young woman with slow care detached from her light skirt a
 clinging twig.
 
---I thought you were at a new gunpowder plot, J. J. O'Molloy said.
+-- I thought you were at a new gunpowder plot, J. J. O'Molloy said.
 
 Ned Lambert cracked his fingers in the air.
 
---God! he cried. I forgot to tell him that one about the earl of Kildare
+-- God! he cried. I forgot to tell him that one about the earl of Kildare
 after he set fire to Cashel cathedral. You know that one? I'M BLOODY SORRY
 I DID IT, says he, BUT I DECLARE TO GOD I THOUGHT THE ARCHBISHOP WAS
 INSIDE. He mightn't like it, though. What? God, I'll tell him anyhow.
@@ -11058,26 +11058,26 @@ them, the Geraldines.
 The horses he passed started nervously under their slack harness. He
 slapped a piebald haunch quivering near him and cried:
 
---Woa, sonny!
+-- Woa, sonny!
 
 He turned to J. J. O'Molloy and asked:
 
---Well, Jack. What is it? What's the trouble? Wait awhile. Hold hard.
+-- Well, Jack. What is it? What's the trouble? Wait awhile. Hold hard.
 
 With gaping mouth and head far back he stood still and, after an
 instant, sneezed loudly.
 
---Chow! he said. Blast you!
+-- Chow! he said. Blast you!
 
---The dust from those sacks, J. J. O'Molloy said politely.
+-- The dust from those sacks, J. J. O'Molloy said politely.
 
---No, Ned Lambert gasped, I caught a ... cold night before ... blast
+-- No, Ned Lambert gasped, I caught a ... cold night before ... blast
 your soul ... night before last ... and there was a hell of a lot of
 draught ...
 
 He held his handkerchief ready for the coming ...
 
---I was ... Glasnevin this morning ... poor little ... what do you call
+-- I was ... Glasnevin this morning ... poor little ... what do you call
 him ... Chow! ... Mother of Moses!
 
 
@@ -11087,7 +11087,7 @@ him ... Chow! ... Mother of Moses!
 Tom Rochford took the top disk from the pile he clasped against his
 claret waistcoat.
 
---See? he said. Say it's turn six. In here, see. Turn Now On.
+-- See? he said. Say it's turn six. In here, see. Turn Now On.
 
 He slid it into the left slot for them. It shot down the groove, wobbled
 a while, ceased, ogling them: six.
@@ -11099,39 +11099,39 @@ admiralty division of king's bench to the court of appeal an elderly
 female with false teeth smiling incredulously and a black silk skirt of
 great amplitude.
 
---See? he said. See now the last one I put in is over here: Turns Over.
+-- See? he said. See now the last one I put in is over here: Turns Over.
 The impact. Leverage, see?
 
 He showed them the rising column of disks on the right.
 
---Smart idea, Nosey Flynn said, snuffling. So a fellow coming in late can
+-- Smart idea, Nosey Flynn said, snuffling. So a fellow coming in late can
 see what turn is on and what turns are over.
 
---See? Tom Rochford said.
+-- See? Tom Rochford said.
 
 He slid in a disk for himself: and watched it shoot, wobble, ogle, stop:
 four. Turn Now On.
 
---I'll see him now in the Ormond, Lenehan said, and sound him. One good
+-- I'll see him now in the Ormond, Lenehan said, and sound him. One good
 turn deserves another.
 
---Do, Tom Rochford said. Tell him I'm Boylan with impatience.
+-- Do, Tom Rochford said. Tell him I'm Boylan with impatience.
 
---Goodnight, M'Coy said abruptly. When you two begin
+-- Goodnight, M'Coy said abruptly. When you two begin
 
 Nosey Flynn stooped towards the lever, snuffling at it.
 
---But how does it work here, Tommy? he asked.
+-- But how does it work here, Tommy? he asked.
 
---Tooraloo, Lenehan said. See you later.
+-- Tooraloo, Lenehan said. See you later.
 
 He followed M'Coy out across the tiny square of Crampton court.
 
---He's a hero, he said simply.
+-- He's a hero, he said simply.
 
---I know, M'Coy said. The drain, you mean.
+-- I know, M'Coy said. The drain, you mean.
 
---Drain? Lenehan said. It was down a manhole.
+-- Drain? Lenehan said. It was down a manhole.
 
 They passed Dan Lowry's musichall where Marie Kendall, charming
 soubrette, smiled on them from a poster a dauby smile.
@@ -11143,21 +11143,21 @@ choked with sewer gas. Down went Tom Rochford anyhow, booky's vest
 and all, with the rope round him. And be damned but he got the rope round
 the poor devil and the two were hauled up.
 
---The act of a hero, he said.
+-- The act of a hero, he said.
 
 At the Dolphin they halted to allow the ambulance car to gallop past
 them for Jervis street.
 
---This way, he said, walking to the right. I want to pop into Lynam's to
+-- This way, he said, walking to the right. I want to pop into Lynam's to
 see Sceptre's starting price. What's the time by your gold watch and
 chain?
 
 M'Coy peered into Marcus Tertius Moses' sombre office, then at
 O'Neill's clock.
 
---After three, he said. Who's riding her?
+-- After three, he said. Who's riding her?
 
---O. Madden, Lenehan said. And a game filly she is.
+-- O. Madden, Lenehan said. And a game filly she is.
 
 While he waited in Temple bar M'Coy dodged a banana peel with
 gentle pushes of his toe from the path to the gutter. Fellow might damn
@@ -11166,27 +11166,27 @@ easy get a nasty fall there coming along tight in the dark.
 The gates of the drive opened wide to give egress to the viceregal
 cavalcade.
 
---Even money, Lenehan said returning. I knocked against Bantam Lyons in
+-- Even money, Lenehan said returning. I knocked against Bantam Lyons in
 there going to back a bloody horse someone gave him that hasn't an
 earthly. Through here.
 
 They went up the steps and under Merchants' arch. A darkbacked
 figure scanned books on the hawker's cart.
 
---There he is, Lenehan said.
+-- There he is, Lenehan said.
 
---Wonder what he's buying, M'Coy said, glancing behind.
+-- Wonder what he's buying, M'Coy said, glancing behind.
 
---LEOPOLDO OR THE BLOOM IS ON THE RYE, Lenehan said.
+-- LEOPOLDO OR THE BLOOM IS ON THE RYE, Lenehan said.
 
---He's dead nuts on sales, M'Coy said. I was with him one day and he
+-- He's dead nuts on sales, M'Coy said. I was with him one day and he
 bought a book from an old one in Liffey street for two bob. There were
 fine plates in it worth double the money, the stars and the moon and
 comets with long tails. Astronomy it was about.
 
 Lenehan laughed.
 
---I'll tell you a damn good one about comets' tails, he said. Come over in
+-- I'll tell you a damn good one about comets' tails, he said. Come over in
 the sun.
 
 They crossed to the metal bridge and went along Wellington quay by
@@ -11195,31 +11195,31 @@ the riverwall.
 Master Patrick Aloysius Dignam came out of Mangan's, late
 Fehrenbach's, carrying a pound and a half of porksteaks.
 
---There was a long spread out at Glencree reformatory, Lenehan said
+-- There was a long spread out at Glencree reformatory, Lenehan said
 eagerly. The annual dinner, you know. Boiled shirt affair. The lord mayor
 was there, Val Dillon it was, and sir Charles Cameron and Dan Dawson
 spoke and there was music. Bartell d'Arcy sang and Benjamin Dollard ...
 
---I know, M'Coy broke in. My missus sang there once.
+-- I know, M'Coy broke in. My missus sang there once.
 
---Did she? Lenehan said.
+-- Did she? Lenehan said.
 
 A card UNFURNISHED APARTMENTS reappeared on the windowsash of
 number 7 Eccles street.
 
 He checked his tale a moment but broke out in a wheezy laugh.
 
---But wait till I tell you, he said. Delahunt of Camden street had the
+-- But wait till I tell you, he said. Delahunt of Camden street had the
 catering and yours truly was chief bottlewasher. Bloom and the wife were
 there. Lashings of stuff we put up: port wine and sherry and curacao to
 which we did ample justice. Fast and furious it was. After liquids came
 solids. Cold joints galore and mince pies ...
 
---I know, M'Coy said. The year the missus was there ...
+-- I know, M'Coy said. The year the missus was there ...
 
 Lenehan linked his arm warmly.
 
---But wait till I tell you, he said. We had a midnight lunch too after all
+-- But wait till I tell you, he said. We had a midnight lunch too after all
 the jollification and when we sallied forth it was blue o'clock the
 morning after the night before. Coming home it was a gorgeous winter's
 night on the Featherbed Mountain. Bloom and Chris Callinan were on one
@@ -11232,13 +11232,13 @@ pair, God bless her. Like that.
 
 He held his caved hands a cubit from him, frowning:
 
---I was tucking the rug under her and settling her boa all the time. Know
+-- I was tucking the rug under her and settling her boa all the time. Know
 what I mean?
 
 His hands moulded ample curves of air. He shut his eyes tight in
 delight, his body shrinking, and blew a sweet chirp from his lips.
 
---The lad stood to attention anyhow, he said with a sigh. She's a gamey
+-- The lad stood to attention anyhow, he said with a sigh. She's a gamey
 mare and no mistake. Bloom was pointing out all the stars and the comets
 in the heavens to Chris Callinan and the jarvey: the great bear and
 Hercules and the dragon, and the whole jingbang lot. But, by God, I was
@@ -11251,13 +11251,13 @@ wide of the mark.
 Lenehan stopped and leaned on the riverwall, panting with soft
 laughter.
 
---I'm weak, he gasped.
+-- I'm weak, he gasped.
 
 M'Coy's white face smiled about it at instants and grew grave.
 Lenehan walked on again. He lifted his yachtingcap and scratched his
 hindhead rapidly. He glanced sideways in the sunlight at M'Coy.
 
---He's a cultured allroundman, Bloom is, he said seriously. He's not one
+-- He's a cultured allroundman, Bloom is, he said seriously. He's not one
 of your common or garden ... you know ... There's a touch of the artist
 about old Bloom.
 
@@ -11275,11 +11275,11 @@ somewhere. Mrs Purefoy.
 He laid both books aside and glanced at the third: TALES OF THE GHETTO
 by Leopold von Sacher Masoch.
 
---That I had, he said, pushing it by.
+-- That I had, he said, pushing it by.
 
 The shopman let two volumes fall on the counter.
 
---Them are two good ones, he said.
+-- Them are two good ones, he said.
 
 Onions of his breath came across the counter out of his ruined
 mouth. He bent to make a bundle of the other books, hugged them against
@@ -11301,17 +11301,17 @@ He read the other title: SWEETS OF SIN. More in her line. Let us see.
 
 He read where his finger opened.
 
---ALL THE DOLLARBILLS HER HUSBAND GAVE HER WERE SPENT IN THE STORES ON
+-- ALL THE DOLLARBILLS HER HUSBAND GAVE HER WERE SPENT IN THE STORES ON
 WONDROUS GOWNS AND COSTLIEST FRILLIES. FOR HIM! FOR RAOUL!
 
 Yes. This. Here. Try.
 
---HER MOUTH GLUED ON HIS IN A LUSCIOUS VOLUPTUOUS KISS WHILE HIS HANDS
+-- HER MOUTH GLUED ON HIS IN A LUSCIOUS VOLUPTUOUS KISS WHILE HIS HANDS
 FELT FOR THE OPULENT CURVES INSIDE HER DESHABILLE.
 
 Yes. Take this. The end.
 
---YOU ARE LATE, HE SPOKE HOARSELY, EYING HER WITH A SUSPICIOUS GLARE.
+-- YOU ARE LATE, HE SPOKE HOARSELY, EYING HER WITH A SUSPICIOUS GLARE.
 THE BEAUTIFUL WOMAN THREW OFF HER SABLETRIMMED WRAP, DISPLAYING HER
 QUEENLY SHOULDERS AND HEAVING EMBONPOINT. AN IMPERCEPTIBLE SMILE PLAYED
 ROUND HER PERFECT LIPS AS SHE TURNED TO HIM CALMLY.
@@ -11344,11 +11344,11 @@ Mr Bloom beheld it.
 
 Mastering his troubled breath, he said:
 
---I'll take this one.
+-- I'll take this one.
 
 The shopman lifted eyes bleared with old rheum.
 
---SWEETS OF SIN, he said, tapping on it. That's a good one.
+-- SWEETS OF SIN, he said, tapping on it. That's a good one.
 
 
     * * * * *
@@ -11364,7 +11364,7 @@ five shillings? Going for five shillings.
 
 The lacquey lifted his handbell and shook it:
 
---Barang!
+-- Barang!
 
 Bang of the lastlap bell spurred the halfmile wheelmen to their sprint.
 J. A. Jackson, W. E. Wylie, A. Munro and H. T. Gahan, their stretched
@@ -11373,49 +11373,49 @@ necks wagging, negotiated the curve by the College library.
 Mr Dedalus, tugging a long moustache, came round from Williams's
 row. He halted near his daughter.
 
---It's time for you, she said.
+-- It's time for you, she said.
 
---Stand up straight for the love of the lord Jesus, Mr Dedalus said. Are
+-- Stand up straight for the love of the lord Jesus, Mr Dedalus said. Are
 you trying to imitate your uncle John, the cornetplayer, head upon
 shoulder? Melancholy God!
 
 Dilly shrugged her shoulders. Mr Dedalus placed his hands on them
 and held them back.
 
---Stand up straight, girl, he said. You'll get curvature of the spine.
+-- Stand up straight, girl, he said. You'll get curvature of the spine.
 Do you know what you look like?
 
 He let his head sink suddenly down and forward, hunching his
 shoulders and dropping his underjaw.
 
---Give it up, father, Dilly said. All the people are looking at you.
+-- Give it up, father, Dilly said. All the people are looking at you.
 
 Mr Dedalus drew himself upright and tugged again at his moustache.
 
---Did you get any money? Dilly asked.
+-- Did you get any money? Dilly asked.
 
---Where would I get money? Mr Dedalus said. There is no-one in Dublin
+-- Where would I get money? Mr Dedalus said. There is no-one in Dublin
 would lend me fourpence.
 
---You got some, Dilly said, looking in his eyes.
+-- You got some, Dilly said, looking in his eyes.
 
---How do you know that? Mr Dedalus asked, his tongue in his cheek.
+-- How do you know that? Mr Dedalus asked, his tongue in his cheek.
 
 Mr Kernan, pleased with the order he had booked, walked boldly
 along James's street.
 
---I know you did, Dilly answered. Were you in the Scotch house now?
+-- I know you did, Dilly answered. Were you in the Scotch house now?
 
---I was not, then, Mr Dedalus said, smiling. Was it the little nuns
+-- I was not, then, Mr Dedalus said, smiling. Was it the little nuns
 taught you to be so saucy? Here.
 
 He handed her a shilling.
 
---See if you can do anything with that, he said.
+-- See if you can do anything with that, he said.
 
---I suppose you got five, Dilly said. Give me more than that.
+-- I suppose you got five, Dilly said. Give me more than that.
 
---Wait awhile, Mr Dedalus said threateningly. You're like the rest of
+-- Wait awhile, Mr Dedalus said threateningly. You're like the rest of
 them, are you? An insolent pack of little bitches since your poor mother
 died. But wait awhile. You'll all get a short shrift and a long day from
 me. Low blackguardism! I'm going to get rid of you. Wouldn't care if I
@@ -11423,42 +11423,42 @@ was stretched out stiff. He's dead. The man upstairs is dead.
 
 He left her and walked on. Dilly followed quickly and pulled his coat.
 
---Well, what is it? he said, stopping.
+-- Well, what is it? he said, stopping.
 
 The lacquey rang his bell behind their backs.
 
---Barang!
+-- Barang!
 
---Curse your bloody blatant soul, Mr Dedalus cried, turning on him.
+-- Curse your bloody blatant soul, Mr Dedalus cried, turning on him.
 
 The lacquey, aware of comment, shook the lolling clapper of his bell
 but feebly:
 
---Bang!
+-- Bang!
 
 Mr Dedalus stared at him.
 
---Watch him, he said. It's instructive. I wonder will he allow us to talk.
+-- Watch him, he said. It's instructive. I wonder will he allow us to talk.
 
---You got more than that, father, Dilly said.
+-- You got more than that, father, Dilly said.
 
---I'm going to show you a little trick, Mr Dedalus said. I'll leave you
+-- I'm going to show you a little trick, Mr Dedalus said. I'll leave you
 all where Jesus left the jews. Look, there's all I have. I got two
 shillings from Jack Power and I spent twopence for a shave for the
 funeral.
 
 He drew forth a handful of copper coins, nervously.
 
---Can't you look for some money somewhere? Dilly said.
+-- Can't you look for some money somewhere? Dilly said.
 
 Mr Dedalus thought and nodded.
 
---I will, he said gravely. I looked all along the gutter in O'Connell
+-- I will, he said gravely. I looked all along the gutter in O'Connell
 street. I'll try this one now.
 
---You're very funny, Dilly said, grinning.
+-- You're very funny, Dilly said, grinning.
 
---Here, Mr Dedalus said, handing her two pennies. Get a glass of milk for
+-- Here, Mr Dedalus said, handing her two pennies. Get a glass of milk for
 yourself and a bun or a something. I'll be home shortly.
 
 He put the other coins in his pocket and started to walk on.
@@ -11466,14 +11466,14 @@ He put the other coins in his pocket and started to walk on.
 The viceregal cavalcade passed, greeted by obsequious policemen, out
 of Parkgate.
 
---I'm sure you have another shilling, Dilly said.
+-- I'm sure you have another shilling, Dilly said.
 
 The lacquey banged loudly.
 
 Mr Dedalus amid the din walked off, murmuring to himself with a
 pursing mincing mouth gently:
 
---The little nuns! Nice little things! O, sure they wouldn't do anything!
+-- The little nuns! Nice little things! O, sure they wouldn't do anything!
 O, sure they wouldn't really! Is it little sister Monica!
 
 
@@ -11507,9 +11507,9 @@ always someone to pick it up.
 Saw him looking at my frockcoat. Dress does it. Nothing like a dressy
 appearance. Bowls them over.
 
---Hello, Simon, Father Cowley said. How are things?
+-- Hello, Simon, Father Cowley said. How are things?
 
---Hello, Bob, old man, Mr Dedalus answered, stopping.
+-- Hello, Bob, old man, Mr Dedalus answered, stopping.
 
 Mr Kernan halted and preened himself before the sloping mirror of Peter
 Kennedy, hairdresser. Stylish coat, beyond a doubt. Scott of Dawson
@@ -11640,7 +11640,7 @@ each to other his bulbous fists. And they are throbbing: heroes' hearts.
 
 He turned and halted by the slanted bookcart.
 
---Twopence each, the huckster said. Four for sixpence.
+-- Twopence each, the huckster said. Four for sixpence.
 
 Tattered pages. THE IRISH BEEKEEPER. LIFE AND MIRACLES OF THE CURE' OF
 ARS. POCKET GUIDE TO KILLARNEY.
@@ -11657,29 +11657,29 @@ Who has passed here before me? How to soften chapped hands. Recipe for
 white wine vinegar. How to win a woman's love. For me this. Say the
 following talisman three times with hands folded:
 
---SE EL YILO NEBRAKADA FEMININUM! AMOR ME SOLO! SANKTUS! AMEN.
+-- SE EL YILO NEBRAKADA FEMININUM! AMOR ME SOLO! SANKTUS! AMEN.
 
 Who wrote this? Charms and invocations of the most blessed abbot Peter
 Salanka to all true believers divulged. As good as any other abbot's
 charms, as mumbling Joachim's. Down, baldynoddle, or we'll wool your
 wool.
 
---What are you doing here, Stephen?
+-- What are you doing here, Stephen?
 
 Dilly's high shoulders and shabby dress.
 
 Shut the book quick. Don't let see.
 
---What are you doing? Stephen said.
+-- What are you doing? Stephen said.
 
 A Stuart face of nonesuch Charles, lank locks falling at its sides. It
 glowed as she crouched feeding the fire with broken boots. I told her of
 Paris. Late lieabed under a quilt of old overcoats, fingering a pinchbeck
 bracelet, Dan Kelly's token. NEBRAKADA FEMININUM.
 
---What have you there? Stephen asked.
+-- What have you there? Stephen asked.
 
---I bought it from the other cart for a penny, Dilly said, laughing
+-- I bought it from the other cart for a penny, Dilly said, laughing
 nervously. Is it any good?
 
 My eyes they say she has. Do others see me so? Quick, far and daring.
@@ -11687,16 +11687,16 @@ Shadow of my mind.
 
 He took the coverless book from her hand. Chardenal's French primer.
 
---What did you buy that for? he asked. To learn French?
+-- What did you buy that for? he asked. To learn French?
 
 She nodded, reddening and closing tight her lips.
 
 Show no surprise. Quite natural.
 
---Here, Stephen said. It's all right. Mind Maggy doesn't pawn it on you.
+-- Here, Stephen said. It's all right. Mind Maggy doesn't pawn it on you.
 I suppose all my books are gone.
 
---Some, Dilly said. We had to.
+-- Some, Dilly said. We had to.
 
 She is drowning. Agenbite. Save her. Agenbite. All against us. She will
 drown me with her, eyes and hair. Lank coils of seaweed hair around me,
@@ -11712,37 +11712,37 @@ Misery! Misery!
     * * * * *
 
 
---Hello, Simon, Father Cowley said. How are things?
+-- Hello, Simon, Father Cowley said. How are things?
 
---Hello, Bob, old man, Mr Dedalus answered, stopping.
+-- Hello, Bob, old man, Mr Dedalus answered, stopping.
 
 They clasped hands loudly outside Reddy and Daughter's. Father Cowley
 brushed his moustache often downward with a scooping hand.
 
---What's the best news? Mr Dedalus said.
+-- What's the best news? Mr Dedalus said.
 
---Why then not much, Father Cowley said. I'm barricaded up, Simon, with
+-- Why then not much, Father Cowley said. I'm barricaded up, Simon, with
 two men prowling around the house trying to effect an entrance.
 
---Jolly, Mr Dedalus said. Who is it?
+-- Jolly, Mr Dedalus said. Who is it?
 
---O, Father Cowley said. A certain gombeen man of our acquaintance.
+-- O, Father Cowley said. A certain gombeen man of our acquaintance.
 
---With a broken back, is it? Mr Dedalus asked.
+-- With a broken back, is it? Mr Dedalus asked.
 
---The same, Simon, Father Cowley answered. Reuben of that ilk. I'm just
+-- The same, Simon, Father Cowley answered. Reuben of that ilk. I'm just
 waiting for Ben Dollard. He's going to say a word to long John to get him
 to take those two men off. All I want is a little time.
 
 He looked with vague hope up and down the quay, a big apple bulging in
 his neck.
 
---I know, Mr Dedalus said, nodding. Poor old bockedy Ben! He's always
+-- I know, Mr Dedalus said, nodding. Poor old bockedy Ben! He's always
 doing a good turn for someone. Hold hard!
 
 He put on his glasses and gazed towards the metal bridge an instant.
 
---There he is, by God, he said, arse and pockets.
+-- There he is, by God, he said, arse and pockets.
 
 Ben Dollard's loose blue cutaway and square hat above large slops crossed
 the quay in full gait from the metal bridge. He came towards them at an
@@ -11750,28 +11750,28 @@ amble, scratching actively behind his coattails.
 
 As he came near Mr Dedalus greeted:
 
---Hold that fellow with the bad trousers.
+-- Hold that fellow with the bad trousers.
 
---Hold him now, Ben Dollard said.
+-- Hold him now, Ben Dollard said.
 
 Mr Dedalus eyed with cold wandering scorn various points of Ben Dollard's
 figure. Then, turning to Father Cowley with a nod, he muttered
 sneeringly:
 
---That's a pretty garment, isn't it, for a summer's day?
+-- That's a pretty garment, isn't it, for a summer's day?
 
---Why, God eternally curse your soul, Ben Dollard growled furiously, I
+-- Why, God eternally curse your soul, Ben Dollard growled furiously, I
 threw out more clothes in my time than you ever saw.
 
 He stood beside them beaming, on them first and on his roomy clothes from
 points of which Mr Dedalus flicked fluff, saying:
 
---They were made for a man in his health, Ben, anyhow.
+-- They were made for a man in his health, Ben, anyhow.
 
---Bad luck to the jewman that made them, Ben Dollard said. Thanks be to
+-- Bad luck to the jewman that made them, Ben Dollard said. Thanks be to
 God he's not paid yet.
 
---And how is that BASSO PROFONDO, Benjamin? Father Cowley asked.
+-- And how is that BASSO PROFONDO, Benjamin? Father Cowley asked.
 
 Cashel Boyle O'Connor Fitzmaurice Tisdall Farrell, murmuring, glassyeyed,
 strode past the Kildare street club.
@@ -11779,15 +11779,15 @@ strode past the Kildare street club.
 Ben Dollard frowned and, making suddenly a chanter's mouth, gave forth a
 deep note.
 
---Aw! he said.
+-- Aw! he said.
 
---That's the style, Mr Dedalus said, nodding to its drone.
+-- That's the style, Mr Dedalus said, nodding to its drone.
 
---What about that? Ben Dollard said. Not too dusty? What?
+-- What about that? Ben Dollard said. Not too dusty? What?
 
 He turned to both.
 
---That'll do, Father Cowley said, nodding also.
+-- That'll do, Father Cowley said, nodding also.
 
 The reverend Hugh C. Love walked from the old chapterhouse of saint
 Mary's abbey past James and Charles Kennedy's, rectifiers, attended by
@@ -11797,48 +11797,48 @@ hurdles.
 Ben Dollard with a heavy list towards the shopfronts led them forward,
 his joyful fingers in the air.
 
---Come along with me to the subsheriff's office, he said. I want to show
+-- Come along with me to the subsheriff's office, he said. I want to show
 you the new beauty Rock has for a bailiff. He's a cross between Lobengula
 and Lynchehaun. He's well worth seeing, mind you. Come along. I saw John
 Henry Menton casually in the Bodega just now and it will cost me a fall
 if I don't ... Wait awhile ... We're on the right lay, Bob, believe you
 me.
 
---For a few days tell him, Father Cowley said anxiously.
+-- For a few days tell him, Father Cowley said anxiously.
 
 Ben Dollard halted and stared, his loud orifice open, a dangling button
 of his coat wagging brightbacked from its thread as he wiped away the
 heavy shraums that clogged his eyes to hear aright.
 
---What few days? he boomed. Hasn't your landlord distrained for rent?
+-- What few days? he boomed. Hasn't your landlord distrained for rent?
 
---He has, Father Cowley said.
+-- He has, Father Cowley said.
 
---Then our friend's writ is not worth the paper it's printed on, Ben
+-- Then our friend's writ is not worth the paper it's printed on, Ben
 Dollard said. The landlord has the prior claim. I gave him all the
 particulars. 29 Windsor avenue. Love is the name?
 
---That's right, Father Cowley said. The reverend Mr Love. He's a minister
+-- That's right, Father Cowley said. The reverend Mr Love. He's a minister
 in the country somewhere. But are you sure of that?
 
---You can tell Barabbas from me, Ben Dollard said, that he can put that
+-- You can tell Barabbas from me, Ben Dollard said, that he can put that
 writ where Jacko put the nuts.
 
 He led Father Cowley boldly forward, linked to his bulk.
 
---Filberts I believe they were, Mr Dedalus said, as he dropped his
+-- Filberts I believe they were, Mr Dedalus said, as he dropped his
 glasses on his coatfront, following them.
 
 
     * * * * *
 
 
---The youngster will be all right, Martin Cunningham said, as they passed
+-- The youngster will be all right, Martin Cunningham said, as they passed
 out of the Castleyard gate.
 
 The policeman touched his forehead.
 
---God bless you, Martin Cunningham said, cheerily.
+-- God bless you, Martin Cunningham said, cheerily.
 
 He signed to the waiting jarvey who chucked at the reins and set on
 towards Lord Edward street.
@@ -11846,12 +11846,12 @@ towards Lord Edward street.
 Bronze by gold, Miss Kennedy's head by Miss Douce's head, appeared above
 the crossblind of the Ormond hotel.
 
---Yes, Martin Cunningham said, fingering his beard. I wrote to Father
+-- Yes, Martin Cunningham said, fingering his beard. I wrote to Father
 Conmee and laid the whole case before him.
 
---You could try our friend, Mr Power suggested backward.
+-- You could try our friend, Mr Power suggested backward.
 
---Boyd? Martin Cunningham said shortly. Touch me not.
+-- Boyd? Martin Cunningham said shortly. Touch me not.
 
 John Wyse Nolan, lagging behind, reading the list, came after them
 quickly down Cork hill.
@@ -11861,25 +11861,25 @@ Alderman Cowley and Councillor Abraham Lyon ascending.
 
 The castle car wheeled empty into upper Exchange street.
 
---Look here, Martin, John Wyse Nolan said, overtaking them at the MAIL
+-- Look here, Martin, John Wyse Nolan said, overtaking them at the MAIL
 office. I see Bloom put his name down for five shillings.
 
---Quite right, Martin Cunningham said, taking the list. And put down the
+-- Quite right, Martin Cunningham said, taking the list. And put down the
 five shillings too.
 
---Without a second word either, Mr Power said.
+-- Without a second word either, Mr Power said.
 
---Strange but true, Martin Cunningham added.
+-- Strange but true, Martin Cunningham added.
 
 John Wyse Nolan opened wide eyes.
 
---I'll say there is much kindness in the jew, he quoted, elegantly.
+-- I'll say there is much kindness in the jew, he quoted, elegantly.
 
 They went down Parliament street.
 
---There's Jimmy Henry, Mr Power said, just heading for Kavanagh's.
+-- There's Jimmy Henry, Mr Power said, just heading for Kavanagh's.
 
---Righto, Martin Cunningham said. Here goes.
+-- Righto, Martin Cunningham said. Here goes.
 
 Outside LA MAISON CLAIRE Blazes Boylan waylaid Jack Mooney's brother-in-
 law, humpy, tight, making for the liberties.
@@ -11888,7 +11888,7 @@ John Wyse Nolan fell back with Mr Power, while Martin Cunningham took the
 elbow of a dapper little man in a shower of hail suit, who walked
 uncertainly, with hasty steps past Micky Anderson's watches.
 
---The assistant town clerk's corns are giving him some trouble, John Wyse
+-- The assistant town clerk's corns are giving him some trouble, John Wyse
 Nolan told Mr Power.
 
 They followed round the corner towards James Kavanagh's winerooms. The
@@ -11896,19 +11896,19 @@ empty castle car fronted them at rest in Essex gate. Martin Cunningham,
 speaking always, showed often the list at which Jimmy Henry did not
 glance.
 
---And long John Fanning is here too, John Wyse Nolan said, as large as
+-- And long John Fanning is here too, John Wyse Nolan said, as large as
 life.
 
 The tall form of long John Fanning filled the doorway where he stood.
 
---Good day, Mr Subsheriff, Martin Cunningham said, as all halted and
+-- Good day, Mr Subsheriff, Martin Cunningham said, as all halted and
 greeted.
 
 Long John Fanning made no way for them. He removed his large Henry Clay
 decisively and his large fierce eyes scowled intelligently over all their
 faces.
 
---Are the conscript fathers pursuing their peaceful deliberations? he
+-- Are the conscript fathers pursuing their peaceful deliberations? he
 said with rich acrid utterance to the assistant town clerk.
 
 Hell open to christians they were having, Jimmy Henry said pettishly,
@@ -11925,32 +11925,32 @@ Martin Cunningham spoke by turns, twirling the peak of his beard, to the
 assistant town clerk and the subsheriff, while John Wyse Nolan held his
 peace.
 
---What Dignam was that? long John Fanning asked.
+-- What Dignam was that? long John Fanning asked.
 
 Jimmy Henry made a grimace and lifted his left foot.
 
---O, my corns! he said plaintively. Come upstairs for goodness' sake till
+-- O, my corns! he said plaintively. Come upstairs for goodness' sake till
 I sit down somewhere. Uff! Ooo! Mind!
 
 Testily he made room for himself beside long John Fanning's flank and
 passed in and up the stairs.
 
---Come on up, Martin Cunningham said to the subsheriff. I don't think you
+-- Come on up, Martin Cunningham said to the subsheriff. I don't think you
 knew him or perhaps you did, though.
 
 With John Wyse Nolan Mr Power followed them in.
 
---Decent little soul he was, Mr Power said to the stalwart back of long
+-- Decent little soul he was, Mr Power said to the stalwart back of long
 John Fanning ascending towards long John Fanning in the mirror.
 
---Rather lowsized. Dignam of Menton's office that was, Martin Cunningham
+-- Rather lowsized. Dignam of Menton's office that was, Martin Cunningham
 said.
 
  Long John Fanning could not remember him.
 
  Clatter of horsehoofs sounded from the air.
 
---What's that? Martin Cunningham said.
+-- What's that? Martin Cunningham said.
 
 All turned where they stood. John Wyse Nolan came down again. From the
 cool shadow of the doorway he saw the horses pass Parliament street,
@@ -11958,9 +11958,9 @@ harness and glossy pasterns in sunlight shimmering. Gaily they went past
 before his cool unfriendly eyes, not quickly. In saddles of the leaders,
 leaping leaders, rode outriders.
 
---What was it? Martin Cunningham asked, as they went on up the staircase.
+-- What was it? Martin Cunningham asked, as they went on up the staircase.
 
---The lord lieutenantgeneral and general governor of Ireland, John Wyse
+-- The lord lieutenantgeneral and general governor of Ireland, John Wyse
 Nolan answered from the stairfoot.
 
 
@@ -11970,56 +11970,56 @@ Nolan answered from the stairfoot.
 As they trod across the thick carpet Buck Mulligan whispered behind
 his Panama to Haines:
 
---Parnell's brother. There in the corner.
+-- Parnell's brother. There in the corner.
 
 They chose a small table near the window, opposite a longfaced man
 whose beard and gaze hung intently down on a chessboard.
 
---Is that he? Haines asked, twisting round in his seat.
+-- Is that he? Haines asked, twisting round in his seat.
 
---Yes, Mulligan said. That's John Howard, his brother, our city marshal.
+-- Yes, Mulligan said. That's John Howard, his brother, our city marshal.
 
 John Howard Parnell translated a white bishop quietly and his grey
 claw went up again to his forehead whereat it rested. An instant after,
 under its screen, his eyes looked quickly, ghostbright, at his foe and
 fell once more upon a working corner.
 
---I'll take a MELANGE, Haines said to the waitress.
+-- I'll take a MELANGE, Haines said to the waitress.
 
---Two MELANGES, Buck Mulligan said. And bring us some scones and butter
+-- Two MELANGES, Buck Mulligan said. And bring us some scones and butter
 and some cakes as well.
 
 When she had gone he said, laughing:
 
---We call it D.B.C. because they have damn bad cakes. O, but you missed
+-- We call it D.B.C. because they have damn bad cakes. O, but you missed
 Dedalus on HAMLET.
 
 Haines opened his newbought book.
 
---I'm sorry, he said. Shakespeare is the happy huntingground of all minds
+-- I'm sorry, he said. Shakespeare is the happy huntingground of all minds
 that have lost their balance.
 
 The onelegged sailor growled at the area of 14 Nelson street:
 
---ENGLAND EXPECTS ...
+-- ENGLAND EXPECTS ...
 
 Buck Mulligan's primrose waistcoat shook gaily to his laughter.
 
---You should see him, he said, when his body loses its balance. Wandering
+-- You should see him, he said, when his body loses its balance. Wandering
 Aengus I call him.
 
---I am sure he has an IDEE FIXE, Haines said, pinching his chin
+-- I am sure he has an IDEE FIXE, Haines said, pinching his chin
 thoughtfully with thumb and forefinger. Now I am speculating what it would
 be likely to be. Such persons always have.
 
 Buck Mulligan bent across the table gravely.
 
---They drove his wits astray, he said, by visions of hell. He will never
+-- They drove his wits astray, he said, by visions of hell. He will never
 capture the Attic note. The note of Swinburne, of all poets, the white
 death and the ruddy birth. That is his tragedy. He can never be a poet.
 The joy of creation ...
 
---Eternal punishment, Haines said, nodding curtly. I see. I tackled him
+-- Eternal punishment, Haines said, nodding curtly. I see. I tackled him
 this morning on belief. There was something on his mind, I saw. It's
 rather interesting because professor Pokorny of Vienna makes an
 interesting point out of that.
@@ -12027,7 +12027,7 @@ interesting point out of that.
 Buck Mulligan's watchful eyes saw the waitress come. He helped her
 to unload her tray.
 
---He can find no trace of hell in ancient Irish myth, Haines said, amid
+-- He can find no trace of hell in ancient Irish myth, Haines said, amid
 the cheerful cups. The moral idea seems lacking, the sense of destiny, of
 retribution. Rather strange he should have just that fixed idea. Does he
 write anything for your movement?
@@ -12036,15 +12036,15 @@ He sank two lumps of sugar deftly longwise through the whipped
 cream. Buck Mulligan slit a steaming scone in two and plastered butter
 over its smoking pith. He bit off a soft piece hungrily.
 
---Ten years, he said, chewing and laughing. He is going to write something
+-- Ten years, he said, chewing and laughing. He is going to write something
 in ten years.
 
---Seems a long way off, Haines said, thoughtfully lifting his spoon.
+-- Seems a long way off, Haines said, thoughtfully lifting his spoon.
 Still, I shouldn't wonder if he did after all.
 
 He tasted a spoonful from the creamy cone of his cup.
 
---This is real Irish cream I take it, he said with forbearance.
+-- This is real Irish cream I take it, he said with forbearance.
 I don't want to be imposed on.
 
 Elijah, skiff, light crumpled throwaway, sailed eastward by flanks of
@@ -12071,7 +12071,7 @@ announced on the Metropolitan hall, frowned at the distant pleasance of
 duke's lawn. His eyeglass flashed frowning in the sun. With ratsteeth
 bared he muttered:
 
---COACTUS VOLUI.
+-- COACTUS VOLUI.
 
 He strode on for Clare street, grinding his fierce word.
 
@@ -12080,7 +12080,7 @@ dustcoat brushed rudely from its angle a slender tapping cane and swept
 onwards, having buffeted a thewless body. The blind stripling turned his
 sickly face after the striding form.
 
---God's curse on you, he said sourly, whoever you are! You're blinder nor
+-- God's curse on you, he said sourly, whoever you are! You're blinder nor
 I am, you bitch's bastard!
 
 
@@ -12270,7 +12270,7 @@ and the salute of Almidano Artifoni's sturdy trousers swallowed by a
 closing door.
 
 
--------- Sirens ---------
+--------  Sirens ---------
 
 
 Bronze by gold heard the hoofirons, steelyringing Imperthnthn thnthnthn.
@@ -12399,20 +12399,20 @@ Bronze by gold, miss Douce's head by miss Kennedy's head, over the
 crossblind of the Ormond bar heard the viceregal hoofs go by, ringing
 steel.
 
---Is that her? asked miss Kennedy.
+-- Is that her? asked miss Kennedy.
 
 Miss Douce said yes, sitting with his ex, pearl grey and EAU DE NIL.
 
---Exquisite contrast, miss Kennedy said.
+-- Exquisite contrast, miss Kennedy said.
 
 
 When all agog miss Douce said eagerly:
 
---Look at the fellow in the tall silk.
+-- Look at the fellow in the tall silk.
 
---Who? Where? gold asked more eagerly.
+-- Who? Where? gold asked more eagerly.
 
---In the second carriage, miss Douce's wet lips said, laughing in the sun.
+-- In the second carriage, miss Douce's wet lips said, laughing in the sun.
 
 He's looking. Mind till I see.
 
@@ -12421,11 +12421,11 @@ against the pane in a halo of hurried breath.
 
 Her wet lips tittered:
 
---He's killed looking back.
+-- He's killed looking back.
 
 She laughed:
 
---O wept! Aren't men frightful idiots?
+-- O wept! Aren't men frightful idiots?
 
 With sadness.
 
@@ -12434,7 +12434,7 @@ behind an ear. Sauntering sadly, gold no more, she twisted twined a hair.
 
 Sadly she twined in sauntering gold hair behind a curving ear.
 
---It's them has the fine times, sadly then she said.
+-- It's them has the fine times, sadly then she said.
 
 A man.
 
@@ -12445,35 +12445,35 @@ Carroll's dusky battered plate, for Raoul.
 The boots to them, them in the bar, them barmaids came. For them
 unheeding him he banged on the counter his tray of chattering china. And
 
---There's your teas, he said.
+-- There's your teas, he said.
 
 Miss Kennedy with manners transposed the teatray down to an
 upturned lithia crate, safe from eyes, low.
 
---What is it? loud boots unmannerly asked.
+-- What is it? loud boots unmannerly asked.
 
---Find out, miss Douce retorted, leaving her spyingpoint.
+-- Find out, miss Douce retorted, leaving her spyingpoint.
 
---Your BEAU, is it?
+-- Your BEAU, is it?
 
 A haughty bronze replied:
 
---I'll complain to Mrs de Massey on you if I hear any more of your
+-- I'll complain to Mrs de Massey on you if I hear any more of your
 impertinent insolence.
 
---Imperthnthn thnthnthn, bootssnout sniffed rudely, as he retreated as she
+-- Imperthnthn thnthnthn, bootssnout sniffed rudely, as he retreated as she
 threatened as he had come.
 
 Bloom.
 
 On her flower frowning miss Douce said:
 
---Most aggravating that young brat is. If he doesn't conduct himself I'll
+-- Most aggravating that young brat is. If he doesn't conduct himself I'll
 wring his ear for him a yard long.
 
 Ladylike in exquisite contrast.
 
---Take no notice, miss Kennedy rejoined.
+-- Take no notice, miss Kennedy rejoined.
 
 She poured in a teacup tea, then back in the teapot tea. They cowered
 under their reef of counter, waiting on footstools, crates upturned,
@@ -12484,65 +12484,65 @@ seven.
 Yes, bronze from anear, by gold from afar, heard steel from anear,
 hoofs ring from afar, and heard steelhoofs ringhoof ringsteel.
 
---Am I awfully sunburnt?
+-- Am I awfully sunburnt?
 
 Miss bronze unbloused her neck.
 
---No, said miss Kennedy. It gets brown after. Did you try the borax with
+-- No, said miss Kennedy. It gets brown after. Did you try the borax with
 the cherry laurel water?
 
 Miss Douce halfstood to see her skin askance in the barmirror
 gildedlettered where hock and claret glasses shimmered and in their midst
 a shell.
 
---And leave it to my hands, she said.
+-- And leave it to my hands, she said.
 
---Try it with the glycerine, miss Kennedy advised.
+-- Try it with the glycerine, miss Kennedy advised.
 
 Bidding her neck and hands adieu miss Douce
 
---Those things only bring out a rash, replied, reseated. I asked that old
+-- Those things only bring out a rash, replied, reseated. I asked that old
 fogey in Boyd's for something for my skin.
 
 Miss Kennedy, pouring now a fulldrawn tea, grimaced and prayed:
 
---O, don't remind me of him for mercy' sake!
+-- O, don't remind me of him for mercy' sake!
 
---But wait till I tell you, miss Douce entreated.
+-- But wait till I tell you, miss Douce entreated.
 
 Sweet tea miss Kennedy having poured with milk plugged both two
 ears with little fingers.
 
---No, don't, she cried.
+-- No, don't, she cried.
 
---I won't listen, she cried.
+-- I won't listen, she cried.
 
 But Bloom?
 
 Miss Douce grunted in snuffy fogey's tone:
 
---For your what? says he.
+-- For your what? says he.
 
 Miss Kennedy unplugged her ears to hear, to speak: but said, but
 prayed again:
 
---Don't let me think of him or I'll expire. The hideous old wretch! That
+-- Don't let me think of him or I'll expire. The hideous old wretch! That
 night in the Antient Concert Rooms.
 
 She sipped distastefully her brew, hot tea, a sip, sipped, sweet tea.
 
---Here he was, miss Douce said, cocking her bronze head three quarters,
+-- Here he was, miss Douce said, cocking her bronze head three quarters,
 ruffling her nosewings. Hufa! Hufa!
 
 Shrill shriek of laughter sprang from miss Kennedy's throat. Miss
 Douce huffed and snorted down her nostrils that quivered imperthnthn like
 a snout in quest.
 
---O! shrieking, miss Kennedy cried. Will you ever forget his goggle eye?
+-- O! shrieking, miss Kennedy cried. Will you ever forget his goggle eye?
 
 Miss Douce chimed in in deep bronze laughter, shouting:
 
---And your other eye!
+-- And your other eye!
 
 Bloowhose dark eye read Aaron Figatner's name. Why do I always
 think Figather? Gathering figs, I think. And Prosper Lore's huguenot name.
@@ -12570,13 +12570,13 @@ fair pinnacles of hair, stooping, her tortoise napecomb showed, spluttered
 out of her mouth her tea, choking in tea and laughter, coughing with
 choking, crying:
 
---O greasy eyes! Imagine being married to a man like that! she cried. With
+-- O greasy eyes! Imagine being married to a man like that! she cried. With
 his bit of beard!
 
 Douce gave full vent to a splendid yell, a full yell of full woman,
 delight, joy, indignation.
 
---Married to the greasy nose! she yelled.
+-- Married to the greasy nose! she yelled.
 
 Shrill, with deep laughter, after, gold after bronze, they urged each
 each to peal after peal, ringing in changes, bronzegold, goldbronze,
@@ -12587,11 +12587,11 @@ panting, sweating (O!), all breathless.
 
 Married to Bloom, to greaseabloom.
 
---O saints above! miss Douce said, sighed above her jumping rose. I wished
+-- O saints above! miss Douce said, sighed above her jumping rose. I wished
 
 I hadn't laughed so much. I feel all wet.
 
---O, miss Douce! miss Kennedy protested. You horrid thing!
+-- O, miss Douce! miss Kennedy protested. You horrid thing!
 
 And flushed yet more (you horrid!), more goldenly.
 
@@ -12608,40 +12608,40 @@ Flushed less, still less, goldenly paled.
 Into their bar strolled Mr Dedalus. Chips, picking chips off one of his
 rocky thumbnails. Chips. He strolled.
 
---O, welcome back, miss Douce.
+-- O, welcome back, miss Douce.
 
 He held her hand. Enjoyed her holidays?
 
---Tiptop.
+-- Tiptop.
 
 He hoped she had nice weather in Rostrevor.
 
---Gorgeous, she said. Look at the holy show I am. Lying out on the strand
+-- Gorgeous, she said. Look at the holy show I am. Lying out on the strand
 all day.
 
 Bronze whiteness.
 
---That was exceedingly naughty of you, Mr Dedalus told her and pressed
+-- That was exceedingly naughty of you, Mr Dedalus told her and pressed
 her hand indulgently. Tempting poor simple males.
 
 Miss Douce of satin douced her arm away.
 
---O go away! she said. You're very simple, I don't think.
+-- O go away! she said. You're very simple, I don't think.
 
 He was.
 
---Well now I am, he mused. I looked so simple in the cradle they christened
+-- Well now I am, he mused. I looked so simple in the cradle they christened
 me simple Simon.
 
---You must have been a doaty, miss Douce made answer. And what did the
+-- You must have been a doaty, miss Douce made answer. And what did the
 doctor order today?
 
---Well now, he mused, whatever you say yourself. I think I'll trouble you
+-- Well now, he mused, whatever you say yourself. I think I'll trouble you
 for some fresh water and a half glass of whisky.
 
 Jingle.
 
---With the greatest alacrity, miss Douce agreed.
+-- With the greatest alacrity, miss Douce agreed.
 
 With grace of alacrity towards the mirror gilt Cantrell and
 Cochrane's she turned herself. With grace she tapped a measure of gold
@@ -12649,7 +12649,7 @@ whisky from her crystal keg. Forth from the skirt of his coat Mr Dedalus
 brought pouch and pipe. Alacrity she served. He blew through the flue two
 husky fifenotes.
 
---By Jove, he mused, I often wanted to see the Mourne mountains. Must be
+-- By Jove, he mused, I often wanted to see the Mourne mountains. Must be
 a great tonic in the air down there. But a long threatening comes at last,
 they say. Yes. Yes.
 
@@ -12660,33 +12660,33 @@ None nought said nothing. Yes.
 
 Gaily miss Douce polished a tumbler, trilling:
 
---O, IDOLORES, QUEEN OF THE EASTERN SEAS!
+-- O, IDOLORES, QUEEN OF THE EASTERN SEAS!
 
---Was Mr Lidwell in today?
+-- Was Mr Lidwell in today?
 
 In came Lenehan. Round him peered Lenehan. Mr Bloom reached Essex bridge.
 Yes, Mr Bloom crossed bridge of Yessex. To Martha I must write. Buy paper.
 Daly's. Girl there civil. Bloom. Old Bloom. Blue bloom is on the rye.
 
---He was in at lunchtime, miss Douce said.
+-- He was in at lunchtime, miss Douce said.
 
 Lenehan came forward.
 
---Was Mr Boylan looking for me?
+-- Was Mr Boylan looking for me?
 
 He asked. She answered:
 
---Miss Kennedy, was Mr Boylan in while I was upstairs?
+-- Miss Kennedy, was Mr Boylan in while I was upstairs?
 
 She asked. Miss voice of Kennedy answered, a second teacup poised,
 her gaze upon a page:
 
---No. He was not.
+-- No. He was not.
 
 Miss gaze of Kennedy, heard, not seen, read on. Lenehan round the
 sandwichbell wound his round body round.
 
---Peep! Who's in the corner?
+-- Peep! Who's in the corner?
 
 No glance of Kennedy rewarding him he yet made overtures. To mind
 her stops. To read only the black ones: round o and crooked ess.
@@ -12696,41 +12696,41 @@ Jingle jaunty jingle.
 Girlgold she read and did not glance. Take no notice. She took no
 notice while he read by rote a solfa fable for her, plappering flatly:
 
---Ah fox met ah stork. Said thee fox too thee stork: Will you put your
+-- Ah fox met ah stork. Said thee fox too thee stork: Will you put your
 bill down inn my troath and pull upp ah bone?
 
 He droned in vain. Miss Douce turned to her tea aside.
 
 He sighed aside:
 
---Ah me! O my!
+-- Ah me! O my!
 
 He greeted Mr Dedalus and got a nod.
 
---Greetings from the famous son of a famous father.
+-- Greetings from the famous son of a famous father.
 
---Who may he be? Mr Dedalus asked.
+-- Who may he be? Mr Dedalus asked.
 
 Lenehan opened most genial arms. Who?
 
---Who may he be? he asked. Can you ask? Stephen, the youthful bard.
+-- Who may he be? he asked. Can you ask? Stephen, the youthful bard.
 
 Dry.
 
 Mr Dedalus, famous father, laid by his dry filled pipe.
 
---I see, he said. I didn't recognise him for the moment. I hear he is
+-- I see, he said. I didn't recognise him for the moment. I hear he is
 keeping very select company. Have you seen him lately?
 
 He had.
 
---I quaffed the nectarbowl with him this very day, said Lenehan. In
+-- I quaffed the nectarbowl with him this very day, said Lenehan. In
 Mooney's EN VILLE and in Mooney's SUR MER. He had received the rhino for
 the labour of his muse.
 
 He smiled at bronze's teabathed lips, at listening lips and eyes:
 
---The ELITE of Erin hung upon his lips. The ponderous pundit, Hugh
+-- The ELITE of Erin hung upon his lips. The ponderous pundit, Hugh
 
 MacHugh, Dublin's most brilliant scribe and editor and that minstrel boy
 of the wild wet west who is known by the euphonious appellation of the
@@ -12738,28 +12738,28 @@ O'Madden Burke.
 
 After an interval Mr Dedalus raised his grog and
 
---That must have been highly diverting, said he. I see.
+-- That must have been highly diverting, said he. I see.
 
 He see. He drank. With faraway mourning mountain eye. Set down
 his glass.
 
 He looked towards the saloon door.
 
---I see you have moved the piano.
+-- I see you have moved the piano.
 
---The tuner was in today, miss Douce replied, tuning it for the smoking
+-- The tuner was in today, miss Douce replied, tuning it for the smoking
 concert and I never heard such an exquisite player.
 
---Is that a fact?
+-- Is that a fact?
 
---Didn't he, miss Kennedy? The real classical, you know. And blind too,
+-- Didn't he, miss Kennedy? The real classical, you know. And blind too,
 poor fellow. Not twenty I'm sure he was.
 
---Is that a fact? Mr Dedalus said.
+-- Is that a fact? Mr Dedalus said.
 
 He drank and strayed away.
 
---So sad to look at his face, miss Douce condoled.
+-- So sad to look at his face, miss Douce condoled.
 
 God's curse on bitch's bastard.
 
@@ -12788,11 +12788,11 @@ jaunting car. It is. Again. Third time. Coincidence.
 Jingling on supple rubbers it jaunted from the bridge to Ormond
 quay. Follow. Risk it. Go quick. At four. Near now. Out.
 
---Twopence, sir, the shopgirl dared to say.
+-- Twopence, sir, the shopgirl dared to say.
 
---Aha ... I was forgetting ... Excuse ...
+-- Aha ... I was forgetting ... Excuse ...
 
---And four.
+-- And four.
 
 At four she. Winsomely she on Bloohimwhom smiled. Bloo smi qui
 go. Ternoon. Think you're the only pebble on the beach? Does that to all.
@@ -12811,33 +12811,33 @@ popcorked bottle ere he went he whispered, bald and bothered, with Miss
 
 Douce.
 
---THE BRIGHT STARS FADE ...
+-- THE BRIGHT STARS FADE ...
 
 A voiceless song sang from within, singing:
 
--- ... THE MORN IS BREAKING.
+--  ... THE MORN IS BREAKING.
 
 A duodene of birdnotes chirruped bright treble answer under sensitive
 hands. Brightly the keys, all twinkling, linked, all harpsichording,
 called to a voice to sing the strain of dewy morn, of youth, of love's
 leavetaking, life's, love's morn.
 
---THE DEWDROPS PEARL ...
+-- THE DEWDROPS PEARL ...
 
 Lenehan's lips over the counter lisped a low whistle of decoy.
 
---But look this way, he said, rose of Castile.
+-- But look this way, he said, rose of Castile.
 
 Jingle jaunted by the curb and stopped.
 
 She rose and closed her reading, rose of Castile: fretted, forlorn,
 dreamily rose.
 
---Did she fall or was she pushed? he asked her.
+-- Did she fall or was she pushed? he asked her.
 
 She answered, slighting:
 
---Ask no questions and you'll hear no lies.
+-- Ask no questions and you'll hear no lies.
 
 Like lady, ladylike.
 
@@ -12845,15 +12845,15 @@ Blazes Boylan's smart tan shoes creaked on the barfloor where he
 strode. Yes, gold from anear by bronze from afar. Lenehan heard and knew
 and hailed him:
 
---See the conquering hero comes.
+-- See the conquering hero comes.
 
 Between the car and window, warily walking, went Bloom,
 unconquered hero. See me he might. The seat he sat on: warm. Black wary
 hecat walked towards Richie Goulding's legal bag, lifted aloft, saluting.
 
---AND I FROM THEE ...
+-- AND I FROM THEE ...
 
---I heard you were round, said Blazes Boylan.
+-- I heard you were round, said Blazes Boylan.
 
 He touched to fair miss Kennedy a rim of his slanted straw. She
 smiled on him. But sister bronze outsmiled her, preening for him her
@@ -12861,7 +12861,7 @@ richer hair, a bosom and a rose.
 
 Smart Boylan bespoke potions.
 
---What's your cry? Glass of bitter? Glass of bitter, please, and a sloegin
+-- What's your cry? Glass of bitter? Glass of bitter, please, and a sloegin
 for me. Wire in yet?
 
 Not yet. At four she. Who said four?
@@ -12880,31 +12880,31 @@ followed bag. Dinner fit for a prince.
 Miss Douce reached high to take a flagon, stretching her satin arm,
 her bust, that all but burst, so high.
 
---O! O! jerked Lenehan, gasping at each stretch. O!
+-- O! O! jerked Lenehan, gasping at each stretch. O!
 
 But easily she seized her prey and led it low in triumph.
 
---Why don't you grow? asked Blazes Boylan.
+-- Why don't you grow? asked Blazes Boylan.
 
 Shebronze, dealing from her oblique jar thick syrupy liquor for his
 lips, looked as it flowed (flower in his coat: who gave him?), and
 syrupped with her voice:
 
---Fine goods in small parcels.
+-- Fine goods in small parcels.
 
 That is to say she. Neatly she poured slowsyrupy sloe.
 
---Here's fortune, Blazes said.
+-- Here's fortune, Blazes said.
 
 He pitched a broad coin down. Coin rang.
 
---Hold on, said Lenehan, till I ...
+-- Hold on, said Lenehan, till I ...
 
---Fortune, he wished, lifting his bubbled ale.
+-- Fortune, he wished, lifting his bubbled ale.
 
---Sceptre will win in a canter, he said.
+-- Sceptre will win in a canter, he said.
 
---I plunged a bit, said Boylan winking and drinking. Not on my own, you
+-- I plunged a bit, said Boylan winking and drinking. Not on my own, you
 know. Fancy of a friend of mine.
 
 Lenehan still drank and grinned at his tilted ale and at miss Douce's
@@ -12919,14 +12919,14 @@ Miss Douce took Boylan's coin, struck boldly the cashregister. It
 clanged. Clock clacked. Fair one of Egypt teased and sorted in the till
 and hummed and handed coins in change. Look to the west. A clack. For me.
 
---What time is that? asked Blazes Boylan. Four?
+-- What time is that? asked Blazes Boylan. Four?
 
 O'clock.
 
 Lenehan, small eyes ahunger on her humming, bust ahumming,
 tugged Blazes Boylan's elbowsleeve.
 
---Let's hear the time, he said.
+-- Let's hear the time, he said.
 
 
 The bag of Goulding, Collis, Ward led Bloom by ryebloom flowered
@@ -12936,9 +12936,9 @@ come: whet appetite. I couldn't do. Wait, wait. Pat, waiter, waited.
 
 Sparkling bronze azure eyed Blazure's skyblue bow and eyes.
 
---Go on, pressed Lenehan. There's no-one. He never heard.
+-- Go on, pressed Lenehan. There's no-one. He never heard.
 
--- ... TO FLORA'S LIPS DID HIE.
+--  ... TO FLORA'S LIPS DID HIE.
 
 High, a high note pealed in the treble clear.
 
@@ -12946,15 +12946,15 @@ Bronzedouce communing with her rose that sank and rose sought
 
 Blazes Boylan's flower and eyes.
 
---Please, please.
+-- Please, please.
 
 He pleaded over returning phrases of avowal.
 
---I COULD NOT LEAVE THEE ...
+-- I COULD NOT LEAVE THEE ...
 
---Afterwits, miss Douce promised coyly.
+-- Afterwits, miss Douce promised coyly.
 
---No, now, urged Lenehan. SONNEZLACLOCHE! O do! There's no-one.
+-- No, now, urged Lenehan. SONNEZLACLOCHE! O do! There's no-one.
 
 She looked. Quick. Miss Kenn out of earshot. Sudden bent. Two
 kindling faces watched her bend.
@@ -12962,22 +12962,22 @@ kindling faces watched her bend.
 Quavering the chords strayed from the air, found it again, lost chord,
 and lost and found it, faltering.
 
---Go on! Do! SONNEZ!
+-- Go on! Do! SONNEZ!
 
 Bending, she nipped a peak of skirt above her knee. Delayed. Taunted
 them still, bending, suspending, with wilful eyes.
 
---SONNEZ!
+-- SONNEZ!
 
 Smack. She set free sudden in rebound her nipped elastic garter
 smackwarm against her smackable a woman's warmhosed thigh.
 
---LA CLOCHE! cried gleeful Lenehan. Trained by owner. No sawdust there.
+-- LA CLOCHE! cried gleeful Lenehan. Trained by owner. No sawdust there.
 
 She smilesmirked supercilious (wept! aren't men?), but, lightward
 gliding, mild she smiled on Boylan.
 
---You're the essence of vulgarity, she in gliding said.
+-- You're the essence of vulgarity, she in gliding said.
 
 Boylan, eyed, eyed. Tossed to fat lips his chalice, drank off his chalice
 tiny, sucking the last fat violet syrupy drops. His spellbound eyes went
@@ -12987,28 +12987,28 @@ where it concerted, mirrored, bronze with sunnier bronze.
 
 Yes, bronze from anearby.
 
--- ... SWEETHEART, GOODBYE!
+--  ... SWEETHEART, GOODBYE!
 
---I'm off, said Boylan with impatience.
+-- I'm off, said Boylan with impatience.
 
 He slid his chalice brisk away, grasped his change.
 
---Wait a shake, begged Lenehan, drinking quickly. I wanted to tell you.
+-- Wait a shake, begged Lenehan, drinking quickly. I wanted to tell you.
 
 Tom Rochford ...
 
---Come on to blazes, said Blazes Boylan, going.
+-- Come on to blazes, said Blazes Boylan, going.
 
 Lenehan gulped to go.
 
---Got the horn or what? he said. Wait. I'm coming.
+-- Got the horn or what? he said. Wait. I'm coming.
 
 He followed the hasty creaking shoes but stood by nimbly by the
 threshold, saluting forms, a bulky with a slender.
 
---How do you do, Mr Dollard?
+-- How do you do, Mr Dollard?
 
---Eh? How do? How do? Ben Dollard's vague bass answered, turning an
+-- Eh? How do? How do? Ben Dollard's vague bass answered, turning an
 instant from Father Cowley's woe. He won't give you any trouble, Bob. Alf
 Bergan will speak to the long fellow. We'll put a barleystraw in that
 Judas Iscariot's ear this time.
@@ -13016,7 +13016,7 @@ Judas Iscariot's ear this time.
 Sighing Mr Dedalus came through the saloon, a finger soothing an
 eyelid.
 
---Hoho, we will, Ben Dollard yodled jollily. Come on, Simon. Give us a
+-- Hoho, we will, Ben Dollard yodled jollily. Come on, Simon. Give us a
 ditty. We heard the piano.
 
 Bald Pat, bothered waiter, waited for drink orders. Power for Richie.
@@ -13024,9 +13024,9 @@ And Bloom? Let me see. Not make him walk twice. His corns. Four now.
 How warm this black is. Course nerves a bit. Refracts (is it?) heat. Let
 me see. Cider. Yes, bottle of cider.
 
---What's that? Mr Dedalus said. I was only vamping, man.
+-- What's that? Mr Dedalus said. I was only vamping, man.
 
---Come on, come on, Ben Dollard called. Begone dull care. Come, Bob.
+-- Come on, come on, Ben Dollard called. Begone dull care. Come, Bob.
 
 He ambled Dollard, bulky slops, before them (hold that fellow with
 the: hold him now) into the saloon. He plumped him Dollard on the stool.
@@ -13041,7 +13041,7 @@ Jingle a tinkle jaunted.
 Bloom heard a jing, a little sound. He's off. Light sob of breath Bloom
 sighed on the silent bluehued flowers. Jingling. He's gone. Jingle. Hear.
 
---Love and War, Ben, Mr Dedalus said. God be with old times.
+-- Love and War, Ben, Mr Dedalus said. God be with old times.
 
 Miss Douce's brave eyes, unregarded, turned from the crossblind,
 smitten by sunlight. Gone. Pensive (who knows?), smitten (the smiting
@@ -13051,51 +13051,51 @@ where bald stood by sister gold, inexquisite contrast, contrast
 inexquisite nonexquisite, slow cool dim seagreen sliding depth of shadow,
 EAU DE NIL.
 
---Poor old Goodwin was the pianist that night, Father Cowley reminded
+-- Poor old Goodwin was the pianist that night, Father Cowley reminded
 them. There was a slight difference of opinion between himself and the
 Collard grand.
 
 There was.
 
---A symposium all his own, Mr Dedalus said. The devil wouldn't stop him.
+-- A symposium all his own, Mr Dedalus said. The devil wouldn't stop him.
 He was a crotchety old fellow in the primary stage of drink.
 
---God, do you remember? Ben bulky Dollard said, turning from the
+-- God, do you remember? Ben bulky Dollard said, turning from the
 punished keyboard. And by Japers I had no wedding garment.
 
 They laughed all three. He had no wed. All trio laughed. No wedding
 garment.
 
---Our friend Bloom turned in handy that night, Mr Dedalus said. Where's
+-- Our friend Bloom turned in handy that night, Mr Dedalus said. Where's
 my pipe, by the way?
 
 He wandered back to the bar to the lost chord pipe. Bald Pat carried
 two diners' drinks, Richie and Poldy. And Father Cowley laughed again.
 
---I saved the situation, Ben, I think.
+-- I saved the situation, Ben, I think.
 
---You did, averred Ben Dollard. I remember those tight trousers too. That
+-- You did, averred Ben Dollard. I remember those tight trousers too. That
 was a brilliant idea, Bob.
 
 Father Cowley blushed to his brilliant purply lobes. He saved the
 situa. Tight trou. Brilliant ide.
 
---I knew he was on the rocks, he said. The wife was playing the piano in
+-- I knew he was on the rocks, he said. The wife was playing the piano in
 the coffee palace on Saturdays for a very trifling consideration and who
 was it gave me the wheeze she was doing the other business? Do you
 remember? We had to search all Holles street to find them till the chap in
 Keogh's gave us the number. Remember? Ben remembered, his broad visage
 wondering.
 
---By God, she had some luxurious operacloaks and things there.
+-- By God, she had some luxurious operacloaks and things there.
 
 Mr Dedalus wandered back, pipe in hand.
 
---Merrion square style. Balldresses, by God, and court dresses. He
+-- Merrion square style. Balldresses, by God, and court dresses. He
 wouldn't take any money either. What? Any God's quantity of cocked hats
 and boleros and trunkhose. What?
 
---Ay, ay, Mr Dedalus nodded. Mrs Marion Bloom has left off clothes of all
+-- Ay, ay, Mr Dedalus nodded. Mrs Marion Bloom has left off clothes of all
 descriptions.
 
 Jingle jaunted down the quays. Blazes sprawled on bounding tyres.
@@ -13105,32 +13105,32 @@ Liver and bacon. Steak and kidney pie. Right, sir. Right, Pat.
 Mrs Marion. Met him pike hoses. Smell of burn. Of Paul de Kock. Nice
 name he.
 
---What's this her name was? A buxom lassy. Marion ...
+-- What's this her name was? A buxom lassy. Marion ...
 
---Tweedy.
+-- Tweedy.
 
---Yes. Is she alive?
+-- Yes. Is she alive?
 
---And kicking.
+-- And kicking.
 
---She was a daughter of ...
+-- She was a daughter of ...
 
---Daughter of the regiment.
+-- Daughter of the regiment.
 
---Yes, begad. I remember the old drummajor.
+-- Yes, begad. I remember the old drummajor.
 
 Mr Dedalus struck, whizzed, lit, puffed savoury puff after
 
---Irish? I don't know, faith. Is she, Simon?
+-- Irish? I don't know, faith. Is she, Simon?
 
 Puff after stiff, a puff, strong, savoury, crackling.
 
---Buccinator muscle is ... What? ... Bit rusty ... O, she is ... My
+-- Buccinator muscle is ... What? ... Bit rusty ... O, she is ... My
 Irish Molly, O.
 
 He puffed a pungent plumy blast.
 
---From the rock of Gibraltar... all the way.
+-- From the rock of Gibraltar... all the way.
 
 They pined in depth of ocean shadow, gold by the beerpull, bronze by
 maraschino, thoughtful all two. Mina Kennedy, 4 Lismore terrace,
@@ -13151,24 +13151,24 @@ the? Horn. Have you the? Haw haw horn.
 Over their voices Dollard bassooned attack, booming over bombarding
 chords:
 
---WHEN LOVE ABSORBS MY ARDENT SOUL ...
+-- WHEN LOVE ABSORBS MY ARDENT SOUL ...
 
 Roll of Bensoulbenjamin rolled to the quivery loveshivery roofpanes.
 
---War! War! cried Father Cowley. You're the warrior.
+-- War! War! cried Father Cowley. You're the warrior.
 
---So I am, Ben Warrior laughed. I was thinking of your landlord. Love or
+-- So I am, Ben Warrior laughed. I was thinking of your landlord. Love or
 money.
 
 He stopped. He wagged huge beard, huge face over his blunder huge.
 
---Sure, you'd burst the tympanum of her ear, man, Mr Dedalus said
+-- Sure, you'd burst the tympanum of her ear, man, Mr Dedalus said
 through smoke aroma, with an organ like yours.
 
 In bearded abundant laughter Dollard shook upon the keyboard. He
 would.
 
---Not to mention another membrane, Father Cowley added. Half time,
+-- Not to mention another membrane, Father Cowley added. Half time,
 Ben. AMOROSO MA NON TROPPO. Let me there.
 
 Miss Kennedy served two gentlemen with tankards of cool stout. She
@@ -13181,7 +13181,7 @@ hair slowmoving, lord lieuten. Too much trouble, first gentleman said. O,
 not in the least. Way he looked that. Lord lieutenant. Gold by bronze
 heard iron steel.
 
--- ............ MY ARDENT SOUL
+--  ............ MY ARDENT SOUL
     I CARE NOT FOROR THE MORROW.
 
 In liver gravy Bloom mashed mashed potatoes. Love and War
@@ -13199,7 +13199,7 @@ Lidwell, gentleman, entering. Good afternoon. She gave her moist
 (a lady's) hand to his firm clasp. Afternoon. Yes, she was back. To the
 old dingdong again.
 
---Your friends are inside, Mr Lidwell.
+-- Your friends are inside, Mr Lidwell.
 
 George Lidwell, suave, solicited, held a lydiahand.
 
@@ -13223,13 +13223,13 @@ a lovely. Gravy's rather good fit for a. Golden ship. Erin. The harp that
 once or twice. Cool hands. Ben Howth, the rhododendrons. We are their
 harps. I. He. Old. Young.
 
---Ah, I couldn't, man, Mr Dedalus said, shy, listless.
+-- Ah, I couldn't, man, Mr Dedalus said, shy, listless.
 
 Strongly.
 
---Go on, blast you! Ben Dollard growled. Get it out in bits.
+-- Go on, blast you! Ben Dollard growled. Get it out in bits.
 
---M'APPARI, Simon, Father Cowley said.
+-- M'APPARI, Simon, Father Cowley said.
 
 Down stage he strode some paces, grave, tall in affliction, his long
 arms outheld. Hoarsely the apple of his throat hoarsed softly. Softly he
@@ -13240,27 +13240,27 @@ wind upon the headland, wind around her.
 Cowley sang:
 
 
---M'APPARI TUTT'AMOR:
+-- M'APPARI TUTT'AMOR:
 IL MIO SGUARDO L'INCONTR ...
 
 
 She waved, unhearing Cowley, her veil, to one departing, dear one, to
 wind, love, speeding sail, return.
 
---Go on, Simon.
+-- Go on, Simon.
 
---Ah, sure, my dancing days are done, Ben ... Well ...
+-- Ah, sure, my dancing days are done, Ben ... Well ...
 
 Mr Dedalus laid his pipe to rest beside the tuningfork and, sitting,
 touched the obedient keys.
 
---No, Simon, Father Cowley turned. Play it in the original. One flat.
+-- No, Simon, Father Cowley turned. Play it in the original. One flat.
 
 The keys, obedient, rose higher, told, faltered, confessed, confused.
 
 Up stage strode Father Cowley.
 
---Here, Simon, I'll accompany you, he said. Get up.
+-- Here, Simon, I'll accompany you, he said. Get up.
 
 By Graham Lemon's pineapple rock, by Elvery's elephant jingly
 jogged. Steak, kidney, liver, mashed, at meat fit for princes sat princes
@@ -13292,9 +13292,9 @@ Coming out with a whopper now. Rhapsodies about damn all.
 Believes his own lies. Does really. Wonderful liar. But want a good
 memory.
 
---Which air is that? asked Leopold Bloom.
+-- Which air is that? asked Leopold Bloom.
 
---ALL IS LOST NOW.
+-- ALL IS LOST NOW.
 
 Richie cocked his lips apout. A low incipient note sweet banshee murmured:
 all. A thrush. A throstle. His breath, birdsweet, good teeth he's
@@ -13310,7 +13310,7 @@ Innocence in the moon. Brave. Don't know their danger. Still hold her
 back. Call name. Touch water. Jingle jaunty. Too late. She longed to go.
 That's why. Woman. As easy stop the sea. Yes: all is lost.
 
---A beautiful air, said Bloom lost Leopold. I know it well.
+-- A beautiful air, said Bloom lost Leopold. I know it well.
 
 Never in all his life had Richie Goulding.
 
@@ -13327,16 +13327,16 @@ Stopped again.
 
 Dollard and Cowley still urged the lingering singer out with it.
 
---With it, Simon.
+-- With it, Simon.
 
---It, Simon.
+-- It, Simon.
 
---Ladies and gentlemen, I am most deeply obliged by your kind
+-- Ladies and gentlemen, I am most deeply obliged by your kind
 solicitations.
 
---It, Simon.
+-- It, Simon.
 
---I have no money but if you will lend me your attention I shall endeavour
+-- I have no money but if you will lend me your attention I shall endeavour
 to sing to you of a heart bowed down.
 
 By the sandwichbell in screening shadow Lydia, her bronze and rose,
@@ -13346,11 +13346,11 @@ to tankards two her pinnacles of gold.
 The harping chords of prelude closed. A chord, longdrawn, expectant,
 drew a voice away.
 
---WHEN FIRST I SAW THAT FORM ENDEARING ...
+-- WHEN FIRST I SAW THAT FORM ENDEARING ...
 
 Richie turned.
 
---Si Dedalus' voice, he said.
+-- Si Dedalus' voice, he said.
 
 Braintipped, cheek touched with flame, they listened feeling that flow
 endearing flow over skin limbs human heart soul spine. Bloom signed to
@@ -13358,7 +13358,7 @@ Pat, bald Pat is a waiter hard of hearing, to set ajar the door of the
 bar. The door of the bar. So. That will do. Pat, waiter, waited, waiting
 to hear, for he was hard of hear by the door.
 
---SORROW FROM ME SEEMED TO DEPART.
+-- SORROW FROM ME SEEMED TO DEPART.
 
 Through the hush of air a voice sang to them, low, not rain, not leaves
 in murmur, like no voice of strings or reeds or whatdoyoucallthem
@@ -13373,7 +13373,7 @@ the elastic band of his packet. Love's old sweet SONNEZ LA gold. Bloom
 wound a skein round four forkfingers, stretched it, relaxed, and wound it
 round his troubled double, fourfold, in octave, gyved them fast.
 
---FULL OF HOPE AND ALL DELIGHTED ...
+-- FULL OF HOPE AND ALL DELIGHTED ...
 
 Tenors get women by the score. Increase their flow. Throw flower at
 his feet. When will we meet? My head it simply. Jingle all delighted. He
@@ -13385,7 +13385,7 @@ satchel. Yes? Hands felt for the opulent.
 
 Alas the voice rose, sighing, changed: loud, full, shining, proud.
 
---BUT ALAS, 'TWAS IDLE DREAMING ...
+-- BUT ALAS, 'TWAS IDLE DREAMING ...
 
 Glorious tone he has still. Cork air softer also their brogue. Silly man!
 Could have made oceans of money. Singing wrong words. Wore out his
@@ -13407,7 +13407,7 @@ tapping her topping her. Tup. Pores to dilate dilating. Tup. The joy the
 feel the warm the. Tup. To pour o'er sluices pouring gushes. Flood, gush,
 flow, joygush, tupthrob. Now! Language of love.
 
--- ... RAY OF HOPE IS ...
+--  ... RAY OF HOPE IS ...
 
 Beaming. Lydia for Lidwell squeak scarcely hear so ladylike the muse
 unsqueaked a ray of hopk.
@@ -13426,7 +13426,7 @@ Wish I could see his face, though. Explain better. Why the barber in
 Drago's always looked my face when I spoke his face in the glass. Still
 hear it better here than in the bar though farther.
 
---EACH GRACEFUL LOOK ...
+-- EACH GRACEFUL LOOK ...
 
 First night when first I saw her at Mat Dillon's in Terenure. Yellow,
 black lace she wore. Musical chairs. We two the last. Fate. After her.
@@ -13435,7 +13435,7 @@ Fate.
 Round and round slow. Quick round. We two. All looked. Halt. Down she
 sat. All ousted looked. Lips laughing. Yellow knees.
 
---CHARMED MY EYE ...
+-- CHARMED MY EYE ...
 
 Singing. WAITING she sang. I turned her music. Full voice of perfume
 of what perfume does your lilactrees. Bosom I saw, both full, throat
@@ -13443,19 +13443,19 @@ warbling. First I saw. She thanked me. Why did she me? Fate. Spanishy
 eyes. Under a peartree alone patio this hour in old Madrid one side in
 shadow Dolores shedolores. At me. Luring. Ah, alluring.
 
---MARTHA! AH, MARTHA!
+-- MARTHA! AH, MARTHA!
 
 Quitting all languor Lionel cried in grief, in cry of passion dominant
 to love to return with deepening yet with rising chords of harmony. In cry
 of lionel loneliness that she should know, must martha feel. For only her
 he waited. Where? Here there try there here all try where. Somewhere.
 
---CO-OME, THOU LOST ONE!
+-- CO-OME, THOU LOST ONE!
   CO-OME, THOU DEAR ONE!
 
 Alone. One love. One hope. One comfort me. Martha, chestnote, return!
 
---COME!
+-- COME!
 
 It soared, a bird, it held its flight, a swift pure cry, soar silver orb
 it leaped serene, speeding, sustained, to come, don't spin it out too long
@@ -13464,7 +13464,7 @@ crowned, high in the effulgence symbolistic, high, of the etherial bosom,
 high, of the high vast irradiation everywhere all soaring all around about
 the all, the endlessnessnessness ...
 
---TO ME!
+-- TO ME!
 
 Siopold!
 
@@ -13473,7 +13473,7 @@ Consumed.
 Come. Well sung. All clapped. She ought to. Come. To me, to him, to
 her, you too, me, us.
 
---Bravo! Clapclap. Good man, Simon. Clappyclapclap. Encore!
+-- Bravo! Clapclap. Good man, Simon. Clappyclapclap. Encore!
 Clapclipclap clap. Sound as a bell. Bravo, Simon! Clapclopclap. Encore,
 enclap, said, cried, clapped all, Ben Dollard, Lydia Douce, George
 Lidwell, Pat, Mina Kennedy, two gentlemen with two tankards, Cowley,
@@ -13493,7 +13493,7 @@ drank, Lidwell his Guinness, second gentleman said they would partake of
 two more tankards if she did not mind. Miss Kennedy smirked, disserving,
 coral lips, at first, at second. She did not mind.
 
---Seven days in jail, Ben Dollard said, on bread and water. Then you'd
+-- Seven days in jail, Ben Dollard said, on bread and water. Then you'd
 sing, Simon, like a garden thrush.
 
 Lionel Simon, singer, laughed. Father Bob Cowley played. Mina
@@ -13548,7 +13548,7 @@ Jingle into Dorset street.
 
 Miss Douce withdrew her satiny arm, reproachful, pleased.
 
---Don't make half so free, said she, till we are better acquainted.
+-- Don't make half so free, said she, till we are better acquainted.
 
 George Lidwell told her really and truly: but she did not believe.
 
@@ -13565,14 +13565,14 @@ Better write it here. Quills in the postoffice chewed and twisted.
 Bald Pat at a sign drew nigh. A pen and ink. He went. A pad. He
 went. A pad to blot. He heard, deaf Pat.
 
---Yes, Mr Bloom said, teasing the curling catgut line. It certainly is.
+-- Yes, Mr Bloom said, teasing the curling catgut line. It certainly is.
 Few lines will do. My present. All that Italian florid music is. Who is
 this wrote? Know the name you know better. Take out sheet notepaper,
 envelope: unconcerned. It's so characteristic.
 
---Grandest number in the whole opera, Goulding said.
+-- Grandest number in the whole opera, Goulding said.
 
---It is, Bloom said.
+-- It is, Bloom said.
 
 Numbers it is. All music when you come to think. Two multiplied by two
 divided by half is twice one. Vibrations: chords those are. One plus two
@@ -13641,9 +13641,9 @@ Great Brunswick street, hatter. Eh? This is the jingle that joggled and
 jingled. By Dlugacz' porkshop bright tubes of Agendath trotted a
 gallantbuttocked mare.
 
---Answering an ad? keen Richie's eyes asked Bloom.
+-- Answering an ad? keen Richie's eyes asked Bloom.
 
---Yes, Mr Bloom said. Town traveller. Nothing doing, I expect.
+-- Yes, Mr Bloom said. Town traveller. Nothing doing, I expect.
 
 Bloom mur: best references. But Henry wrote: it will excite me. You
 know how. In haste. Henry. Greek ee. Better add postscript. What is he
@@ -13698,7 +13698,7 @@ shell she brought.
 To the end of the bar to him she bore lightly the spiked and winding
 seahorn that he, George Lidwell, solicitor, might hear.
 
---Listen! she bade him.
+-- Listen! she bade him.
 
 Under Tom Kernan's ginhot words the accompanist wove music slow.
 Authentic fact. How Walter Bapty lost his voice. Well, sir, the husband
@@ -13732,7 +13732,7 @@ in the ear sometimes. Well, it's a sea. Corpuscle islands.
 Wonderful really. So distinct. Again. George Lidwell held its murmur,
 hearing: then laid it by, gently.
 
---What are the wild waves saying? he asked her, smiled.
+-- What are the wild waves saying? he asked her, smiled.
 
 Charming, seasmiling and unanswering Lydia on Lidwell smiled.
 
@@ -13788,20 +13788,20 @@ Cockcock.
 
 Tap.
 
---QUI SDEGNO, Ben, said Father Cowley.
+-- QUI SDEGNO, Ben, said Father Cowley.
 
---No, Ben, Tom Kernan interfered. THE CROPPY BOY. Our native Doric.
+-- No, Ben, Tom Kernan interfered. THE CROPPY BOY. Our native Doric.
 
---Ay do, Ben, Mr Dedalus said. Good men and true.
+-- Ay do, Ben, Mr Dedalus said. Good men and true.
 
---Do, do, they begged in one.
+-- Do, do, they begged in one.
 
 I'll go. Here, Pat, return. Come. He came, he came, he did not stay.
 To me. How much?
 
---What key? Six sharps?
+-- What key? Six sharps?
 
---F sharp major, Ben Dollard said.
+-- F sharp major, Ben Dollard said.
 
 Bob Cowley's outstretched talons griped the black deepsounding chords.
 
@@ -13903,7 +13903,7 @@ pale, to Bloom soon old. But when was young?
 Ireland comes now. My country above the king. She listens. Who
 fears to speak of nineteen four? Time to be shoving. Looked enough.
 
---BLESS ME, FATHER, Dollard the croppy cried. BLESS ME AND LET ME GO.
+-- BLESS ME, FATHER, Dollard the croppy cried. BLESS ME AND LET ME GO.
 
 Tap.
 
@@ -14000,13 +14000,13 @@ hallway heard the growls and roars of bravo, fat backslapping, their boots
 all treading, boots not the boots the boy. General chorus off for a swill
 to wash it down. Glad I avoided.
 
---Come on, Ben, Simon Dedalus cried. By God, you're as good as ever you
+-- Come on, Ben, Simon Dedalus cried. By God, you're as good as ever you
 were.
 
---Better, said Tomgin Kernan. Most trenchant rendition of that ballad,
+-- Better, said Tomgin Kernan. Most trenchant rendition of that ballad,
 upon my soul and honour It is.
 
---Lablache, said Father Cowley.
+-- Lablache, said Father Cowley.
 
 Ben Dollard bulkily cachuchad towards the bar, mightily praisefed and all
 big roseate, on heavyfooted feet, his gouty fingers nakkering castagnettes
@@ -14019,17 +14019,17 @@ Rrr.
 And deepmoved all, Simon trumping compassion from foghorn nose,
 all laughing they brought him forth, Ben Dollard, in right good cheer.
 
---You're looking rubicund, George Lidwell said.
+-- You're looking rubicund, George Lidwell said.
 
 Miss Douce composed her rose to wait.
 
---Ben machree, said Mr Dedalus, clapping Ben's fat back shoulderblade.
+-- Ben machree, said Mr Dedalus, clapping Ben's fat back shoulderblade.
 Fit as a fiddle only he has a lot of adipose tissue concealed about his
 person.
 
 Rrrrrrrsss.
 
---Fat of death, Simon, Ben Dollard growled.
+-- Fat of death, Simon, Ben Dollard growled.
 
 Richie rift in the lute alone sat: Goulding, Collis, Ward. Uncertainly
 he waited. Unpaid Pat too.
@@ -14038,9 +14038,9 @@ Tap. Tap. Tap. Tap.
 
 Miss Mina Kennedy brought near her lips to ear of tankard one.
 
---Mr Dollard, they murmured low.
+-- Mr Dollard, they murmured low.
 
---Dollard, murmured tankard.
+-- Dollard, murmured tankard.
 
 Tank one believed: miss Kenn when she: that doll he was: she doll:
 the tank.
@@ -14088,26 +14088,26 @@ a soft sudden wee little wee little pipy wind.
 
 Pwee! A wee little wind piped eeee. In Bloom's little wee.
 
---Was he? Mr Dedalus said, returning with fetched pipe. I was with him
+-- Was he? Mr Dedalus said, returning with fetched pipe. I was with him
 this morning at poor little Paddy Dignam's ...
 
---Ay, the Lord have mercy on him.
+-- Ay, the Lord have mercy on him.
 
---By the bye there's a tuningfork in there on the ...
+-- By the bye there's a tuningfork in there on the ...
 
 Tap. Tap. Tap. Tap.
 
---The wife has a fine voice. Or had. What? Lidwell asked.
+-- The wife has a fine voice. Or had. What? Lidwell asked.
 
---O, that must be the tuner, Lydia said to Simonlionel first I saw, forgot
+-- O, that must be the tuner, Lydia said to Simonlionel first I saw, forgot
 it when he was here.
 
 Blind he was she told George Lidwell second I saw. And played so
 exquisitely, treat to hear. Exquisite contrast: bronzelid, minagold.
 
---Shout! Ben Dollard shouted, pouring. Sing out!
+-- Shout! Ben Dollard shouted, pouring. Sing out!
 
---'lldo! cried Father Cowley.
+-- 'lldo! cried Father Cowley.
 
 Rrrrrr.
 
@@ -14115,12 +14115,12 @@ I feel I want ...
 
 Tap. Tap. Tap. Tap. Tap
 
---Very, Mr Dedalus said, staring hard at a headless sardine.
+-- Very, Mr Dedalus said, staring hard at a headless sardine.
 
 Under the sandwichbell lay on a bier of bread one last, one lonely, last
 sardine of summer. Bloom alone.
 
---Very, he stared. The lower register, for choice.
+-- Very, he stared. The lower register, for choice.
 
 Tap. Tap. Tap. Tap. Tap. Tap. Tap. Tap.
 
@@ -14187,11 +14187,11 @@ Tap. A youth entered a lonely Ormond hall.
 Bloom viewed a gallant pictured hero in Lionel Marks's window. Robert
 Emmet's last words. Seven last words. Of Meyerbeer that is.
 
---True men like you men.
+-- True men like you men.
 
---Ay, ay, Ben.
+-- Ay, ay, Ben.
 
---Will lift your glass with us.
+-- Will lift your glass with us.
 
 They lifted.
 
@@ -14220,7 +14220,7 @@ Pprrpffrrppffff.
 DONE.
 
 
--------- Cyclops ---------
+--------  Cyclops ---------
 
 
 I was just passing the time of day with old Troy of the D. M. P. at the
@@ -14229,33 +14229,33 @@ and he near drove his gear into my eye. I turned around to let him have
 the weight of my tongue when who should I see dodging along Stony Batter
 only Joe Hynes.
 
---Lo, Joe, says I. How are you blowing? Did you see that bloody
+-- Lo, Joe, says I. How are you blowing? Did you see that bloody
 chimneysweep near shove my eye out with his brush?
 
---Soot's luck, says Joe. Who's the old ballocks you were talking to?
+-- Soot's luck, says Joe. Who's the old ballocks you were talking to?
 
---Old Troy, says I, was in the force. I'm on two minds not to give that
+-- Old Troy, says I, was in the force. I'm on two minds not to give that
 fellow in charge for obstructing the thoroughfare with his brooms and
 ladders.
 
---What are you doing round those parts? says Joe.
+-- What are you doing round those parts? says Joe.
 
---Devil a much, says I. There's a bloody big foxy thief beyond by the
-garrison church at the corner of Chicken lane--old Troy was just giving
-me a wrinkle about him--lifted any God's quantity of tea and sugar to pay
+-- Devil a much, says I. There's a bloody big foxy thief beyond by the
+garrison church at the corner of Chicken lane-- old Troy was just giving
+me a wrinkle about him-- lifted any God's quantity of tea and sugar to pay
 three bob a week said he had a farm in the county Down off a
 hop-of-my-thumb by the name of Moses Herzog over there near Heytesbury
 street.
 
---Circumcised? says Joe.
+-- Circumcised? says Joe.
 
---Ay, says I. A bit off the top. An old plumber named Geraghty. I'm
+-- Ay, says I. A bit off the top. An old plumber named Geraghty. I'm
 hanging on to his taw now for the past fortnight and I can't get a penny
 out of him.
 
---That the lay you're on now? says Joe.
+-- That the lay you're on now? says Joe.
 
---Ay, says I. How are the mighty fallen! Collector of bad and doubtful
+-- Ay, says I. How are the mighty fallen! Collector of bad and doubtful
 debts. But that's the most notorious bloody robber you'd meet in a day's
 walk and the face on him all pockmarks would hold a shower of rain. TELL
 HIM, says he, I DARE HIM, says he, AND I DOUBLEDARE HIM TO SEND YOU ROUND
@@ -14286,27 +14286,27 @@ vendor, his heirs, successors, trustees and assigns of the one part and
 the said purchaser, his heirs, successors, trustees and assigns of the
 other part.
 
---Are you a strict t.t.? says Joe.
+-- Are you a strict t.t.? says Joe.
 
---Not taking anything between drinks, says I.
+-- Not taking anything between drinks, says I.
 
---What about paying our respects to our friend? says Joe.
+-- What about paying our respects to our friend? says Joe.
 
---Who? says I. Sure, he's out in John of God's off his head, poor man.
+-- Who? says I. Sure, he's out in John of God's off his head, poor man.
 
---Drinking his own stuff? says Joe.
+-- Drinking his own stuff? says Joe.
 
---Ay, says I. Whisky and water on the brain.
+-- Ay, says I. Whisky and water on the brain.
 
---Come around to Barney Kiernan's, says Joe. I want to see the citizen.
+-- Come around to Barney Kiernan's, says Joe. I want to see the citizen.
 
---Barney mavourneen's be it, says I. Anything strange or wonderful, Joe?
+-- Barney mavourneen's be it, says I. Anything strange or wonderful, Joe?
 
---Not a word, says Joe. I was up at that meeting in the City Arms.
+-- Not a word, says Joe. I was up at that meeting in the City Arms.
 
----What was that, Joe? says I.
+-- -What was that, Joe? says I.
 
---Cattle traders, says Joe, about the foot and mouth disease. I want to
+-- Cattle traders, says Joe, about the foot and mouth disease. I want to
 give the citizen the hard word about it.
 
 So we went around by the Linenhall barracks and the back of the
@@ -14375,7 +14375,7 @@ up in the corner having a great confab with himself and that bloody
 mangy mongrel, Garryowen, and he waiting for what the sky would drop
 in the way of drink.
 
---There he is, says I, in his gloryhole, with his cruiskeen lawn and his
+-- There he is, says I, in his gloryhole, with his cruiskeen lawn and his
 load of papers, working for the cause.
 
 The bloody mongrel let a grouse out of him would give you the creeps.  Be
@@ -14384,44 +14384,44 @@ bloody dog. I'm told for a fact he ate a good part of the breeches off a
 constabulary man in Santry that came round one time with a blue paper
 about a licence.
 
---Stand and deliver, says he.
+-- Stand and deliver, says he.
 
---That's all right, citizen, says Joe. Friends here.
+-- That's all right, citizen, says Joe. Friends here.
 
---Pass, friends, says he.
+-- Pass, friends, says he.
 
 Then he rubs his hand in his eye and says he:
 
---What's your opinion of the times?
+-- What's your opinion of the times?
 
 Doing the rapparee and Rory of the hill. But, begob, Joe was equal to
 the occasion.
 
---I think the markets are on a rise, says he, sliding his hand down his
+-- I think the markets are on a rise, says he, sliding his hand down his
 fork.
 
 So begob the citizen claps his paw on his knee and he says:
 
---Foreign wars is the cause of it.
+-- Foreign wars is the cause of it.
 
 And says Joe, sticking his thumb in his pocket:
 
---It's the Russians wish to tyrannise.
+-- It's the Russians wish to tyrannise.
 
---Arrah, give over your bloody codding, Joe, says I. I've a thirst on me I
+-- Arrah, give over your bloody codding, Joe, says I. I've a thirst on me I
 wouldn't sell for half a crown.
 
---Give it a name, citizen, says Joe.
+-- Give it a name, citizen, says Joe.
 
---Wine of the country, says he.
+-- Wine of the country, says he.
 
---What's yours? says Joe.
+-- What's yours? says Joe.
 
---Ditto MacAnaspey, says I.
+-- Ditto MacAnaspey, says I.
 
---Three pints, Terry, says Joe. And how's the old heart, citizen? says he.
+-- Three pints, Terry, says Joe. And how's the old heart, citizen? says he.
 
---Never better, A CHARA, says he. What Garry? Are we going to win? Eh?
+-- Never better, A CHARA, says he. What Garry? Are we going to win? Eh?
 
 And with that he took the bloody old towser by the scruff of the neck
 and, by Jesus, he near throttled him.
@@ -14487,20 +14487,20 @@ So anyhow Terry brought the three pints Joe was standing and begob
 the sight nearly left my eyes when I saw him land out a quid O, as true as
 I'm telling you. A goodlooking sovereign.
 
---And there's more where that came from, says he.
+-- And there's more where that came from, says he.
 
---Were you robbing the poorbox, Joe? says I.
+-- Were you robbing the poorbox, Joe? says I.
 
---Sweat of my brow, says Joe. 'Twas the prudent member gave me the wheeze.
+-- Sweat of my brow, says Joe. 'Twas the prudent member gave me the wheeze.
 
---I saw him before I met you, says I, sloping around by Pill lane and
+-- I saw him before I met you, says I, sloping around by Pill lane and
 Greek street with his cod's eye counting up all the guts of the fish.
 
 Who comes through Michan's land, bedight in sable armour? O'Bloom,
 the son of Rory: it is he. Impervious to fear is Rory's son: he
 of the prudent soul.
 
---For the old woman of Prince's street, says the citizen, the subsidised
+-- For the old woman of Prince's street, says the citizen, the subsidised
 organ. The pledgebound party on the floor of the house. And look at this
 blasted rag, says he. Look at this, says he. THE IRISH INDEPENDENT, if you
 please, founded by Parnell to be the workingman's friend. Listen to the
@@ -14509,7 +14509,7 @@ you and the marriages.
 
 And he starts reading them out:
 
---Gordon, Barnfield crescent, Exeter; Redmayne of Iffley, Saint Anne's on
+-- Gordon, Barnfield crescent, Exeter; Redmayne of Iffley, Saint Anne's on
 Sea: the wife of William T Redmayne of a son. How's that, eh? Wright and
 Flint, Vincent and Gillett to Rotha Marion daughter of Rosa and the late
 George Alfred Gillett, 179 Clapham road, Stockwell, Playwood and
@@ -14518,19 +14518,19 @@ of Worcester. Eh? Deaths. Bristow, at Whitehall lane, London: Carr, Stoke
 Newington, of gastritis and heart disease: Cockburn, at the Moat house,
 Chepstow ...
 
---I know that fellow, says Joe, from bitter experience.
+-- I know that fellow, says Joe, from bitter experience.
 
---Cockburn. Dimsey, wife of David Dimsey, late of the admiralty: Miller,
+-- Cockburn. Dimsey, wife of David Dimsey, late of the admiralty: Miller,
 Tottenham, aged eightyfive: Welsh, June 12, at 35 Canning street,
 Liverpool, Isabella Helen. How's that for a national press, eh, my brown
 son! How's that for Martin Murphy, the Bantry jobber?
 
---Ah, well, says Joe, handing round the boose. Thanks be to God they had
+-- Ah, well, says Joe, handing round the boose. Thanks be to God they had
 the start of us. Drink that, citizen.
 
---I will, says he, honourable person.
+-- I will, says he, honourable person.
 
---Health, Joe, says I. And all down the form.
+-- Health, Joe, says I. And all down the form.
 
 Ah! Ow! Don't be talking! I was blue mouldy for the want of that
 pint. Declare to God I could hear it hit the pit of my stomach with a
@@ -14551,43 +14551,43 @@ bathslippers with two bloody big books tucked under his oxter and the wife
 hotfoot after him, unfortunate wretched woman, trotting like a poodle. I
 thought Alf would split.
 
---Look at him, says he. Breen. He's traipsing all round Dublin with a
+-- Look at him, says he. Breen. He's traipsing all round Dublin with a
 postcard someone sent him with U. p: up on it to take a li ...
 
 And he doubled up.
 
---Take a what? says I.
+-- Take a what? says I.
 
---Libel action, says he, for ten thousand pounds.
+-- Libel action, says he, for ten thousand pounds.
 
---O hell! says I.
+-- O hell! says I.
 
 The bloody mongrel began to growl that'd put the fear of God in you
 seeing something was up but the citizen gave him a kick in the ribs.
 
---BI I DHO HUSHT, says he.
+-- BI I DHO HUSHT, says he.
 
---Who? says Joe.
+-- Who? says Joe.
 
---Breen, says Alf. He was in John Henry Menton's and then he went round
+-- Breen, says Alf. He was in John Henry Menton's and then he went round
 to Collis and Ward's and then Tom Rochford met him and sent him round
 to the subsheriff's for a lark. O God, I've a pain laughing. U. p: up. The
 long fellow gave him an eye as good as a process and now the bloody old
 lunatic is gone round to Green street to look for a G man.
 
---When is long John going to hang that fellow in Mountjoy? says Joe.
+-- When is long John going to hang that fellow in Mountjoy? says Joe.
 
---Bergan, says Bob Doran, waking up. Is that Alf Bergan?
+-- Bergan, says Bob Doran, waking up. Is that Alf Bergan?
 
---Yes, says Alf. Hanging? Wait till I show you. Here, Terry, give us a
+-- Yes, says Alf. Hanging? Wait till I show you. Here, Terry, give us a
 pony. That bloody old fool! Ten thousand pounds. You should have seen long
 John's eye. U. p ...
 
 And he started laughing.
 
---Who are you laughing at? says Bob Doran. Is that Bergan?
+-- Who are you laughing at? says Bob Doran. Is that Bergan?
 
---Hurry up, Terry boy, says Alf.
+-- Hurry up, Terry boy, says Alf.
 
 Terence O'Ryan heard him and straightway brought him a crystal
 cup full of the foamy ebon ale which the noble twin brothers Bungiveagh
@@ -14613,69 +14613,69 @@ bore rule, a victress over many peoples, the wellbeloved, for they knew
 and loved her from the rising of the sun to the going down thereof, the
 pale, the dark, the ruddy and the ethiop.
 
---What's that bloody freemason doing, says the citizen, prowling up and
+-- What's that bloody freemason doing, says the citizen, prowling up and
 down outside?
 
---What's that? says Joe.
+-- What's that? says Joe.
 
---Here you are, says Alf, chucking out the rhino. Talking about hanging,
+-- Here you are, says Alf, chucking out the rhino. Talking about hanging,
 I'll show you something you never saw. Hangmen's letters. Look at here.
 
 So he took a bundle of wisps of letters and envelopes out of his pocket.
 
---Are you codding? says I.
+-- Are you codding? says I.
 
---Honest injun, says Alf. Read them.
+-- Honest injun, says Alf. Read them.
 
 So Joe took up the letters.
 
---Who are you laughing at? says Bob Doran.
+-- Who are you laughing at? says Bob Doran.
 
 So I saw there was going to be a bit of a dust Bob's a queer chap
 when the porter's up in him so says I just to make talk:
 
---How's Willy Murray those times, Alf?
+-- How's Willy Murray those times, Alf?
 
---I don't know, says Alf I saw him just now in Capel street with Paddy
+-- I don't know, says Alf I saw him just now in Capel street with Paddy
 Dignam. Only I was running after that ...
 
---You what? says Joe, throwing down the letters. With who?
+-- You what? says Joe, throwing down the letters. With who?
 
---With Dignam, says Alf.
+-- With Dignam, says Alf.
 
---Is it Paddy? says Joe.
+-- Is it Paddy? says Joe.
 
---Yes, says Alf. Why?
+-- Yes, says Alf. Why?
 
---Don't you know he's dead? says Joe.
+-- Don't you know he's dead? says Joe.
 
---Paddy Dignam dead! says Alf.
+-- Paddy Dignam dead! says Alf.
 
---Ay, says Joe.
+-- Ay, says Joe.
 
---Sure I'm after seeing him not five minutes ago, says Alf, as plain as a
+-- Sure I'm after seeing him not five minutes ago, says Alf, as plain as a
 pikestaff.
 
---Who's dead? says Bob Doran.
+-- Who's dead? says Bob Doran.
 
---You saw his ghost then, says Joe, God between us and harm.
+-- You saw his ghost then, says Joe, God between us and harm.
 
---What? says Alf. Good Christ, only five ... What? ... And Willy Murray
+-- What? says Alf. Good Christ, only five ... What? ... And Willy Murray
 with him, the two of them there near whatdoyoucallhim's ... What?
 Dignam dead?
 
---What about Dignam? says Bob Doran. Who's talking about... ?
+-- What about Dignam? says Bob Doran. Who's talking about... ?
 
---Dead! says Alf. He's no more dead than you are.
+-- Dead! says Alf. He's no more dead than you are.
 
---Maybe so, says Joe. They took the liberty of burying him this morning
+-- Maybe so, says Joe. They took the liberty of burying him this morning
 anyhow.
 
---Paddy? says Alf.
+-- Paddy? says Alf.
 
---Ay, says Joe. He paid the debt of nature, God be merciful to him.
+-- Ay, says Joe. He paid the debt of nature, God be merciful to him.
 
---Good Christ! says Alf.
+-- Good Christ! says Alf.
 
 Begob he was what you might call flabbergasted.
 
@@ -14723,40 +14723,40 @@ He is gone from mortal haunts: O'Dignam, sun of our morning. Fleet
 was his foot on the bracken: Patrick of the beamy brow. Wail, Banba, with
 your wind: and wail, O ocean, with your whirlwind.
 
---There he is again, says the citizen, staring out.
+-- There he is again, says the citizen, staring out.
 
---Who? says I.
+-- Who? says I.
 
---Bloom, says he. He's on point duty up and down there for the last ten
+-- Bloom, says he. He's on point duty up and down there for the last ten
 minutes.
 
 And, begob, I saw his physog do a peep in and then slidder off again.
 
 Little Alf was knocked bawways. Faith, he was.
 
---Good Christ! says he. I could have sworn it was him.
+-- Good Christ! says he. I could have sworn it was him.
 
 And says Bob Doran, with the hat on the back of his poll, lowest
 blackguard in Dublin when he's under the influence:
 
---Who said Christ is good?
+-- Who said Christ is good?
 
---I beg your parsnips, says Alf.
+-- I beg your parsnips, says Alf.
 
---Is that a good Christ, says Bob Doran, to take away poor little Willy
+-- Is that a good Christ, says Bob Doran, to take away poor little Willy
 Dignam?
 
---Ah, well, says Alf, trying to pass it off. He's over all his troubles.
+-- Ah, well, says Alf, trying to pass it off. He's over all his troubles.
 
 But Bob Doran shouts out of him.
 
---He's a bloody ruffian, I say, to take away poor little Willy Dignam.
+-- He's a bloody ruffian, I say, to take away poor little Willy Dignam.
 
 Terry came down and tipped him the wink to keep quiet, that they
 didn't want that kind of talk in a respectable licensed premises. And Bob
 Doran starts doing the weeps about Paddy Dignam, true as you're there.
 
---The finest man, says he, snivelling, the finest purest character.
+-- The finest man, says he, snivelling, the finest purest character.
 
 The tear is bloody near your eye. Talking through his bloody hat.
 Fitter for him go home to the little sleepwalking bitch he married,
@@ -14765,7 +14765,7 @@ that used to be stravaging about the landings Bantam Lyons told me that
 was stopping there at two in the morning without a stitch on her, exposing
 her person, open to all comers, fair field and no favour.
 
---The noblest, the truest, says he. And he's gone, poor little Willy, poor
+-- The noblest, the truest, says he. And he's gone, poor little Willy, poor
 little Paddy Dignam.
 
 And mournful and with a heavy heart he bewept the extinction of that
@@ -14774,12 +14774,12 @@ beam of heaven.
 Old Garryowen started growling again at Bloom that was skeezing
 round the door.
 
---Come in, come on, he won't eat you, says the citizen.
+-- Come in, come on, he won't eat you, says the citizen.
 
 So Bloom slopes in with his cod's eye on the dog and he asks Terry
 was Martin Cunningham there.
 
---O, Christ M'Keown, says Joe, reading one of the letters. Listen to this,
+-- O, Christ M'Keown, says Joe, reading one of the letters. Listen to this,
 will you?
 
 And he starts reading out one.
@@ -14792,18 +14792,18 @@ And he starts reading out one.
 CASE I HANGED JOE GANN IN BOOTLE JAIL ON THE 12 OF FEBUARY 1900 AND I
 HANGED ...
 
---Show us, Joe, says I.
+-- Show us, Joe, says I.
 
--- ... PRIVATE ARTHUR CHACE FOR FOWL MURDER OF JESSIE TILSIT IN
+--  ... PRIVATE ARTHUR CHACE FOR FOWL MURDER OF JESSIE TILSIT IN
 PENTONVILLE PRISON AND I WAS ASSISTANT WHEN ...
 
---Jesus, says I.
+-- Jesus, says I.
 
--- ... BILLINGTON EXECUTED THE AWFUL MURDERER TOAD SMITH ...
+--  ... BILLINGTON EXECUTED THE AWFUL MURDERER TOAD SMITH ...
 
 The citizen made a grab at the letter.
 
---Hold hard, says Joe, I HAVE A SPECIAL NACK OF PUTTING THE NOOSE ONCE IN
+-- Hold hard, says Joe, I HAVE A SPECIAL NACK OF PUTTING THE NOOSE ONCE IN
 HE CAN'T GET OUT HOPING TO BE FAVOURED I REMAIN, HONOURED SIR, MY TERMS IS
 FIVE GINNEES.
 
@@ -14811,21 +14811,21 @@ FIVE GINNEES.
                 MASTER BARBER.
 
 
---And a barbarous bloody barbarian he is too, says the citizen.
+-- And a barbarous bloody barbarian he is too, says the citizen.
 
---And the dirty scrawl of the wretch, says Joe. Here, says he, take them
+-- And the dirty scrawl of the wretch, says Joe. Here, says he, take them
 to hell out of my sight, Alf. Hello, Bloom, says he, what will you have?
 
 So they started arguing about the point, Bloom saying he wouldn't
 and he couldn't and excuse him no offence and all to that and then he said
 well he'd just take a cigar. Gob, he's a prudent member and no mistake.
 
---Give us one of your prime stinkers, Terry, says Joe.
+-- Give us one of your prime stinkers, Terry, says Joe.
 
 And Alf was telling us there was one chap sent in a mourning card
 with a black border round it.
 
---They're all barbers, says he, from the black country that would hang
+-- They're all barbers, says he, from the black country that would hang
 their own fathers for five quid down and travelling expenses.
 
 And he was telling us there's two fellows waiting below to pull his
@@ -14843,23 +14843,23 @@ business and the old dog smelling him all the time I'm told those jewies
 does have a sort of a queer odour coming off them for dogs about I don't
 know what all deterrent effect and so forth and so on.
 
---There's one thing it hasn't a deterrent effect on, says Alf.
+-- There's one thing it hasn't a deterrent effect on, says Alf.
 
---What's that? says Joe.
+-- What's that? says Joe.
 
---The poor bugger's tool that's being hanged, says Alf.
+-- The poor bugger's tool that's being hanged, says Alf.
 
---That so? says Joe.
+-- That so? says Joe.
 
---God's truth, says Alf. I heard that from the head warder that was in
+-- God's truth, says Alf. I heard that from the head warder that was in
 
 Kilmainham when they hanged Joe Brady, the invincible. He told me when
 they cut him down after the drop it was standing up in their faces like a
 poker.
 
---Ruling passion strong in death, says Joe, as someone said.
+-- Ruling passion strong in death, says Joe, as someone said.
 
---That can be explained by science, says Bloom. It's only a natural
+-- That can be explained by science, says Bloom. It's only a natural
 phenomenon, don't you see, because on account of the ...
 
 And then he starts with his jawbreakers about phenomenon and
@@ -14888,7 +14888,7 @@ and scratching his scabs. And round he goes to Bob Doran that was
 standing Alf a half one sucking up for what he could get. So of course Bob
 Doran starts doing the bloody fool with him:
 
---Give us the paw! Give the paw, doggy! Good old doggy! Give the paw
+-- Give us the paw! Give the paw, doggy! Good old doggy! Give the paw
 here! Give us the paw!
 
 Arrah, bloody end to the paw he'd paw and Alf trying to keep him
@@ -14923,14 +14923,14 @@ round in Cope street going home footless in a cab five times in the week
 after drinking his way through all the samples in the bloody
 establishment. Phenomenon!
 
---The memory of the dead, says the citizen taking up his pintglass and
+-- The memory of the dead, says the citizen taking up his pintglass and
 glaring at Bloom.
 
---Ay, ay, says Joe.
+-- Ay, ay, says Joe.
 
---You don't grasp my point, says Bloom. What I mean is ...
+-- You don't grasp my point, says Bloom. What I mean is ...
 
---SINN FEIN! says the citizen. SINN FEIN AMHAIN! The friends we love are
+-- SINN FEIN! says the citizen. SINN FEIN AMHAIN! The friends we love are
 by our side and the foes we hate before us.
 
 The last farewell was affecting in the extreme. From the belfries far
@@ -15005,7 +15005,7 @@ rightful owners and general harmony reigned supreme.
 Quietly, unassumingly Rumbold stepped on to the scaffold in faultless
 morning dress and wearing his favourite flower, the GLADIOLUS CRUENTUS.
 He announced his presence by that gentle Rumboldian cough which so
-many have tried (unsuccessfully) to imitate--short, painstaking yet withal
+many have tried (unsuccessfully) to imitate-- short, painstaking yet withal
 so characteristic of the man. The arrival of the worldrenowned headsman
 was greeted by a roar of acclamation from the huge concourse, the
 viceregal ladies waving their handkerchiefs in their excitement while the
@@ -15090,7 +15090,7 @@ his natural emotion. With his mailed gauntlet he brushed away a furtive
 tear and was overheard, by those privileged burghers who happened to be
 in his immediate ENTOURAGE, to murmur to himself in a faltering undertone:
 
---God blimey if she aint a clinker, that there bleeding tart. Blimey it
+-- God blimey if she aint a clinker, that there bleeding tart. Blimey it
 makes me kind of bleeding cry, straight, it does, when I sees her cause I
 thinks of my old mashtub what's waiting for me down Limehouse way.
 
@@ -15119,13 +15119,13 @@ starts mousing around by Joe and me. I'd train him by kindness, so I
 would, if he was my dog. Give him a rousing fine kick now and again where
 it wouldn't blind him.
 
---Afraid he'll bite you? says the citizen, jeering.
+-- Afraid he'll bite you? says the citizen, jeering.
 
---No, says I. But he might take my leg for a lamppost.
+-- No, says I. But he might take my leg for a lamppost.
 
 So he calls the old dog over.
 
---What's on you, Garry? says he.
+-- What's on you, Garry? says he.
 
 Then he starts hauling and mauling and talking to him in Irish and
 the old towser growling, letting on to answer, like a duet in the opera.
@@ -15180,34 +15180,34 @@ So he told Terry to bring some water for the dog and, gob, you could
 hear him lapping it up a mile off. And Joe asked him would he have
 another.
 
---I will, says he, A CHARA, to show there's no ill feeling.
+-- I will, says he, A CHARA, to show there's no ill feeling.
 
 Gob, he's not as green as he's cabbagelooking. Arsing around from
 one pub to another, leaving it to your own honour, with old Giltrap's dog
 and getting fed up by the ratepayers and corporators. Entertainment for
 man and beast. And says Joe:
 
---Could you make a hole in another pint?
+-- Could you make a hole in another pint?
 
---Could a swim duck? says I.
+-- Could a swim duck? says I.
 
---Same again, Terry, says Joe. Are you sure you won't have anything in the
+-- Same again, Terry, says Joe. Are you sure you won't have anything in the
 way of liquid refreshment? says he.
 
---Thank you, no, says Bloom. As a matter of fact I just wanted to meet
+-- Thank you, no, says Bloom. As a matter of fact I just wanted to meet
 Martin Cunningham, don't you see, about this insurance of poor Dignam's.
 Martin asked me to go to the house. You see, he, Dignam, I mean, didn't
 serve any notice of the assignment on the company at the time and
 nominally under the act the mortgagee can't recover on the policy.
 
---Holy Wars, says Joe, laughing, that's a good one if old Shylock is
+-- Holy Wars, says Joe, laughing, that's a good one if old Shylock is
 landed. So the wife comes out top dog, what?
 
---Well, that's a point, says Bloom, for the wife's admirers.
+-- Well, that's a point, says Bloom, for the wife's admirers.
 
---Whose admirers? says Joe.
+-- Whose admirers? says Joe.
 
---The wife's advisers, I mean, says Bloom.
+-- The wife's advisers, I mean, says Bloom.
 
 Then he starts all confused mucking it up about mortgagor under the act
 like the lord chancellor giving it out on the bench and for the benefit of
@@ -15228,19 +15228,19 @@ her. Choking with bloody foolery. And shaking Bloom's hand doing the
 tragic to tell her that. Shake hands, brother. You're a rogue and I'm
 another.
 
---Let me, said he, so far presume upon our acquaintance which, however
+-- Let me, said he, so far presume upon our acquaintance which, however
 slight it may appear if judged by the standard of mere time, is founded,
 as I hope and believe, on a sentiment of mutual esteem as to request of
 you this favour. But, should I have overstepped the limits of reserve
 let the sincerity of my feelings be the excuse for my boldness.
 
---No, rejoined the other, I appreciate to the full the motives which
+-- No, rejoined the other, I appreciate to the full the motives which
 actuate your conduct and I shall discharge the office you entrust
 to me consoled by the reflection that, though the errand be one of
 sorrow, this proof of your confidence sweetens in some measure the
 bitterness of the cup.
 
---Then suffer me to take your hand, said he. The goodness of your heart, I
+-- Then suffer me to take your hand, said he. The goodness of your heart, I
 feel sure, will dictate to you better than my inadequate words the
 expressions which are most suitable to convey an emotion whose
 poignancy, were I to give vent to my feelings, would deprive me even of
@@ -15267,27 +15267,27 @@ him if he didn't patch up the pot, Jesus, he'd kick the shite out of him.
 
 So Terry brought the three pints.
 
---Here, says Joe, doing the honours. Here, citizen.
+-- Here, says Joe, doing the honours. Here, citizen.
 
---SLAN LEAT, says he.
+-- SLAN LEAT, says he.
 
---Fortune, Joe, says I. Good health, citizen.
+-- Fortune, Joe, says I. Good health, citizen.
 
 Gob, he had his mouth half way down the tumbler already. Want a
 small fortune to keep him in drinks.
 
---Who is the long fellow running for the mayoralty, Alf? says Joe.
+-- Who is the long fellow running for the mayoralty, Alf? says Joe.
 
---Friend of yours, says Alf.
+-- Friend of yours, says Alf.
 
---Nannan? says Joe. The mimber?
+-- Nannan? says Joe. The mimber?
 
---I won't mention any names, says Alf.
+-- I won't mention any names, says Alf.
 
---I thought so, says Joe. I saw him up at that meeting now with William
+-- I thought so, says Joe. I saw him up at that meeting now with William
 Field, M. P., the cattle traders.
 
---Hairy Iopas, says the citizen, that exploded volcano, the darling of all
+-- Hairy Iopas, says the citizen, that exploded volcano, the darling of all
 countries and the idol of his own.
 
 So Joe starts telling the citizen about the foot and mouth disease and
@@ -15312,18 +15312,18 @@ for us. When she lays her egg she is so glad. Gara. Klook Klook Klook.
 Then comes good uncle Leo. He puts his hand under black Liz and takes
 her fresh egg. Ga ga ga ga Gara. Klook Klook Klook.
 
---Anyhow, says Joe, Field and Nannetti are going over tonight to London
+-- Anyhow, says Joe, Field and Nannetti are going over tonight to London
 to ask about it on the floor of the house of commons.
 
---Are you sure, says Bloom, the councillor is going? I wanted to see him,
+-- Are you sure, says Bloom, the councillor is going? I wanted to see him,
 as it happens.
 
---Well, he's going off by the mailboat, says Joe, tonight.
+-- Well, he's going off by the mailboat, says Joe, tonight.
 
---That's too bad, says Bloom. I wanted particularly. Perhaps only Mr Field
+-- That's too bad, says Bloom. I wanted particularly. Perhaps only Mr Field
 is going. I couldn't phone. No. You're sure?
 
---Nannan's going too, says Joe. The league told him to ask a question
+-- Nannan's going too, says Joe. The league told him to ask a question
 tomorrow about the commissioner of police forbidding Irish games in the
 park. What do you think of that, citizen? THE SLUAGH NA H-EIREANN.
 
@@ -15358,19 +15358,19 @@ The speaker: Order! Order!
 
 (The house rises. Cheers.)
 
---There's the man, says Joe, that made the Gaelic sports revival. There he
+-- There's the man, says Joe, that made the Gaelic sports revival. There he
 is sitting there. The man that got away James Stephens. The champion of
 all Ireland at putting the sixteen pound shot. What was your best throw,
 citizen?
 
---NA BACLEIS, says the citizen, letting on to be modest. There was a time
+-- NA BACLEIS, says the citizen, letting on to be modest. There was a time
 I was as good as the next fellow anyhow.
 
---Put it there, citizen, says Joe. You were and a bloody sight better.
+-- Put it there, citizen, says Joe. You were and a bloody sight better.
 
---Is that really a fact? says Alf.
+-- Is that really a fact? says Alf.
 
---Yes, says Bloom. That's well known. Did you not know that?
+-- Yes, says Bloom. That's well known. Did you not know that?
 
 So off they started about Irish sports and shoneen games the like of lawn
 tennis and about hurley and putting the stone and racy of the soil and
@@ -15428,34 +15428,34 @@ P.; the rev. F. T. Purcell, O. P.; the very rev. Timothy canon Gorman,
 P. P.; the rev. J. Flanagan, C. C. The laity included P. Fay, T. Quirke,
 etc., etc.
 
---Talking about violent exercise, says Alf, were you at that Keogh-Bennett
+-- Talking about violent exercise, says Alf, were you at that Keogh-Bennett
 match?
 
---No, says Joe.
+-- No, says Joe.
 
---I heard So and So made a cool hundred quid over it, says Alf.
+-- I heard So and So made a cool hundred quid over it, says Alf.
 
---Who? Blazes? says Joe.
+-- Who? Blazes? says Joe.
 
 And says Bloom:
 
---What I meant about tennis, for example, is the agility and training the
+-- What I meant about tennis, for example, is the agility and training the
 eye.
 
---Ay, Blazes, says Alf. He let out that Myler was on the beer to run up
+-- Ay, Blazes, says Alf. He let out that Myler was on the beer to run up
 the odds and he swatting all the time.
 
---We know him, says the citizen. The traitor's son. We know what put
+-- We know him, says the citizen. The traitor's son. We know what put
 English gold in his pocket.
 
----True for you, says Joe.
+-- -True for you, says Joe.
 
 And Bloom cuts in again about lawn tennis and the circulation of the
 blood, asking Alf:
 
---Now, don't you think, Bergan?
+-- Now, don't you think, Bergan?
 
---Myler dusted the floor with him, says Alf. Heenan and Sayers was only a
+-- Myler dusted the floor with him, says Alf. Heenan and Sayers was only a
 bloody fool to it. Handed him the father and mother of a beating. See the
 little kipper not up to his navel and the big fellow swiping. God, he gave
 him one last puck in the wind, Queensberry rules and all, made him puke
@@ -15491,17 +15491,17 @@ threw in the towel and the Santry boy was declared victor to the frenzied
 cheers of the public who broke through the ringropes and fairly mobbed him
 with delight.
 
---He knows which side his bread is buttered, says Alf. I hear he's running
+-- He knows which side his bread is buttered, says Alf. I hear he's running
 a concert tour now up in the north.
 
---He is, says Joe. Isn't he?
+-- He is, says Joe. Isn't he?
 
---Who? says Bloom. Ah, yes. That's quite true. Yes, a kind of summer tour,
+-- Who? says Bloom. Ah, yes. That's quite true. Yes, a kind of summer tour,
 you see. Just a holiday.
 
---Mrs B. is the bright particular star, isn't she? says Joe.
+-- Mrs B. is the bright particular star, isn't she? says Joe.
 
---My wife? says Bloom. She's singing, yes. I think it will be a success
+-- My wife? says Bloom. She's singing, yes. I think it will be a success
 too.
 
 He's an excellent man to organise. Excellent.
@@ -15524,27 +15524,27 @@ And lo, there entered one of the clan of the O'Molloy's, a comely hero
 of white face yet withal somewhat ruddy, his majesty's counsel learned in
 the law, and with him the prince and heir of the noble line of Lambert.
 
---Hello, Ned.
+-- Hello, Ned.
 
---Hello, Alf.
+-- Hello, Alf.
 
---Hello, Jack.
+-- Hello, Jack.
 
---Hello, Joe.
+-- Hello, Joe.
 
---God save you, says the citizen.
+-- God save you, says the citizen.
 
---Save you kindly, says J. J. What'll it be, Ned?
+-- Save you kindly, says J. J. What'll it be, Ned?
 
---Half one, says Ned.
+-- Half one, says Ned.
 
 So J. J. ordered the drinks.
 
---Were you round at the court? says Joe.
+-- Were you round at the court? says Joe.
 
---Yes, says J. J. He'll square that, Ned, says he.
+-- Yes, says J. J. He'll square that, Ned, says he.
 
---Hope so, says Ned.
+-- Hope so, says Ned.
 
 Now what were those two at? J. J. getting him off the grand jury list
 and the other give him a leg over the stile. With his name in Stubbs's.
@@ -15556,50 +15556,50 @@ boots out of the pop. What's your name, sir? Dunne, says he. Ay, and done
 says I. Gob, he'll come home by weeping cross one of those days, I'm
 thinking.
 
---Did you see that bloody lunatic Breen round there? says Alf. U. p: up.
+-- Did you see that bloody lunatic Breen round there? says Alf. U. p: up.
 
---Yes, says J. J. Looking for a private detective.
+-- Yes, says J. J. Looking for a private detective.
 
---Ay, says Ned. And he wanted right go wrong to address the court only
+-- Ay, says Ned. And he wanted right go wrong to address the court only
 Corny Kelleher got round him telling him to get the handwriting examined
 first.
 
---Ten thousand pounds, says Alf, laughing. God, I'd give anything to hear
+-- Ten thousand pounds, says Alf, laughing. God, I'd give anything to hear
 him before a judge and jury.
 
---Was it you did it, Alf? says Joe. The truth, the whole truth and nothing
+-- Was it you did it, Alf? says Joe. The truth, the whole truth and nothing
 but the truth, so help you Jimmy Johnson.
 
---Me? says Alf. Don't cast your nasturtiums on my character.
+-- Me? says Alf. Don't cast your nasturtiums on my character.
 
---Whatever statement you make, says Joe, will be taken down in evidence
+-- Whatever statement you make, says Joe, will be taken down in evidence
 against you.
 
---Of course an action would lie, says J. J. It implies that he is not
+-- Of course an action would lie, says J. J. It implies that he is not
 COMPOS MENTIS. U. p: up.
 
---COMPOS your eye! says Alf, laughing. Do you know that he's balmy?
+-- COMPOS your eye! says Alf, laughing. Do you know that he's balmy?
 Look at his head. Do you know that some mornings he has to get his hat on
 with a shoehorn.
 
---Yes, says J. J., but the truth of a libel is no defence to an indictment
+-- Yes, says J. J., but the truth of a libel is no defence to an indictment
 for publishing it in the eyes of the law.
 
---Ha ha, Alf, says Joe.
+-- Ha ha, Alf, says Joe.
 
---Still, says Bloom, on account of the poor woman, I mean his wife.
+-- Still, says Bloom, on account of the poor woman, I mean his wife.
 
---Pity about her, says the citizen. Or any other woman marries a half and
+-- Pity about her, says the citizen. Or any other woman marries a half and
 half.
 
---How half and half? says Bloom. Do you mean he ...
+-- How half and half? says Bloom. Do you mean he ...
 
---Half and half I mean, says the citizen. A fellow that's neither fish nor
+-- Half and half I mean, says the citizen. A fellow that's neither fish nor
 flesh.
 
---Nor good red herring, says Joe.
+-- Nor good red herring, says Joe.
 
---That what's I mean, says the citizen. A pishogue, if you know what that
+-- That what's I mean, says the citizen. A pishogue, if you know what that
 is.
 
 Begob I saw there was trouble coming. And Bloom explaining he meant on
@@ -15614,29 +15614,29 @@ Father, has left the quay and gone to Moss street. And who was he, tell
 us? A nobody, two pair back and passages, at seven shillings a week, and
 he covered with all kinds of breastplates bidding defiance to the world.
 
---And moreover, says J. J., a postcard is publication. It was held to be
+-- And moreover, says J. J., a postcard is publication. It was held to be
 sufficient evidence of malice in the testcase Sadgrove v. Hole. In my
 opinion an action might lie.
 
 Six and eightpence, please. Who wants your opinion? Let us drink
 our pints in peace. Gob, we won't be let even do that much itself.
 
---Well, good health, Jack, says Ned.
+-- Well, good health, Jack, says Ned.
 
---Good health, Ned, says J. J.
+-- Good health, Ned, says J. J.
 
----There he is again, says Joe.
+-- -There he is again, says Joe.
 
---Where? says Alf.
+-- Where? says Alf.
 
 And begob there he was passing the door with his books under his
 oxter and the wife beside him and Corny Kelleher with his wall eye looking
 in as they went past, talking to him like a father, trying to sell him a
 secondhand coffin.
 
---How did that Canada swindle case go off? says Joe.
+-- How did that Canada swindle case go off? says Joe.
 
---Remanded, says J. J.
+-- Remanded, says J. J.
 
 One of the bottlenosed fraternity it was went by the name of James
 Wought alias Saphiro alias Spark and Spiro, put an ad in the papers saying
@@ -15647,28 +15647,28 @@ kidney too. J. J. was telling us there was an ancient Hebrew Zaretsky or
 something weeping in the witnessbox with his hat on him, swearing by the
 holy Moses he was stuck for two quid.
 
---Who tried the case? says Joe.
+-- Who tried the case? says Joe.
 
---Recorder, says Ned.
+-- Recorder, says Ned.
 
---Poor old sir Frederick, says Alf, you can cod him up to the two eyes.
+-- Poor old sir Frederick, says Alf, you can cod him up to the two eyes.
 
---Heart as big as a lion, says Ned. Tell him a tale of woe about arrears
+-- Heart as big as a lion, says Ned. Tell him a tale of woe about arrears
 of rent and a sick wife and a squad of kids and, faith, he'll dissolve in
 tears on the bench.
 
---Ay, says Alf. Reuben J was bloody lucky he didn't clap him in the dock
+-- Ay, says Alf. Reuben J was bloody lucky he didn't clap him in the dock
 the other day for suing poor little Gumley that's minding stones, for the
 corporation there near Butt bridge.
 
 And he starts taking off the old recorder letting on to cry:
 
---A most scandalous thing! This poor hardworking man! How many
+-- A most scandalous thing! This poor hardworking man! How many
 children? Ten, did you say?
 
---Yes, your worship. And my wife has the typhoid.
+-- Yes, your worship. And my wife has the typhoid.
 
---And the wife with typhoid fever! Scandalous! Leave the court
+-- And the wife with typhoid fever! Scandalous! Leave the court
 immediately, sir. No, sir, I'll make no order for payment. How dare you,
 sir, come up before me and ask me to make an order! A poor hardworking
 industrious man! I dismiss the case.
@@ -15706,7 +15706,7 @@ consequence of information received. And they shackled him hand and foot
 and would take of him ne bail ne mainprise but preferred a charge against
 him for he was a malefactor.
 
---Those are nice things, says the citizen, coming over here to Ireland
+-- Those are nice things, says the citizen, coming over here to Ireland
 filling the country with bugs.
 
 So Bloom lets on he heard nothing and he starts talking with Joe, telling
@@ -15714,39 +15714,39 @@ him he needn't trouble about that little matter till the first but if he
 would just say a word to Mr Crawford. And so Joe swore high and holy by
 this and by that he'd do the devil and all.
 
---Because, you see, says Bloom, for an advertisement you must have
+-- Because, you see, says Bloom, for an advertisement you must have
 repetition. That's the whole secret.
 
---Rely on me, says Joe.
+-- Rely on me, says Joe.
 
---Swindling the peasants, says the citizen, and the poor of Ireland. We
+-- Swindling the peasants, says the citizen, and the poor of Ireland. We
 want no more strangers in our house.
 
---O, I'm sure that will be all right, Hynes, says Bloom. It's just that
+-- O, I'm sure that will be all right, Hynes, says Bloom. It's just that
 Keyes, you see.
 
---Consider that done, says Joe.
+-- Consider that done, says Joe.
 
---Very kind of you, says Bloom.
+-- Very kind of you, says Bloom.
 
---The strangers, says the citizen. Our own fault. We let them come in. We
+-- The strangers, says the citizen. Our own fault. We let them come in. We
 brought them in. The adulteress and her paramour brought the Saxon
 robbers here.
 
---Decree NISI, says J. J.
+-- Decree NISI, says J. J.
 
 And Bloom letting on to be awfully deeply interested in nothing, a
 spider's web in the corner behind the barrel, and the citizen scowling
 after him and the old dog at his feet looking up to know who to bite and
 when.
 
---A dishonoured wife, says the citizen, that's what's the cause of all our
+-- A dishonoured wife, says the citizen, that's what's the cause of all our
 misfortunes.
 
---And here she is, says Alf, that was giggling over the POLICE GAZETTE
+-- And here she is, says Alf, that was giggling over the POLICE GAZETTE
 with Terry on the counter, in all her warpaint.
 
---Give us a squint at her, says I.
+-- Give us a squint at her, says I.
 
 And what was it only one of the smutty yankee pictures Terry
 borrows off of Corny Kelleher. Secrets for enlarging your private parts.
@@ -15756,15 +15756,15 @@ Belle in her bloomers misconducting herself, and her fancyman feeling for
 her tickles and Norman W. Tupper bouncing in with his peashooter just in
 time to be late after she doing the trick of the loop with officer Taylor.
 
---O jakers, Jenny, says Joe, how short your shirt is!
+-- O jakers, Jenny, says Joe, how short your shirt is!
 
---There's hair, Joe, says I. Get a queer old tailend of corned beef off of
+-- There's hair, Joe, says I. Get a queer old tailend of corned beef off of
 that one, what?
 
 So anyhow in came John Wyse Nolan and Lenehan with him with a
 face on him as long as a late breakfast.
 
---Well, says the citizen, what's the latest from the scene of action? What
+-- Well, says the citizen, what's the latest from the scene of action? What
 did those tinkers in the city hall at their caucus meeting decide about
 the Irish language?
 
@@ -15776,7 +15776,7 @@ prayers to the gods who dwell in ether supernal, had taken solemn counsel
 whereby they might, if so be it might be, bring once more into honour
 among mortal men the winged speech of the seadivided Gael.
 
---It's on the march, says the citizen. To hell with the bloody brutal
+-- It's on the march, says the citizen. To hell with the bloody brutal
 Sassenachs and their PATOIS.
 
 So J. J. puts in a word, doing the toff about one story was good till
@@ -15785,25 +15785,25 @@ blind eye to the telescope and drawing up a bill of attainder to impeach a
 nation, and Bloom trying to back him up moderation and botheration and
 their colonies and their civilisation.
 
---Their syphilisation, you mean, says the citizen. To hell with them! The
+-- Their syphilisation, you mean, says the citizen. To hell with them! The
 curse of a goodfornothing God light sideways on the bloody thicklugged
 sons of whores' gets! No music and no art and no literature worthy of the
 name. Any civilisation they have they stole from us. Tonguetied sons of
 bastards' ghosts.
 
---The European family, says J. J. ...
+-- The European family, says J. J. ...
 
---They're not European, says the citizen. I was in Europe with Kevin Egan
+-- They're not European, says the citizen. I was in Europe with Kevin Egan
 of Paris. You wouldn't see a trace of them or their language anywhere in
 Europe except in a CABINET D'AISANCE.
 
 And says John Wyse:
 
---Full many a flower is born to blush unseen.
+-- Full many a flower is born to blush unseen.
 
 And says Lenehan that knows a bit of the lingo:
 
---CONSPUEZ LES ANGLAIS! PERFIDE ALBION!
+-- CONSPUEZ LES ANGLAIS! PERFIDE ALBION!
 
 He said and then lifted he in his rude great brawny strengthy hands
 the medher of dark strong foamy ale and, uttering his tribal slogan LAMH
@@ -15811,25 +15811,25 @@ DEARG ABU, he drank to the undoing of his foes, a race of mighty valorous
 heroes, rulers of the waves, who sit on thrones of alabaster silent as the
 deathless gods.
 
---What's up with you, says I to Lenehan. You look like a fellow that had
+-- What's up with you, says I to Lenehan. You look like a fellow that had
 lost a bob and found a tanner.
 
---Gold cup, says he.
+-- Gold cup, says he.
 
---Who won, Mr Lenehan? says Terry.
+-- Who won, Mr Lenehan? says Terry.
 
---THROWAWAY, says he, at twenty to one. A rank outsider. And the rest
+-- THROWAWAY, says he, at twenty to one. A rank outsider. And the rest
 nowhere.
 
---And Bass's mare? says Terry.
+-- And Bass's mare? says Terry.
 
---Still running, says he. We're all in a cart. Boylan plunged two quid on
+-- Still running, says he. We're all in a cart. Boylan plunged two quid on
 my tip SCEPTRE for himself and a lady friend.
 
---I had half a crown myself, says Terry, on ZINFANDEL that Mr Flynn gave
+-- I had half a crown myself, says Terry, on ZINFANDEL that Mr Flynn gave
 me. Lord Howard de Walden's.
 
---Twenty to one, says Lenehan. Such is life in an outhouse. THROWAWAY,
+-- Twenty to one, says Lenehan. Such is life in an outhouse. THROWAWAY,
 says he. Takes the biscuit, and talking about bunions. Frailty, thy name
 is SCEPTRE.
 
@@ -15837,18 +15837,18 @@ So he went over to the biscuit tin Bob Doran left to see if there was
 anything he could lift on the nod, the old cur after him backing his luck
 with his mangy snout up. Old Mother Hubbard went to the cupboard.
 
---Not there, my child, says he.
+-- Not there, my child, says he.
 
---Keep your pecker up, says Joe. She'd have won the money only for the
+-- Keep your pecker up, says Joe. She'd have won the money only for the
 other dog.
 
 And J. J. and the citizen arguing about law and history with Bloom
 sticking in an odd word.
 
---Some people, says Bloom, can see the mote in others' eyes but they can't
+-- Some people, says Bloom, can see the mote in others' eyes but they can't
 see the beam in their own.
 
---RAIMEIS, says the citizen. There's no-one as blind as the fellow that
+-- RAIMEIS, says the citizen. There's no-one as blind as the fellow that
 won't see, if you know what that means. Where are our missing
 twenty millions of Irish should be here today instead of four,
 our lost tribes? And our potteries and textiles, the finest in
@@ -15869,17 +15869,17 @@ yellowjohns of Anglia owe us for our ruined trade and our ruined hearths?
 And the beds of the Barrow and Shannon they won't deepen with millions
 of acres of marsh and bog to make us all die of consumption?
 
---As treeless as Portugal we'll be soon, says John Wyse, or Heligoland
+-- As treeless as Portugal we'll be soon, says John Wyse, or Heligoland
 with its one tree if something is not done to reafforest the land.
 Larches, firs, all the trees of the conifer family are going fast. I was
 reading a report of lord Castletown's ...
 
---Save them, says the citizen, the giant ash of Galway and the chieftain
+-- Save them, says the citizen, the giant ash of Galway and the chieftain
 elm of Kildare with a fortyfoot bole and an acre of foliage. Save the
 trees of Ireland for the future men of Ireland on the fair hills of
 Eire, O.
 
---Europe has its eyes on you, says Lenehan.
+-- Europe has its eyes on you, says Lenehan.
 
 The fashionable international world attended EN MASSE this afternoon
 at the wedding of the chevalier Jean Wyse de Neaulan, grand high chief
@@ -15913,13 +15913,13 @@ of hazelnuts, beechmast, bayleaves, catkins of willow, ivytod,
 hollyberries, mistletoe sprigs and quicken shoots. Mr and Mrs Wyse
 Conifer Neaulan will spend a quiet honeymoon in the Black Forest.
 
---And our eyes are on Europe, says the citizen. We had our trade with
+-- And our eyes are on Europe, says the citizen. We had our trade with
 Spain and the French and with the Flemings before those mongrels were
 pupped, Spanish ale in Galway, the winebark on the winedark waterway.
 
---And will again, says Joe.
+-- And will again, says Joe.
 
---And with the help of the holy mother of God we will again, says the
+-- And with the help of the holy mother of God we will again, says the
 citizen, clapping his thigh. our harbours that are empty will be full
 again, Queenstown, Kinsale, Galway, Blacksod Bay, Ventry in the kingdom of
 Kerry, Killybegs, the third largest harbour in the wide world with a fleet
@@ -15938,13 +15938,13 @@ multitude in Shanagolden where he daren't show his nose with the Molly
 Maguires looking for him to let daylight through him for grabbing the
 holding of an evicted tenant.
 
---Hear, hear to that, says John Wyse. What will you have?
+-- Hear, hear to that, says John Wyse. What will you have?
 
---An imperial yeomanry, says Lenehan, to celebrate the occasion.
+-- An imperial yeomanry, says Lenehan, to celebrate the occasion.
 
---Half one, Terry, says John Wyse, and a hands up. Terry! Are you asleep?
+-- Half one, Terry, says John Wyse, and a hands up. Terry! Are you asleep?
 
---Yes, sir, says Terry. Small whisky and bottle of Allsop. Right, sir.
+-- Yes, sir, says Terry. Small whisky and bottle of Allsop. Right, sir.
 
 Hanging over the bloody paper with Alf looking for spicy bits instead
 of attending to the general public. Picture of a butting match, trying to
@@ -15955,9 +15955,9 @@ up in a tree with his tongue out and a bonfire under him. Gob, they ought
 to drown him in the sea after and electrocute and crucify him to make sure
 of their job.
 
---But what about the fighting navy, says Ned, that keeps our foes at bay?
+-- But what about the fighting navy, says Ned, that keeps our foes at bay?
 
---I'll tell you what about it, says the citizen. Hell upon earth it is.
+-- I'll tell you what about it, says the citizen. Hell upon earth it is.
 Read the revelations that's going on in the papers about flogging on the
 training ships at Portsmouth. A fellow writes that calls himself DISGUSTED
 ONE.
@@ -15968,19 +15968,19 @@ parson with his protestant bible to witness punishment and a young lad
 brought out, howling for his ma, and they tie him down on the buttend of a
 gun.
 
---A rump and dozen, says the citizen, was what that old ruffian sir John
+-- A rump and dozen, says the citizen, was what that old ruffian sir John
 Beresford called it but the modern God's Englishman calls it caning on the
 breech.
 
 And says John Wyse:
 
---'Tis a custom more honoured in the breach than in the observance.
+-- 'Tis a custom more honoured in the breach than in the observance.
 
 Then he was telling us the master at arms comes along with a long
 cane and he draws out and he flogs the bloody backside off of the poor lad
 till he yells meila murder.
 
---That's your glorious British navy, says the citizen, that bosses the
+-- That's your glorious British navy, says the citizen, that bosses the
 earth.
 
 The fellows that never will be slaves, with the only hereditary chamber on
@@ -15988,9 +15988,9 @@ the face of God's earth and their land in the hands of a dozen gamehogs
 and cottonball barons. That's the great empire they boast about of drudges
 and whipped serfs.
 
---On which the sun never rises, says Joe.
+-- On which the sun never rises, says Joe.
 
---And the tragedy of it is, says the citizen, they believe it. The
+-- And the tragedy of it is, says the citizen, they believe it. The
 unfortunate yahoos believe it.
 
 They believe in rod, the scourger almighty, creator of hell upon earth,
@@ -16000,13 +16000,13 @@ flayed and curried, yelled like bloody hell, the third day he arose again
 from the bed, steered into haven, sitteth on his beamend till further
 orders whence he shall come to drudge for a living and be paid.
 
---But, says Bloom, isn't discipline the same everywhere. I mean wouldn't
+-- But, says Bloom, isn't discipline the same everywhere. I mean wouldn't
 it be the same here if you put force against force?
 
 Didn't I tell you? As true as I'm drinking this porter if he was at his
 last gasp he'd try to downface you that dying was living.
 
---We'll put force against force, says the citizen. We have our greater
+-- We'll put force against force, says the citizen. We have our greater
 Ireland beyond the sea. They were driven out of house and home in the
 black 47. Their mudcabins and their shielings by the roadside were laid
 low by the batteringram and the TIMES rubbed its hands and told the
@@ -16019,27 +16019,27 @@ coffinships. But those that came to the land of the free remember the
 land of bondage. And they will come again and with a vengeance, no
 cravens, the sons of Granuaile, the champions of Kathleen ni Houlihan.
 
---Perfectly true, says Bloom. But my point was ...
+-- Perfectly true, says Bloom. But my point was ...
 
---We are a long time waiting for that day, citizen, says Ned. Since the
+-- We are a long time waiting for that day, citizen, says Ned. Since the
 poor old woman told us that the French were on the sea and landed at
 Killala.
 
---Ay, says John Wyse. We fought for the royal Stuarts that reneged us
+-- Ay, says John Wyse. We fought for the royal Stuarts that reneged us
 against the Williamites and they betrayed us. Remember Limerick and the
 broken treatystone. We gave our best blood to France and Spain, the wild
 geese. Fontenoy, eh? And Sarsfield and O'Donnell, duke of Tetuan in
 Spain, and Ulysses Browne of Camus that was fieldmarshal to Maria Teresa.
 But what did we ever get for it?
 
---The French! says the citizen. Set of dancing masters! Do you know what
+-- The French! says the citizen. Set of dancing masters! Do you know what
 it is? They were never worth a roasted fart to Ireland. Aren't they
 trying to make an ENTENTE CORDIALE now at Tay Pay's dinnerparty with
 perfidious Albion? Firebrands of Europe and they always were.
 
---CONSPUEZ LES FRANCAIS, says Lenehan, nobbling his beer.
+-- CONSPUEZ LES FRANCAIS, says Lenehan, nobbling his beer.
 
---And as for the Prooshians and the Hanoverians, says Joe, haven't we had
+-- And as for the Prooshians and the Hanoverians, says Joe, haven't we had
 enough of those sausageeating bastards on the throne from George the
 elector down to the German lad and the flatulent old bitch that's dead?
 
@@ -16050,69 +16050,69 @@ up body and bones to roll into bed and she pulling him by the whiskers
 and singing him old bits of songs about EHREN ON THE RHINE and come where
 the boose is cheaper.
 
---Well, says J. J. We have Edward the peacemaker now.
+-- Well, says J. J. We have Edward the peacemaker now.
 
---Tell that to a fool, says the citizen. There's a bloody sight more pox
+-- Tell that to a fool, says the citizen. There's a bloody sight more pox
 than pax about that boyo. Edward Guelph-Wettin!
 
---And what do you think, says Joe, of the holy boys, the priests and
+-- And what do you think, says Joe, of the holy boys, the priests and
 bishops of Ireland doing up his room in Maynooth in His Satanic Majesty's
 racing colours and sticking up pictures of all the horses his jockeys
 rode. The earl of Dublin, no less.
 
---They ought to have stuck up all the women he rode himself, says little
+-- They ought to have stuck up all the women he rode himself, says little
 Alf.
 
 And says J. J.:
 
---Considerations of space influenced their lordships' decision.
+-- Considerations of space influenced their lordships' decision.
 
---Will you try another, citizen? says Joe.
+-- Will you try another, citizen? says Joe.
 
---Yes, sir, says he. I will.
+-- Yes, sir, says he. I will.
 
---You? says Joe.
+-- You? says Joe.
 
---Beholden to you, Joe, says I. May your shadow never grow less.
+-- Beholden to you, Joe, says I. May your shadow never grow less.
 
---Repeat that dose, says Joe.
+-- Repeat that dose, says Joe.
 
 Bloom was talking and talking with John Wyse and he quite excited with
 his dunducketymudcoloured mug on him and his old plumeyes rolling about.
 
---Persecution, says he, all the history of the world is full of it.
+-- Persecution, says he, all the history of the world is full of it.
 Perpetuating national hatred among nations.
 
---But do you know what a nation means? says John Wyse.
+-- But do you know what a nation means? says John Wyse.
 
---Yes, says Bloom.
+-- Yes, says Bloom.
 
---What is it? says John Wyse.
+-- What is it? says John Wyse.
 
---A nation? says Bloom. A nation is the same people living in the same
+-- A nation? says Bloom. A nation is the same people living in the same
 place.
 
---By God, then, says Ned, laughing, if that's so I'm a nation for I'm
+-- By God, then, says Ned, laughing, if that's so I'm a nation for I'm
 living in the same place for the past five years.
 
 So of course everyone had the laugh at Bloom and says he, trying to
 muck out of it:
 
---Or also living in different places.
+-- Or also living in different places.
 
---That covers my case, says Joe.
+-- That covers my case, says Joe.
 
---What is your nation if I may ask? says the citizen.
+-- What is your nation if I may ask? says the citizen.
 
---Ireland, says Bloom. I was born here. Ireland.
+-- Ireland, says Bloom. I was born here. Ireland.
 
 The citizen said nothing only cleared the spit out of his gullet and,
 gob, he spat a Red bank oyster out of him right in the corner.
 
---After you with the push, Joe, says he, taking out his handkerchief to
+-- After you with the push, Joe, says he, taking out his handkerchief to
 swab himself dry.
 
---Here you are, citizen, says Joe. Take that in your right hand and repeat
+-- Here you are, citizen, says Joe. Take that in your right hand and repeat
 after me the following words.
 
 The muchtreasured and intricately embroidered ancient Irish
@@ -16139,28 +16139,28 @@ Castleconnel rapids, Kilballymacshonakill, the cross at Monasterboice,
 Jury's Hotel, S. Patrick's Purgatory, the Salmon Leap, Maynooth college
 refectory, Curley's hole, the three birthplaces of the first duke of
 Wellington, the rock of Cashel, the bog of Allen, the Henry Street
-Warehouse, Fingal's Cave--all these moving scenes are still there for us
+Warehouse, Fingal's Cave-- all these moving scenes are still there for us
 today rendered more beautiful still by the waters of sorrow which have
 passed over them and by the rich incrustations of time.
 
---Show us over the drink, says I. Which is which?
+-- Show us over the drink, says I. Which is which?
 
---That's mine, says Joe, as the devil said to the dead policeman.
+-- That's mine, says Joe, as the devil said to the dead policeman.
 
---And I belong to a race too, says Bloom, that is hated and persecuted.
+-- And I belong to a race too, says Bloom, that is hated and persecuted.
 Also now. This very moment. This very instant.
 
 Gob, he near burnt his fingers with the butt of his old cigar.
 
---Robbed, says he. Plundered. Insulted. Persecuted. Taking what belongs
+-- Robbed, says he. Plundered. Insulted. Persecuted. Taking what belongs
 to us by right. At this very moment, says he, putting up his fist, sold by
 auction in Morocco like slaves or cattle.
 
---Are you talking about the new Jerusalem? says the citizen.
+-- Are you talking about the new Jerusalem? says the citizen.
 
---I'm talking about injustice, says Bloom.
+-- I'm talking about injustice, says Bloom.
 
---Right, says John Wyse. Stand up to it then with force like men.
+-- Right, says John Wyse. Stand up to it then with force like men.
 
 That's an almanac picture for you. Mark for a softnosed bullet. Old
 lardyface standing up to the business end of a gun. Gob, he'd adorn a
@@ -16168,23 +16168,23 @@ sweepingbrush, so he would, if he only had a nurse's apron on him. And
 then he collapses all of a sudden, twisting around all the opposite, as
 limp as a wet rag.
 
---But it's no use, says he. Force, hatred, history, all that. That's not
+-- But it's no use, says he. Force, hatred, history, all that. That's not
 life for men and women, insult and hatred. And everybody knows that it's
 the very opposite of that that is really life.
 
---What? says Alf.
+-- What? says Alf.
 
---Love, says Bloom. I mean the opposite of hatred. I must go now, says he
+-- Love, says Bloom. I mean the opposite of hatred. I must go now, says he
 to John Wyse. Just round to the court a moment to see if Martin is there.
 If he comes just say I'll be back in a second. Just a moment.
 
 Who's hindering you? And off he pops like greased lightning.
 
---A new apostle to the gentiles, says the citizen. Universal love.
+-- A new apostle to the gentiles, says the citizen. Universal love.
 
---Well, says John Wyse. Isn't that what we're told. Love your neighbour.
+-- Well, says John Wyse. Isn't that what we're told. Love your neighbour.
 
---That chap? says the citizen. Beggar my neighbour is his motto. Love,
+-- That chap? says the citizen. Beggar my neighbour is his motto. Love,
 moya! He's a nice pattern of a Romeo and Juliet.
 
 Love loves to love love. Nurse loves the new chemist. Constable 14A
@@ -16197,26 +16197,26 @@ Majesty the Queen. Mrs Norman W. Tupper loves officer Taylor. You love
 a certain person. And this person loves that other person because
 everybody loves somebody but God loves everybody.
 
---Well, Joe, says I, your very good health and song. More power, citizen.
+-- Well, Joe, says I, your very good health and song. More power, citizen.
 
---Hurrah, there, says Joe.
+-- Hurrah, there, says Joe.
 
---The blessing of God and Mary and Patrick on you, says the citizen.
+-- The blessing of God and Mary and Patrick on you, says the citizen.
 
 And he ups with his pint to wet his whistle.
 
---We know those canters, says he, preaching and picking your pocket.
+-- We know those canters, says he, preaching and picking your pocket.
 What about sanctimonious Cromwell and his ironsides that put the women
 and children of Drogheda to the sword with the bible text GOD IS LOVE
 pasted round the mouth of his cannon? The bible! Did you read that skit in
 the UNITED IRISHMAN today about that Zulu chief that's visiting England?
 
---What's that? says Joe.
+-- What's that? says Joe.
 
 So the citizen takes up one of his paraphernalia papers and he starts
 reading out:
 
---A delegation of the chief cotton magnates of Manchester was presented
+-- A delegation of the chief cotton magnates of Manchester was presented
 yesterday to His Majesty the Alaki of Abeakuta by Gold Stick in Waiting,
 Lord Walkup of Walkup on Eggs, to tender to His Majesty the heartfelt
 thanks of British traders for the facilities afforded them in his
@@ -16238,51 +16238,51 @@ executing a charming old Abeakutic wardance, in the course of which he
 swallowed several knives and forks, amid hilarious applause from the girl
 hands.
 
---Widow woman, says Ned. I wouldn't doubt her. Wonder did he put that
+-- Widow woman, says Ned. I wouldn't doubt her. Wonder did he put that
 bible to the same use as I would.
 
---Same only more so, says Lenehan. And thereafter in that fruitful land
+-- Same only more so, says Lenehan. And thereafter in that fruitful land
 the broadleaved mango flourished exceedingly.
 
---Is that by Griffith? says John Wyse.
+-- Is that by Griffith? says John Wyse.
 
---No, says the citizen. It's not signed Shanganagh. It's only
+-- No, says the citizen. It's not signed Shanganagh. It's only
 initialled: P.
 
---And a very good initial too, says Joe.
+-- And a very good initial too, says Joe.
 
---That's how it's worked, says the citizen. Trade follows the flag.
+-- That's how it's worked, says the citizen. Trade follows the flag.
 
---Well, says J. J., if they're any worse than those Belgians in the Congo
+-- Well, says J. J., if they're any worse than those Belgians in the Congo
 Free State they must be bad. Did you read that report by a man what's this
 his name is?
 
---Casement, says the citizen. He's an Irishman.
+-- Casement, says the citizen. He's an Irishman.
 
---Yes, that's the man, says J. J. Raping the women and girls and flogging
+-- Yes, that's the man, says J. J. Raping the women and girls and flogging
 the natives on the belly to squeeze all the red rubber they can out of
 them.
 
---I know where he's gone, says Lenehan, cracking his fingers.
+-- I know where he's gone, says Lenehan, cracking his fingers.
 
---Who? says I.
+-- Who? says I.
 
---Bloom, says he. The courthouse is a blind. He had a few bob on
+-- Bloom, says he. The courthouse is a blind. He had a few bob on
 THROWAWAY and he's gone to gather in the shekels.
 
---Is it that whiteeyed kaffir? says the citizen, that never backed a horse
+-- Is it that whiteeyed kaffir? says the citizen, that never backed a horse
 in anger in his life?
 
---That's where he's gone, says Lenehan. I met Bantam Lyons going to back
+-- That's where he's gone, says Lenehan. I met Bantam Lyons going to back
 that horse only I put him off it and he told me Bloom gave him the tip.
 Bet you what you like he has a hundred shillings to five on. He's the only
 man in Dublin has it. A dark horse.
 
---He's a bloody dark horse himself, says Joe.
+-- He's a bloody dark horse himself, says Joe.
 
---Mind, Joe, says I. Show us the entrance out.
+-- Mind, Joe, says I. Show us the entrance out.
 
---There you are, says Terry.
+-- There you are, says Terry.
 
 Goodbye Ireland I'm going to Gort. So I just went round the back of
 the yard to pumpship and begob (hundred shillings to five) while I was
@@ -16312,7 +16312,7 @@ amount of money advanced on note of hand. Distance no object. No security.
 Gob, he's like Lanty MacHale's goat that'd go a piece of the road with
 every one.
 
---Well, it's a fact, says John Wyse. And there's the man now that'll tell
+-- Well, it's a fact, says John Wyse. And there's the man now that'll tell
 you all about it, Martin Cunningham.
 
 Sure enough the castle car drove up with Martin on it and Jack Power
@@ -16324,106 +16324,106 @@ king's expense.
 Our travellers reached the rustic hostelry and alighted from their
 palfreys.
 
---Ho, varlet! cried he, who by his mien seemed the leader of the party.
+-- Ho, varlet! cried he, who by his mien seemed the leader of the party.
 Saucy knave! To us!
 
 So saying he knocked loudly with his swordhilt upon the open lattice.
 
 Mine host came forth at the summons, girding him with his tabard.
 
---Give you good den, my masters, said he with an obsequious bow.
+-- Give you good den, my masters, said he with an obsequious bow.
 
---Bestir thyself, sirrah! cried he who had knocked. Look to our steeds.
+-- Bestir thyself, sirrah! cried he who had knocked. Look to our steeds.
 And for ourselves give us of your best for ifaith we need it.
 
---Lackaday, good masters, said the host, my poor house has but a bare
+-- Lackaday, good masters, said the host, my poor house has but a bare
 larder. I know not what to offer your lordships.
 
---How now, fellow? cried the second of the party, a man of pleasant
+-- How now, fellow? cried the second of the party, a man of pleasant
 countenance, So servest thou the king's messengers, master Taptun?
 
 An instantaneous change overspread the landlord's visage.
 
---Cry you mercy, gentlemen, he said humbly. An you be the king's
+-- Cry you mercy, gentlemen, he said humbly. An you be the king's
 messengers (God shield His Majesty!) you shall not want for aught. The
 king's friends (God bless His Majesty!) shall not go afasting in my house
 I warrant me.
 
---Then about! cried the traveller who had not spoken, a lusty trencherman
+-- Then about! cried the traveller who had not spoken, a lusty trencherman
 by his aspect. Hast aught to give us?
 
 Mine host bowed again as he made answer:
 
---What say you, good masters, to a squab pigeon pasty, some collops of
+-- What say you, good masters, to a squab pigeon pasty, some collops of
 venison, a saddle of veal, widgeon with crisp hog's bacon, a boar's head
 with pistachios, a bason of jolly custard, a medlar tansy and a flagon of
 old Rhenish?
 
---Gadzooks! cried the last speaker. That likes me well. Pistachios!
+-- Gadzooks! cried the last speaker. That likes me well. Pistachios!
 
---Aha! cried he of the pleasant countenance. A poor house and a bare
+-- Aha! cried he of the pleasant countenance. A poor house and a bare
 larder, quotha! 'Tis a merry rogue.
 
 So in comes Martin asking where was Bloom.
 
---Where is he? says Lenehan. Defrauding widows and orphans.
+-- Where is he? says Lenehan. Defrauding widows and orphans.
 
---Isn't that a fact, says John Wyse, what I was telling the citizen about
+-- Isn't that a fact, says John Wyse, what I was telling the citizen about
 Bloom and the Sinn Fein?
 
---That's so, says Martin. Or so they allege.
+-- That's so, says Martin. Or so they allege.
 
---Who made those allegations? says Alf.
+-- Who made those allegations? says Alf.
 
---I, says Joe. I'm the alligator.
+-- I, says Joe. I'm the alligator.
 
---And after all, says John Wyse, why can't a jew love his country like the
+-- And after all, says John Wyse, why can't a jew love his country like the
 next fellow?
 
---Why not? says J. J., when he's quite sure which country it is.
+-- Why not? says J. J., when he's quite sure which country it is.
 
---Is he a jew or a gentile or a holy Roman or a swaddler or what the hell
+-- Is he a jew or a gentile or a holy Roman or a swaddler or what the hell
 is he? says Ned. Or who is he? No offence, Crofton.
 
---Who is Junius? says J. J.
+-- Who is Junius? says J. J.
 
---We don't want him, says Crofter the Orangeman or presbyterian.
+-- We don't want him, says Crofter the Orangeman or presbyterian.
 
---He's a perverted jew, says Martin, from a place in Hungary and it was he
+-- He's a perverted jew, says Martin, from a place in Hungary and it was he
 drew up all the plans according to the Hungarian system. We know that in
 the castle.
 
---Isn't he a cousin of Bloom the dentist? says Jack Power.
+-- Isn't he a cousin of Bloom the dentist? says Jack Power.
 
---Not at all, says Martin. Only namesakes. His name was Virag, the
+-- Not at all, says Martin. Only namesakes. His name was Virag, the
 father's name that poisoned himself. He changed it by deedpoll, the father
 did.
 
---That's the new Messiah for Ireland! says the citizen. Island of saints
+-- That's the new Messiah for Ireland! says the citizen. Island of saints
 and sages!
 
---Well, they're still waiting for their redeemer, says Martin. For that
+-- Well, they're still waiting for their redeemer, says Martin. For that
 matter so are we.
 
---Yes, says J. J., and every male that's born they think it may be their
+-- Yes, says J. J., and every male that's born they think it may be their
 Messiah. And every jew is in a tall state of excitement, I believe, till
 he knows if he's a father or a mother.
 
---Expecting every moment will be his next, says Lenehan.
+-- Expecting every moment will be his next, says Lenehan.
 
---O, by God, says Ned, you should have seen Bloom before that son of his
+-- O, by God, says Ned, you should have seen Bloom before that son of his
 that died was born. I met him one day in the south city markets buying a
 tin of Neave's food six weeks before the wife was delivered.
 
---EN VENTRE SA MERE, says J. J.
+-- EN VENTRE SA MERE, says J. J.
 
---Do you call that a man? says the citizen.
+-- Do you call that a man? says the citizen.
 
---I wonder did he ever put it out of sight, says Joe.
+-- I wonder did he ever put it out of sight, says Joe.
 
---Well, there were two children born anyhow, says Jack Power.
+-- Well, there were two children born anyhow, says Jack Power.
 
---And who does he suspect? says the citizen.
+-- And who does he suspect? says the citizen.
 
 Gob, there's many a true word spoken in jest. One of those mixed
 middlings he is. Lying up in the hotel Pisser was telling me once a month
@@ -16433,27 +16433,27 @@ throw him in the bloody sea. Justifiable homicide, so it would. Then
 sloping off with his five quid without putting up a pint of stuff like a
 man. Give us your blessing. Not as much as would blind your eye.
 
---Charity to the neighbour, says Martin. But where is he? We can't wait.
+-- Charity to the neighbour, says Martin. But where is he? We can't wait.
 
---A wolf in sheep's clothing, says the citizen. That's what he is. Virag
+-- A wolf in sheep's clothing, says the citizen. That's what he is. Virag
 from Hungary! Ahasuerus I call him. Cursed by God.
 
---Have you time for a brief libation, Martin? says Ned.
+-- Have you time for a brief libation, Martin? says Ned.
 
---Only one, says Martin. We must be quick. J. J. and S.
+-- Only one, says Martin. We must be quick. J. J. and S.
 
---You, Jack? Crofton? Three half ones, Terry.
+-- You, Jack? Crofton? Three half ones, Terry.
 
---Saint Patrick would want to land again at Ballykinlar and convert us,
+-- Saint Patrick would want to land again at Ballykinlar and convert us,
 says the citizen, after allowing things like that to contaminate our
 shores.
 
---Well, says Martin, rapping for his glass. God bless all here is my
+-- Well, says Martin, rapping for his glass. God bless all here is my
 prayer.
 
---Amen, says the citizen.
+-- Amen, says the citizen.
 
---And I'm sure He will, says Joe.
+-- And I'm sure He will, says Joe.
 
 And at the sound of the sacring bell, headed by a crucifer with acolytes,
 thurifers, boatbearers, readers, ostiarii, deacons and subdeacons,
@@ -16522,62 +16522,62 @@ and Jacob and make the angels of His light to inhabit therein. And
 entering he blessed the viands and the beverages and the company of all
 the blessed answered his prayers.
 
---ADIUTORIUM NOSTRUM IN NOMINE DOMINI.
+-- ADIUTORIUM NOSTRUM IN NOMINE DOMINI.
 
---QUI FECIT COELUM ET TERRAM.
+-- QUI FECIT COELUM ET TERRAM.
 
---DOMINUS VOBISCUM.
+-- DOMINUS VOBISCUM.
 
---ET CUM SPIRITU TUO.
+-- ET CUM SPIRITU TUO.
 
 And he laid his hands upon that he blessed and gave thanks and he
 prayed and they all with him prayed:
 
---DEUS, CUIUS VERBO SANCTIFICANTUR OMNIA, BENEDICTIONEM TUAM EFFUNDE SUPER
+-- DEUS, CUIUS VERBO SANCTIFICANTUR OMNIA, BENEDICTIONEM TUAM EFFUNDE SUPER
 CREATURAS ISTAS: ET PRAESTA UT QUISQUIS EIS SECUNDUM LEGEM ET VOLUNTATEM
 TUAM CUM GRATIARUM ACTIONE USUS FUERIT PER INVOCATIONEM SANCTISSIMI
 NOMINIS TUI CORPORIS SANITATEM ET ANIMAE TUTELAM TE AUCTORE PERCIPIAT PER
 CHRISTUM DOMINUM NOSTRUM.
 
---And so say all of us, says Jack.
+-- And so say all of us, says Jack.
 
---Thousand a year, Lambert, says Crofton or Crawford.
+-- Thousand a year, Lambert, says Crofton or Crawford.
 
---Right, says Ned, taking up his John Jameson. And butter for fish.
+-- Right, says Ned, taking up his John Jameson. And butter for fish.
 
 
 I was just looking around to see who the happy thought would strike
 when be damned but in he comes again letting on to be in a hell of a
 hurry.
 
---I was just round at the courthouse, says he, looking for you. I hope I'm
+-- I was just round at the courthouse, says he, looking for you. I hope I'm
 not ...
 
---No, says Martin, we're ready.
+-- No, says Martin, we're ready.
 
 Courthouse my eye and your pockets hanging down with gold and silver.
 Mean bloody scut. Stand us a drink itself. Devil a sweet fear! There's
 a jew for you! All for number one. Cute as a shithouse rat. Hundred to
 five.
 
---Don't tell anyone, says the citizen,
+-- Don't tell anyone, says the citizen,
 
---Beg your pardon, says he.
+-- Beg your pardon, says he.
 
---Come on boys, says Martin, seeing it was looking blue. Come along now.
+-- Come on boys, says Martin, seeing it was looking blue. Come along now.
 
---Don't tell anyone, says the citizen, letting a bawl out of him. It's a
+-- Don't tell anyone, says the citizen, letting a bawl out of him. It's a
 secret.
 
 And the bloody dog woke up and let a growl.
 
---Bye bye all, says Martin.
+-- Bye bye all, says Martin.
 
 And he got them out as quick as he could, Jack Power and Crofton or
 whatever you call him and him in the middle of them letting on to be all
 at sea and up with them on the bloody jaunting car.
 
----Off with you, says
+-- -Off with you, says
 
 Martin to the jarvey.
 
@@ -16599,12 +16599,12 @@ dropsy, and he cursing the curse of Cromwell on him, bell, book and candle
 in Irish, spitting and spatting out of him and Joe and little Alf round
 him like a leprechaun trying to peacify him.
 
---Let me alone, says he.
+-- Let me alone, says he.
 
 And begob he got as far as the door and they holding him and he
 bawls out of him:
 
---Three cheers for Israel!
+-- Three cheers for Israel!
 
 Arrah, sit down on the parliamentary side of your arse for Christ'
 sake and don't be making a public exhibition of yourself. Jesus, there's
@@ -16619,28 +16619,28 @@ on the car and hold his bloody jaw and a loafer with a patch over his eye
 starts singing IF THE MAN IN THE MOON WAS A JEW, JEW, JEW and a slut
 shouts out of her:
 
---Eh, mister! Your fly is open, mister!
+-- Eh, mister! Your fly is open, mister!
 
 And says he:
 
---Mendelssohn was a jew and Karl Marx and Mercadante and Spinoza.
+-- Mendelssohn was a jew and Karl Marx and Mercadante and Spinoza.
 And the Saviour was a jew and his father was a jew. Your God.
 
---He had no father, says Martin. That'll do now. Drive ahead.
+-- He had no father, says Martin. That'll do now. Drive ahead.
 
---Whose God? says the citizen.
+-- Whose God? says the citizen.
 
---Well, his uncle was a jew, says he. Your God was a jew. Christ was a jew
+-- Well, his uncle was a jew, says he. Your God was a jew. Christ was a jew
 like me.
 
 Gob, the citizen made a plunge back into the shop.
 
---By Jesus, says he, I'll brain that bloody jewman for using the holy
+-- By Jesus, says he, I'll brain that bloody jewman for using the holy
 name.
 
 By Jesus, I'll crucify him so I will. Give us that biscuitbox here.
 
---Stop! Stop! says Joe.
+-- Stop! Stop! says Joe.
 
 A large and appreciative gathering of friends and acquaintances from
 the metropolis and greater Dublin assembled in their thousands to bid
@@ -16677,16 +16677,16 @@ anyhow and out with him and little Alf hanging on to his elbow and he
 shouting like a stuck pig, as good as any bloody play in the Queen's royal
 theatre:
 
---Where is he till I murder him?
+-- Where is he till I murder him?
 
 And Ned and J. J. paralysed with the laughing.
 
---Bloody wars, says I, I'll be in for the last gospel.
+-- Bloody wars, says I, I'll be in for the last gospel.
 
 But as luck would have it the jarvey got the nag's head round the
 other way and off with him.
 
---Hold on, citizen, says Joe. Stop!
+-- Hold on, citizen, says Joe. Stop!
 
 Begob he drew his hand and made a swipe and let fly. Mercy of God the sun
 was in his eyes or he'd have left him for dead. Gob, he near sent it
@@ -16743,11 +16743,11 @@ and battery and Joe for aiding and abetting. The jarvey saved his life
 by furious driving as sure as God made Moses. What? O, Jesus, he did.
 And he let a volley of oaths after him.
 
---Did I kill him, says he, or what?
+-- Did I kill him, says he, or what?
 
 And he shouting to the bloody dog:
 
---After him, Garry! After him, boy!
+-- After him, Garry! After him, boy!
 
 And the last we saw was the bloody car rounding the corner and old
 sheepsface on it gesticulating and the bloody mongrel after it with his
@@ -16765,7 +16765,7 @@ to the glory of the brightness at an angle of fortyfive degrees over
 Donohoe's in Little Green street like a shot off a shovel.
 
 
--------- Nausicaa ---------
+--------  Nausicaa ---------
 
 
 The summer evening had begun to fold the world in its mysterious
@@ -16795,12 +16795,12 @@ days old and, though still a tiny toddler, was just beginning to lisp his
 first babyish words. Cissy Caffrey bent over to him to tease his fat
 little plucks and the dainty dimple in his chin.
 
---Now, baby, Cissy Caffrey said. Say out big, big. I want a drink of
+-- Now, baby, Cissy Caffrey said. Say out big, big. I want a drink of
 water.
 
 And baby prattled after her:
 
---A jink a jink a jawbo.
+-- A jink a jink a jawbo.
 
 Cissy Caffrey cuddled the wee chap for she was awfully fond of children,
 so patient with little sufferers and Tommy Caffrey could never be got to
@@ -16826,7 +16826,7 @@ wouldbe assailant came to grief and (alas to relate!) the coveted castle
 too. Needless to say the cries of discomfited Master Tommy drew the
 attention of the girl friends.
 
---Come here, Tommy, his sister called imperatively. At once! And you,
+-- Come here, Tommy, his sister called imperatively. At once! And you,
 Jacky, for shame to throw poor Tommy in the dirty sand. Wait till I catch
 you for that.
 
@@ -16840,26 +16840,26 @@ with hot tears that would well up so she kissed away the hurtness and
 shook her hand at Master Jacky the culprit and said if she was near
 him she wouldn't be far from him, her eyes dancing in admonition.
 
---Nasty bold Jacky! she cried.
+-- Nasty bold Jacky! she cried.
 
 She put an arm round the little mariner and coaxed winningly:
 
---What's your name? Butter and cream?
+-- What's your name? Butter and cream?
 
---Tell us who is your sweetheart, spoke Edy Boardman. Is Cissy your
+-- Tell us who is your sweetheart, spoke Edy Boardman. Is Cissy your
 sweetheart?
 
---Nao, tearful Tommy said.
+-- Nao, tearful Tommy said.
 
---Is Edy Boardman your sweetheart? Cissy queried.
+-- Is Edy Boardman your sweetheart? Cissy queried.
 
---Nao, Tommy said.
+-- Nao, Tommy said.
 
---I know, Edy Boardman said none too amiably with an arch glance from
+-- I know, Edy Boardman said none too amiably with an arch glance from
 her shortsighted eyes. I know who is Tommy's sweetheart. Gerty is
 Tommy's sweetheart.
 
---Nao, Tommy said on the verge of tears.
+-- Nao, Tommy said on the verge of tears.
 
 Cissy's quick motherwit guessed what was amiss and she whispered
 to Edy Boardman to take him there behind the pushcar where the
@@ -17051,13 +17051,13 @@ please. The temper of him! O, he was a man already was little Tommy
 Caffrey since he was out of pinnies. Edy told him no, no and to be off now
 with him and she told Cissy Caffrey not to give in to him.
 
---You're not my sister, naughty Tommy said. It's my ball.
+-- You're not my sister, naughty Tommy said. It's my ball.
 
 But Cissy Caffrey told baby Boardman to look up, look up high at her
 finger and she snatched the ball quickly and threw it along the sand and
 Tommy after it in full career, having won the day.
 
---Anything for a quiet life, laughed Ciss.
+-- Anything for a quiet life, laughed Ciss.
 
 And she tickled tiny tot's two cheeks to make him forget and played here's
 the lord mayor, here's his two horses, here's his gingerbread carriage
@@ -17065,16 +17065,16 @@ and here he walks in, chinchopper, chinchopper, chinchopper chin. But Edy
 got as cross as two sticks about him getting his own way like that from
 everyone always petting him.
 
---I'd like to give him something, she said, so I would, where I won't say.
+-- I'd like to give him something, she said, so I would, where I won't say.
 
---On the beeoteetom, laughed Cissy merrily.
+-- On the beeoteetom, laughed Cissy merrily.
 
 Gerty MacDowell bent down her head and crimsoned at the idea of Cissy
 saying an unladylike thing like that out loud she'd be ashamed of her
 life to say, flushing a deep rosy red, and Edy Boardman said she was sure
 the gentleman opposite heard what she said. But not a pin cared Ciss.
 
---Let him! she said with a pert toss of her head and a piquant tilt of her
+-- Let him! she said with a pert toss of her head and a piquant tilt of her
 nose. Give it to him too on the same place as quick as I'd look at him.
 
 Madcap Ciss with her golliwog curls. You had to laugh at her
@@ -17173,7 +17173,7 @@ Gerty drew back her foot but she wished their stupid ball hadn't come
 rolling down to her and she gave a kick but she missed and Edy and Cissy
 laughed.
 
---If you fail try again, Edy Boardman said.
+-- If you fail try again, Edy Boardman said.
 
 Gerty smiled assent and bit her lip. A delicate pink crept into her
 pretty cheek but she was determined to let them see so she just lifted her
@@ -17205,14 +17205,14 @@ she cried behind the hood of the pushcar and Edy asked where was Cissy
 gone and then Cissy popped up her head and cried ah! and, my word,
 didn't the little chap enjoy that! And then she told him to say papa.
 
---Say papa, baby. Say pa pa pa pa pa pa pa.
+-- Say papa, baby. Say pa pa pa pa pa pa pa.
 
 And baby did his level best to say it for he was very intelligent for
 eleven months everyone said and big for his age and the picture of health,
 a perfect little bunch of love, and he would certainly turn out to be
 something great, they said.
 
---Haja ja ja haja.
+-- Haja ja ja haja.
 
 Cissy wiped his little mouth with the dribbling bib and wanted him to sit
 up properly and say pa pa pa but when she undid the strap she cried out,
@@ -17220,7 +17220,7 @@ holy saint Denis, that he was possing wet and to double the half blanket
 the other way under him. Of course his infant majesty was most
 obstreperous at such toilet formalities and he let everyone know it:
 
---Habaa baaaahabaaa baaaa.
+-- Habaa baaaahabaaa baaaa.
 
 And two great big lovely big tears coursing down his cheeks. It was all no
 use soothering him with no, nono, baby, no and telling him about the
@@ -17300,7 +17300,7 @@ a good hiding for themselves to keep them in their places, the both of
 them. And Cissy and Edy shouted after them to come back because they
 were afraid the tide might come in on them and be drowned.
 
---Jacky! Tommy!
+-- Jacky! Tommy!
 
 Not they! What a great notion they had! So Cissy said it was the very
 last time she'd ever bring them out. She jumped up and called them and she
@@ -17343,7 +17343,7 @@ tugging the two kids along with the flimsy blouse she bought only a
 fortnight before like a rag on her back and a bit of her petticoat hanging
 like a caricature. Gerty just took off her hat for a moment to settle her
 hair and a prettier, a daintier head of nutbrown tresses was never seen on
-a girl's shoulders--a radiant little vision, in sooth, almost maddening in
+a girl's shoulders-- a radiant little vision, in sooth, almost maddening in
 its sweetness. You would have to travel many a long mile before you found
 a head of hair the like of that. She could almost see the swift answering
 flash of admiration in his eyes that set her tingling in every nerve.
@@ -17360,9 +17360,9 @@ baby. Irritable little gnat she was and always would be and that was why
 no-one could get on with her poking her nose into what was no concern of
 hers. And she said to Gerty:
 
---A penny for your thoughts.
+-- A penny for your thoughts.
 
---What? replied Gerty with a smile reinforced by the whitest of teeth.
+-- What? replied Gerty with a smile reinforced by the whitest of teeth.
 I was only wondering was it late.
 
 Because she wished to goodness they'd take the snottynosed twins and their
@@ -17372,7 +17372,7 @@ time and Miss Cissy, as glib as you like, said it was half past kissing
 time, time to kiss again. But Edy wanted to know because they were told to
 be in early.
 
---Wait, said Cissy, I'll run ask my uncle Peter over there what's the time
+-- Wait, said Cissy, I'll run ask my uncle Peter over there what's the time
 by his conundrum.
 
 So over she went and when he saw her coming she could see him take his
@@ -17420,7 +17420,7 @@ talking about the time all the time and asking her but Gerty could pay
 them back in their own coin and she just answered with scathing politeness
 when Edy asked her was she heartbroken about her best boy throwing her
 over. Gerty winced sharply. A brief cold blaze shone from her eyes that
-spoke volumes of scorn immeasurable. It hurt--O yes, it cut deep because
+spoke volumes of scorn immeasurable. It hurt-- O yes, it cut deep because
 Edy had her own quiet way of saying things like that she knew would wound
 like the confounded little cat she was. Gerty's lips parted swiftly to
 frame the word but she fought back the sob that rose to her throat,
@@ -17432,7 +17432,7 @@ in the blue eyes a quick stinging of tears. Their eyes were
 probing her mercilessly but with a brave effort she sparkled back in
 sympathy as she glanced at her new conquest for them to see.
 
---O, responded Gerty, quick as lightning, laughing, and the proud head
+-- O, responded Gerty, quick as lightning, laughing, and the proud head
 flashed up. I can throw my cap at who I like because it's leap year.
 
 Her words rang out crystalclear, more musical than the cooing of the
@@ -17461,7 +17461,7 @@ eyes, and Cissy poked him like that out of fun in his wee fat tummy and
 baby, without as much as by your leave, sent up his compliments to all
 and sundry on to his brandnew dribbling bib.
 
---O my! Puddeny pie! protested Ciss. He has his bib destroyed.
+-- O my! Puddeny pie! protested Ciss. He has his bib destroyed.
 
 The slight CONTRETEMPS claimed her attention but in two twos she set
 that little matter to rights.
@@ -17512,7 +17512,7 @@ the whole world would she be to him and gild his days with happiness.
 There was the allimportant question and she was dying to know was he a
 married man or a widower who had lost his wife or some tragedy like the
 nobleman with the foreign name from the land of song had to have her put
-into a madhouse, cruel only to be kind. But even if--what then? Would it
+into a madhouse, cruel only to be kind. But even if-- what then? Would it
 make a very great difference? From everything in the least indelicate her
 finebred nature instinctively recoiled. She loathed that sort of person,
 the fallen women off the accommodation walk beside the Dodder that went
@@ -17535,18 +17535,18 @@ then he locked the tabernacle door because the benediction was over and
 Father Conroy handed him his hat to put on and crosscat Edy asked wasn't
 she coming but Jacky Caffrey called out:
 
---O, look, Cissy!
+-- O, look, Cissy!
 
 And they all looked was it sheet lightning but Tommy saw it too over
 the trees beside the church, blue and then green and purple.
 
---It's fireworks, Cissy Caffrey said.
+-- It's fireworks, Cissy Caffrey said.
 
 And they all ran down the strand to see over the houses and the
 church, helterskelter, Edy with the pushcar with baby Boardman in it and
 Cissy holding Tommy and Jacky by the hand so they wouldn't fall running.
 
---Come on, Gerty, Cissy called. It's the bazaar fireworks.
+-- Come on, Gerty, Cissy called. It's the bazaar fireworks.
 
 But Gerty was adamant. She had no intention of being at their beck and
 call. If they could run like rossies she could sit so she said she could
@@ -17625,7 +17625,7 @@ to and fro and little bats don't tell.
 Cissy Caffrey whistled, imitating the boys in the football field to show
 what a great person she was: and then she cried:
 
---Gerty! Gerty! We're going. Come on. We can see from farther up.
+-- Gerty! Gerty! We're going. Come on. We can see from farther up.
 
 Gerty had an idea, one of love's little ruses. She slipped a hand into
 her kerchief pocket and took out the wadding and waved in reply of course
@@ -17642,7 +17642,7 @@ Slowly, without looking back she went down the uneven strand to
 Cissy, to Edy to Jacky and Tommy Caffrey, to little baby Boardman. It was
 darker now and there were stones and bits of wood on the strand and slippy
 seaweed. She walked with a certain quiet dignity characteristic of her but
-with care and very slowly because--because Gerty MacDowell was ...
+with care and very slowly because-- because Gerty MacDowell was ...
 
 Tight boots? No. She's lame! O!
 
@@ -18248,7 +18248,7 @@ the rocks looking was
     CUCKOO.
 
 
--------- Oxen of the Sun ---------
+--------  Oxen of the Sun ---------
 
 
 Deshil Holles Eamus. Deshil Holles Eamus. Deshil Holles Eamus.
@@ -18947,7 +18947,7 @@ occasion, says Mr Vincent, of the composing by a boatswain of that
 rollicking chanty:
 
 
-  --POPE PETER'S BUT A PISSABED.
+  -- POPE PETER'S BUT A PISSABED.
     A MAN'S A MAN FOR A' THAT.
 
 
@@ -19292,7 +19292,7 @@ womb consequent upon the menopause, the problem of the perpetration of
 the species in the case of females impregnated by delinquent rape, that
 distressing manner of delivery called by the Brandenburghers STURZGEBURT,
 the recorded instances of multiseminal, twikindled and monstrous births
-conceived during the catamenic period or of consanguineous parents--in a
+conceived during the catamenic period or of consanguineous parents-- in a
 word all the cases of human nativity which Aristotle has classified in
 his masterpiece with chromolithographic illustrations. The gravest
 problems of obstetrics and forensic medicine were examined with as much
@@ -19394,11 +19394,11 @@ Bridie Kelly! He will never forget the name, ever remember the night:
 first night, the bridenight. They are entwined in nethermost darkness,
 the willer with the willed, and in an instant (FIAT!) light shall flood
 the world. Did heart leap to heart? Nay, fair reader. In a breath 'twas
-done but--hold! Back! It must not be! In terror the poor girl flees away
+done but-- hold! Back! It must not be! In terror the poor girl flees away
 through the murk. She is the bride of darkness, a daughter of night. She
 dare not bear the sunnygolden babe of day. No, Leopold. Name and memory
 solace thee not. That youthful illusion of thy strength was taken from
-thee--and in vain. No son of thy loins is by thee. There is none now to
+thee-- and in vain. No son of thy loins is by thee. There is none now to
 be for Leopold, what Leopold was for Rudolph.
 
 The voices blend and fuse in clouded silence: silence that is the
@@ -19563,7 +19563,7 @@ accepted scientific methods. Science, it cannot be too often repeated,
 deals with tangible phenomena. The man of science like the man in the
 street has to face hardheaded facts that cannot be blinked and explain
 them as best he can. There may be, it is true, some questions which
-science cannot answer--at present--such as the first problem submitted by
+science cannot answer-- at present-- such as the first problem submitted by
 Mr L. Bloom (Pubb. Canv.) regarding the future determination of sex. Must
 we accept the view of Empedocles of Trinacria that the right ovary (the
 postmenstrual period, assert others) is responsible for the birth of
@@ -19583,7 +19583,7 @@ in dust. These factors, he alleged, and the revolting spectacles offered
 by our streets, hideous publicity posters, religious ministers of all
 denominations, mutilated soldiers and sailors, exposed scorbutic
 cardrivers, the suspended carcases of dead animals, paranoic bachelors
-and unfructified duennas--these, he said, were accountable for any and
+and unfructified duennas-- these, he said, were accountable for any and
 every fallingoff in the calibre of the race. Kalipedia, he prophesied,
 would soon be generally adopted and all the graces of life, genuinely
 good music, agreeable literature, light philosophy, instructive pictures,
@@ -19642,7 +19642,7 @@ Maternity Hospital, 29, 30 and 31 Holles street, of which, as is well
 known, Dr A. Horne (Lic. in Midw., F. K. Q. C. P. I.) is the able and
 popular master, he is reported by eyewitnesses as having stated that once
 a woman has let the cat into the bag (an esthete's allusion, presumably,
-to one of the most complicated and marvellous of all nature's processes--
+to one of the most complicated and marvellous of all nature's processes-- 
 the act of sexual congress) she must let it out again or give it life, as
 he phrased it, to save her own. At the risk of her own, was the telling
 rejoinder of his interlocutor, none the less effective for the moderate
@@ -19777,7 +19777,7 @@ bedsores, ringworm, floating kidney, Derbyshire neck, warts, bilious
 attacks, gallstones, cold feet, varicose veins. A truce to threnes and
 trentals and jeremies and all such congenital defunctive music! Twenty
 years of it, regret them not. With thee it was not as with many that will
-and would and wait and never--do. Thou sawest thy America, thy lifetask,
+and would and wait and never-- do. Thou sawest thy America, thy lifetask,
 and didst charge to cover like the transpontine bison. How saith
 Zarathustra? DEINE KUH TRUBSAL MELKEST DU. NUN TRINKST DU DIE SUSSE MILCH
 DES EUTERS. See! it displodes for thee in abundance. Drink, man, an
@@ -19951,7 +19951,7 @@ Almighty God. Pflaaaap! Not half. He's got a coughmixture with a punch in
 it for you, my friend, in his back pocket. Just you try it on.
 
 
--------- Circe ---------
+--------  Circe ---------
 
 
 THE MABBOT STREET ENTRANCE OF NIGHTTOWN, BEFORE WHICH STRETCHES AN
@@ -20996,7 +20996,7 @@ knowing. Intimacy did not occur and the offence complained of by
 Driscoll, that her virtue was solicited, was not repeated. I would deal
 in especial with atavism. There have been cases of shipwreck and
 somnambulism in my client's family. If the accused could speak he could a
-tale unfold--one of the strangest that have ever been narrated between
+tale unfold-- one of the strangest that have ever been narrated between
 the covers of a book. He himself, my lord, is a physical wreck from
 cobbler's weak chest. His submission is that he is of Mongolian
 extraction and irresponsible for his actions. Not all there, in fact.
@@ -24735,7 +24735,7 @@ VOICES: No, he didn't. I seen him. The girl there. He was in Mrs Cohen's.
 What's up? Soldier and civilian.
 
 CISSY CAFFREY: I was in company with the soldiers and they left me to
-do--you know, and the young man run up behind me. But I'm faithful to the
+do-- you know, and the young man run up behind me. But I'm faithful to the
 man that's treating me though I'm only a shilling whore.
 
 STEPHEN: (CATCHES SIGHT OF LYNCH'S AND KITTY'S HEADS) Hail, Sisyphus. (HE
@@ -25392,7 +25392,7 @@ RUBY BUTTONS. IN HIS FREE LEFT HAND HE HOLDS A SLIM IVORY CANE WITH A
 VIOLET BOWKNOT. A WHITE LAMBKIN PEEPS OUT OF HIS WAISTCOAT POCKET.)
 
 
--------- Eumeus ---------
+--------  Eumeus ---------
 
 Preparatory to anything else Mr Bloom brushed off the greater bulk of the
 shavings and handed Stephen the hat and ashplant and bucked him up
@@ -25497,7 +25497,7 @@ Most of all he commented adversely on the desertion of Stephen by all his
 pubhunting CONFRERES but one, a most glaring piece of ratting on the part
 of his brother medicos under all the circs.
 
---And that one was Judas, Stephen said, who up to then had said nothing
+-- And that one was Judas, Stephen said, who up to then had said nothing
 whatsoever of any kind.
 
 Discussing these and kindred topics they made a beeline across the back
@@ -25512,12 +25512,12 @@ happened before but it cost him no small effort before he remembered that
 he recognised in the sentry a quondam friend of his father's, Gumley. To
 avoid a meeting he drew nearer to the pillars of the railway bridge.
 
---Someone saluted you, Mr Bloom said.
+-- Someone saluted you, Mr Bloom said.
 
 A figure of middle height on the prowl evidently under the arches saluted
 again, calling:
 
---NIGHT!
+-- NIGHT!
 
 Stephen of course started rather dizzily and stopped to return the
 compliment. Mr Bloom actuated by motives of inherent delicacy inasmuch as
@@ -25560,18 +25560,18 @@ the mother in some way, both occurrences happening at the same time if
 the whole thing wasn't a complete fabrication from start to finish.
 Anyhow he was all in.
 
---I wouldn't ask you only, pursued he, on my solemn oath and God knows
+-- I wouldn't ask you only, pursued he, on my solemn oath and God knows
 I'm on the rocks.
 
---There'll be a job tomorrow or next day, Stephen told him, in a boys'
+-- There'll be a job tomorrow or next day, Stephen told him, in a boys'
 school at Dalkey for a gentleman usher. Mr Garrett Deasy. Try it. You may
 mention my name.
 
---Ah, God, Corley replied, sure I couldn't teach in a school, man. I was
+-- Ah, God, Corley replied, sure I couldn't teach in a school, man. I was
 never one of your bright ones, he added with a half laugh. I got stuck
 twice in the junior at the christian brothers.
 
---I have no place to sleep myself, Stephen informed him.
+-- I have no place to sleep myself, Stephen informed him.
 
 Corley at the first go-off was inclined to suspect it was something to do
 with Stephen being fired out of his digs for bringing in a bloody tart
@@ -25605,12 +25605,12 @@ remembered. Who now exactly gave them he wondered or where was or did he
 buy. However in another pocket he came across what he surmised in the
 dark were pennies, erroneously however, as it turned out.
 
---Those are halfcrowns, man, Corley corrected him.
+-- Those are halfcrowns, man, Corley corrected him.
 
 And so in point of fact they turned out to be. Stephen anyhow lent him
 one of them.
 
---Thanks, Corley answered, you're a gentleman. I'll pay you back one
+-- Thanks, Corley answered, you're a gentleman. I'll pay you back one
 time. Who's that with you? I saw him a few times in the Bleeding Horse in
 Camden street with Boylan, the billsticker. You might put in a good word
 for us to get me taken on there. I'd carry a sandwichboard only the girl
@@ -25651,7 +25651,7 @@ practised eye, was not without perceiving that he had succumbed to the
 blandiloquence of the other parasite. Alluding to the encounter he said,
 laughingly, Stephen, that is:
 
---He is down on his luck. He asked me to ask you to ask somebody named
+-- He is down on his luck. He asked me to ask you to ask somebody named
 Boylan, a billsticker, to give him a job as a sandwichman.
 
 At this intelligence, in which he seemingly evinced little interest, Mr
@@ -25660,14 +25660,14 @@ direction of a bucketdredger, rejoicing in the farfamed name of Eblana,
 moored alongside Customhouse quay and quite possibly out of repair,
 whereupon he observed evasively:
 
---Everybody gets their own ration of luck, they say. Now you mention it
+-- Everybody gets their own ration of luck, they say. Now you mention it
 his face was familiar to me. But, leaving that for the moment, how much
 did you part with, he queried, if I am not too inquisitive?
 
---Half a crown, Stephen responded. I daresay he needs it to sleep
+-- Half a crown, Stephen responded. I daresay he needs it to sleep
 somewhere.
 
---Needs! Mr Bloom ejaculated, professing not the least surprise at the
+-- Needs! Mr Bloom ejaculated, professing not the least surprise at the
 intelligence, I can quite credit the assertion and I guarantee he
 invariably does. Everyone according to his needs or everyone according to
 his deeds. But, talking about things in general, where, added he with a
@@ -25677,17 +25677,17 @@ at Westland Row station. Simply fag out there for nothing. I don't mean
 to presume to dictate to you in the slightest degree but why did you
 leave your father's house?
 
---To seek misfortune, was Stephen's answer.
+-- To seek misfortune, was Stephen's answer.
 
---I met your respected father on a recent occasion, Mr Bloom
+-- I met your respected father on a recent occasion, Mr Bloom
 diplomatically returned, today in fact, or to be strictly accurate, on
 yesterday. Where does he live at present? I gathered in the course of
 conversation that he had moved.
 
---I believe he is in Dublin somewhere, Stephen answered unconcernedly.
+-- I believe he is in Dublin somewhere, Stephen answered unconcernedly.
 Why?
 
---A gifted man, Mr Bloom said of Mr Dedalus senior, in more respects than
+-- A gifted man, Mr Bloom said of Mr Dedalus senior, in more respects than
 one and a born RACONTEUR if ever there was one. He takes great pride,
 quite legitimate, out of you. You could go back perhaps, he hasarded,
 still thinking of the very unpleasant scene at Westland Row terminus when
@@ -25709,7 +25709,7 @@ accordance with the third precept of the church to fast and abstain on
 the days commanded, it being quarter tense or if not, ember days or
 something like that.
 
---No, Mr Bloom repeated again, I wouldn't personally repose much trust in
+-- No, Mr Bloom repeated again, I wouldn't personally repose much trust in
 that boon companion of yours who contributes the humorous element, Dr
 Mulligan, as a guide, philosopher and friend if I were in your shoes. He
 knows which side his bread is buttered on though in all probability he
@@ -25730,7 +25730,7 @@ which he could not too highly praise, so that frankly he was utterly at a
 loss to fathom what earthly reason could be at the back of it except he
 put it down to sheer cussedness or jealousy, pure and simple.
 
---Except it simply amounts to one thing and he is what they call picking
+-- Except it simply amounts to one thing and he is what they call picking
 your brains, he ventured to throw o.ut.
 
 The guarded glance of half solicitude half curiosity augmented by
@@ -25748,17 +25748,17 @@ which a group of presumably Italians in heated altercation were getting
 rid of voluble expressions in their vivacious language in a particularly
 animated way, there being some little differences between the parties.
 
---PUTTANA MADONNA, CHE CI DIA I QUATTRINI! HO RAGIONE? CULO ROTTO!
+-- PUTTANA MADONNA, CHE CI DIA I QUATTRINI! HO RAGIONE? CULO ROTTO!
 
---INTENDIAMOCI. MEZZO SOVRANO PIU ...
+-- INTENDIAMOCI. MEZZO SOVRANO PIU ...
 
---DICE LUI, PERO!
+-- DICE LUI, PERO!
 
---MEZZO.
+-- MEZZO.
 
---FARABUTTO! MORTACCI SUI!
+-- FARABUTTO! MORTACCI SUI!
 
---MA ASCOLTA! CINQUE LA TESTA PIU ...
+-- MA ASCOLTA! CINQUE LA TESTA PIU ...
 
 Mr Bloom and Stephen entered the cabman's shelter, an unpretentious
 wooden structure, where, prior to then, he had rarely if ever been
@@ -25772,7 +25772,7 @@ of waifs and strays and other nondescript specimens of the genus HOMO
 already there engaged in eating and drinking diversified by conversation
 for whom they seemingly formed an object of marked curiosity.
 
---Now touching a cup of coffee, Mr Bloom ventured to plausibly suggest to
+-- Now touching a cup of coffee, Mr Bloom ventured to plausibly suggest to
 break the ice, it occurs to me you ought to sample something in the shape
 of solid food, say, a roll of some description.
 
@@ -25788,16 +25788,16 @@ sure, rather in a quandary over VOGLIO, remarked to his PROTEGE in an
 audible tone of voice A PROPOS of the battle royal in the street which
 was still raging fast and furious:
 
---A beautiful language. I mean for singing purposes. Why do you not write
+-- A beautiful language. I mean for singing purposes. Why do you not write
 your poetry in that language? BELLA POETRIA! It is so melodious and full.
 BELLADONNA. VOGLIO.
 
 Stephen, who was trying his dead best to yawn if he could, suffering from
 lassitude generally, replied:
 
---To fill the ear of a cow elephant. They were haggling over money.
+-- To fill the ear of a cow elephant. They were haggling over money.
 
---Is that so? Mr Bloom asked. Of course, he subjoined pensively, at the
+-- Is that so? Mr Bloom asked. Of course, he subjoined pensively, at the
 inward reflection of there being more languages to start with than were
 absolutely necessary, it may be only the southern glamour that surrounds
 it.
@@ -25811,94 +25811,94 @@ encouraged Stephen to proceed with his eyes while he did the honours by
 surreptitiously pushing the cup of what was temporarily supposed to be
 called coffee gradually nearer him.
 
---Sounds are impostures, Stephen said after a pause of some little time,
+-- Sounds are impostures, Stephen said after a pause of some little time,
 like names. Cicero, Podmore. Napoleon, Mr Goodbody. Jesus, Mr Doyle.
 Shakespeares were as common as Murphies. What's in a name?
 
---Yes, to be sure, Mr Bloom unaffectedly concurred. Of course. Our name
+-- Yes, to be sure, Mr Bloom unaffectedly concurred. Of course. Our name
 was changed too, he added, pushing the socalled roll across.
 
 The redbearded sailor who had his weather eye on the newcomers boarded
 Stephen, whom he had singled out for attention in particular, squarely by
 asking:
 
---And what might your name be?
+-- And what might your name be?
 
 Just in the nick of time Mr Bloom touched his companion's boot but
 Stephen, apparently disregarding the warm pressure from an unexpected
 quarter, answered:
 
---Dedalus.
+-- Dedalus.
 
 The sailor stared at him heavily from a pair of drowsy baggy eyes, rather
 bunged up from excessive use of boose, preferably good old Hollands and
 water.
 
---You know Simon Dedalus? he asked at length.
+-- You know Simon Dedalus? he asked at length.
 
---I've heard of him, Stephen said.
+-- I've heard of him, Stephen said.
 
 Mr Bloom was all at sea for a moment, seeing the others evidently
 eavesdropping too.
 
---He's Irish, the seaman bold affirmed, staring still in much the same
+-- He's Irish, the seaman bold affirmed, staring still in much the same
 way and nodding. All Irish.
 
---All too Irish, Stephen rejoined.
+-- All too Irish, Stephen rejoined.
 
 As for Mr Bloom he could neither make head or tail of the whole business
 and he was just asking himself what possible connection when the sailor
 of his own accord turned to the other occupants of the shelter with the
 remark:
 
---I seen him shoot two eggs off two bottles at fifty yards over his
+-- I seen him shoot two eggs off two bottles at fifty yards over his
 shoulder. The lefthand dead shot.
 
 Though he was slightly hampered by an occasional stammer and his gestures
 being also clumsy as it was still he did his best to explain.
 
---Bottles out there, say. Fifty yards measured. Eggs on the bottles.
+-- Bottles out there, say. Fifty yards measured. Eggs on the bottles.
 Cocks his gun over his shoulder. Aims.
 
 He turned his body half round, shut up his right eye completely. Then he
 screwed his features up someway sideways and glared out into the night
 with an unprepossessing cast of countenance.
 
---Pom! he then shouted once.
+-- Pom! he then shouted once.
 
 The entire audience waited, anticipating an additional detonation, there
 being still a further egg.
 
---Pom! he shouted twice.
+-- Pom! he shouted twice.
 
 Egg two evidently demolished, he nodded and winked, adding
 bloodthirstily:
 
 
-  --BUFFALO BILL SHOOTS TO KILL,
+  -- BUFFALO BILL SHOOTS TO KILL,
     NEVER MISSED NOR HE NEVER WILL.
 
 
 A silence ensued till Mr Bloom for agreeableness' sake just felt like
 asking him whether it was for a marksmanship competition like the Bisley.
 
---Beg pardon, the sailor said.
+-- Beg pardon, the sailor said.
 
---Long ago? Mr Bloom pursued without flinching a hairsbreadth.
+-- Long ago? Mr Bloom pursued without flinching a hairsbreadth.
 
---Why, the sailor replied, relaxing to a certain extent under the magic
+-- Why, the sailor replied, relaxing to a certain extent under the magic
 influence of diamond cut diamond, it might be a matter of ten years. He
 toured the wide world with Hengler's Royal Circus. I seen him do that in
 Stockholm.
 
---Curious coincidence, Mr Bloom confided to Stephen unobtrusively.
+-- Curious coincidence, Mr Bloom confided to Stephen unobtrusively.
 
---Murphy's my name, the sailor continued. D. B. Murphy of Carrigaloe.
+-- Murphy's my name, the sailor continued. D. B. Murphy of Carrigaloe.
 Know where that is?
 
---Queenstown harbour, Stephen replied.
+-- Queenstown harbour, Stephen replied.
 
---That's right, the sailor said. Fort Camden and Fort Carlisle. That's
+-- That's right, the sailor said. Fort Camden and Fort Carlisle. That's
 where I hails from. I belongs there. That's where I hails from. My little
 woman's down there. She's waiting for me, I know. FOR ENGLAND, HOME AND
 BEAUTY. She's my own true wife I haven't seen for seven years now,
@@ -25927,44 +25927,44 @@ husband D B Murphy.
 The sailor, who scarcely seemed to be a Dublin resident, turned to one of
 the jarvies with the request:
 
---You don't happen to have such a thing as a spare chaw about you?
+-- You don't happen to have such a thing as a spare chaw about you?
 
 The jarvey addressed as it happened had not but the keeper took a die of
 plug from his good jacket hanging on a nail and the desired object was
 passed from hand to hand.
 
---Thank you, the sailor said.
+-- Thank you, the sailor said.
 
 He deposited the quid in his gob and, chewing and with some slow
 stammers, proceeded:
 
---We come up this morning eleven o'clock. The threemaster ROSEVEAN from
+-- We come up this morning eleven o'clock. The threemaster ROSEVEAN from
 Bridgwater with bricks. I shipped to get over. Paid off this afternoon.
 There's my discharge. See? D. B. Murphy. A. B. S.
 
 In confirmation of which statement he extricated from an inside pocket
 and handed to his neighbour a not very cleanlooking folded document.
 
---You must have seen a fair share of the world, the keeper remarked,
+-- You must have seen a fair share of the world, the keeper remarked,
 leaning on the counter.
 
---Why, the sailor answered upon reflection upon it, I've circumnavigated
+-- Why, the sailor answered upon reflection upon it, I've circumnavigated
 a bit since I first joined on. I was in the Red Sea. I was in China and
 North America and South America. We was chased by pirates one voyage. I
 seen icebergs plenty, growlers. I was in Stockholm and the Black Sea, the
 Dardanelles under Captain Dalton, the best bloody man that ever scuttled
 a ship. I seen Russia. GOSPODI POMILYOU. That's how the Russians prays.
 
---You seen queer sights, don't be talking, put in a jarvey.
+-- You seen queer sights, don't be talking, put in a jarvey.
 
---Why, the sailor said, shifting his partially chewed plug. I seen queer
+-- Why, the sailor said, shifting his partially chewed plug. I seen queer
 things too, ups and downs. I seen a crocodile bite the fluke of an anchor
 same as I chew that quid.
 
 He took out of his mouth the pulpy quid and, lodging it between his
 teeth, bit ferociously:
 
---Khaan! Like that. And I seen maneaters in Peru that eats corpses and
+-- Khaan! Like that. And I seen maneaters in Peru that eats corpses and
 the livers of horses. Look here. Here they are. A friend of mine sent me.
 
 He fumbled out a picture postcard from his inside pocket which seemed to
@@ -25976,7 +25976,7 @@ women in striped loincloths, squatted, blinking, suckling, frowning,
 sleeping amid a swarm of infants (there must have been quite a score of
 them) outside some primitive shanties of osier.
 
---Chews coca all day, the communicative tarpaulin added. Stomachs like
+-- Chews coca all day, the communicative tarpaulin added. Stomachs like
 breadgraters. Cuts off their diddies when they can't bear no more
 children.
 
@@ -25986,11 +25986,11 @@ raw.
 His postcard proved a centre of attraction for Messrs the greenhorns for
 several minutes if not more.
 
---Know how to keep them off? he inquired generally.
+-- Know how to keep them off? he inquired generally.
 
 Nobody volunteering a statement he winked, saying:
 
---Glass. That boggles 'em. Glass.
+-- Glass. That boggles 'em. Glass.
 
 Mr Bloom, without evincing surprise, unostentatiously turned over the
 card to peruse the partially obliterated address and postmark. It ran as
@@ -26078,7 +26078,7 @@ whether it was the traffic that created the route or viceversa or the two
 sides in fact. He turned back the other side of the card, picture, and
 passed it along to Stephen.
 
---I seen a Chinese one time, related the doughty narrator, that had
+-- I seen a Chinese one time, related the doughty narrator, that had
 little pills like putty and he put them in the water and they opened and
 every pill was something different. One was a ship, another was a house,
 another was a flower. Cooks rats in your soup, he appetisingly added, the
@@ -26087,27 +26087,27 @@ chinks does.
 Possibly perceiving an expression of dubiosity on their faces the
 globetrotter went on, adhering to his adventures.
 
---And I seen a man killed in Trieste by an Italian chap. Knife in his
+-- And I seen a man killed in Trieste by an Italian chap. Knife in his
 back. Knife like that.
 
 Whilst speaking he produced a dangerouslooking claspknife quite in
 keeping with his character and held it in the striking position.
 
---In a knockingshop it was count of a tryon between two smugglers. Fellow
+-- In a knockingshop it was count of a tryon between two smugglers. Fellow
 hid behind a door, come up behind him. Like that. PREPARE TO MEET YOUR
 GOD, says he. Chuk! It went into his back up to the butt.
 
 His heavy glance drowsily roaming about kind of defied their further
 questions even should they by any chance want to.
 
---That's a good bit of steel, repeated he, examining his formidable
+-- That's a good bit of steel, repeated he, examining his formidable
 STILETTO.
 
 After which harrowing DENOUEMENT sufficient to appal the stoutest he
 snapped the blade to and stowed the weapon in question away as before in
 his chamber of horrors, otherwise pocket.
 
---They're great for the cold steel, somebody who was evidently quite in
+-- They're great for the cold steel, somebody who was evidently quite in
 the dark said for the benefit of them all. That was why they thought the
 park murders of the invincibles was done by foreigners on account of them
 using knives.
@@ -26131,26 +26131,26 @@ troubles, when it took the civilised world by storm, figuratively
 speaking, early in the eighties, eightyone to be correct, when he was
 just turned fifteen.
 
---Ay, boss, the sailor broke in. Give us back them papers.
+-- Ay, boss, the sailor broke in. Give us back them papers.
 
 The request being complied with he clawed them up with a scrape.
 
---Have you seen the rock of Gibraltar? Mr Bloom inquired.
+-- Have you seen the rock of Gibraltar? Mr Bloom inquired.
 
 The sailor grimaced, chewing, in a way that might be read as yes, ay or
 no.
 
---Ah, you've touched there too, Mr Bloom said, Europa point, thinking he
+-- Ah, you've touched there too, Mr Bloom said, Europa point, thinking he
 had, in the hope that the rover might possibly by some reminiscences but
 he failed to do so, simply letting spirt a jet of spew into the sawdust,
 and shook his head with a sort of lazy scorn.
 
---What year would that be about? Mr B interrogated. Can you recall the
+-- What year would that be about? Mr B interrogated. Can you recall the
 boats?
 
 Our SOI-DISANT sailor munched heavily awhile hungrily before answering:
 
---I'm tired of all them rocks in the sea, he said, and boats and ships.
+-- I'm tired of all them rocks in the sea, he said, and boats and ships.
 Salt junk all the time.
 
 Tired seemingly, he ceased. His questioner perceiving that he was not
@@ -26184,7 +26184,7 @@ wintertime not forgetting the Irish lights, Kish and others, liable to
 capsize at any moment, rounding which he once with his daughter had
 experienced some remarkably choppy, not to say stormy, weather.
 
---There was a fellow sailed with me in the Rover, the old seadog, himself
+-- There was a fellow sailed with me in the Rover, the old seadog, himself
 a rover, proceeded, went ashore and took up a soft job as gentleman's
 valet at six quid a month. Them are his trousers I've on me and he gave
 me an oilskin and that jackknife. I'm game for that job, shaving and
@@ -26192,12 +26192,12 @@ brushup. I hate roaming about. There's my son now, Danny, run off to sea
 and his mother got him took in a draper's in Cork where he could be
 drawing easy money.
 
---What age is he? queried one hearer who, by the way, seen from the side,
+-- What age is he? queried one hearer who, by the way, seen from the side,
 bore a distant resemblance to Henry Campbell, the townclerk, away from
 the carking cares of office, unwashed of course and in a seedy getup and
 a strong suspicion of nosepaint about the nasal appendage.
 
---Why, the sailor answered with a slow puzzled utterance, my son, Danny?
+-- Why, the sailor answered with a slow puzzled utterance, my son, Danny?
 He'd be about eighteen now, way I figure it.
 
 The Skibbereen father hereupon tore open his grey or unclean anyhow shirt
@@ -26205,7 +26205,7 @@ with his two hands and scratched away at his chest on which was to be
 seen an image tattooed in blue Chinese ink intended to represent an
 anchor.
 
---There was lice in that bunk in Bridgwater, he remarked, sure as nuts. I
+-- There was lice in that bunk in Bridgwater, he remarked, sure as nuts. I
 must get a wash tomorrow or next day. It's them black lads I objects to.
 I hate those buggers. Suck your blood dry, they does.
 
@@ -26214,16 +26214,16 @@ shirt more open so that on top of the timehonoured symbol of the
 mariner's hope and rest they had a full view of the figure 16 and a young
 man's sideface looking frowningly rather.
 
---Tattoo, the exhibitor explained. That was done when we were Iying
+-- Tattoo, the exhibitor explained. That was done when we were Iying
 becalmed off Odessa in the Black Sea under Captain Dalton. Fellow, the
 name of Antonio, done that. There he is himself, a Greek.
 
---Did it hurt much doing it? one asked the sailor.
+-- Did it hurt much doing it? one asked the sailor.
 
 That worthy, however, was busily engaged in collecting round the. Someway
 in his. Squeezing or.
 
---See here, he said, showing Antonio. There he is cursing the mate. And
+-- See here, he said, showing Antonio. There he is cursing the mate. And
 there he is now, he added, the same fellow, pulling the skin with his
 fingers, some special knack evidently, and he laughing at a yarn.
 
@@ -26232,19 +26232,19 @@ actually look like forced smiling and the curious effect excited the
 unreserved admiration of everybody including Skin-the-Goat, who this time
 stretched over.
 
---Ay, ay, sighed the sailor, looking down on his manly chest. He's gone
+-- Ay, ay, sighed the sailor, looking down on his manly chest. He's gone
 too. Ate by sharks after. Ay, ay.
 
 He let go of the skin so that the profile resumed the normal expression
 of before.
 
---Neat bit of work, one longshoreman said.
+-- Neat bit of work, one longshoreman said.
 
---And what's the number for? loafer number two queried.
+-- And what's the number for? loafer number two queried.
 
---Eaten alive? a third asked the sailor.
+-- Eaten alive? a third asked the sailor.
 
---Ay, ay, sighed again the latter personage, more cheerily this time with
+-- Ay, ay, sighed again the latter personage, more cheerily this time with
 some sort of a half smile for a brief duration only in the direction of
 the questioner about the number. Ate. A Greek he was.
 
@@ -26252,7 +26252,7 @@ And then he added with rather gallowsbird humour considering his alleged
 end:
 
 
-    --AS BAD AS OLD ANTONIO,
+    -- AS BAD AS OLD ANTONIO,
     FOR HE LEFT ME ON MY OWNIO.
 
 
@@ -26281,9 +26281,9 @@ that she was not exactly all there, viewing with evident amusement the
 group of gazers round skipper Murphy's nautical chest and then there was
 no more of her.
 
---The gunboat, the keeper said.
+-- The gunboat, the keeper said.
 
---It beats me, Mr Bloom confided to Stephen, medically I am speaking, how
+-- It beats me, Mr Bloom confided to Stephen, medically I am speaking, how
 a wretched creature like that from the Lock hospital reeking with disease
 can be barefaced enough to solicit or how any man in his sober senses, if
 he values his health in the least. Unfortunate creature! Of course I
@@ -26292,7 +26292,7 @@ matter what the cause is from ...
 
 Stephen had not noticed her and shrugged his shoulders, merely remarking:
 
---In this country people sell much more than she ever had and do a
+-- In this country people sell much more than she ever had and do a
 roaring trade. Fear not them that sell the body but have not power to buy
 the soul. She is a bad merchant. She buys dear and sells cheap.
 
@@ -26306,7 +26306,7 @@ of from the very first start. Whoever embarked on a policy of the sort,
 he said, and ventilated the matter thoroughly would confer a lasting boon
 on everybody concerned.
 
---You as a good catholic, he observed, talking of body and soul, believe
+-- You as a good catholic, he observed, talking of body and soul, believe
 in the soul. Or do you mean the intelligence, the brainpower as such, as
 distinct from any outside object, the table, let us say, that cup. I
 believe in that myself because it has been explained by competent men as
@@ -26316,7 +26316,7 @@ inventions as X rays, for instance. Do you?
 Thus cornered, Stephen had to make a superhuman effort of memory to try
 and concentrate and remember before he could say:
 
---They tell me on the best authority it is a simple substance and
+-- They tell me on the best authority it is a simple substance and
 therefore incorruptible. It would be immortal, I understand, but for the
 possibility of its annihilation by its First Cause Who, from all I can
 hear, is quite capable of adding that to the number of His other
@@ -26327,7 +26327,7 @@ Mr Bloom thoroughly acquiesced in the general gist of this though the
 mystical finesse involved was a bit out of his sublunary depth still he
 felt bound to enter a demurrer on the head of simple, promptly rejoining:
 
---Simple? I shouldn't think that is the proper word. Of course, I grant
+-- Simple? I shouldn't think that is the proper word. Of course, I grant
 you, to concede a point, you do knock across a simple soul once in a blue
 moon. But what I am anxious to arrive at is it is one thing for instance
 to invent those rays Rontgen did or the telescope like Edison, though I
@@ -26336,7 +26336,7 @@ applies to the laws, for example, of a farreaching natural phenomenon
 such as electricity but it's a horse of quite another colour to say you
 believe in the existence of a supernatural God.
 
---O that, Stephen expostulated, has been proved conclusively by several
+-- O that, Stephen expostulated, has been proved conclusively by several
 of the bestknown passages in Holy Writ, apart from circumstantial
 evidence.
 
@@ -26344,7 +26344,7 @@ On this knotty point however the views of the pair, poles apart as they
 were both in schooling and everything else with the marked difference in
 their respective ages, clashed.
 
---Has been? the more experienced of the two objected, sticking to his
+-- Has been? the more experienced of the two objected, sticking to his
 original point with a smile of unbelief. I'm not so sure about that.
 That's a matter for everyman's opinion and, without dragging in the
 sectarian side of the business, I beg to differ with you IN TOTO there.
@@ -26357,7 +26357,7 @@ way? Let me stir it. And take a piece of that bun. It's like one of our
 skipper's bricks disguised. Still no-one can give what he hasn't got. Try
 a bit.
 
---Couldn't, Stephen contrived to get out, his mental organs for the
+-- Couldn't, Stephen contrived to get out, his mental organs for the
 moment refusing to dictate further.
 
 Faultfinding being a proverbially bad hat Mr Bloom thought well to stir
@@ -26379,19 +26379,19 @@ seemed to him more than ever necessary which possibly accounted for the
 vogue of Dr Tibble's Vi-Cocoa on account of the medical analysis
 involved.
 
---Have a shot at it now, he ventured to say of the coffee after being
+-- Have a shot at it now, he ventured to say of the coffee after being
 stirred.
 
  Thus prevailed on to at any rate taste it Stephen lifted the heavy mug
 from the brown puddle it clopped out of when taken up by the handle and
 took a sip of the offending beverage.
 
---Still it's solid food, his good genius urged, I'm a stickler for solid
+-- Still it's solid food, his good genius urged, I'm a stickler for solid
 food, his one and only reason being not gormandising in the least but
 regular meals as the SINE QUA NON for any kind of proper work, mental or
 manual. You ought to eat more solid food. You would feel a different man.
 
---Liquids I can eat, Stephen said. But O, oblige me by taking away that
+-- Liquids I can eat, Stephen said. But O, oblige me by taking away that
 knife. I can't look at the point of it. It reminds me of Roman history.
 
 Mr Bloom promptly did as suggested and removed the incriminated article,
@@ -26399,7 +26399,7 @@ a blunt hornhandled ordinary knife with nothing particularly Roman or
 antique about it to the lay eye, observing that the point was the least
 conspicuous point about it.
 
---Our mutual friend's stories are like himself, Mr Bloom APROPOS of
+-- Our mutual friend's stories are like himself, Mr Bloom APROPOS of
 knives remarked to his CONFIDANTE SOTTO VOCE. Do you think they are
 genuine? He could spin those yarns for hours on end all night long and
 lie like old boots. Look at him.
@@ -26430,7 +26430,7 @@ when all was said and done the lies a fellow told about himself couldn't
 probably hold a proverbial candle to the wholesale whoppers other fellows
 coined about him.
 
---Mind you, I'm not saying that it's all a pure invention, he resumed.
+-- Mind you, I'm not saying that it's all a pure invention, he resumed.
 Analogous scenes are occasionally, if not often, met with. Giants, though
 that is rather a far cry, you see once in a way, Marcella the midget
 queen. In those waxworks in Henry street I myself saw some Aztecs, as
@@ -26458,7 +26458,7 @@ persuasion of others at night so as to have a good old succulent tuckin
 with garlic DE RIGUEUR off him or her next day on the quiet and, he
 added, on the cheap.
 
---Spaniards, for instance, he continued, passionate temperaments like
+-- Spaniards, for instance, he continued, passionate temperaments like
 that, impetuous as Old Nick, are given to taking the law into their own
 hands and give you your quietus doublequick with those poignards they
 carry in the abdomen. It comes from the great heat, climate generally. My
@@ -26469,17 +26469,17 @@ dark, regular brunette, black. I for one certainly believe climate
 accounts for character. That's why I asked you if you wrote your poetry
 in Italian.
 
---The temperaments at the door, Stephen interposed with, were very
+-- The temperaments at the door, Stephen interposed with, were very
 passionate about ten shillings. ROBERTO RUBA ROBA SUA.
 
---Quite so, Mr Bloom dittoed.
+-- Quite so, Mr Bloom dittoed.
 
---Then, Stephen said staring and rambling on to himself or some unknown
+-- Then, Stephen said staring and rambling on to himself or some unknown
 listener somewhere, we have the impetuosity of Dante and the isosceles
 triangle miss Portinari he fell in love with and Leonardo and san Tommaso
 Mastino.
 
---It's in the blood, Mr Bloom acceded at once. All are washed in the
+-- It's in the blood, Mr Bloom acceded at once. All are washed in the
 blood of the sun. Coincidence I just happened to be in the Kildare street
 museum today, shortly prior to our meeting if I can so call it, and I
 was just looking at those antique statues there. The splendid proportions
@@ -26514,7 +26514,7 @@ would give way. She had no water, it appears, in her hold.
 At this stage an incident happened. It having become necessary for him to
 unfurl a reef the sailor vacated his seat.
 
---Let me cross your bows mate, he said to his neighbour who was just
+-- Let me cross your bows mate, he said to his neighbour who was just
 gently dropping off into a peaceful doze.
 
 He made tracks heavily, slowly with a dumpy sort of a gait to the door,
@@ -26551,7 +26551,7 @@ the doublebarrelled ass proceeded to make general ducks and drakes of.
 And there he was at the end of his tether after having often painted the
 town tolerably pink without a beggarly stiver. He drank needless to be
 told and it pointed only once more a moral when he might quite easily be
-in a large way of business if--a big if, however--he had contrived to
+in a large way of business if-- a big if, however-- he had contrived to
 cure himself of his particular partiality.
 
 All meantime were loudly lamenting the falling off in Irish shipping,
@@ -26569,7 +26569,7 @@ Worthington or some name like that, eh? Ask the then captain, he advised
 them, how much palmoil the British government gave him for that day's
 work, Captain John Lever of the Lever Line.
 
---Am I right, skipper? he queried of the sailor, now returning after his
+-- Am I right, skipper? he queried of the sailor, now returning after his
 private potation and the rest of his exertions.
 
 That worthy picking up the scent of the fagend of the song or words
@@ -26583,7 +26583,7 @@ atmosphere of drink into the SOIREE, boisterously trolling, like a
 veritable son of a seacook:
 
 
-    --THE BISCUITS WAS AS HARD AS BRASS
+    -- THE BISCUITS WAS AS HARD AS BRASS
       AND THE BEEF AS SALT AS LOT'S WIFE'S ARSE.
       O, JOHNNY LEVER!
       JOHNNY LEVER, O!
@@ -26620,20 +26620,20 @@ Ireland. Ireland, Parnell said, could not spare a single one of her sons.
 Silence all round marked the termination of his FINALE. The impervious
 navigator heard these lurid tidings, undismayed.
 
---Take a bit of doing, boss, retaliated that rough diamond palpably a bit
+-- Take a bit of doing, boss, retaliated that rough diamond palpably a bit
 peeved in response to the foregoing truism.
 
 To which cold douche referring to downfall and so on the keeper concurred
 but nevertheless held to his main view.
 
---Who's the best troops in the army? the grizzled old veteran irately
+-- Who's the best troops in the army? the grizzled old veteran irately
 interrogated. And the best jumpers and racers? And the best admirals and
 generals we've got? Tell me that.
 
---The Irish, for choice, retorted the cabby like Campbell, facial
+-- The Irish, for choice, retorted the cabby like Campbell, facial
 blemishes apart.
 
---That's right, the old tarpaulin corroborated. The Irish catholic
+-- That's right, the old tarpaulin corroborated. The Irish catholic
 peasant. He's the backbone of our empire. You know Jem Mullins?
 
 While allowing him his individual opinions as everyman the keeper added
@@ -26698,7 +26698,7 @@ Erin and so on. Then as for the other he had heard not so long before the
 same identical lingo as he told Stephen how he simply but effectually
 silenced the offender.
 
---He took umbrage at something or other, that muchinjured but on the
+-- He took umbrage at something or other, that muchinjured but on the
 whole eventempered person declared, I let slip. He called me a jew and in
 a heated fashion offensively. So I without deviating from plain facts in
 the least told him his God, I mean Christ, was a jew too and all his
@@ -26710,11 +26710,11 @@ saw. Am I not right?
 the soft impeachment with a glance also of entreaty for he seemed to
 glean in a kind of a way that it wasn't all exactly.
 
---EX QUIBUS, Stephen mumbled in a noncommittal accent, their two or four
+-- EX QUIBUS, Stephen mumbled in a noncommittal accent, their two or four
 eyes conversing, CHRISTUS or Bloom his name is or after all any other,
 SECUNDUM CARNEM.
 
---Of course, Mr B. proceeded to stipulate, you must look at both sides of
+-- Of course, Mr B. proceeded to stipulate, you must look at both sides of
 the question. It is hard to lay down any hard and fast rules as to right
 and wrong but room for improvement all round there certainly is though
 every country, they say, our own distressful included, has the government
@@ -26726,13 +26726,13 @@ It's a patent absurdity on the face of it to hate people because they
 live round the corner and speak another vernacular, in the next house so
 to speak.
 
---Memorable bloody bridge battle and seven minutes' war, Stephen
+-- Memorable bloody bridge battle and seven minutes' war, Stephen
 assented, between Skinner's alley and Ormond market.
 
 Yes, Mr Bloom thoroughly agreed, entirely endorsing the remark, that was
 overwhelmingly right. And the whole world was full of that sort of thing.
 
---You just took the words out of my mouth, he said. A hocuspocus of
+-- You just took the words out of my mouth, he said. A hocuspocus of
 conflicting evidence that candidly you couldn't remotely ...
 
 All those wretched quarrels, in his humble opinion, stirring up bad
@@ -26741,12 +26741,12 @@ supposed to be about a punctilio of honour and a flag, were very largely
 a question of the money question which was at the back of everything
 greed and jealousy, people never knowing when to stop.
 
---They accuse, remarked he audibly.
+-- They accuse, remarked he audibly.
 
 He turned away from the others who probably and spoke nearer to, so as
 the others in case they.
 
---Jews, he softly imparted in an aside in Stephen's ear, are accused of
+-- Jews, he softly imparted in an aside in Stephen's ear, are accused of
 ruining. Not a vestige of truth in it, I can safely say. History, would
 you be surprised to learn, proves up to the hilt Spain decayed when the
 inquisition hounded the jews out and England prospered when Cromwell, an
@@ -26778,13 +26778,13 @@ different sorts of the same sand where they had a home somewhere beneath
 or seemed to. Then he looked up and saw the eyes that said or didn't say
 the words the voice he heard said, if you work.
 
---Count me out, he managed to remark, meaning work.
+-- Count me out, he managed to remark, meaning work.
 
 The eyes were surprised at this observation because as he, the person who
 owned them pro tem. observed or rather his voice speaking did, all must
 work, have to, together.
 
---I mean, of course, the other hastened to affirm, work in the widest
+-- I mean, of course, the other hastened to affirm, work in the widest
 possible sense. Also literary labour not merely for the kudos of the
 thing. Writing for the newspapers which is the readiest channel nowadays.
 That's work too. Important work. After all, from the little I know of
@@ -26794,23 +26794,23 @@ to live by your pen in pursuit of your philosophy as the peasant has.
 What? You both belong to Ireland, the brain and the brawn. Each is
 equally important.
 
---You suspect, Stephen retorted with a sort of a half laugh, that I may
+-- You suspect, Stephen retorted with a sort of a half laugh, that I may
 be 1160 important because I belong to the FAUBOURG SAINT PATRICE called
 Ireland for short.
 
---I would go a step farther, Mr Bloom insinuated.
+-- I would go a step farther, Mr Bloom insinuated.
 
---But I suspect, Stephen interrupted, that Ireland must be important
+-- But I suspect, Stephen interrupted, that Ireland must be important
 because it belongs to me.
 
---What belongs, queried Mr Bloom bending, fancying he was perhaps under
+-- What belongs, queried Mr Bloom bending, fancying he was perhaps under
 some misapprehension. Excuse me. Unfortunately, I didn't catch the latter
 portion. What was it you ...?
 
 Stephen, patently crosstempered, repeated and shoved aside his mug of
 coffee or whatever you like to call it none too politely, adding:  1170
 
---We can't change the country. Let us change the subject.
+-- We can't change the country. Let us change the subject.
 
 At this pertinent suggestion Mr Bloom, to change the subject, looked down
 but in a quandary, as he couldn't tell exactly what construction to put
@@ -26895,7 +26895,7 @@ Patrick Dignam.
 So to change the subject he read about Dignam R. I. P. which, he
 reflected, was anything but a gay sendoff. Or a change of address anyway.
 
---THIS MORNING (Hynes put it in of course) THE REMAINS OF THE LATE MR
+-- THIS MORNING (Hynes put it in of course) THE REMAINS OF THE LATE MR
 PATRICK DIGNAM WERE REMOVED FROM HIS RESIDENCE, NO 9 NEWBRIDGE AVENUE,
 SANDYMOUNT, FOR INTERMENT IN GLASNEVIN. THE DECEASED GENTLEMAN WAS A MOST
 POPULAR AND GENIAL PERSONALITY IN CITY LIFE AND HIS DEMISE AFTER A BRIEF
@@ -26907,7 +26907,7 @@ MOURNERS INCLUDED: PATK. DIGNAM (SON), BERNARD CORRIGAN (BROTHER-IN-LAW),
 JNO. HENRY MENTON, SOLR, MARTIN CUNNINGHAM, JOHN POWER, .)EATONDPH 1/8
 ADOR DORADOR DOURADORA (must be where he called Monks the dayfather about
 Keyes's ad) THOMAS KERNAN, SIMON DEDALUS, STEPHEN DEDALUS B. ,4., EDW. J.
-LAMBERT, CORNELIUS T. KELLEHER, JOSEPH M'C HYNES, L. BOOM, CP M'COY,--
+LAMBERT, CORNELIUS T. KELLEHER, JOSEPH M'C HYNES, L. BOOM, CP M'COY,-- 
 M'LNTOSH AND SEVERAL OTHERS.
 
  Nettled not a little by L. BOOM (as it incorrectly stated) and the line
@@ -26917,10 +26917,10 @@ total absence (to say nothing of M'Intosh) L. Boom pointed it out to his
 companion B. A. engaged in stifling another yawn, half nervousness, not
 forgetting the usual crop of nonsensical howlers of misprints.
 
---Is that first epistle to the Hebrews, he asked as soon as his bottom
+-- Is that first epistle to the Hebrews, he asked as soon as his bottom
 jaw would let him, in? Text: open thy mouth and put thy foot in it.
 
---It is. Really, Mr Bloom said (though first he fancied he alluded to the
+-- It is. Really, Mr Bloom said (though first he fancied he alluded to the
 archbishop till he added about foot and mouth with which there could be
 no possible connection) overjoyed to set his mind at rest and a bit
 flabbergasted at Myles Crawford's after all managing to. There.
@@ -26947,9 +26947,9 @@ sort of thing though as the event turned out the poor fool hadn't much
 reason to congratulate himself on his pick, the forlorn hope. Guesswork
 it reduced itself to eventually.
 
---There was every indication they would arrive at that, he, Bloom, said.
+-- There was every indication they would arrive at that, he, Bloom, said.
 
---Who? the other, whose hand by the way was hurt, said.
+-- Who? the other, whose hand by the way was hurt, said.
 
 One morning you would open the paper, the cabman affirmed, and read:
 RETURN OF PARNELL. He bet them what they liked. A Dublin fusilier was in
@@ -27010,14 +27010,14 @@ said to the not over effusive, in fact like the distinguished personage
 under discussion beside him, would have been to sound the lie of the land
 first.
 
---That bitch, that English whore, did for him, the shebeen proprietor
+-- That bitch, that English whore, did for him, the shebeen proprietor
 commented. She put the first nail in his coffin.
 
---Fine lump of a woman all the same, the SOI-DISANT townclerk Henry
+-- Fine lump of a woman all the same, the SOI-DISANT townclerk Henry
 Campbell remarked, and plenty of her. She loosened many a man's thighs. I
 seen her picture in a barber's. The husband was a captain or an officer.
 
---Ay, Skin-the-Goat amusingly added, he was and a cottonball one.
+-- Ay, Skin-the-Goat amusingly added, he was and a cottonball one.
 
 This gratuitous contribution of a humorous character occasioned a fair
 amount of laughter among his ENTOURAGE. As regards Bloom he, without the
@@ -27075,16 +27075,16 @@ vengeance and just bore out the very thing he was saying as she also was
 Spanish or half so, types that wouldn't do things by halves, passionate
 abandon of the south, casting every shred of decency to the winds.
 
---Just bears out what I was saying, he, with glowing bosom said to
+-- Just bears out what I was saying, he, with glowing bosom said to
 Stephen, about blood and the sun. And, if I don't greatly mistake she was
 Spanish too.
 
---The king of Spain's daughter, Stephen answered, adding something or
+-- The king of Spain's daughter, Stephen answered, adding something or
 other rather muddled about farewell and adieu to you Spanish onions and
 the first land called the Deadman and from Ramhead to Scilly was so and
 so many.
 
---Was she? Bloom ejaculated, surprised though not astonished by any
+-- Was she? Bloom ejaculated, surprised though not astonished by any
 means, I never heard that rumour before. Possible, especially there, it
 was as she lived there. So, Spain.
 
@@ -27093,7 +27093,7 @@ the by of that Cap l street library book out of date, he took out his
 pocketbook and, turning over the various contents it contained rapidly
 finally he.
 
---Do you consider, by the by, he said, thoughtfully selecting a faded
+-- Do you consider, by the by, he said, thoughtfully selecting a faded
 photo which he laid on the table, that a Spanish type?
 
 Stephen, obviously addressed, looked down on the photo showing a large
@@ -27108,7 +27108,7 @@ something to be admired, Lafayette of Westmoreland street, Dublin's
 premier photographic artist, being responsible for the esthetic
 execution.
 
---Mrs Bloom, my wife the PRIMA DONNA Madam Marion Tweedy, Bloom
+-- Mrs Bloom, my wife the PRIMA DONNA Madam Marion Tweedy, Bloom
 indicated. Taken a few years since. In or about ninety six. Very like her
 then.
 
@@ -27253,15 +27253,15 @@ like his father but something substantial he certainly ought to eat even
 were it only an eggflip made on unadulterated maternal nutriment or,
 failing that, the homely Humpty Dumpty boiled.
 
---At what o'clock did you dine? he questioned of the slim form and tired
+-- At what o'clock did you dine? he questioned of the slim form and tired
 though unwrinkled face.
 
---Some time yesterday, Stephen said.
+-- Some time yesterday, Stephen said.
 
---Yesterday! exclaimed Bloom till he remembered it was already tomorrow
+-- Yesterday! exclaimed Bloom till he remembered it was already tomorrow
 Friday. Ah, you mean it's after twelve!
 
---The day before yesterday, Stephen said, improving on himself.
+-- The day before yesterday, Stephen said, improving on himself.
 
 Literally astounded at this piece of intelligence Bloom reflected. Though
 they didn't see eye to eye in everything a certain analogy there somehow
@@ -27333,7 +27333,7 @@ point too of tender Achilles. Your god was a jew. Because mostly they
 appeared to imagine he came from Carrick-on-Shannon or somewhereabouts in
 the county Sligo.
 
---I propose, our hero eventually suggested after mature reflection while
+-- I propose, our hero eventually suggested after mature reflection while
 prudently pocketing her photo, as it's rather stuffy here you just come
 home with me and talk things over. My diggings are quite close in the
 vicinity. You can't drink that stuff. Do you like cocoa? Wait. I'll just
@@ -27343,7 +27343,7 @@ The best plan clearly being to clear out, the remainder being plain
 sailing, he beckoned, while prudently pocketing the photo, to the keeper
 of the shanty who didn't seem to.
 
---Yes, that's the best, he assured Stephen to whom for the matter of that
+-- Yes, that's the best, he assured Stephen to whom for the matter of that
 Brazen Head or him or anywhere else was all more or less.
 
 All kinds of Utopian plans were flashing through his (B's) busy brain,
@@ -27366,18 +27366,18 @@ to have some spark of vitality left read out that sir Anthony MacDonnell
 had left Euston for the chief secretary's lodge or words to that effect.
 To which absorbing piece of intelligence echo answered why.
 
---Give us a squint at that literature, grandfather, the ancient mariner
+-- Give us a squint at that literature, grandfather, the ancient mariner
 put in, manifesting some natural impatience.
 
---And welcome, answered the elderly party thus addressed.
+-- And welcome, answered the elderly party thus addressed.
 
 The sailor lugged out from a case he had a pair of greenish goggles which
 he very slowly hooked over his nose and both ears.
 
---Are you bad in the eyes? the sympathetic personage like the townclerk
+-- Are you bad in the eyes? the sympathetic personage like the townclerk
 queried.
 
---Why, answered the seafarer with the tartan beard, who seemingly was a
+-- Why, answered the seafarer with the tartan beard, who seemingly was a
 bit of a literary cove in his own small way, staring out of seagreen
 portholes as you might well describe them as, I uses goggles reading.
 Sand in the Red Sea done that. One time I could read a book in the dark,
@@ -27406,7 +27406,7 @@ spotted on the printed pricelist for all who ran to read opposite him in
 unmistakable figures, coffee 2d, confectionery do, and honestly well
 worth twice the money once in a way, as Wetherup used to remark.
 
---Come, he counselled to close the SEANCE.
+-- Come, he counselled to close the SEANCE.
 
 Seeing that the ruse worked and the coast was clear they left the shelter
 or shanty together and the ELITE society of oilskin and company whom
@@ -27414,12 +27414,12 @@ nothing short of an earthquake would move out of their DOLCE FAR NIENTE.
 Stephen, who confessed to still feeling poorly and fagged out, paused at
 the, for a moment, the door.
 
---One thing I never understood, he said to be original on the spur of the
+-- One thing I never understood, he said to be original on the spur of the
 moment. Why they put tables upside down at night, I mean chairs upside
 down, on the tables in cafes. To which impromptu the neverfailing Bloom
 replied without a moment's hesitation, saying straight off:
 
---To sweep the floor in the morning.
+-- To sweep the floor in the morning.
 
 So saying he skipped around, nimbly considering, frankly at the same time
 apologetic to get on his companion's right, a habit of his, by the bye,
@@ -27427,14 +27427,14 @@ his right side being, in classical idiom, his tender Achilles. The night
 air was certainly now a treat to breathe though Stephen was a bit weak on
 his pins.
 
---It will (the air) do you good, Bloom said, meaning also the walk, in a
+-- It will (the air) do you good, Bloom said, meaning also the walk, in a
 moment. The only thing is to walk then you'll feel a different man. Come.
 It's not far. Lean on me.
 
 Accordingly he passed his left arm in Stephen's right and led him on
 accordingly.
 
---Yes, Stephen said uncertainly because he thought he felt a strange kind
+-- Yes, Stephen said uncertainly because he thought he felt a strange kind
 of flesh of a different man approach him, sinewless and wobbly and all
 that.
 
@@ -27498,7 +27498,7 @@ By the chains the horse slowly swerved to turn, which perceiving, Bloom,
 who was keeping a sharp lookout as usual, plucked the other's sleeve
 gently, jocosely remarking:
 
---Our lives are in peril tonight. Beware of the steamroller.
+-- Our lives are in peril tonight. Beware of the steamroller.
 
 They thereupon stopped. Bloom looked at the head of a horse not worth
 anything like sixtyfive guineas, suddenly in evidence in the dark quite
@@ -27521,7 +27521,7 @@ reflections anent the brutes of the field occupied his mind somewhat
 distracted from Stephen's words while the ship of the street was
 manoeuvring and Stephen went on about the highly interesting old.
 
---What's this I was saying? Ah, yes! My wife, he intimated, plunging IN
+-- What's this I was saying? Ah, yes! My wife, he intimated, plunging IN
 MEDIAS RES, would have the greatest of pleasure in making your
 acquaintance as she is passionately attached to music of any kind.
 
@@ -27561,14 +27561,14 @@ huge ad in its way) and gentlemanly bearing to all the more influence the
 good impression he would infallibly score a distinct success, being
 blessed with brains which also could be utilised for the purpose and
 other requisites, if his clothes were properly attended to so as to the
-better worm his way into their good graces as he, a youthful tyro in--
+better worm his way into their good graces as he, a youthful tyro in-- 
 society's sartorial niceties, hardly understood how a little thing like
 that could militate against you. It was in fact only a matter of months
 and he could easily foresee him participating in their musical and
 artistic CONVERSAZIONES during the festivities of the Christmas season,
 for choice, causing a slight flutter in the dovecotes of the fair sex and
 being made a lot of by ladies out for sensation, cases of which, as he
-happened to know, were on record--in fact, without giving the show away,
+happened to know, were on record-- in fact, without giving the show away,
 he himself once upon a time, if he cared to, could easily have. Added to
 which of course would be the pecuniary emolument by no means to be
 sneezed at, going hand in hand with his tuition fees. Not, he
@@ -27636,7 +27636,7 @@ his seat near the end of lower Gardiner street AND LOOKED AFTER THEIR
 LOWBACKED CAR.
 
 
--------- Ithaca ---------
+--------  Ithaca ---------
 
 
 What parallel courses did Bloom and Stephen follow returning?
@@ -29581,34 +29581,34 @@ Mrs Emily Sinico, Sydney Parade.
 Compile the budget for 16 June 1904.
 
 DEBIT                                           CREDIT
-                         L--s--d                                   L--s--d
-1 Pork kidney            0--0--3 Cash in Hand                      0--4--9
-1 Copy FREEMAN'S JOURNAL 0--0--1 Commission recd FREEMAN'S JOURNAL 1--7--6
-1 Bath And Gratification 0--1--6 Loan (Stephen Dedalus)            1--7--0
-Tramfare                 0--0--1
+                         L-- s-- d                                   L-- s-- d
+1 Pork kidney            0-- 0-- 3 Cash in Hand                      0-- 4-- 9
+1 Copy FREEMAN'S JOURNAL 0-- 0-- 1 Commission recd FREEMAN'S JOURNAL 1-- 7-- 6
+1 Bath And Gratification 0-- 1-- 6 Loan (Stephen Dedalus)            1-- 7-- 0
+Tramfare                 0-- 0-- 1
 1 In Memoriam
-Patrick Dignam           0--5--0
-2 Banbury cakes          0--0--1
-1 Lunch                  0--0--7
-1 Renewal fee for book   0--1--0
+Patrick Dignam           0-- 5-- 0
+2 Banbury cakes          0-- 0-- 1
+1 Lunch                  0-- 0-- 7
+1 Renewal fee for book   0-- 1-- 0
 1 Packet Notepaper
-and Envelopes            0--0--2
+and Envelopes            0-- 0-- 2
 1 Dinner
-and Gratification        0--2--0
+and Gratification        0-- 2-- 0
 I Postal Order
-and Stamp                0--2--8
-Tramfare                 0--0--1
-1 Pig's Foot             0--0--4
-1 Sheep's Trotter        0--0--3
+and Stamp                0-- 2-- 8
+Tramfare                 0-- 0-- 1
+1 Pig's Foot             0-- 0-- 4
+1 Sheep's Trotter        0-- 0-- 3
 1 Cake Fry's
-Plain Chocolate          0--0--1
-1 Square Soda Bread      0--0--4
-1 Coffee and Bun         0--0--4
+Plain Chocolate          0-- 0-- 1
+1 Square Soda Bread      0-- 0-- 4
+1 Coffee and Bun         0-- 0-- 4
 Loan (Stephen Dedalus)
-refunded                 1--7--0
+refunded                 1-- 7-- 0
 
-BALANCE                 0--17--5
-                        2--19--3                                  2--19--3
+BALANCE                 0-- 17-- 5
+                        2-- 19-- 3                                  2-- 19-- 3
 
 
 Did the process of divestiture continue?
@@ -30692,7 +30692,7 @@ Brightdayler.
 Where?
 
 
--------- Penelope ---------
+--------  Penelope ---------
 
 
 Yes because he never did a thing like that before as ask to get his
@@ -31200,7 +31200,7 @@ wear a kind of a tin thing round her and the prince of Wales yes he had
 the oyster knife cant be true a thing like that like some of those books
 he brings me the works of Master Francois Somebody supposed to be a
 priest about a child born out of her ear because her bumgut fell out a
-nice word for any priest to write and her a--e as if any fool wouldnt
+nice word for any priest to write and her a-- e as if any fool wouldnt
 know what that meant I hate that pretending of all things with that old
 blackguards face on him anybody can see its not true and that Ruby and
 Fair Tyrants he brought me that twice I remember when I came to page 50

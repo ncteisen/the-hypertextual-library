@@ -84,7 +84,7 @@ a.page-word, a.result-word {
 	padding: 0px 0px 0px 0px;
 }
 
-a.searched-word {
+mark {
 	text-decoration: none;
 	color: black;
 	font-size: 14px;
