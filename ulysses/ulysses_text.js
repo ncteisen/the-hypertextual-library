@@ -1129,7 +1129,7 @@ seal's, far out on the water, round.
 Usurper.
 
 
---------  Nestor ---------
+--------  Nestor --------
 
 
 -- You, Cochrane, what city sent for him?
@@ -1807,7 +1807,7 @@ On his wise shoulders through the checkerwork of leaves the sun flung
 spangles, dancing coins.
 
 
---------  Proteus ---------
+--------  Proteus --------
 
 
 Ineluctable modality of the visible: at least that if no more, thought
@@ -2433,7 +2433,7 @@ the air high spars of a threemaster, her sails brailed up on the
 crosstrees, homing, upstream, silently moving, a silent ship.
 
 
---------  Calypso ---------
+--------  Calypso --------
 
 
 Mr Leopold Bloom ate with relish the inner organs of beasts and fowls. He
@@ -3178,7 +3178,7 @@ Quarter to. There again: the overtone following through the air, a third.
 
 Poor Dignam!
 
---------  Lotus-Eaters ---------
+--------  Lotus-Eaters --------
 
 By lorries along sir John Rogerson's quay Mr Bloom walked soberly, past
 Windmill lane, Leask's the linseed crusher, the postal telegraph office.
@@ -3923,7 +3923,7 @@ floating, floating hair of the stream around the limp father of thousands,
 a languid floating flower.
 
 
---------  Hades ---------
+--------  Hades --------
 
 
 Martin Cunningham, first, poked his silkhatted head into the creaking
@@ -5368,7 +5368,7 @@ Get the pull over him that way.
 Thank you. How grand we are this morning!
 
 
---------  Aeolus ---------
+--------  Aeolus --------
 
 
     IN THE HEART OF THE HIBERNIAN METROPOLIS
@@ -7128,7 +7128,7 @@ say.
 truth was known.
 
 
---------  Lestrygonians ---------
+--------  Lestrygonians --------
 
 
 Pineapple rock, lemon platt, butter scotch. A sugarsticky girl
@@ -8732,7 +8732,7 @@ lotion have to call tepid paper stuck. Ah soap there I yes. Gate.
 Safe!
 
 
---------  Scylla and Charybdis ---------
+--------  Scylla and Charybdis --------
 
 
 Urbane, to comfort them, the quaker librarian purred:
@@ -10390,7 +10390,7 @@ from wide earth an altar.
     FROM OUR BLESS'D ALTARS.
 
 
---------  Wandering Rocks ---------
+--------  Wandering Rocks --------
 
 
 The superior, the very reverend John Conmee S.J. reset his smooth
@@ -12270,7 +12270,7 @@ and the salute of Almidano Artifoni's sturdy trousers swallowed by a
 closing door.
 
 
---------  Sirens ---------
+--------  Sirens --------
 
 
 Bronze by gold heard the hoofirons, steelyringing Imperthnthn thnthnthn.
@@ -14220,7 +14220,7 @@ Pprrpffrrppffff.
 DONE.
 
 
---------  Cyclops ---------
+--------  Cyclops --------
 
 
 I was just passing the time of day with old Troy of the D. M. P. at the
@@ -16765,7 +16765,7 @@ to the glory of the brightness at an angle of fortyfive degrees over
 Donohoe's in Little Green street like a shot off a shovel.
 
 
---------  Nausicaa ---------
+--------  Nausicaa --------
 
 
 The summer evening had begun to fold the world in its mysterious
@@ -18248,7 +18248,7 @@ the rocks looking was
     CUCKOO.
 
 
---------  Oxen of the Sun ---------
+--------  Oxen of the Sun --------
 
 
 Deshil Holles Eamus. Deshil Holles Eamus. Deshil Holles Eamus.
@@ -19951,7 +19951,7 @@ Almighty God. Pflaaaap! Not half. He's got a coughmixture with a punch in
 it for you, my friend, in his back pocket. Just you try it on.
 
 
---------  Circe ---------
+--------  Circe --------
 
 
 THE MABBOT STREET ENTRANCE OF NIGHTTOWN, BEFORE WHICH STRETCHES AN
@@ -25392,7 +25392,7 @@ RUBY BUTTONS. IN HIS FREE LEFT HAND HE HOLDS A SLIM IVORY CANE WITH A
 VIOLET BOWKNOT. A WHITE LAMBKIN PEEPS OUT OF HIS WAISTCOAT POCKET.)
 
 
---------  Eumeus ---------
+--------  Eumeus --------
 
 Preparatory to anything else Mr Bloom brushed off the greater bulk of the
 shavings and handed Stephen the hat and ashplant and bucked him up
@@ -27636,7 +27636,7 @@ his seat near the end of lower Gardiner street AND LOOKED AFTER THEIR
 LOWBACKED CAR.
 
 
---------  Ithaca ---------
+--------  Ithaca --------
 
 
 What parallel courses did Bloom and Stephen follow returning?
@@ -30692,7 +30692,7 @@ Brightdayler.
 Where?
 
 
---------  Penelope ---------
+--------  Penelope --------
 
 
 Yes because he never did a thing like that before as ask to get his

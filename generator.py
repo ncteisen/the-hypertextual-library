@@ -2,8 +2,9 @@ import sys
 import json
 import os
 
+# this will build the html that makes up the library of books
 book_list_template = """
-<div class="col-md-3 col-height">
+<div class="col-md-3 col-height book" book-title="{title}" uniquename="{uniquename}">
     <a href="{uniquename}/">
         <div class="pic-wrapper">
             <img src="{picture}" class="img-rounded pic" width="175" height="250">
@@ -14,8 +15,8 @@ book_list_template = """
 </div>
 """
 
-drowpdown_template = "<li><a href=\"{uniquename}\">{title} - {author}</a></li>"
-
+# given a phrase, makes it linked so that it is clickable
+# to beused when creating html pages for each book
 def linkify(phrase):
 	phrase = phrase.split(" ")
 	res = "<a class=\"word\">"
@@ -24,7 +25,7 @@ def linkify(phrase):
 	res += "</a>"
 	return res
 
-# html template
+# per book html template
 template = open("template/template.html", "r").read()
 
 
@@ -32,12 +33,26 @@ template = open("template/template.html", "r").read()
 books = open("books.json", "r").read()
 books = json.loads(books)
 
-book_dropdown_html = ""
-book_list_html = ""
+# returns a string in the form:
+#    lastname firstname title
+# to be used for sorting the books
+def book_sort_string(book):
+	author = book["author"].split()
+	author_str = ""
+	if len(author) > 1:
+		author_str += " ".join(author[1:])
+		author_str += " " + author[0]
+	author_str += " " + book["title"]
+	return author_str
 
-count = 0
+# sort the books by author, then title
+books = sorted(books["books"], key = book_sort_string)
+
+# start the html by opening the elements
+book_list_html = "<div class=\"row\"><div class=\"row-height\">"
+
 col_per_row = 4
-for book in books["books"]:
+for i, book in enumerate(books):
 
 	uniquename = book["uniquename"]
 
@@ -62,6 +77,7 @@ for book in books["books"]:
 	title = linkify(book["title"])
 	author = linkify(book["author"])
 
+	# creation of the per book html page
 	html = template.format(
 		title = title,
 		author = author,
@@ -71,6 +87,7 @@ for book in books["books"]:
 
 	outfile.write(html)
 
+	# constructing the library code
 	list_elt = book_list_template.format(
 		uniquename = uniquename,
 		title = book["title"],
@@ -78,22 +95,23 @@ for book in books["books"]:
 		picture = "%s/%s.jpg" % (uniquename, uniquename)
 	)
 
-	dropdown_elt = drowpdown_template.format(
-		uniquename = uniquename,
-		title = book["title"],
-		author = book["author"],
-	)
-
-	if count and count % col_per_row == 0:
+	# adds row to the bootsrap as needed
+	if i and i % col_per_row == 0:
 		book_list_html += "</div></div><div class=\"row\"><div class=\"row-height\">"
 
-	count += 1
-
 	book_list_html += list_elt
-	book_dropdown_html += dropdown_elt
+	book["html"] = list_elt
 
 # make the index for the library
 library = open("template/library.html", "r").read()
 outfile = open("index.html", "w")
 
-outfile.write(library.format(dropdown=book_dropdown_html, book_list=book_list_html))
+# close elts of the lib html
+book_list_html += "</div></div>"
+
+outfile.write(library.format(book_list=book_list_html))
+
+# create a file to be used by the index.js file
+books_js_file = open("books.js", "w")
+books_js_file.write("book_list = ")
+books_js_file.write(json.dumps(books))

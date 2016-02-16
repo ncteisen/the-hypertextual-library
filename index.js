@@ -1,359 +1,62 @@
 'use strict'
-//debugger;
 
-// populate all globals
-var current_top_line = 0;
-var page_length = 35;
-var current_linked_query_regex = null;
+var old_search = null;
+var row_size = 4;
 
-// load up all the data structires we will need
-var line_array_dirty = raw_text.split('\n');
 
-// make the pageness work right. We will pad the end of every
-// chapter so that the whitespace completes the page. This
-// will prevent a chapter from starting mid page.
-var line_array = []
-var line_count = 0;
-var first = true;
-line_array_dirty.forEach(function (line, i) {
+// returns true if every part of the search matches
+// either a word in the title or the author's name
+function book_matches_search(book, search)
+{
+	// the parts of the search
+	var parts = search.toLowerCase().split(" ")
 
-	// we don't need to do this for telemachus
-	if (first && is_title(line)) {
-		first = false;
-	}
+	for (var i = 0; i < parts.length; ++i) {
 
-	// we have stumpled upon a mid-page title
-	else if (!first && is_title(line)) {
-
-		// pad the rest of the page
-		while (line_count % page_length) {
-			line_array.push("");
-			line_count++;
+		// check for a mismatch to sieve it out
+		if (book.title.toLowerCase().indexOf(parts[i]) < 0 && 
+			book.author.toLowerCase().indexOf(parts[i]) < 0) 
+		{
+			return false;
 		}
-
-		// reset
-		line_count = 0;
-
 	}
 
-	line_count = (line_count + 1) % page_length;
-	line_array.push(line);
-});
-
-// populate chapter data with the title and top lineno
-var chapters_array = []
-line_array.forEach(function (line, i) {
-	if (is_title(line)) {
-		var title = line.replace(/-/g,'')
-		chapters_array.push({title:title, lineno:i});
-	}
-});
-
-// pad the last page of the book. kind of hacky
-// we can just pad it way more than we need
-var last_page_n = Math.floor(line_array.length / page_length)
-for (var i = 0; i < 100; ++i) {
-	line_array.push("")
+	// pass
+	return true;
 }
 
-// // make the inverted index
-// var inverted_index = {}
-// line_array.forEach(function (line, i) {
-// 	line.split(" ").forEach(function (dirty_word, j) {
-// 		var word = dirty_word.replace(/^[.,"':!?()-]+|[.,"':!?()-]+$/g, "").toLowerCase();
-// 		if (!inverted_index.hasOwnProperty(word)) {
-// 			inverted_index[word] = [];
-// 		}
-// 		inverted_index[word].push({lineno:i, chap_index:lineno_to_chapter_index(i), pageno:lineno_to_pageno(i)});
-// 	});
-// });
+function reload_book_list(search)
+{
+	var book_list_html = $("#book-list");
 
-// make the chapter dropdown menu
-var dropdown = $(".dropdown-menu");
-chapters_array.forEach(function (c, i) {
-	dropdown.append("<li><a class=\"chapter-dropdown\" chapter-index=\"" + i + 
-		"\" line-number-chapter=\"" + c.lineno + "\">" + c.title + "</a></li>");
-});
+	var new_html = "<div class=\"row\"><div class=\"row-height\">";
 
-// loads a full page starting from top_line, extending for page_length
-// also handles changing the title, setting the pageno
-function load_page(top_line) {
+	var count = 0
+	book_list.forEach(function (book) {
 
-	// hide pagination for first page
-	if (top_line <= 0) {
-		$(".last").hide();
-	}
-	else {
-		$(".last").show();
-	}
+		if (book_matches_search(book, search)) {
 
-	// set the correct chapter
-	var chap_index = lineno_to_chapter_index(top_line);
-	set_title(chapters_array[chap_index].title)
-
-	// grab page
-	var page = $("#page-text"); 
-
-	// clear old page
-	page.empty()
-
-	// new page num
-	$(".page_number").text(lineno_to_pageno(top_line))
-
-	// determines if we are at the very last page
-	if (Math.floor(top_line / page_length) >= last_page_n) {
-		$(".next").hide();
-	}
-	else {
-		$(".next").show();
-	}
-
-	// build the new page
-	for (var i = 0; i < page_length; ++i) {
-
-		var linked_line = "<a class=\"result-word\">" + line_array[top_line + i].split(" ").join("</a> <a class=\"result-word\">") + "</a>";
-			
-			if (current_linked_query_regex) {
-
-				var m_arr;
-				while (m_arr = current_linked_query_regex.exec(linked_line)) {
-
-					var pos = m_arr.index;
-					linked_line = [linked_line.slice(0, pos), "<mark class=\"searched-word\">", linked_line.slice(pos)].join('');
-					var pos = current_linked_query_regex.lastIndex + 28;
-					linked_line = [linked_line.slice(0, pos), "</mark>", linked_line.slice(pos)].join('');
-				}
+			if (count && count % row_size == 0) {
+				new_html += "</div></div><div class=\"row\"><div class=\"row-height\">";
 			}
 
-		page.append(linked_line + "<br>");
-	}
+			count += 1;
 
-	// link up the words
-	$(function () {
-		$("#page .result-word").click(function(e) {
-			var text = e.target.innerHTML.toLowerCase();
-			perform_search(text);
-		});
-	});
-}
-
-// load the initial page
-load_page(0)
-set_title(chapters_array[0].title);
-
-// hide these for now
-$("#result-table").hide();
-$("#result-table-header").hide();
-
-var query = get_query_from_url(document.location.search);
-if (query) {
-	perform_search(query);
-}
-
-function is_title(line) {
-	return line.indexOf("--------") > -1
-}
-
-function set_title(title) {
-	$("#chapter-title").text(title);
-}
-
-function get_query_from_url(url) {
-	var match = /\?query=(.+)/.exec(url)
-	if (match) 
-		return match[1].replace(/%20/, " ");
-	else
-		return null;
-}
-
-function load_chapter(chap_index) {
-	current_top_line = chapters_array[chap_index].lineno;
-	load_page(current_top_line)
-}
-
-// attatch function to every chapter dropdown
-$(function() {
-    $(".chapter-dropdown").click(function(e) {
-    	var i = parseInt(e.target.attributes[1].value);
-    	load_chapter(i);
-    });
-});
-
-// attached function to the pagination button
-$(function() {
-	$(".next").click(function(e) {
-		current_top_line += page_length;
-		load_page(current_top_line);
-	});
-});
-
-// attached function to the pagination button
-$(function() {
-	$(".last").click(function(e) {
-		current_top_line -= page_length;
-		load_page(current_top_line);
-	});
-});
-
-// translates a line number to it's respective chapter index
-function lineno_to_chapter_index(lineno) {
-	for (var i = chapters_array.length - 1; i >= 0; --i) {
-		if (chapters_array[i].lineno <= lineno) {
-			return i;
-		}
-	}
-	return 0;
-}
-
-function lineno_to_pageno(lineno) {
-	return Math.floor(lineno / page_length + 1);
-}
-
-function pageno_to_top_line(pageno) {
-	return (pageno - 1) * page_length;
-}
-
-function perform_search(dirty_query) {
-
-	var query = dirty_query.replace(/^[.,"':!?()-]+|[.,"':!?()-]+$/g, "");
-
-	if (! /\S/.test(query)) {
-		return;
-	}
-
-	// hide the old stuff, show the new
-	$("#search-img").hide();
-	$("#result-table").show();
-	$("#result-table-header").show();
-
-	$("#search-term").text(query);
- 
-	var table_body = $("#table-body");
-
-	// clear old table
-	table_body.empty();
-
-	// regex magic
-	var query_regex = new RegExp("\\b" + query + "\\b", "gi")
-
-	var punctuation = String.raw`[\.,"':!\?\(\)-]?`;
-	var linked_query = "<a class=\"result-word\">" + query.split(" ").join(punctuation + "</a> <a class=\"result-word\">") + punctuation + "</a>";
-	current_linked_query_regex = new RegExp(linked_query, "gi");
-
-	var count = 0;
-	var table = "";
-	line_array.forEach(function (line, i) {
-
-		if (query_regex.test(line)) {
-
-			var linked_line = "<a class=\"result-word\">" + line.split(" ").join("</a> <a class=\"result-word\">") + "</a>";
-			
-			var m_arr;
-
-			while (m_arr = current_linked_query_regex.exec(linked_line)) {
-
-				count++
-
-				var pos = m_arr.index;
-				linked_line = [linked_line.slice(0, pos), "<mark class=\"searched-word\">", linked_line.slice(pos)].join('');
-				var pos = current_linked_query_regex.lastIndex + 28;
-				linked_line = [linked_line.slice(0, pos), "</mark>", linked_line.slice(pos)].join('');
-			}
-
-			// get the title and pageno
-			var chap_index = lineno_to_chapter_index(i);
-			var title = chapters_array[chap_index].title
-			var pageno = lineno_to_pageno(i);
-
-			// add the row
-			table += 			"<tr>" +
-	                                "<td class=\"col-xs-3 chapter\">" +
-	                                	"<a class=\" result search-res-chapter\" chapter-index=\"" + chap_index + "\">" +
-	                                    title +
-	                                    "</a>" +
-	                                "</td>" +
-	                                "<td class=\"col-xs-3 line-number\">" +
-	                                    "<a class=\"result\" page=\"" + pageno + "\">" +
-	                                        i +
-	                                    "</a>" +
-	                                "</td>" +
-	                                "<td class=\"col-xs-6 line\">" +
-	                                    linked_line +
-	                                "</td>" +
-	                           "</tr>";
+			new_html += book.html;
 
 		}
 	});
 
-	// add table to DOM
-	table_body.append(table)
+	new_html += "</div></div>";
 
-	$("#occurences").text(count);
-	
-	$("#search-box").val(query);
+	book_list_html.html(new_html);
 
-
-	// link up the words
-	$(function () {
-		$("#search-results .result-word").click(function(e) {
-			var text = e.target.innerHTML.toLowerCase();
-			perform_search(text);
-		});
-	});
-
-	// link up the lines to lead to pages
-	$(function() {
-		$(".result").click(function(e) {
-			var pageno = parseInt(e.target.attributes[1].value);
-			var lineno = pageno_to_top_line(pageno);
-			current_top_line = lineno;
-			load_page(lineno);
-		});
-	});
-
-	// link up the chapters
-	$(function() {
-		$(".search-res-chapter").click(function(e) {
-	    	var i = parseInt(e.target.attributes[1].value);
-	    	load_chapter(i);
-		});
-	});
-
-	// manipulates the url
-	window.history.pushState(query, "", "?query=" + query);
-
-	load_page(current_top_line);
 }
 
-// links up the back/foward button to searches
-window.onpopstate = function(e){
-    if(e.state){
-        perform_search(e.state);
-    }
-};
-
-// attatches func for when search is performed
-$(function() {
-	$("#search-btn").click(function (e) {
-		e.preventDefault();
-		var query = $("#search-box").val().toLowerCase();
-		perform_search(query);
-	});
+// notate every keypress
+$(document).on("input", function (e) {
+    var new_search = $("#search-box").val();
+    if (old_search === new_search) return; 
+    old_search = new_search;
+    reload_book_list(new_search);
 });
-
-// link up the words to their searches
-$(function () {
-	$(".word").click(function(e) {
-		var text = e.target.innerHTML.toLowerCase();
-		perform_search(text);
-	});
-});
-
-// link up the words to their searches
-$(function () {
-	$(".link-word").click(function(e) {
-		var text = e.target.innerHTML.toLowerCase();
-		perform_search(text);
-	});
-});
-

@@ -4,13 +4,16 @@
         <title>The Hypertextual Library</title>
         
         <!-- Latest compiled and minified CSS -->
-        <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/bootstrap.min.css">
 
         <!-- jQuery library -->
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+        <script src="js/jquery.min.js"></script>
 
         <!-- Latest compiled JavaScript -->
-        <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+
+        <script src="books.js"></script>
+        <script src="index.js"></script>
         <link rel="stylesheet" href="style.css" media="screen" title="no title" charset="utf-8">
 
     </head>
@@ -28,13 +31,6 @@
                     <button type="button" class="btn btn-default" data-toggle="modal" data-target="#aboutModal">
                         About This Site
                     </button>
-                    <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Books
-                      <span class="caret"></span>
-                    </button>
-                    <ul class="dropdown-menu scrollable-menu">
-                        {dropdown}
-                    </ul>
                 </div>
             </div>
         </div>
@@ -62,10 +58,17 @@
 <!-- ******************************    Library   ************************************ -->
 
 <div class="container">
-    <div class="row">
-        <div class="row-height">
-            {book_list}
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="form-group">
+                <input type="text" id="search-box" class="form-control" placeholder="Search" autofocus tabindex="1">
+                </div>
+            </div>
         </div>
+    </div>
+    <div id="book-list" class="container">
+        {book_list}
     </div>
 </div>
 
