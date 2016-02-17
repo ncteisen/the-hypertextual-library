@@ -1,4 +1,4 @@
-Chapter 1
+-------- Chapter 1 --------
 
 
 It is a truth universally acknowledged, that a single man in possession
@@ -115,7 +115,7 @@ daughters married; its solace was visiting and news.
 
 
 
-Chapter 2
+-------- Chapter 2 --------
 
 
 Mr. Bennet was among the earliest of those who waited on Mr. Bingley. He
@@ -223,7 +223,7 @@ dinner.
 
 
 
-Chapter 3
+-------- Chapter 3 --------
 
 
 Not all that Mrs. Bennet, however, with the assistance of her five
@@ -393,7 +393,7 @@ dear, to have given him one of your set-downs. I quite detest the man."
 
 
 
-Chapter 4
+-------- Chapter 4 --------
 
 
 When Jane and Elizabeth were alone, the former, who had been cautious in
@@ -509,7 +509,7 @@ commendation to think of her as he chose.
 
 
 
-Chapter 5
+-------- Chapter 5 --------
 
 
 Within a short walk of Longbourn lived a family with whom the Bennets
@@ -622,7 +622,7 @@ would, and the argument ended only with the visit.
 
 
 
-Chapter 6
+-------- Chapter 6 --------
 
 
 The ladies of Longbourn soon waited on those of Netherfield. The visit
@@ -889,7 +889,7 @@ that all was safe, her wit flowed long.
 
 
 
-Chapter 7
+-------- Chapter 7 --------
 
 
 Mr. Bennet's property consisted almost entirely in an estate of two
@@ -1123,7 +1123,7 @@ of clothes.
 
 
 
-Chapter 8
+-------- Chapter 8 --------
 
 
 At five o'clock the two ladies retired to dress, and at half-past six
@@ -1370,7 +1370,7 @@ attention might be paid to the sick lady and her sister.
 
 
 
-Chapter 9
+-------- Chapter 9 --------
 
 
 Elizabeth passed the chief of the night in her sister's room, and in the
@@ -1564,7 +1564,7 @@ all Miss Bingley's witticisms on _fine eyes_.
 
 
 
-Chapter 10
+-------- Chapter 10 --------
 
 
 The day passed much as the day before had done. Mrs. Hurst and Miss
@@ -1843,7 +1843,7 @@ as to intend leaving her room for a couple of hours that evening.
 
 
 
-Chapter 11
+-------- Chapter 11 --------
 
 
 When the ladies removed after dinner, Elizabeth ran up to her
@@ -2029,7 +2029,7 @@ it. He began to feel the danger of paying Elizabeth too much attention.
 
 
 
-Chapter 12
+-------- Chapter 12 --------
 
 
 In consequence of an agreement between the sisters, Elizabeth wrote the
@@ -2099,7 +2099,7 @@ had actually been hinted that Colonel Forster was going to be married.
 
 
 
-Chapter 13
+-------- Chapter 13 --------
 
 
 "I hope, my dear," said Mr. Bennet to his wife, as they were at
@@ -2279,7 +2279,7 @@ quarter of an hour.
 
 
 
-Chapter 14
+-------- Chapter 14 --------
 
 
 During dinner, Mr. Bennet scarcely spoke at all; but when the servants
@@ -2399,7 +2399,7 @@ for backgammon.
 
 
 
-Chapter 15
+-------- Chapter 15 --------
 
 
 Mr. Collins was not a sensible man, and the deficiency of nature had
@@ -2562,7 +2562,7 @@ much attention in the whole course of his life.
 
 
 
-Chapter 16
+-------- Chapter 16 --------
 
 
 As no objection was made to the young people's engagement with their
@@ -2922,7 +2922,7 @@ before the carriage stopped at Longbourn House.
 
 
 
-Chapter 17
+-------- Chapter 17 --------
 
 
 Elizabeth related to Jane the next day what had passed between Mr.
@@ -3055,7 +3055,7 @@ Monday endurable to Kitty and Lydia.
 
 
 
-Chapter 18
+-------- Chapter 18 --------
 
 
 Till Elizabeth entered the drawing-room at Netherfield, and looked in
@@ -3577,7 +3577,7 @@ was eclipsed by Mr. Bingley and Netherfield.
 
 
 
-Chapter 19
+-------- Chapter 19 --------
 
 
 The next day opened a new scene at Longbourn. Mr. Collins made his
@@ -3766,7 +3766,7 @@ not be mistaken for the affectation and coquetry of an elegant female.
 
 
 
-Chapter 20
+-------- Chapter 20 --------
 
 
 Mr. Collins was not left long to the silent contemplation of his
@@ -3943,7 +3943,7 @@ has been at all reprehensible, I here beg leave to apologise."
 
 
 
-Chapter 21
+-------- Chapter 21 --------
 
 
 The discussion of Mr. Collins's offer was now nearly at an end, and
@@ -4153,7 +4153,7 @@ full courses.
 
 
 
-Chapter 22
+-------- Chapter 22 --------
 
 
 The Bennets were engaged to dine with the Lucases and again during the
@@ -4326,7 +4326,7 @@ chosen.
 
 
 
-Chapter 23
+-------- Chapter 23 --------
 
 
 Elizabeth was sitting with her mother and sisters, reflecting on what
@@ -4501,7 +4501,7 @@ Why should _he_ have it more than anybody else?"
 
 
 
-Chapter 24
+-------- Chapter 24 --------
 
 
 Miss Bingley's letter arrived, and put an end to doubt. The very first
@@ -4705,7 +4705,7 @@ Mr. Darcy was condemned as the worst of men.
 
 
 
-Chapter 25
+-------- Chapter 25 --------
 
 
 After a week spent in professions of love and schemes of felicity,
@@ -4864,7 +4864,7 @@ Darcy formerly spoken of as a very proud, ill-natured boy.
 
 
 
-Chapter 26
+-------- Chapter 26 --------
 
 
 Mrs. Gardiner's caution to Elizabeth was punctually and kindly given
@@ -5090,7 +5090,7 @@ handsome young men must have something to live on as well as the plain."
 
 
 
-Chapter 27
+-------- Chapter 27 --------
 
 
 With no greater events than these in the Longbourn family, and otherwise
@@ -5232,7 +5232,7 @@ travellers."
 
 
 
-Chapter 28
+-------- Chapter 28 --------
 
 
 Every object in the next day's journey was new and interesting to
@@ -5384,7 +5384,7 @@ to dine at Rosings the next day.
 
 
 
-Chapter 29
+-------- Chapter 29 --------
 
 
 Mr. Collins's triumph, in consequence of this invitation, was complete.
@@ -5648,7 +5648,7 @@ into his own hands.
 
 
 
-Chapter 30
+-------- Chapter 30 --------
 
 
 Sir William stayed only a week at Hunsford, but his visit was long
@@ -5770,7 +5770,7 @@ away.
 
 
 
-Chapter 31
+-------- Chapter 31 --------
 
 
 Colonel Fitzwilliam's manners were very much admired at the Parsonage,
@@ -5940,7 +5940,7 @@ ready to take them all home.
 
 
 
-Chapter 32
+-------- Chapter 32 --------
 
 
 Elizabeth was sitting by herself the next morning, and writing to Jane
@@ -6112,7 +6112,7 @@ in the church, and his cousin could have none at all.
 
 
 
-Chapter 33
+-------- Chapter 33 --------
 
 
 More than once did Elizabeth, in her ramble within the park,
@@ -6323,7 +6323,7 @@ displeased by her staying at home.
 
 
 
-Chapter 34
+-------- Chapter 34 --------
 
 
 When they were gone, Elizabeth, as if intending to exasperate herself
@@ -6544,7 +6544,7 @@ encounter Charlotte's observation, and hurried her away to her room.
 
 
 
-Chapter 35
+-------- Chapter 35 --------
 
 
 Elizabeth awoke the next morning to the same thoughts and meditations
@@ -6811,7 +6811,7 @@ morning. I will only add, God bless you.
 
 
 
-Chapter 36
+-------- Chapter 36 --------
 
 
 If Elizabeth, when Mr. Darcy gave her the letter, did not expect it to
@@ -7003,7 +7003,7 @@ longer an object; she could think only of her letter.
 
 
 
-Chapter 37
+-------- Chapter 37 --------
 
 
 The two gentlemen left Rosings the next morning, and Mr. Collins having
@@ -7148,7 +7148,7 @@ hand to both.
 
 
 
-Chapter 38
+-------- Chapter 38 --------
 
 
 On Saturday morning Elizabeth and Mr. Collins met for breakfast a few
@@ -7262,7 +7262,7 @@ further.
 
 
 
-Chapter 39
+-------- Chapter 39 --------
 
 
 It was the second week in May, in which the three young ladies set out
@@ -7426,7 +7426,7 @@ disheartened, had never yet despaired of succeeding at last.
 
 
 
-Chapter 40
+-------- Chapter 40 --------
 
 
 Elizabeth's impatience to acquaint Jane with what had happened could
@@ -7611,7 +7611,7 @@ ashamed of having one that was only entailed on me."
 
 
 
-Chapter 41
+-------- Chapter 41 --------
 
 
 The first week of their return was soon gone. The second began. It was
@@ -7860,7 +7860,7 @@ gentle adieus of her sisters were uttered without being heard.
 
 
 
-Chapter 42
+-------- Chapter 42 --------
 
 
 Had Elizabeth's opinion been all drawn from her own family, she could
@@ -8041,7 +8041,7 @@ to the scheme. To Pemberley, therefore, they were to go.
 
 
 
-Chapter 43
+-------- Chapter 43 --------
 
 
 Elizabeth, as they drove along, watched for the first appearance of
@@ -8548,7 +8548,7 @@ all, of his wishing her to be acquainted with his sister.
 
 
 
-Chapter 44
+-------- Chapter 44 --------
 
 
 Elizabeth had settled it that Mr. Darcy would bring his sister to visit
@@ -8767,7 +8767,7 @@ some of the gentlemen at Pemberley before noon.
 
 
 
-Chapter 45
+-------- Chapter 45 --------
 
 
 Convinced as Elizabeth now was that Miss Bingley's dislike of her had
@@ -8943,7 +8943,7 @@ beginning the subject.
 
 
 
-Chapter 46
+-------- Chapter 46 --------
 
 
 Elizabeth had been a good deal disappointed in not finding a letter from
@@ -9228,7 +9228,7 @@ have supposed, seated in the carriage, and on the road to Longbourn.
 
 
 
-Chapter 47
+-------- Chapter 47 --------
 
 
 "I have been thinking it over again, Elizabeth," said her uncle, as they
@@ -9655,7 +9655,7 @@ out even so much as this."
 
 
 
-Chapter 48
+-------- Chapter 48 --------
 
 
 The whole party were in hopes of a letter from Mr. Bennet the next
@@ -9887,7 +9887,7 @@ them."
 
 
 
-Chapter 49
+-------- Chapter 49 --------
 
 
 Two days after Mr. Bennet's return, as Jane and Elizabeth were walking
@@ -10146,7 +10146,7 @@ gained.
 
 
 
-Chapter 50
+-------- Chapter 50 --------
 
 
 Mr. Bennet had very often wished before this period of his life that,
@@ -10368,7 +10368,7 @@ have been the last object of her wishes.
 
 
 
-Chapter 51
+-------- Chapter 51 --------
 
 
 Their sister's wedding day arrived; and Jane and Elizabeth felt for her
@@ -10583,7 +10583,7 @@ satisfaction, she had rather be without a confidante.
 
 
 
-Chapter 52
+-------- Chapter 52 --------
 
 
 Elizabeth had the satisfaction of receiving an answer to her letter as
@@ -10904,7 +10904,7 @@ he hardly knew how to look, and they entered the house.
 
 
 
-Chapter 53
+-------- Chapter 53 --------
 
 
 Mr. Wickham was so perfectly satisfied with this conversation that he
@@ -11223,7 +11223,7 @@ of one who had ten thousand a year.
 
 
 
-Chapter 54
+-------- Chapter 54 --------
 
 
 As soon as they were gone, Elizabeth walked out to recover her spirits;
@@ -11410,7 +11410,7 @@ me; and if you persist in indifference, do not make me your confidante."
 
 
 
-Chapter 55
+-------- Chapter 55 --------
 
 
 A few days after this visit, Mr. Bingley called again, and alone. His
@@ -11678,7 +11678,7 @@ they had been generally proved to be marked out for misfortune.
 
 
 
-Chapter 56
+-------- Chapter 56 --------
 
 
 One morning, about a week after Bingley's engagement with Jane had been
@@ -12008,7 +12008,7 @@ acknowledge the substance of their conversation was impossible.
 
 
 
-Chapter 57
+-------- Chapter 57 --------
 
 
 The discomposure of spirits which this extraordinary visit threw
@@ -12185,7 +12185,7 @@ his seeing too little, she might have fancied too much.
 
 
 
-Chapter 58
+-------- Chapter 58 --------
 
 
 Instead of receiving any such letter of excuse from his friend, as
@@ -12453,7 +12453,7 @@ parted.
 
 
 
-Chapter 59
+-------- Chapter 59 --------
 
 
 "My dear Lizzy, where can you have been walking to?" was a question
@@ -12726,7 +12726,7 @@ as Jane's."
 
 
 
-Chapter 60
+-------- Chapter 60 --------
 
 
 Elizabeth's spirits soon rising to playfulness again, she wanted Mr.
@@ -12898,7 +12898,7 @@ Pemberley.
 
 
 
-Chapter 61
+-------- Chapter 61 --------
 
 
 Happy for all her maternal feelings was the day on which Mrs. Bennet got

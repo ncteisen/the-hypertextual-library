@@ -348,9 +348,6 @@ Eliza resumed:
 "Wide-awake and laughing-like to himself.... So then, of course, when
  they saw that, that made them think that there was something gone wrong
  with him...."
-
-
-
 -------- An Encounter --------
 
 
@@ -655,9 +652,6 @@ My voice had an accent of forced bravery in it and I was ashamed of my
  hallooed in answer. How my heart beat as he came running across the
  field to me! He ran as if to bring me aid. And I was penitent; for in my
  heart I had always despised him a little.
-
-
-
 -------- Araby --------
 
 
@@ -889,9 +883,6 @@ I lingered before her stall, though I knew my stay was useless, to make
 
 Gazing up into the darkness I saw myself as a creature driven and derided
  by vanity; and my eyes burned with anguish and anger.
-
-
-
 -------- Eveline --------
 
 
@@ -1076,9 +1067,6 @@ He rushed beyond the barrier and called to her to follow. He was shouted
  at to go on but he still called to her. She set her white face to him,
  passive, like a helpless animal. Her eyes gave him no sign of love or
  farewell or recognition.
-
-
-
 -------- After The Race --------
 
 
@@ -1296,9 +1284,6 @@ He knew that he would regret in the morning but at present he was glad of
  Hungarian standing in a shaft of grey light:
 
 "Daybreak, gentlemen!"
-
-
-
 -------- Two Gallants --------
 
 
@@ -1739,9 +1724,6 @@ Corley halted at the first lamp and stared grimly before him. Then with a
  grave gesture he extended a hand towards the light and, smiling, opened
  it slowly to the gaze of his disciple. A small gold coin shone in the
  palm.
-
-
-
 -------- The Boarding House --------
 
 
@@ -2012,9 +1994,6 @@ At last she heard her mother calling. She started to her feet and ran to
 "Come down, dear. Mr Doran wants to speak to you."
 
 Then she remembered what she had been waiting for.
-
-
-
 -------- A Little Cloud --------
 
 
@@ -2604,9 +2583,6 @@ Giving no heed to him she began to walk up and down the room, clasping
 Little Chandler felt his cheeks suffused with shame and he stood back out
  of the lamplight. He listened while the paroxysm of the child's sobbing
  grew less and less; and tears of remorse started to his eyes.
-
-
-
 -------- Counterparts --------
 
 
@@ -3049,9 +3025,6 @@ The boy uttered a squeal of pain as the stick cut his thigh. He clasped
 "O, pa!" he cried. "Don't beat me, pa! And I'll ... I'll say a Hail Mary
  for you.... I'll say a Hail Mary for you, pa, if you don't beat me....
  I'll say a Hail Mary...."
-
-
-
 -------- Clay --------
 
 
@@ -3293,9 +3266,6 @@ But no one tried to show her her mistake; and when she had ended her song
  might say; and his eyes filled up so much with tears that he could not
  find what he was looking for and in the end he had to ask his wife to
  tell him where the corkscrew was.
-
-
-
 -------- A Painful Case --------
 
 
@@ -3643,9 +3613,6 @@ He turned back the way he had come, the rhythm of the engine pounding in
  for some minutes listening. He could hear nothing: the night was
  perfectly silent. He listened again: perfectly silent. He felt that he
  was alone.
-
-
-
 -------- Ivy Day In The Committee Room --------
 
 
@@ -4465,9 +4432,6 @@ Pok! The cork flew out of Mr Hynes' bottle, but Mr Hynes remained sitting
  What?"
 
 Mr Crofton said that it was a very fine piece of writing.
-
-
-
 -------- A Mother --------
 
 
@@ -4948,9 +4912,6 @@ Kathleen followed her mother meekly. Mr Holohan began to pace up and down
 
 "You did the proper thing, Holohan," said Mr O'Madden Burke, poised upon
  his umbrella in approval.
-
-
-
 -------- Grace --------
 
 
@@ -6007,9 +5968,6 @@ But if, as might happen, there were some discrepancies, to admit the
 "Well, I have looked into my accounts. I find this wrong and this wrong.
  But, with God's grace, I will rectify this and this. I will set right my
  accounts."
-
-
-
 
 
 
@@ -7907,4 +7865,5 @@ A few light taps upon the pane made him turn to the window. It had begun
  crooked crosses and headstones, on the spears of the little gate, on the
  barren thorns. His soul swooned slowly as he heard the snow falling
  faintly through the universe and faintly falling, like the descent of
- their last end, upon all the living and the dead.`;
+ their last end, upon all the living and the dead.
+`;

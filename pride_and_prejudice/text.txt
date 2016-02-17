@@ -112,9 +112,6 @@ was less difficult to develop. She was a woman of mean understanding,
 little information, and uncertain temper. When she was discontented,
 she fancied herself nervous. The business of her life was to get her
 daughters married; its solace was visiting and news.
-
-
-
 -------- Chapter 2 --------
 
 
@@ -220,9 +217,6 @@ youngest, I'm the tallest."
 The rest of the evening was spent in conjecturing how soon he would
 return Mr. Bennet's visit, and determining when they should ask him to
 dinner.
-
-
-
 -------- Chapter 3 --------
 
 
@@ -390,9 +384,6 @@ all worth pleasing. So high and so conceited that there was no enduring
 him! He walked here, and he walked there, fancying himself so very
 great! Not handsome enough to dance with! I wish you had been there, my
 dear, to have given him one of your set-downs. I quite detest the man."
-
-
-
 -------- Chapter 4 --------
 
 
@@ -506,9 +497,6 @@ her and liked her, and pronounced her to be a sweet girl, and one
 whom they would not object to know more of. Miss Bennet was therefore
 established as a sweet girl, and their brother felt authorized by such
 commendation to think of her as he chose.
-
-
-
 -------- Chapter 5 --------
 
 
@@ -619,9 +607,6 @@ directly."
 
 The boy protested that she should not; she continued to declare that she
 would, and the argument ended only with the visit.
-
-
-
 -------- Chapter 6 --------
 
 
@@ -886,9 +871,6 @@ and, of course, she will always be at Pemberley with you."
 He listened to her with perfect indifference while she chose to
 entertain herself in this manner; and as his composure convinced her
 that all was safe, her wit flowed long.
-
-
-
 -------- Chapter 7 --------
 
 
@@ -1120,9 +1102,6 @@ of the chaise to an invitation to remain at Netherfield for the present.
 Elizabeth most thankfully consented, and a servant was dispatched to
 Longbourn to acquaint the family with her stay and bring back a supply
 of clothes.
-
-
-
 -------- Chapter 8 --------
 
 
@@ -1367,9 +1346,6 @@ declared that they were miserable. They solaced their wretchedness,
 however, by duets after supper, while he could find no better relief
 to his feelings than by giving his housekeeper directions that every
 attention might be paid to the sick lady and her sister.
-
-
-
 -------- Chapter 9 --------
 
 
@@ -1561,9 +1537,6 @@ instantly to Jane, leaving her own and her relations' behaviour to the
 remarks of the two ladies and Mr. Darcy; the latter of whom, however,
 could not be prevailed on to join in their censure of _her_, in spite of
 all Miss Bingley's witticisms on _fine eyes_.
-
-
-
 -------- Chapter 10 --------
 
 
@@ -1840,9 +1813,6 @@ fourth. Good-bye."
 She then ran gaily off, rejoicing as she rambled about, in the hope of
 being at home again in a day or two. Jane was already so much recovered
 as to intend leaving her room for a couple of hours that evening.
-
-
-
 -------- Chapter 11 --------
 
 
@@ -2026,9 +1996,6 @@ waking Mr. Hurst?"
 Her sister had not the smallest objection, and the pianoforte was
 opened; and Darcy, after a few moments' recollection, was not sorry for
 it. He began to feel the danger of paying Elizabeth too much attention.
-
-
-
 -------- Chapter 12 --------
 
 
@@ -2096,9 +2063,6 @@ for them of a different sort. Much had been done and much had been said
 in the regiment since the preceding Wednesday; several of the officers
 had dined lately with their uncle, a private had been flogged, and it
 had actually been hinted that Colonel Forster was going to be married.
-
-
-
 -------- Chapter 13 --------
 
 
@@ -2276,9 +2240,6 @@ good cook, and that her daughters had nothing to do in the kitchen. He
 begged pardon for having displeased her. In a softened tone she declared
 herself not at all offended; but he continued to apologise for about a
 quarter of an hour.
-
-
-
 -------- Chapter 14 --------
 
 
@@ -2396,9 +2357,6 @@ resume his book; but Mr. Collins, after assuring them that he bore his
 young cousin no ill-will, and should never resent her behaviour as any
 affront, seated himself at another table with Mr. Bennet, and prepared
 for backgammon.
-
-
-
 -------- Chapter 15 --------
 
 
@@ -2559,9 +2517,6 @@ pointedly included him in her invitation for the next evening, although
 utterly unknown to her before. Something, he supposed, might be
 attributed to his connection with them, but yet he had never met with so
 much attention in the whole course of his life.
-
-
-
 -------- Chapter 16 --------
 
 
@@ -2919,9 +2874,6 @@ Mrs. Phillips, protesting that he did not in the least regard his losses
 at whist, enumerating all the dishes at supper, and repeatedly fearing
 that he crowded his cousins, had more to say than he could well manage
 before the carriage stopped at Longbourn House.
-
-
-
 -------- Chapter 17 --------
 
 
@@ -3052,9 +3004,6 @@ found some trial of her patience in weather which totally suspended the
 improvement of her acquaintance with Mr. Wickham; and nothing less than
 a dance on Tuesday, could have made such a Friday, Saturday, Sunday, and
 Monday endurable to Kitty and Lydia.
-
-
-
 -------- Chapter 18 --------
 
 
@@ -3574,9 +3523,6 @@ with equal certainty, and with considerable, though not equal, pleasure.
 Elizabeth was the least dear to her of all her children; and though the
 man and the match were quite good enough for _her_, the worth of each
 was eclipsed by Mr. Bingley and Netherfield.
-
-
-
 -------- Chapter 19 --------
 
 
@@ -3763,9 +3709,6 @@ he persisted in considering her repeated refusals as flattering
 encouragement, to apply to her father, whose negative might be uttered
 in such a manner as to be decisive, and whose behaviour at least could
 not be mistaken for the affectation and coquetry of an elegant female.
-
-
-
 -------- Chapter 20 --------
 
 
@@ -3940,9 +3883,6 @@ liable to error. I have certainly meant well through the whole affair.
 My object has been to secure an amiable companion for myself, with due
 consideration for the advantage of all your family, and if my _manner_
 has been at all reprehensible, I here beg leave to apologise."
-
-
-
 -------- Chapter 21 --------
 
 
@@ -4150,9 +4090,6 @@ Bingley would be soon down again and soon dining at Longbourn, and the
 conclusion of all was the comfortable declaration, that though he had
 been invited only to a family dinner, she would take care to have two
 full courses.
-
-
-
 -------- Chapter 22 --------
 
 
@@ -4323,9 +4260,6 @@ most humiliating picture! And to the pang of a friend disgracing herself
 and sunk in her esteem, was added the distressing conviction that it
 was impossible for that friend to be tolerably happy in the lot she had
 chosen.
-
-
-
 -------- Chapter 23 --------
 
 
@@ -4498,9 +4432,6 @@ daughters, I cannot understand; and all for the sake of Mr. Collins too!
 Why should _he_ have it more than anybody else?"
 
 "I leave it to yourself to determine," said Mr. Bennet.
-
-
-
 -------- Chapter 24 --------
 
 
@@ -4702,9 +4633,6 @@ any extenuating circumstances in the case, unknown to the society
 of Hertfordshire; her mild and steady candour always pleaded for
 allowances, and urged the possibility of mistakes--but by everybody else
 Mr. Darcy was condemned as the worst of men.
-
-
-
 -------- Chapter 25 --------
 
 
@@ -4861,9 +4789,6 @@ treatment of him, she tried to remember some of that gentleman's
 reputed disposition when quite a lad which might agree with it, and
 was confident at last that she recollected having heard Mr. Fitzwilliam
 Darcy formerly spoken of as a very proud, ill-natured boy.
-
-
-
 -------- Chapter 26 --------
 
 
@@ -5087,9 +5012,6 @@ Importance may sometimes be purchased too dearly. Kitty and Lydia take
 his defection much more to heart than I do. They are young in the
 ways of the world, and not yet open to the mortifying conviction that
 handsome young men must have something to live on as well as the plain."
-
-
-
 -------- Chapter 27 --------
 
 
@@ -5229,9 +5151,6 @@ imaginations; nor when we attempt to describe any particular scene,
 will we begin quarreling about its relative situation. Let _our_
 first effusions be less insupportable than those of the generality of
 travellers."
-
-
-
 -------- Chapter 28 --------
 
 
@@ -5381,9 +5300,6 @@ the others returned into the house. Mr. Collins no sooner saw the two
 girls than he began to congratulate them on their good fortune, which
 Charlotte explained by letting them know that the whole party was asked
 to dine at Rosings the next day.
-
-
-
 -------- Chapter 29 --------
 
 
@@ -5645,9 +5561,6 @@ Charlotte's sake, she made more favourable than it really was. But her
 commendation, though costing her some trouble, could by no means satisfy
 Mr. Collins, and he was very soon obliged to take her ladyship's praise
 into his own hands.
-
-
-
 -------- Chapter 30 --------
 
 
@@ -5767,9 +5680,6 @@ the Bingleys and Jane, and she thought he looked a little confused as he
 answered that he had never been so fortunate as to meet Miss Bennet. The
 subject was pursued no farther, and the gentlemen soon afterwards went
 away.
-
-
-
 -------- Chapter 31 --------
 
 
@@ -5937,9 +5847,6 @@ with them many instructions on execution and taste. Elizabeth received
 them with all the forbearance of civility, and, at the request of the
 gentlemen, remained at the instrument till her ladyship's carriage was
 ready to take them all home.
-
-
-
 -------- Chapter 32 --------
 
 
@@ -6109,9 +6016,6 @@ Colonel Fitzwilliam. He was beyond comparison the most pleasant man; he
 certainly admired her, and his situation in life was most eligible; but,
 to counterbalance these advantages, Mr. Darcy had considerable patronage
 in the church, and his cousin could have none at all.
-
-
-
 -------- Chapter 33 --------
 
 
@@ -6320,9 +6224,6 @@ seeing that she was really unwell, did not press her to go and as much
 as possible prevented her husband from pressing her; but Mr. Collins
 could not conceal his apprehension of Lady Catherine's being rather
 displeased by her staying at home.
-
-
-
 -------- Chapter 34 --------
 
 
@@ -6541,9 +6442,6 @@ overcame the pity which the consideration of his attachment had for
 a moment excited. She continued in very agitated reflections till the
 sound of Lady Catherine's carriage made her feel how unequal she was to
 encounter Charlotte's observation, and hurried her away to her room.
-
-
-
 -------- Chapter 35 --------
 
 
@@ -6808,9 +6706,6 @@ opportunity of putting this letter in your hands in the course of the
 morning. I will only add, God bless you.
 
 "FITZWILLIAM DARCY"
-
-
-
 -------- Chapter 36 --------
 
 
@@ -7000,9 +6895,6 @@ an hour, hoping for her return, and almost resolving to walk after her
 till she could be found. Elizabeth could but just _affect_ concern
 in missing him; she really rejoiced at it. Colonel Fitzwilliam was no
 longer an object; she could think only of her letter.
-
-
-
 -------- Chapter 37 --------
 
 
@@ -7145,9 +7037,6 @@ When they parted, Lady Catherine, with great condescension, wished them
 a good journey, and invited them to come to Hunsford again next year;
 and Miss de Bourgh exerted herself so far as to curtsey and hold out her
 hand to both.
-
-
-
 -------- Chapter 38 --------
 
 
@@ -7259,9 +7148,6 @@ in which she remained as to the extent of what she should communicate;
 and her fear, if she once entered on the subject, of being hurried
 into repeating something of Bingley which might only grieve her sister
 further.
-
-
-
 -------- Chapter 39 --------
 
 
@@ -7423,9 +7309,6 @@ frequent discussion between her parents. Elizabeth saw directly that her
 father had not the smallest intention of yielding; but his answers were
 at the same time so vague and equivocal, that her mother, though often
 disheartened, had never yet despaired of succeeding at last.
-
-
-
 -------- Chapter 40 --------
 
 
@@ -7608,9 +7491,6 @@ quite their own, I dare say, whenever that happens."
 often talk of it between themselves. Well, if they can be easy with an
 estate that is not lawfully their own, so much the better. I should be
 ashamed of having one that was only entailed on me."
-
-
-
 -------- Chapter 41 --------
 
 
@@ -7857,9 +7737,6 @@ opportunity of enjoying herself as much as possible--advice which
 there was every reason to believe would be well attended to; and in
 the clamorous happiness of Lydia herself in bidding farewell, the more
 gentle adieus of her sisters were uttered without being heard.
-
-
-
 -------- Chapter 42 --------
 
 
@@ -8038,9 +7915,6 @@ curiosity to see the house herself; and when the subject was revived the
 next morning, and she was again applied to, could readily answer, and
 with a proper air of indifference, that she had not really any dislike
 to the scheme. To Pemberley, therefore, they were to go.
-
-
-
 -------- Chapter 43 --------
 
 
@@ -8545,9 +8419,6 @@ The occurrences of the day were too full of interest to leave Elizabeth
 much attention for any of these new friends; and she could do nothing
 but think, and think with wonder, of Mr. Darcy's civility, and, above
 all, of his wishing her to be acquainted with his sister.
-
-
-
 -------- Chapter 44 --------
 
 
@@ -8764,9 +8635,6 @@ she asked herself the reason, she had very little to say in reply.
 Mr. Gardiner left them soon after breakfast. The fishing scheme had been
 renewed the day before, and a positive engagement made of his meeting
 some of the gentlemen at Pemberley before noon.
-
-
-
 -------- Chapter 45 --------
 
 
@@ -8940,9 +8808,6 @@ of his sister, his friends, his house, his fruit--of everything but
 himself; yet Elizabeth was longing to know what Mrs. Gardiner thought of
 him, and Mrs. Gardiner would have been highly gratified by her niece's
 beginning the subject.
-
-
-
 -------- Chapter 46 --------
 
 
@@ -9225,9 +9090,6 @@ Gardiner meanwhile having settled his account at the inn, nothing
 remained to be done but to go; and Elizabeth, after all the misery of
 the morning, found herself, in a shorter space of time than she could
 have supposed, seated in the carriage, and on the road to Longbourn.
-
-
-
 -------- Chapter 47 --------
 
 
@@ -9652,9 +9514,6 @@ to find out the stand and number of the coach. I do not know of any
 other designs that he had formed; but he was in such a hurry to be gone,
 and his spirits so greatly discomposed, that I had difficulty in finding
 out even so much as this."
-
-
-
 -------- Chapter 48 --------
 
 
@@ -9884,9 +9743,6 @@ Kitty, who took all these threats in a serious light, began to cry.
 "Well, well," said he, "do not make yourself unhappy. If you are a good
 girl for the next ten years, I will take you to a review at the end of
 them."
-
-
-
 -------- Chapter 49 --------
 
 
@@ -10143,9 +9999,6 @@ looking forward, neither rational happiness nor worldly prosperity could
 be justly expected for her sister, in looking back to what they had
 feared, only two hours ago, she felt all the advantages of what they had
 gained.
-
-
-
 -------- Chapter 50 --------
 
 
@@ -10365,9 +10218,6 @@ the ceremony was over, they should proceed to Longbourn. Elizabeth was
 surprised, however, that Wickham should consent to such a scheme, and
 had she consulted only her own inclination, any meeting with him would
 have been the last object of her wishes.
-
-
-
 -------- Chapter 51 --------
 
 
@@ -10580,9 +10430,6 @@ Jane's delicate sense of honour would not allow her to speak to
 Elizabeth privately of what Lydia had let fall; Elizabeth was glad
 of it;--till it appeared whether her inquiries would receive any
 satisfaction, she had rather be without a confidante.
-
-
-
 -------- Chapter 52 --------
 
 
@@ -10901,9 +10748,6 @@ mind."
 
 She held out her hand; he kissed it with affectionate gallantry, though
 he hardly knew how to look, and they entered the house.
-
-
-
 -------- Chapter 53 --------
 
 
@@ -11220,9 +11064,6 @@ there that day; but, though she always kept a very good table, she did
 not think anything less than two courses could be good enough for a man
 on whom she had such anxious designs, or satisfy the appetite and pride
 of one who had ten thousand a year.
-
-
-
 -------- Chapter 54 --------
 
 
@@ -11407,9 +11248,6 @@ acknowledge?"
 "That is a question which I hardly know how to answer. We all love to
 instruct, though we can teach only what is not worth knowing. Forgive
 me; and if you persist in indifference, do not make me your confidante."
-
-
-
 -------- Chapter 55 --------
 
 
@@ -11675,9 +11513,6 @@ neighbours in Meryton.
 The Bennets were speedily pronounced to be the luckiest family in the
 world, though only a few weeks before, when Lydia had first run away,
 they had been generally proved to be marked out for misfortune.
-
-
-
 -------- Chapter 56 --------
 
 
@@ -12005,9 +11840,6 @@ nothing particular to say to you, Lizzy?"
 
 Elizabeth was forced to give into a little falsehood here; for to
 acknowledge the substance of their conversation was impossible.
-
-
-
 -------- Chapter 57 --------
 
 
@@ -12182,9 +12014,6 @@ would rather have cried. Her father had most cruelly mortified her, by
 what he said of Mr. Darcy's indifference, and she could do nothing but
 wonder at such a want of penetration, or fear that perhaps, instead of
 his seeing too little, she might have fancied too much.
-
-
-
 -------- Chapter 58 --------
 
 
@@ -12450,9 +12279,6 @@ and it was rather too early to begin. In anticipating the happiness
 of Bingley, which of course was to be inferior only to his own, he
 continued the conversation till they reached the house. In the hall they
 parted.
-
-
-
 -------- Chapter 59 --------
 
 
@@ -12723,9 +12549,6 @@ every hour in his esteem.
 "I admire all my three sons-in-law highly," said he. "Wickham, perhaps,
 is my favourite; but I think I shall like _your_ husband quite as well
 as Jane's."
-
-
-
 -------- Chapter 60 --------
 
 
@@ -12895,9 +12718,6 @@ added to the hope of the future; and she looked forward with delight to
 the time when they should be removed from society so little pleasing
 to either, to all the comfort and elegance of their family party at
 Pemberley.
-
-
-
 -------- Chapter 61 --------
 
 
