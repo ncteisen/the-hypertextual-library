@@ -143,7 +143,7 @@ function is_title(line) {
 }
 
 function set_title(title) {
-	var linkified = "<a class=\"word\">" + title.split(/ -/).join("</a> <a class=\"word\">") + "</a>";
+	var linkified = "<a class=\"word\">" + title.split(/[ -]/).join("</a> <a class=\"word\">") + "</a>";
 	$("#chapter-title").html(linkified);
 
 	$(function () {
@@ -229,7 +229,7 @@ function perform_search(dirty_query) {
 	// regex magic
 	var query_regex = new RegExp("\\b" + query + "\\b", "gi")
 
-	var punctuation = String.raw`[\.,"':!\?\(\)-]?`;
+	var punctuation = String.raw`[\.,"':!\?\(\)-]{0,2}`;
 	var linked_query = "<a class=\"result-word\">" + query.split(" ").join(punctuation + "</a> <a class=\"result-word\">") + punctuation + "</a>";
 	current_linked_query_regex = new RegExp(linked_query, "gi");
 

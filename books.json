@@ -44,6 +44,11 @@
 			"title" : "Alice's Adventures in Wonderland",
 			"author" : "Lewis Carroll",
 			"uniquename" : "alice"
+		},
+		{
+			"title" : "The Adventures of Sherlock Holmes",
+			"author" : "Arthur Conan Doyle",
+			"uniquename" : "sherlock_holmes"	
 		}
 	]
 }
