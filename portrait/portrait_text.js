@@ -1,6 +1,4 @@
-
-raw_text = String.raw`
--------- Epigraph -------- 
+raw_text = String.raw`-------- Epigraph -------- 
 
 "Et ignotas animum dimittit in artes." Ovid, Metamorphoses, VIII., 18.
 
@@ -9782,5 +9780,4 @@ APRIL 27. Old father, old artificer, stand me now and ever in good
 
 
 Dublin, 1904
-Trieste, 1914
-`;
+Trieste, 1914`;

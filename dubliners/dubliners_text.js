@@ -1,6 +1,4 @@
-raw_text = String.raw`
--------- The Sisters --------
-
+raw_text = String.raw`-------- The Sisters --------
 
 
 THERE was no hope for him this time: it was the third stroke. Night after
@@ -7909,5 +7907,4 @@ A few light taps upon the pane made him turn to the window. It had begun
  crooked crosses and headstones, on the spears of the little gate, on the
  barren thorns. His soul swooned slowly as he heard the snow falling
  faintly through the universe and faintly falling, like the descent of
- their last end, upon all the living and the dead.
-`;
+ their last end, upon all the living and the dead.`;

@@ -1,7 +1,4 @@
-
-// The entire text of ulysses, made into a js string
-raw_text = String.raw`
---------  Telemachus -------- 
+raw_text = String.raw`--------  Telemachus -------- 
 
 STATELY, PLUMP BUCK MULLIGAN CAME FROM THE STAIRHEAD, bearing a bowl of
 lather on which a mirror and a razor lay crossed. A yellow dressinggown,
@@ -32359,5 +32356,4 @@ under the Moorish wall and I thought well as well him as another and then
 I asked him with my eyes to ask again yes and then he asked me would I
 yes to say yes my mountain flower and first I put my arms around him yes
 and drew him down to me so he could feel my breasts all perfume yes and
-his heart was going like mad and yes I said yes I will Yes.
-`;
+his heart was going like mad and yes I said yes I will Yes.`;

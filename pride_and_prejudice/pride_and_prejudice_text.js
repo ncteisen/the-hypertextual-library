@@ -1,5 +1,4 @@
-raw_text = String.raw`
--------- Chapter 1 --------
+raw_text = String.raw`-------- Chapter 1 --------
 
 
 It is a truth universally acknowledged, that a single man in possession

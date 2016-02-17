@@ -1,0 +1,211 @@
+<html>
+
+    <head>
+        <title>Hypertextual Literature</title>
+        
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="../css/bootstrap.min.css">
+
+        <!-- jQuery library -->
+        <script src="../js/jquery.min.js"></script>
+
+        <!-- Latest compiled JavaScript -->
+        <script src="../js/bootstrap.min.js"></script>
+
+        <!-- personal style -->
+        <link rel="stylesheet" href="../style.css" media="screen" title="no title" charset="utf-8">
+
+    </head>
+
+
+    <body>
+
+    <div class="se-pre-con"></div>
+
+<!-- *********************************    Navbar   ************************************ -->
+
+        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container top">
+                <div class="btn-group pull-right">
+                    <a href="../" type="button" class="btn btn-default">
+                        Back to the Library
+                    </a>
+                    <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      Chapters
+                      <span class="caret"></span>
+                    </button>
+                    <ul class="dropdown-menu scrollable-menu">
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+<!-- *********************************    Title   ************************************ -->
+
+        <div class="row">
+            <div class="col-12">
+                <div class="filler"></div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <div class="jumbotron">
+                    <h1> 
+                        <a class="word">Narrative</a> <a class="word">of</a> <a class="word">the</a> <a class="word">Life</a> <a class="word">of</a> <a class="word">Frederick</a> <a class="word">Douglass,</a> <a class="word">an</a> <a class="word">American</a> <a class="word">Slave</a> <a class="word"></a>
+                    </h1>
+                    <h4>
+                        <a class="word">Frederick</a> <a class="word">Douglass</a> <a class="word"></a>
+                    </h4>
+                </div>
+            </div>
+        </div>
+
+<!-- ******************************    Page View   ************************************ -->
+
+        <div class="row">
+        <div class="col-xs-6" id="page">
+        <div class="row">
+            <div class="col-xs-12 text-center">
+                <h4 id="chapter-title"> Chapter Title </h4>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-4 text-left">
+                <nav>
+                    <ul class="pagination">
+                        <li class="active">
+                            <a class="last" aria-label="Previous">
+                                <span aria-hidden="true">&laquo;</span>
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+            <div class="col-xs-4 page_number text-center" page="1">
+            </div>
+            <div class="col-xs-4 text-right">
+                <nav>
+                    <ul class="pagination">
+                        <li class="active">
+                            <a class="next" aria-label="Previous">
+                                <span aria-hidden="true">&raquo;</span>
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-6" id="page-text">
+                
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-6 text-left">
+                <nav>
+                    <ul class="pagination">
+                        <li class="active">
+                            <a class="last" aria-label="Previous">
+                                <span aria-hidden="true">&laquo;</span>
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+            <div class="col-xs-6 text-right">
+                <nav>
+                    <ul class="pagination">
+                        <li class="active">
+                            <a class="next" aria-label="Previous">
+                                <span aria-hidden="true">&raquo;</span>
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12 text-center page_number">
+            </div>
+        </div>
+        </div>
+
+
+<!-- *********************************    Search Results   ************************************ -->
+
+
+        <div class="col-xs-6" id="search-results">
+            <div class="row">
+                <div class="col-xs-12">
+                    <h4> <a class="word">Welcome</a> <a class="word">to</a> <a class="word">Hypertextual</a> <a class="word">Literature</a>. <a class="word">Click</a> <a class="word">on</a> <a class="word">any</a> <a class="word">word</a> <a class="word">to</a> <a class="word">see</a> <a class="word">where</a> <a class="word">else</a> <a class="word">it</a> <a class="word">occurs</a> <a class="word">in</a> <a class="word">the</a> <a class="word">book,</a> <a class="word">search</a> <a class="word">for</a> <a class="word">a</a> <a class="word">word</a> <a class="word">below</a>, <a class="word">or</a> <a class="word">pick</a> <a class="word">a</a> <a class="word">chapter</a> <a class="word">to</a> <a class="word">skip</a> <a class="word">to</a>.</h4>
+                </div>
+            </div>
+            <form>
+            <div class="row">
+                <div class="col-xs-10">
+                    <div class="form-group">
+                    <input type="text" class="form-control" placeholder="Search" id="search-box" autofocus tabindex="1">
+                    </div>
+                </div>
+                <div class="col-xs-2">
+                    <button type="submit" class="btn btn-default" id="search-btn"><span class="glyphicon glyphicon-search" tabindex="2"></span></button>
+                </div>
+            </div>
+            </form>
+            <div class="row" id="search-img">
+                <div class="col-xs-12">
+                    <img src="frederick_douglass.jpg" class="img-rounded" alt="Ulysses" width="550" height="725">
+                </div>
+            </div>
+            <div class="row" id="result-table-header">
+                <div class="col-12">
+                    <h2>
+                        <small><a class="new-word">Showing</a> <a class="new-word">results</a> <a class="new-word">for:</a> <a class="new-word" id="search-term"></a></small>
+                        <h5>
+                            <a id="occurences" class="num"></a> <a class="new-word">occurences</a>
+                        </h5>
+                    </h2>
+                </div>
+            </div>
+            <div class="row" id="result-table">
+                <div class="col-6">
+                    <table class="table table-fixed affix-top">
+                        <thead>
+                        <tr>
+                            <th class="col-xs-3 chapter">
+                                Chapter
+                            </th>
+                            <th class="col-xs-3 line-number">
+                                Line
+                            </th>
+                            <th class="col-xs-6 line">
+                            </th>
+                        </tr>
+                        </thead>
+                        <tbody id="table-body">
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        </div>
+
+        <script src="frederick_douglass_text.js"></script>
+        <script src="../book-page-search.js"></script>
+
+<!-- *********************************    Footer    ************************************ -->
+
+        <div class="row">
+            <div class="col-12 text-center">
+                <footer>
+                    <h6>
+                        <a class="word">Hyptertextual</a> <a class="word">Literature</a>. <a class="word">Made</a> <a class="word">by</a> <a class="link-word" href="http://noaheisen.com/" target="_">Noah</a> <a class="link-word" href="http://noaheisen.com/" target="_">Eisen</a> <a class="word">and</a> <a class="link-word" href="https://www.linkedin.com/in/robert-rose-b4a98b104?authType=NAME_SEARCH&authToken=_mX-&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A444351658%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1454427639364%2Ctas%3Arobe" target="_">Robert</a> <a class="link-word" href="https://www.linkedin.com/in/robert-rose-b4a98b104?authType=NAME_SEARCH&authToken=_mX-&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A444351658%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1454427639364%2Ctas%3Arobe" target="_">Rose</a>
+                    </h6>
+                </footer>
+            </div>
+        </div>
+
+    </body>
+</html>

@@ -1,5 +1,4 @@
-raw_text = String.raw`
--------- Book 1: Chapter I --------
+raw_text = String.raw`-------- Book 1: Chapter I --------
 
 "Well, Prince, so Genoa and Lucca are now just family estates of the
 Buonapartes. But I warn you, if you don't tell me that this means war,

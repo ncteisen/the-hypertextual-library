@@ -49,6 +49,26 @@
 			"title" : "The Adventures of Sherlock Holmes",
 			"author" : "Arthur Conan Doyle",
 			"uniquename" : "sherlock_holmes"	
+		},
+		{
+			"title" : "The Yellow Wallpaper",
+			"author" : "Charlotte Perkins Gilman",
+			"uniquename" : "yellow_wallpaper"
+		},
+		{
+			"title" : "The Adventures of Huckleberry Finn",
+			"author" : "Mark Twain",
+			"uniquename" : "huck_finn"
+		},
+		{
+			"title" : "Frankenstein",
+			"author" : "Mary Shelly",
+			"uniquename" : "frankenstein"
+		},
+		{
+			"title" : "Narrative of the Life of Frederick Douglass, an American Slave",
+			"author" : "Frederick Douglass",
+			"uniquename" : "frederick_douglass"
 		}
 	]
 }

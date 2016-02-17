@@ -211,7 +211,7 @@ function pageno_to_top_line(pageno) {
 
 function perform_search(dirty_query) {
 
-	var query = dirty_query.replace(/^[.,"':!?()-]+|[.,"':!?()-]+$/g, "");
+	var query = dirty_query.replace(/^[.,"':;!?()_-]+|[.,"';:!?()_-]+$/g, "");
 
 	if (! /\S/.test(query)) {
 		return;
@@ -226,10 +226,11 @@ function perform_search(dirty_query) {
  
 	var table_body = $("#table-body");
 
-	// regex magic
-	var query_regex = new RegExp("\\b" + query + "\\b", "gi")
+	var punctuation = String.raw`[\.,"':;!\?\(\)\_-]{0,2}`;
 
-	var punctuation = String.raw`[\.,"':!\?\(\)-]{0,2}`;
+	// regex magic
+	var query_regex = new RegExp("\\b" + punctuation + query + punctuation + "\\b", "gi")
+
 	var linked_query = "<a class=\"result-word\">" + query.split(" ").join(punctuation + "</a> <a class=\"result-word\">") + punctuation + "</a>";
 	current_linked_query_regex = new RegExp(linked_query, "gi");
 
