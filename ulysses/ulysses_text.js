@@ -1124,8 +1124,6 @@ the curve he waved his hand. It called again. A sleek brown head, a
 seal's, far out on the water, round.
 
 Usurper.
-
-
 --------  Nestor --------
 
 
@@ -1802,8 +1800,6 @@ stamped on gaitered feet over the gravel of the path. That's why.
 
 On his wise shoulders through the checkerwork of leaves the sun flung
 spangles, dancing coins.
-
-
 --------  Proteus --------
 
 
@@ -2428,8 +2424,6 @@ Behind. Perhaps there is someone.
 He turned his face over a shoulder, rere regardant. Moving through
 the air high spars of a threemaster, her sails brailed up on the
 crosstrees, homing, upstream, silently moving, a silent ship.
-
-
 --------  Calypso --------
 
 
@@ -3174,7 +3168,6 @@ church. They tolled the hour: loud dark iron.
 Quarter to. There again: the overtone following through the air, a third.
 
 Poor Dignam!
-
 --------  Lotus-Eaters --------
 
 By lorries along sir John Rogerson's quay Mr Bloom walked soberly, past
@@ -3918,8 +3911,6 @@ limbs riprippled over and sustained, buoyed lightly upward, lemonyellow:
 his navel, bud of flesh: and saw the dark tangled curls of his bush
 floating, floating hair of the stream around the limp father of thousands,
 a languid floating flower.
-
-
 --------  Hades --------
 
 
@@ -5363,8 +5354,6 @@ Oyster eyes. Never mind. Be sorry after perhaps when it dawns on him.
 Get the pull over him that way.
 
 Thank you. How grand we are this morning!
-
-
 --------  Aeolus --------
 
 
@@ -7123,8 +7112,6 @@ say.
 
 -- Tickled the old ones too, Myles Crawford said, if the God Almighty's
 truth was known.
-
-
 --------  Lestrygonians --------
 
 
@@ -8727,8 +8714,6 @@ His hand looking for the where did I put found in his hip pocket soap
 lotion have to call tepid paper stuck. Ah soap there I yes. Gate.
 
 Safe!
-
-
 --------  Scylla and Charybdis --------
 
 
@@ -10385,8 +10370,6 @@ from wide earth an altar.
     LAUD WE THE GODS
     AND LET OUR CROOKED SMOKES CLIMB TO THEIR NOSTRILS
     FROM OUR BLESS'D ALTARS.
-
-
 --------  Wandering Rocks --------
 
 
@@ -12265,8 +12248,6 @@ garden gate of the house said to have been admired by the late queen when
 visiting the Irish capital with her husband, the prince consort, in 1849
 and the salute of Almidano Artifoni's sturdy trousers swallowed by a
 closing door.
-
-
 --------  Sirens --------
 
 
@@ -14215,8 +14196,6 @@ WRITTEN. I HAVE.
 Pprrpffrrppffff.
 
 DONE.
-
-
 --------  Cyclops --------
 
 
@@ -16760,8 +16739,6 @@ ELIJAH! ELIJAH! And He answered with a main cry: ABBA! ADONAI! And they
 beheld Him even Him, ben Bloom Elijah, amid clouds of angels ascend
 to the glory of the brightness at an angle of fortyfive degrees over
 Donohoe's in Little Green street like a shot off a shovel.
-
-
 --------  Nausicaa --------
 
 
@@ -18243,8 +18220,6 @@ the rocks looking was
     CUCKOO
     CUCKOO
     CUCKOO.
-
-
 --------  Oxen of the Sun --------
 
 
@@ -19946,8 +19921,6 @@ yet and don't you forget it. Shout salvation in King Jesus. You'll need
 to rise precious early you sinner there, if you want to diddle the
 Almighty God. Pflaaaap! Not half. He's got a coughmixture with a punch in
 it for you, my friend, in his back pocket. Just you try it on.
-
-
 --------  Circe --------
 
 
@@ -25387,8 +25360,6 @@ RUDY: (GAZES, UNSEEING, INTO BLOOM'S EYES AND GOES ON READING, KISSING,
 SMILING. HE HAS A DELICATE MAUVE FACE. ON HIS SUIT HE HAS DIAMOND AND
 RUBY BUTTONS. IN HIS FREE LEFT HAND HE HOLDS A SLIM IVORY CANE WITH A
 VIOLET BOWKNOT. A WHITE LAMBKIN PEEPS OUT OF HIS WAISTCOAT POCKET.)
-
-
 --------  Eumeus --------
 
 Preparatory to anything else Mr Bloom brushed off the greater bulk of the
@@ -27631,8 +27602,6 @@ the sweeper car or you might as well call it in the sleeper car who in
 any case couldn't possibly hear because they were too far simply sat in
 his seat near the end of lower Gardiner street AND LOOKED AFTER THEIR
 LOWBACKED CAR.
-
-
 --------  Ithaca --------
 
 
@@ -30687,8 +30656,6 @@ egg in the night of the bed of all the auks of the rocs of Darkinbad the
 Brightdayler.
 
 Where?
-
-
 --------  Penelope --------
 
 
@@ -32356,4 +32323,5 @@ under the Moorish wall and I thought well as well him as another and then
 I asked him with my eyes to ask again yes and then he asked me would I
 yes to say yes my mountain flower and first I put my arms around him yes
 and drew him down to me so he could feel my breasts all perfume yes and
-his heart was going like mad and yes I said yes I will Yes.`;
+his heart was going like mad and yes I said yes I will Yes.
+`;

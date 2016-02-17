@@ -1,7 +1,6 @@
 raw_text = String.raw`-------- Epigraph -------- 
 
 "Et ignotas animum dimittit in artes." Ovid, Metamorphoses, VIII., 18.
-
 -------- Chapter 1 -------- 
 
 Once upon a time and a very good time it was there was a moocow coming
@@ -2274,10 +2273,6 @@ The fellows were practising long shies and bowling lobs and slow
  and from here and from there through the quiet air the sound of the
  cricket bats: pick, pack, pock, puck: like drops of water in a fountain
  falling softly in the brimming bowl.
-
-
-
-
 -------- Chapter 2 -------- 
 
 Uncle Charles smoked such black twist that at last his nephew suggested
@@ -3867,10 +3862,6 @@ With a sudden movement she bowed his head and joined her lips to his and
  though they were the vehicle of a vague speech; and between them he felt
  an unknown and timid pressure, darker than the swoon of sin, softer than
  sound or odour.
-
-
-
-
 -------- Chapter 3 -------- 
 
 The swift December dusk had come tumbling clownishly after its dull day
@@ -5491,10 +5482,6 @@ Another life! A life of grace and virtue and happiness! It was true. It
 -- CORPUS DOMINI NOSTRI.
 
 The ciborium had come to him.
-
-
-
-
 -------- Chapter 4 -------- 
 
 Sunday was dedicated to the mystery of the Holy Trinity, Monday to the
@@ -6432,10 +6419,6 @@ He climbed to the crest of the sandhill and gazed about him. Evening had
  of a silver hoop embedded in grey sand; and the tide was flowing in fast
  to the land with a low whisper of her waves, islanding a few last
  figures in distant pools.
-
-
-
-
 -------- Chapter 5 -------- 
 
 He drained his third cup of watery tea to the dregs and set to chewing
@@ -9780,4 +9763,5 @@ APRIL 27. Old father, old artificer, stand me now and ever in good
 
 
 Dublin, 1904
-Trieste, 1914`;
+Trieste, 1914
+`;

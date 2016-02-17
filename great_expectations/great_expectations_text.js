@@ -200,10 +200,6 @@ turn when I thought so; and as I saw the cattle lifting their heads to
 gaze after him, I wondered whether they thought so too. I looked all
 round for the horrible young man, and could see no signs of him. But now
 I was frightened again, and ran home without stopping.
-
-
-
-
 -------- Chapter II --------
 
 My sister, Mrs. Joe Gargery, was more than twenty years older than I,
@@ -559,10 +555,6 @@ unlocked and unbolted that door, and got a file from among Joe's tools.
 Then I put the fastenings as I had found them, opened the door at which
 I had entered when I ran home last night, shut it, and ran for the misty
 marshes.
-
-
-
-
 -------- Chapter III --------
 
 It was a rimy morning, and very damp. I had seen the damp lying on the
@@ -781,10 +773,6 @@ of him, his head was bent over his knee and he was working hard at his
 fetter, muttering impatient imprecations at it and at his leg. The last
 I heard of him, I stopped in the mist to listen, and the file was still
 going.
-
-
-
-
 -------- Chapter IV --------
 
 I fully expected to find a Constable in the kitchen, waiting to take me
@@ -1127,10 +1115,6 @@ table, and ran for my life.
 But I ran no farther than the house door, for there I ran head-foremost
 into a party of soldiers with their muskets, one of whom held out a pair
 of handcuffs to me, saying, "Here you are, look sharp, come on!"
-
-
-
-
 -------- Chapter V --------
 
 The apparition of a file of soldiers ringing down the but-ends of their
@@ -1555,10 +1539,6 @@ ironed like the prisoners. We saw the boat go alongside, and we saw
 him taken up the side and disappear. Then, the ends of the torches were
 flung hissing into the water, and went out, as if it were all over with
 him.
-
-
-
-
 -------- Chapter VI --------
 
 My state of mind regarding the pilfering from which I had been so
@@ -1626,10 +1606,6 @@ dangling them all against the edges of the stairs. My state of mind, as
 I have described it, began before I was up in the morning, and lasted
 long after the subject had died out, and had ceased to be mentioned
 saving on exceptional occasions.
-
-
-
-
 -------- Chapter VII --------
 
 At the time when I stood in the churchyard reading the family
@@ -2069,10 +2045,6 @@ with soapsuds, I could at first see no stars from the chaise-cart.
 But they twinkled out one by one, without throwing any light on the
 questions why on earth I was going to play at Miss Havisham's, and what
 on earth I was expected to play at.
-
-
-
-
 -------- Chapter VIII --------
 
 Mr. Pumblechook's premises in the High Street of the market town,
@@ -2586,10 +2558,6 @@ that my boots were thick; that I had fallen into a despicable habit
 of calling knaves Jacks; that I was much more ignorant than I had
 considered myself last night, and generally that I was in a low-lived
 bad way.
-
-
-
-
 -------- Chapter IX --------
 
 When I reached home, my sister was very curious to know all about Miss
@@ -2898,10 +2866,6 @@ and think how different its course would have been. Pause you who read
 this, and think for a moment of the long chain of iron or gold,
 of thorns or flowers, that would never have bound you, but for the
 formation of the first link on one memorable day.
-
-
-
-
 -------- Chapter X --------
 
 The felicitous idea occurred to me a morning or two later when I woke,
@@ -3179,10 +3143,6 @@ expected it, the file would reappear. I coaxed myself to sleep by
 thinking of Miss Havisham's, next Wednesday; and in my sleep I saw
 the file coming at me out of a door, without seeing who held it, and I
 screamed myself awake.
-
-
-
-
 -------- Chapter XI --------
 
 At the appointed time I returned to Miss Havisham's, and my hesitating
@@ -3776,10 +3736,6 @@ the fight, my stay had lasted so long, that when I neared home the light
 on the spit of sand off the point on the marshes was gleaming against
 a black night-sky, and Joe's furnace was flinging a path of fire across
 the road.
-
-
-
-
 -------- Chapter XII --------
 
 My mind grew very uneasy on the subject of the pale young gentleman. The
@@ -3991,10 +3947,6 @@ then she asked Joe why he hadn't married a Negress Slave at once?
 Joe offered no answer, poor fellow, but stood feeling his whisker and
 looking dejectedly at me, as if he thought it really might have been a
 better speculation.
-
-
-
-
 -------- Chapter XIII --------
 
 It was a trial to my feelings, on the next day but one, to see
@@ -4316,10 +4268,6 @@ flowing, and that he was upon the whole the weakest pilgrim going.
 Finally, I remember that when I got into my little bedroom, I was truly
 wretched, and had a strong conviction on me that I should never like
 Joe's trade. I had liked it once, but once was not now.
-
-
-
-
 -------- Chapter XIV --------
 
 It is a most miserable thing to feel ashamed of home. There may be black
@@ -4393,10 +4341,6 @@ drawing her face away, and would believe that she had come at last.
 After that, when we went into supper, the place and the meal would have
 a more homely look than ever, and I would feel more ashamed of home than
 ever, in my own ungracious breast.
-
-
-
-
 -------- Chapter XV --------
 
 As I was getting too big for Mr. Wopsle's great-aunt's room, my
@@ -4860,10 +4804,6 @@ the bare boards where she had been knocked down by a tremendous blow
 on the back of the head, dealt by some unknown hand when her face was
 turned towards the fire, -- destined never to be on the Rampage again,
 while she was the wife of Joe.
-
-
-
-
 -------- Chapter XVI --------
 
 With my head full of George Barnwell, I was at first disposed to believe
@@ -5040,10 +4980,6 @@ bearing of a child towards a hard master. After that day, a day rarely
 passed without her drawing the hammer on her slate, and without Orlick's
 slouching in and standing doggedly before her, as if he knew no more
 than I did what to make of it.
-
-
-
-
 -------- Chapter XVII --------
 
 I now fell into a regular routine of apprenticeship life, which was
@@ -5404,10 +5340,6 @@ was going to make my fortune when my time was out.
 If my time had run out, it would have left me still at the height of my
 perplexities, I dare say. It never did run out, however, but was brought
 to a premature end, as I proceed to relate.
-
-
-
-
 -------- Chapter XVIII --------
 
 It was in the fourth year of my apprenticeship to Joe, and it was a
@@ -5987,10 +5919,6 @@ floating there, and I fancied it was like a blessing from Joe, -- not
 obtruded on me or paraded before me, but pervading the air we shared
 together. I put my light out, and crept into bed; and it was an uneasy
 bed now, and I never slept the old sound sleep in it any more.
-
-
-
-
 -------- Chapter XIX --------
 
 Morning made a considerable difference in my general prospect of Life,
@@ -6585,10 +6513,6 @@ high. -- As if he could possibly be there!
 
 We changed again, and yet again, and it was now too late and too far to
 go back, and I went on. And the mists had all solemnly risen now, and
-the world lay spread before me.
-
-This is the end of the first stage of Pip's expectations.
-
 -------- Chapter XX --------
 
 The journey from our town to the metropolis was a journey of about five
@@ -6935,10 +6859,6 @@ We found a new set of people lingering outside, but Wemmick made a way
 among them by saying coolly yet decisively, "I tell you it's no use; he
 won't have a word to say to one of you;" and we soon got clear of them,
 and went on side by side.
-
-
-
-
 -------- Chapter XXI --------
 
 Casting my eyes on Mr. Wemmick as we went along, to see what he was
@@ -7140,10 +7060,6 @@ be in mine, and he said, falling back, --
 "Lord bless me, you're the prowling boy!"
 
 "And you," said I, "are the pale young gentleman!"
-
-
-
-
 -------- Chapter XXII --------
 
 The pale young gentleman and I stood contemplating one another in
@@ -7685,10 +7601,6 @@ of it to make my acquaintance, I was not much surprised to find that Mr.
 Pocket was a gentleman with a rather perplexed expression of face, and
 with his very gray hair disordered on his head, as if he didn't quite
 see his way to putting anything straight.
-
-
-
-
 -------- Chapter XXIII --------
 
 Mr. Pocket said he was glad to see me, and he hoped I was not sorry to
@@ -8016,10 +7928,6 @@ There was a sofa where Mr. Pocket stood, and he dropped upon it in the
 attitude of the Dying Gladiator. Still in that attitude he said, with a
 hollow voice, "Good night, Mr. Pip," when I deemed it advisable to go to
 bed and leave him.
-
-
-
-
 -------- Chapter XXIV --------
 
 After two or three days, when I had established myself in my room and
@@ -8274,10 +8182,6 @@ he was not on the side of the bench; for, he was making the legs of the
 old gentleman who presided, quite convulsive under the table, by his
 denunciations of his conduct as the representative of British law and
 justice in that chair that day.
-
-
-
-
 -------- Chapter XXV --------
 
 Bentley Drummle, who was so sulky a fellow that he even took up a book
@@ -8588,10 +8492,6 @@ and he pulled out his key from his coat-collar, he looked as unconscious
 of his Walworth property as if the Castle and the drawbridge and the
 arbor and the lake and the fountain and the Aged, had all been blown
 into space together by the last discharge of the Stinger.
-
-
-
-
 -------- Chapter XXVI --------
 
 It fell out as Wemmick had told me it would, that I had an early
@@ -8889,10 +8789,6 @@ am, don't you? Good night, Pip."
 In about a month after that, the Spider's time with Mr. Pocket was up
 for good, and, to the great relief of all the house but Mrs. Pocket, he
 went home to the family hole.
-
-
-
-
 -------- Chapter XXVII --------
 
 
@@ -9219,10 +9115,6 @@ spoke these words than it could come in its way in Heaven. He touched me
 gently on the forehead, and went out. As soon as I could recover
 myself sufficiently, I hurried out after him and looked for him in the
 neighboring streets; but he was gone.
-
-
-
-
 -------- Chapter XXVIII --------
 
 It was clear that I must repair to our town next day, and in the first
@@ -9470,10 +9362,6 @@ days of my prosperity I had gone to the North Pole, I should have met
 somebody there, wandering Esquimaux or civilized man, who would have
 told me that Pumblechook was my earliest patron and the founder of my
 fortunes.
-
-
-
-
 -------- Chapter XXIX --------
 
 Betimes in the morning I was up and out. It was too early yet to go to
@@ -10029,10 +9917,6 @@ there was anything low and small in my keeping away from Joe, because
 I knew she would be contemptuous of him. It was but a day gone, and Joe
 had brought the tears into my eyes; they had soon dried, God forgive me!
 soon dried.
-
-
-
-
 -------- Chapter XXX --------
 
 After well considering the matter while I was dressing at the Blue Boar
@@ -10400,10 +10284,6 @@ by reputation and that I should be presented to her, and when we had
 warmly shaken hands upon our mutual confidence, we blew out our candles,
 made up our fire, locked our door, and issued forth in quest of Mr.
 Wopsle and Denmark.
-
-
-
-
 -------- Chapter XXXI --------
 
 On our arrival in Denmark, we found the king and queen of that country
@@ -10623,10 +10503,6 @@ miserably dreamed that my expectations were all cancelled, and that I
 had to give my hand in marriage to Herbert's Clara, or play Hamlet to
 Miss Havisham's Ghost, before twenty thousand people, without knowing
 twenty words of it.
-
-
-
-
 -------- Chapter XXXII --------
 
 One day when I was busy with my books and Mr. Pocket, I received a note
@@ -10864,10 +10740,6 @@ from the soiling consciousness of Mr. Wemmick's conservatory, when I saw
 her face at the coach window and her hand waving to me.
 
 What was the nameless shadow which again in that one instant had passed?
-
-
-
-
 -------- Chapter XXXIII --------
 
 In her furred travelling-dress, Estella seemed more delicately beautiful
@@ -11170,10 +11042,6 @@ highly judicious mind, I had some notion in my heart-ache of begging him
 to accept my confidence. But happening to look up at Mrs. Pocket as she
 sat reading her book of dignities after prescribing Bed as a sovereign
 remedy for baby, I thought -- Well -- No, I wouldn't.
-
-
-
-
 -------- Chapter XXXIV --------
 
 As I had grown accustomed to my expectations, I had insensibly begun to
@@ -11399,10 +11267,6 @@ I was an honored sir, and that they begged to inform me that Mrs. J.
 Gargery had departed this life on Monday last at twenty minutes past six
 in the evening, and that my attendance was requested at the interment on
 Monday next at three o'clock in the afternoon.
-
-
-
-
 -------- Chapter XXXV --------
 
 It was the first time that a grave had opened in my road of life, and
@@ -11720,10 +11584,6 @@ hurt, if I have been ungenerous."
 Once more, the mists were rising as I walked away. If they disclosed to
 me, as I suspect they did, that I should not come back, and that Biddy
 was quite right, all I can say is, -- they were quite right too.
-
-
-
-
 -------- Chapter XXXVI --------
 
 Herbert and I went on from bad to worse, in the way of increasing our
@@ -12030,10 +11890,6 @@ dinner. And Mr. Jaggers made not me alone intensely melancholy, because,
 after he was gone, Herbert said of himself, with his eyes fixed on the
 fire, that he thought he must have committed a felony and forgotten the
 details of it, he felt so dejected and guilty.
-
-
-
-
 -------- Chapter XXXVII --------
 
 Deeming Sunday the best day for taking Mr. Wemmick's Walworth
@@ -12308,10 +12164,6 @@ A great event in my life, the turning point of my life, now opens on my
 view. But, before I proceed to narrate it, and before I pass on to all
 the changes it involved, I must give one chapter to Estella. It is not
 much to give to the theme that so long filled my heart.
-
-
-
-
 -------- Chapter XXXVIII --------
 
 If that staid old house near the Green at Richmond should ever come to
@@ -12857,10 +12709,6 @@ hand, and he struck with it, and the rope parted and rushed away, and
 the ceiling fell. So, in my case; all the work, near and afar, that
 tended to the end, had been accomplished; and in an instant the blow was
 struck, and the roof of my stronghold dropped upon me.
-
-
-
-
 -------- Chapter XXXIX --------
 
 I was three-and-twenty years of age. Not another word had I heard to
@@ -13377,10 +13225,6 @@ the candles were wasted out, the fire was dead, and the wind and rain
 intensified the thick black darkness.
 
 THIS IS THE END OF THE SECOND STAGE OF PIP'S EXPECTATIONS.
-
-
-
-
 -------- Chapter XL --------
 
 It was fortunate for me that I had to take precautions to ensure (so far
@@ -13949,10 +13793,6 @@ me with a friendly uneasiness and amazement, complied, and Provis
 immediately shaking hands with him, said, "Now you're on your oath, you
 know. And never believe me on mine, if Pip shan't make a gentleman on
 you!"
-
-
-
-
 -------- Chapter XLI --------
 
 In vain should I attempt to describe the astonishment and disquiet
@@ -14197,10 +14037,6 @@ it might perplex the thread of his narrative. He put it back again,
 stuck his pipe in a button-hole of his coat, spread a hand on each knee,
 and after turning an angry eye on the fire for a few silent moments,
 looked round at us and said what follows.
-
-
-
-
 -------- Chapter XLII --------
 
 "Dear boy and Pip's comrade. I am not a going fur to tell you my life
@@ -14489,10 +14325,6 @@ be Miss Havisham's lover."
 I shut the book and nodded slightly to Herbert, and put the book by; but
 we neither of us said anything, and both looked at Provis as he stood
 smoking by the fire.
-
-
-
-
 -------- Chapter XLIII --------
 
 Why should I pause to ask how much of my shrinking from Provis might be
@@ -14730,10 +14562,6 @@ no, or after all to touch the breakfast, I washed the weather and the
 journey from my face and hands, and went out to the memorable old house
 that it would have been so much the better for me never to have entered,
 never to have seen.
-
-
-
-
 -------- Chapter XLIV --------
 
 In the room where the dressing-table stood, and where the wax-candles
@@ -15066,10 +14894,6 @@ words, "PLEASE READ THIS, HERE." I opened it, the watchman holding up
 his light, and read inside, in Wemmick's writing, -- 
 
 "DON'T GO HOME."
-
-
-
-
 -------- Chapter XLV --------
 
 Turning from the Temple gate as soon as I had read the warning, I made
@@ -15379,10 +15203,6 @@ drowsily. When it was quite dark, I left the Aged preparing the fire for
 toast; and I inferred from the number of teacups, as well as from his
 glances at the two little doors in the wall, that Miss Skiffins was
 expected.
-
-
-
-
 -------- Chapter XLVI --------
 
 Eight o'clock had struck before I got into the air, that was scented,
@@ -15678,10 +15498,6 @@ think that it was flowing, with everything it bore, towards Clara. But
 I thought with dread that it was flowing towards Magwitch, and that
 any black mark on its surface might be his pursuers, going swiftly,
 silently, and surely, to take him.
-
-
-
-
 -------- Chapter XLVII --------
 
 Some weeks passed without bringing any change. We waited for Wemmick,
@@ -15937,10 +15753,6 @@ we were very cautious indeed, -- more cautious than before, if that were
 possible, -- and I for my part never went near Chinks's Basin, except
 when I rowed by, and then I only looked at Mill Pond Bank as I looked at
 anything else.
-
-
-
-
 -------- Chapter XLVIII --------
 
 The second of the two meetings referred to in the last chapter occurred
@@ -16242,10 +16054,6 @@ from the beginning."
 
 We exchanged a cordial good-night, and I went home, with new matter for
 my thoughts, though with no relief from the old.
-
-
-
-
 -------- Chapter XLIX --------
 
 Putting Miss Havisham's note in my pocket, that it might serve as
@@ -16635,10 +16443,6 @@ taken up clear of the town. At about six o'clock of the morning,
 therefore, I leaned over her and touched her lips with mine, just as
 they said, not stopping for being touched, "Take the pencil and write
 under my name, 'I forgive her.'"
-
-
-
-
 -------- Chapter L --------
 
 My hands had been dressed twice or thrice in the night, and again in
@@ -16822,10 +16626,6 @@ are rather excited, but you are quite yourself."
 
 "I know I am quite myself. And the man we have in hiding down the river,
 is Estella's Father."
-
-
-
-
 -------- Chapter LI --------
 
 What purpose I had in view when I was hot on tracing out and proving
@@ -17154,10 +16954,6 @@ So, the unfortunate Mike very humbly withdrew, and Mr. Jaggers and
 Wemmick appeared to have re-established their good understanding, and
 went to work again with an air of refreshment upon them as if they had
 just had lunch.
-
-
-
-
 -------- Chapter LII --------
 
 
@@ -17375,10 +17171,6 @@ was uneasy to think that it must have been dropped in the straw of
 the coach. I knew very well, however, that the appointed place was the
 little sluice-house by the limekiln on the marshes, and the hour nine.
 Towards the marshes I now went straight, having no time to spare.
-
-
-
-
 -------- Chapter LIII --------
 
 It was a dark night, though the full moon rose as I left the enclosed
@@ -17891,10 +17683,6 @@ flowing towards us.
 
 "When it turns at nine o'clock," said Herbert, cheerfully, "look out for
 us, and stand ready, you over there at Mill Pond Bank!"
-
-
-
-
 -------- Chapter LIV --------
 
 It was one of those March days when the sun shines hot and the wind
@@ -18444,10 +18232,6 @@ throat, -- softened now, like all the rest of him. It was a good thing
 that he had touched this point, for it put into my mind what I might not
 otherwise have thought of until too late, -- that he need never know how
 his hopes of enriching me had perished.
-
-
-
-
 -------- Chapter LV --------
 
 He was taken to the Police Court next day, and would have been
@@ -18757,10 +18541,6 @@ altogether a Walworth sentiment, please."
 Wemmick nodded. "After what you let out the other day, Mr. Jaggers
 may as well not know of it. He might think my brain was softening, or
 something of the kind."
-
-
-
-
 -------- Chapter LVI --------
 
 He lay in prison very ill, during the whole interval between his
@@ -18978,10 +18758,6 @@ Mindful, then, of what we had read together, I thought of the two men
 who went up into the Temple to pray, and I knew there were no better
 words that I could say beside his bed, than "O Lord, be merciful to him
 a sinner!"
-
-
-
-
 -------- Chapter LVII --------
 
 Now that I was left wholly to myself, I gave notice of my intention
@@ -19501,10 +19277,6 @@ for it, and I will try hard to make it a better world for you."
 Such was my purpose. After three days more of recovery, I went down to
 the old place to put it in execution. And how I sped in it is all I have
 left to tell.
-
-
-
-
 -------- Chapter LVIII --------
 
 The tidings of my high fortunes having had a heavy fall had got down
@@ -19828,10 +19600,6 @@ much to Herbert's ever cheerful industry and readiness, that I often
 wondered how I had conceived that old idea of his inaptitude, until I
 was one day enlightened by the reflection, that perhaps the inaptitude
 had never been in him at all, but had been in me.
-
-
-
-
 -------- Chapter LIX --------
 
 For eleven years, I had not seen Joe nor Biddy with my bodily
@@ -20010,4 +19778,5 @@ I took her hand in mine, and we went out of the ruined place; and, as
 the morning mists had risen long ago when I first left the forge, so the
 evening mists were rising now, and in all the broad expanse of tranquil
 light they showed to me, I saw no shadow of another parting from her.
+
 `;

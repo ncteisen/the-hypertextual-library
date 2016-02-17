@@ -226,10 +226,6 @@ he lay back in his armchair, looking in another direction.
 Bolkonski's wife, this very evening, and perhaps the thing can be
 arranged. It shall be on your family's behalf that I'll start my
 apprenticeship as old maid."
-
-
-
-
 -------- Book 1: Chapter II --------
 
 Anna Pavlovna's drawing room was gradually filling. The highest
@@ -367,10 +363,6 @@ refined expression on the faces of those present he was always expecting
 to hear something very profound. At last he came up to Morio. Here the
 conversation seemed interesting and he stood waiting for an opportunity
 to express his own views, as young people are fond of doing.
-
-
-
-
 -------- Book 1: Chapter III --------
 
 Anna Pavlovna's reception was in full swing. The spindles hummed
@@ -542,10 +534,6 @@ the climate," said he.
 Not letting the abbe and Pierre escape, Anna Pavlovna, the more
 conveniently to keep them under observation, brought them into the
 larger circle.
-
-
-
-
 -------- Book 1: Chapter IV --------
 
 Just then another visitor entered the drawing room: Prince Andrew
@@ -714,10 +702,6 @@ resumed its former cold, artificial expression. She returned to the
 group where the vicomte was still talking, and again pretended to
 listen, while waiting till it would be time to leave. Her task was
 accomplished.
-
-
-
-
 -------- Book 1: Chapter V --------
 
 "And what do you think of this latest comedy, the coronation at Milan?"
@@ -961,10 +945,6 @@ Pierre's unpleasant and unamiable outburst. After the anecdote the
 conversation broke up into insignificant small talk about the last and
 next balls, about theatricals, and who would meet whom, and when and
 where.
-
-
-
-
 -------- Book 1: Chapter VI --------
 
 Having thanked Anna Pavlovna for her charming soiree, the guests began
@@ -1135,10 +1115,6 @@ Prince Andrew smiled ironically.
 
 "What for? I don't know. I must. Besides that I am going..." He paused.
 "I am going because the life I am leading here does not suit me!"
-
-
-
-
 -------- Book 1: Chapter VII --------
 
 The rustle of a woman's dress was heard in the next room. Prince Andrew
@@ -1268,10 +1244,6 @@ she went up to her husband and kissed him on the forehead.
 
 "Good night, Lise," said he, rising and courteously kissing her hand as
 he would have done to a stranger.
-
-
-
-
 -------- Book 1: Chapter VIII --------
 
 The friends were silent. Neither cared to begin talking. Pierre
@@ -1402,10 +1374,6 @@ spends all one's money. He asked me for tonight, but I won't go."
 "You give me your word of honor not to go?"
 
 "On my honor!"
-
-
-
-
 -------- Book 1: Chapter IX --------
 
 It was past one o'clock when Pierre left his friend. It was a cloudless,
@@ -1659,10 +1627,6 @@ us."
 
 And he caught the bear, took it in his arms, lifted it from the ground,
 and began dancing round the room with it.
-
-
-
-
 -------- Book 1: Chapter X --------
 
 Prince Vasili kept the promise he had given to Princess Drubetskaya who
@@ -1843,10 +1807,6 @@ And as he waved his arms to impersonate the policeman, his portly form
 again shook with a deep ringing laugh, the laugh of one who always eats
 well and, in particular, drinks well. "So do come and dine with us!" he
 said.
-
-
-
-
 -------- Book 1: Chapter XI --------
 
 Silence ensued. The countess looked at her callers, smiling affably, but
@@ -1944,10 +1904,6 @@ his smile.
 Boris quietly left the room and went in search of Natasha. The plump boy
 ran after them angrily, as if vexed that their program had been
 disturbed.
-
-
-
-
 -------- Book 1: Chapter XII --------
 
 The only young people remaining in the drawing room, not counting the
@@ -2101,10 +2057,6 @@ The guests got up and took their leave, promising to return to dinner.
 
 "What manners! I thought they would never go," said the countess, when
 she had seen her guests out.
-
-
-
-
 -------- Book 1: Chapter XIII --------
 
 When Natasha ran out of the drawing room she only went as far as the
@@ -2214,10 +2166,6 @@ A smile of joy and satisfaction lit up her eager face.
 
 She took his arm and with a happy face went with him into the adjoining
 sitting room.
-
-
-
-
 -------- Book 1: Chapter XIV --------
 
 After receiving her visitors, the countess was so tired that she gave
@@ -2396,10 +2344,6 @@ is better, ask Pierre to dine with us. He has been to the house, you
 know, and danced with the children. Be sure to invite him, my dear. We
 will see how Taras distinguishes himself today. He says Count Orlov
 never gave such a dinner as ours will be!"
-
-
-
-
 -------- Book 1: Chapter XV --------
 
 "My dear Boris," said Princess Anna Mikhaylovna to her son as Countess
@@ -2595,10 +2539,6 @@ he is, and the count has not once asked for him."
 
 He shrugged his shoulders. A footman conducted Boris down one flight of
 stairs and up another, to Pierre's rooms.
-
-
-
-
 -------- Book 1: Chapter XVI --------
 
 Pierre, after all, had not managed to choose a career for himself in
@@ -2818,10 +2758,6 @@ son.
 "Well, that is hardly a sufficient reason, Mamma..."
 
 "Oh, Heaven! How ill he is!" exclaimed the mother.
-
-
-
-
 -------- Book 1: Chapter XVII --------
 
 After Anna Mikhaylovna had driven off with her son to visit Count Cyril
@@ -2921,10 +2857,6 @@ wept too. They wept because they were friends, and because they were
 kindhearted, and because they--friends from childhood--had to think
 about such a base thing as money, and because their youth was over....
 But those tears were pleasant to them both.
-
-
-
-
 -------- Book 1: Chapter XVIII --------
 
 Countess Rostova, with her daughters and a large number of guests, was
@@ -3176,10 +3108,6 @@ appear as if he did not want any of that wine, but was mortified because
 no one would understand that it was not to quench his thirst or from
 greediness that he wanted it, but simply from a conscientious desire for
 knowledge.
-
-
-
-
 -------- Book 1: Chapter XIX --------
 
 At the men's end of the table the talk grew more and more animated. The
@@ -3341,10 +3269,6 @@ the table to clink glasses with the count, with the children, and with
 one another. Again the footmen rushed about, chairs scraped, and in the
 same order in which they had entered but with redder faces, the guests
 returned to the drawing room and to the count's study.
-
-
-
-
 -------- Book 1: Chapter XX --------
 
 The card tables were drawn out, sets made up for boston, and the count's
@@ -3578,10 +3502,6 @@ faces with their cambric handkerchiefs.
 
 "That was a Daniel Cooper!" exclaimed Marya Dmitrievna, tucking up her
 sleeves and puffing heavily.
-
-
-
-
 -------- Book 1: Chapter XXI --------
 
 While in the Rostovs' ballroom the sixth anglaise was being danced, to a
@@ -3921,10 +3841,6 @@ princess, ignoring his question. "Now I know! Yes; if I have a sin, a
 great sin, it is hatred of that vile woman!" almost shrieked the
 princess, now quite changed. "And what does she come worming herself in
 here for? But I will give her a piece of my mind. The time will come!"
-
-
-
-
 -------- Book 1: Chapter XXII --------
 
 While these conversations were going on in the reception room and the
@@ -4109,10 +4025,6 @@ Pierre went in at the door, stepping on the soft carpet, and noticed
 that the strange lady, the aide-de-camp, and some of the servants, all
 followed him in, as if there were now no further need for permission to
 enter that room.
-
-
-
-
 -------- Book 1: Chapter XXIII --------
 
 Pierre well knew this large room divided by columns and an arch, its
@@ -4279,10 +4191,6 @@ sick man was turned on to his side with his face to the wall. He sighed.
 princesses was coming to take her turn at watching. "Let us go."
 
 Pierre went out.
-
-
-
-
 -------- Book 1: Chapter XXIV --------
 
 There was now no one in the reception room except Prince Vasili and the
@@ -4480,10 +4388,6 @@ though he tried hard to hide it in order not to sadden his dying father.
 men as the old count and his worthy son," said she. Of the behavior of
 the eldest princess and Prince Vasili she spoke disapprovingly, but in
 whispers and as a great secret.
-
-
-
-
 -------- Book 1: Chapter XXV --------
 
 At Bald Hills, Prince Nicholas Andreevich Bolkonski's estate, the
@@ -4839,10 +4743,6 @@ late in starting her practice on the clavichord, went into the sitting
 room with a look of alarm. Between twelve and two o'clock, as the day
 was mapped out, the prince rested and the princess played the
 clavichord.
-
-
-
-
 -------- Book 1: Chapter XXVI --------
 
 The gray-haired valet was sitting drowsily listening to the snoring of
@@ -5074,10 +4974,6 @@ this one."
 meditatively and rapidly:
 
 "Dieu sait quand reviendra. Go to the dining room."
-
-
-
-
 -------- Book 1: Chapter XXVII --------
 
 At the appointed hour the prince, powdered and shaven, entered the
@@ -5257,10 +5153,6 @@ sister-in-law's arm and drew her into another room.
 afraid of him."
 
 "Oh, he is so kind!" answered Princess Mary.
-
-
-
-
 -------- Book 1: Chapter XXVIII --------
 
 Prince Andrew was to leave next evening. The old prince, not altering
@@ -5657,12 +5549,6 @@ dressing gown looked out.
 "Gone? That's all right!" said he; and looking angrily at the
 unconscious little princess, he shook his head reprovingly and slammed
 the door.
-
-BOOK TWO: 1805
-
-
-
-
 -------- Book 2: Chapter I --------
 
 In October, 1805, a Russian army was occupying the villages and towns of
@@ -5860,10 +5746,6 @@ angrily pulling down his tight scarf.
 
 "I request you to have the goodness to change your coat," he said as he
 turned away.
-
-
-
-
 -------- Book 2: Chapter II --------
 
 "He's coming!" shouted the signaler at that moment.
@@ -6215,10 +6097,6 @@ take it!"
 Zherkov touched his horse with the spurs; it pranced excitedly from foot
 to foot uncertain with which to start, then settled down, galloped past
 the company, and overtook the carriage, still keeping time to the song.
-
-
-
-
 -------- Book 2: Chapter III --------
 
 On returning from the review, Kutuzov took the Austrian general into his
@@ -6509,10 +6387,6 @@ have made a friend, but not for you, not for you."
 
 He waited a moment to see whether the cornet would answer, but he turned
 and went out of the corridor.
-
-
-
-
 -------- Book 2: Chapter IV --------
 
 The Pavlograd Hussars were stationed two miles from Braunau. The
@@ -6948,10 +6822,6 @@ steps. "O God," he said with tears in his eyes, "how could you do it?"
 
 "Don't touch me," said Rostov, drawing back. "If you need it, take the
 money," and he threw the purse to him and ran out of the inn.
-
-
-
-
 -------- Book 2: Chapter V --------
 
 That same evening there was an animated discussion among the squadron's
@@ -7111,10 +6981,6 @@ Zherkov. They were under orders to advance next day.
 "We're going into action, gentlemen!"
 
 "Well, thank God! We've been sitting here too long!"
-
-
-
-
 -------- Book 2: Chapter VI --------
 
 Kutuzov fell back toward Vienna, destroying behind him the bridges over
@@ -7235,10 +7101,6 @@ approaching enemy farther off. At the same instant the sun came fully
 out from behind the clouds, and the clear sound of the solitary shot and
 the brilliance of the bright sunshine merged in a single joyous and
 spirited impression.
-
-
-
-
 -------- Book 2: Chapter VII --------
 
 Two of the enemy's shots had already flown across the bridge, where
@@ -7453,10 +7315,6 @@ weight of his knapsack.
 
 "Take a stick between your legs, that'll suit you for a horse!" the
 hussar shouted back.
-
-
-
-
 -------- Book 2: Chapter VIII --------
 
 The last of the infantry hurriedly crossed the bridge, squeezing
@@ -7825,10 +7683,6 @@ triumphantly and gaily.
 "A trifle," said the colonel in his bass voice: "two hussars wounded,
 and one knocked out," he added, unable to restrain a happy smile, and
 pronouncing the phrase "knocked out" with ringing distinctness.
-
-
-
-
 -------- Book 2: Chapter IX --------
 
 Pursued by the French army of a hundred thousand men under the command
@@ -8013,10 +7867,6 @@ happiness the victory had afforded him had been now left in the
 indifferent hands of the Minister of War and the polite adjutant. The
 whole tenor of his thoughts instantaneously changed; the battle seemed
 the memory of a remote event long past.
-
-
-
-
 -------- Book 2: Chapter X --------
 
 Prince Andrew stayed at Brunn with Bilibin, a Russian acquaintance of
@@ -8258,10 +8108,6 @@ He woke up...
 
 "Yes, that all happened!" he said, and, smiling happily to himself like
 a child, he fell into a deep, youthful slumber.
-
-
-
-
 -------- Book 2: Chapter XI --------
 
 Next day he woke late. Recalling his recent impressions, the first
@@ -8381,10 +8227,6 @@ can't," replied Bolkonski, smiling.
 "Well, talk as much as you can, anyway. He has a passion for giving
 audiences, but he does not like talking himself and can't do it, as you
 will see."
-
-
-
-
 -------- Book 2: Chapter XII --------
 
 At the levee Prince Andrew stood among the Austrian officers as he had
@@ -8641,10 +8483,6 @@ insoluble.
 "I am going to save the army."
 
 "My dear fellow, you are a hero!" said Bilibin.
-
-
-
-
 -------- Book 2: Chapter XIII --------
 
 That same night, having taken leave of the Minister of War, Bolkonski
@@ -8914,10 +8752,6 @@ was not a trace of agitation on his face. With delicate irony he
 questioned Prince Andrew about the details of his interview with the
 Emperor, about the remarks he had heard at court concerning the Krems
 affair, and about some ladies they both knew.
-
-
-
-
 -------- Book 2: Chapter XIV --------
 
 On November 1 Kutuzov had received, through a spy, news that the army he
@@ -9035,10 +8869,6 @@ escape, and Bagration's four thousand men merrily lighted campfires,
 dried and warmed themselves, cooked their porridge for the first time
 for three days, and not one of them knew or imagined what was in store
 for him.
-
-
-
-
 -------- Book 2: Chapter XV --------
 
 Between three and four o'clock in the afternoon Prince Andrew, who had
@@ -9290,10 +9120,6 @@ quickly as possible.
 But the guns remained loaded, the loopholes in blockhouses and
 entrenchments looked out just as menacingly, and the unlimbered cannon
 confronted one another as before.
-
-
-
-
 -------- Book 2: Chapter XVI --------
 
 Having ridden round the whole line from right flank to left, Prince
@@ -9385,10 +9211,6 @@ And immediately Tushin, with a short pipe in the corner of his mouth and
 his kind, intelligent face rather pale, rushed out of the shed followed
 by the owner of the manly voice, a dashing infantry officer who hurried
 off to his company, buttoning up his coat as he ran.
-
-
-
-
 -------- Book 2: Chapter XVII --------
 
 Mounting his horse again Prince Andrew lingered with the battery,
@@ -9575,10 +9397,6 @@ Officers who approached him with disturbed countenances became calm;
 soldiers and officers greeted him gaily, grew more cheerful in his
 presence, and were evidently anxious to display their courage before
 him.
-
-
-
-
 -------- Book 2: Chapter XVIII --------
 
 Prince Bagration, having reached the highest point of our right flank,
@@ -9735,10 +9553,6 @@ Bagration looked round and shouted, "Hurrah!"
 "Hurrah--ah!--ah!" rang a long-drawn shout from our ranks, and passing
 Bagration and racing one another they rushed in an irregular but joyous
 and eager crowd down the hill at their disordered foe.
-
-
-
-
 -------- Book 2: Chapter XIX --------
 
 The attack of the Sixth Chasseurs secured the retreat of our right
@@ -9939,10 +9753,6 @@ Frenchman also stopped and took aim. Rostov closed his eyes and stooped
 down. One bullet and then another whistled past him. He mustered his
 last remaining strength, took hold of his left hand with his right, and
 reached the bushes. Behind these were some Russian sharpshooters.
-
-
-
-
 -------- Book 2: Chapter XX --------
 
 The infantry regiments that had been caught unawares in the outskirts of
@@ -10181,10 +9991,6 @@ up to Tushin.
 
 "Good-bye, my dear fellow," said Tushin. "Dear soul! Good-bye, my dear
 fellow!" and for some unknown reason tears suddenly filled his eyes.
-
-
-
-
 -------- Book 2: Chapter XXI --------
 
 The wind had fallen and black clouds, merging with the powder smoke,
@@ -10520,12 +10326,6 @@ I come here?" he wondered.
 
 Next day the French army did not renew their attack, and the remnant of
 Bagration's detachment was reunited to Kutuzov's army.
-
-BOOK THREE: 1805
-
-
-
-
 -------- Book 3: Chapter I --------
 
 Prince Vasili was not a man who deliberately thought out his plans.
@@ -10848,10 +10648,6 @@ he had already, in some way, bound himself to do something that was
 evidently wrong and that he ought not to do. But at the very time he was
 expressing this conviction to himself, in another part of his mind her
 image rose in all its womanly beauty.
-
-
-
-
 -------- Book 3: Chapter II --------
 
 In November, 1805, Prince Vasili had to go on a tour of inspection in
@@ -11195,10 +10991,6 @@ moments: but his words sounded so weak that he felt ashamed of himself.
 Six weeks later he was married, and settled in Count Bezukhov's large,
 newly furnished Petersburg house, the happy possessor, as people said,
 of a wife who was a celebrated beauty and of millions of money.
-
-
-
-
 -------- Book 3: Chapter III --------
 
 Old Prince Nicholas Bolkonski received a letter from Prince Vasili in
@@ -11553,10 +11345,6 @@ having crossed herself went down, thinking neither of her gown and
 coiffure nor of how she would go in nor of what she would say. What
 could all that matter in comparison with the will of God, without Whose
 care not a hair of man's head can fall?
-
-
-
-
 -------- Book 3: Chapter IV --------
 
 When Princess Mary came down, Prince Vasili and his son were already in
@@ -11879,10 +11667,6 @@ kissed her warmly. Anatole went up to kiss the little princess' hand.
 "No! No! No! When your father writes to tell me that you are behaving
 well I will give you my hand to kiss. Not till then!" she said. And
 smilingly raising a finger at him, she left the room.
-
-
-
-
 -------- Book 3: Chapter V --------
 
 They all separated, but, except Anatole who fell asleep as soon as he
@@ -12126,10 +11910,6 @@ happy when she is his wife. She is so unfortunate, a stranger, alone,
 helpless! And, oh God, how passionately she must love him if she could
 so far forget herself! Perhaps I might have done the same!..." thought
 Princess Mary.
-
-
-
-
 -------- Book 3: Chapter VI --------
 
 It was long since the Rostovs had news of Nicholas. Not till midwinter
@@ -12399,10 +12179,6 @@ Boris and Boris was to forward them to Nicholas. The letters were from
 the old count, the countess, Petya, Vera, Natasha, and Sonya, and
 finally there were six thousand rubles for his outfit and various other
 things the old count sent to his son.
-
-
-
-
 -------- Book 3: Chapter VII --------
 
 On the twelfth of November, Kutuzov's active army, in camp before
@@ -12766,10 +12542,6 @@ seeing the fright of that small and frail but proud man when covered by
 his pistol, and then he felt with surprise that of all the men he knew
 there was none he would so much like to have for a friend as that very
 adjutant whom he so hated.
-
-
-
-
 -------- Book 3: Chapter VIII --------
 
 The day after Rostov had been to see Boris, a review was held of the
@@ -12960,10 +12732,6 @@ Rostov and most of the officers after the review.
 
 All were then more confident of victory than the winning of two battles
 would have made them.
-
-
-
-
 -------- Book 3: Chapter IX --------
 
 The day after the review, Boris, in his best uniform and with his
@@ -13212,10 +12980,6 @@ could not suppress, as they passed out of the palace.
 Next day, the army began its campaign, and up to the very battle of
 Austerlitz, Boris was unable to see either Prince Andrew or Dolgorukov
 again and remained for a while with the Ismaylov regiment.
-
-
-
-
 -------- Book 3: Chapter X --------
 
 At dawn on the sixteenth of November, Denisov's squadron, in which
@@ -13418,10 +13182,6 @@ experience that feeling during those memorable days preceding the battle
 of Austerlitz: nine tenths of the men in the Russian army were then in
 love, though less ecstatically, with their Tsar and the glory of the
 Russian arms.
-
-
-
-
 -------- Book 3: Chapter XI --------
 
 The next day the Emperor stopped at Wischau, and Villier, his physician,
@@ -13593,10 +13353,6 @@ think the battle will be lost, and so I told Count Tolstoy and asked him
 to tell the Emperor. What do you think he replied? 'But, my dear
 general, I am engaged with rice and cutlets, look after military matters
 yourself!' Yes... That was the answer I got!"
-
-
-
-
 -------- Book 3: Chapter XII --------
 
 Shortly after nine o'clock that evening, Weyrother drove with his plans
@@ -13844,10 +13600,6 @@ the orderlies and servants.
 "All the same, I love and value nothing but triumph over them all, I
 value this mystic power and glory that is floating here above me in this
 mist!"
-
-
-
-
 -------- Book 3: Chapter XIII --------
 
 That same night, Rostov was with a platoon on skirmishing duty in front
@@ -14079,10 +13831,6 @@ French troops who are being raised in France will join us, and the peace
 I shall conclude will be worthy of my people, of you, and of myself.
 
 NAPOLEON
-
-
-
-
 -------- Book 3: Chapter XIV --------
 
 At five in the morning it was still quite dark. The troops of the
@@ -14288,10 +14036,6 @@ accompanied by adjutants, galloped off in different directions, and a
 few minutes later the chief forces of the French army moved rapidly
 toward those Pratzen Heights which were being more and more denuded by
 Russian troops moving down the valley to their left.
-
-
-
-
 -------- Book 3: Chapter XV --------
 
 At eight o'clock Kutuzov rode to Pratzen at the head of the fourth
@@ -14541,10 +14285,6 @@ being said, thought, and felt that day by its rider.
 
 The Emperor turned with a smile to one of his followers and made a
 remark to him, pointing to the gallant Apsherons.
-
-
-
-
 -------- Book 3: Chapter XVI --------
 
 Kutuzov accompanied by his adjutants rode at a walking pace behind the
@@ -14701,10 +14441,6 @@ before? And how happy I am to have found it at last! Yes! All is vanity,
 all falsehood, except that infinite sky. There is nothing, nothing, but
 that. But even it does not exist, there is nothing but quiet and peace.
 Thank God!..."
-
-
-
-
 -------- Book 3: Chapter XVII --------
 
 On our right flank commanded by Bagration, at nine o'clock the battle
@@ -14928,10 +14664,6 @@ The idea of defeat and flight could not enter Rostov's head. Though he
 saw French cannon and French troops on the Pratzen Heights just where he
 had been ordered to look for the commander-in-chief, he could not, did
 not wish to, believe that.
-
-
-
-
 -------- Book 3: Chapter XVIII --------
 
 Rostov had been ordered to look for Kutuzov and the Emperor near the
@@ -15203,10 +14935,6 @@ it dashed, some forward and some back, drowning one another.
 Still the cannon balls continued regularly to whistle and flop onto the
 ice and into the water and oftenest of all among the crowd that covered
 the dam, the pond, and the bank.
-
-
-
-
 -------- Book 3: Chapter XIX --------
 
 On the Pratzen Heights, where he had fallen with the flagstaff in his
@@ -15401,10 +15129,6 @@ And Prince Andrew, with others fatally wounded, was left to the care of
 the inhabitants of the district.
 
 BOOK FOUR: 1806
-
-
-
-
 -------- Book 4: Chapter I --------
 
 Early in the year 1806 Nicholas Rostov returned home on leave. Denisov
@@ -15779,10 +15503,6 @@ Denisov, to Rostov's surprise, appeared in the drawing room with pomaded
 hair, perfumed, and in a new uniform, looking just as smart as he made
 himself when going into battle, and he was more amiable to the ladies
 and gentlemen than Rostov had ever expected to see him.
-
-
-
-
 -------- Book 4: Chapter II --------
 
 On his return to Moscow from the army, Nicholas Rostov was welcomed by
@@ -16021,10 +15741,6 @@ the right hand, taken his sword in the left, and gone forward. Of
 Bolkonski, nothing was said, and only those who knew him intimately
 regretted that he had died so young, leaving a pregnant wife with his
 eccentric father.
-
-
-
-
 -------- Book 4: Chapter III --------
 
 On that third of March, all the rooms in the English Club were filled
@@ -16213,10 +15929,6 @@ all the club members and to all the club guests, and finally to Count
 Ilya Rostov separately, as the organizer of the banquet. At that toast,
 the count took out his handkerchief and, covering his face, wept
 outright.
-
-
-
-
 -------- Book 4: Chapter IV --------
 
 Pierre sat opposite Dolokhov and Nicholas Rostov. As usual, he ate and
@@ -16419,10 +16131,6 @@ Nesvitski's and Dolokhov's sabers, which were stuck into the ground ten
 paces apart to mark the barrier. It was thawing and misty; at forty
 paces' distance nothing could be seen. For three minutes all had been
 ready, but they still delayed and all were silent.
-
-
-
-
 -------- Book 4: Chapter V --------
 
 "Well begin!" said Dolokhov.
@@ -16531,10 +16239,6 @@ Rostov went on ahead to do what was asked, and to his great surprise
 learned that Dolokhov the brawler, Dolokhov the bully, lived in Moscow
 with an old mother and a hunchback sister, and was the most affectionate
 of sons and brothers.
-
-
-
-
 -------- Book 4: Chapter VI --------
 
 Pierre had of late rarely seen his wife alone. Both in Petersburg and in
@@ -16734,10 +16438,6 @@ have done at that moment had Helene not fled from the room.
 A week later Pierre gave his wife full power to control all his estates
 in Great Russia, which formed the larger part of his property, and left
 for Petersburg alone.
-
-
-
-
 -------- Book 4: Chapter VII --------
 
 Two months had elapsed since the news of the battle of Austerlitz and
@@ -16878,10 +16578,6 @@ to change his former way of life, but his strength failed him. He walked
 less, ate less, slept less, and became weaker every day. Princess Mary
 hoped. She prayed for her brother as living and was always awaiting news
 of his return.
-
-
-
-
 -------- Book 4: Chapter VIII --------
 
 "Dearest," said the little princess after breakfast on the morning of
@@ -17070,10 +16766,6 @@ again embraced his sister.
 
 "What a strange fate, Masha darling!" And having taken off his cloak and
 felt boots, he went to the little princess' apartment.
-
-
-
-
 -------- Book 4: Chapter IX --------
 
 The little princess lay supported by pillows, with a white cap on her
@@ -17169,10 +16861,6 @@ faint with fear lest the baby should be drowned in the font, and awaited
 the termination of the ceremony. He looked up joyfully at the baby when
 the nurse brought it to him and nodded approval when she told him that
 the wax with the baby's hair had not sunk in the font but had floated.
-
-
-
-
 -------- Book 4: Chapter X --------
 
 Rostov's share in Dolokhov's duel with Bezukhov was hushed up by the
@@ -17305,10 +16993,6 @@ furlough after Christmas to return with him to their regiment. His
 approaching departure did not prevent his amusing himself, but rather
 gave zest to his pleasures. He spent the greater part of his time away
 from home, at dinners, parties, and balls.
-
-
-
-
 -------- Book 4: Chapter XI --------
 
 On the third day after Christmas Nicholas dined at home, a thing he had
@@ -17430,10 +17114,6 @@ always shall, and I want nothing more."
 you."
 
 And Nicholas again kissed her hand.
-
-
-
-
 -------- Book 4: Chapter XII --------
 
 Iogel's were the most enjoyable balls in Moscow. So said the mothers as
@@ -17571,10 +17251,6 @@ partner, and the old men began smilingly to talk about Poland and the
 good old days. Denisov, flushed after the mazurka and mopping himself
 with his handkerchief, sat down by Natasha and did not leave her for the
 rest of the evening.
-
-
-
-
 -------- Book 4: Chapter XIII --------
 
 For two days after that Rostov did not see Dolokhov at his own or at
@@ -17713,10 +17389,6 @@ more than he could pay.
 
 "Still, don't ruin yourself!" said Dolokhov with a side glance at Rostov
 as he continued to deal.
-
-
-
-
 -------- Book 4: Chapter XIV --------
 
 An hour and a half later most of the players were but little interested
@@ -17840,10 +17512,6 @@ her!" he exclaimed fiercely.
 "Then when am I to have it?"
 
 "Tomorrow," replied Rostov and left the room.
-
-
-
-
 -------- Book 4: Chapter XV --------
 
 To say "tomorrow" and keep up a dignified tone was not difficult, but to
@@ -17999,10 +17667,6 @@ in Rostov's soul! And this something was apart from everything else in
 the world and above everything in the world. "What were losses, and
 Dolokhov, and words of honor?... All nonsense! One might kill and rob
 and yet be happy..."
-
-
-
-
 -------- Book 4: Chapter XVI --------
 
 It was long since Rostov had felt such enjoyment from music as he did
@@ -18175,10 +17839,6 @@ receipt, he left at the end of November, without taking leave of any of
 his acquaintances, to overtake his regiment which was already in Poland.
 
 BOOK FIVE: 1806 - 07
-
-
-
-
 -------- Book 5: Chapter I --------
 
 After his interview with his wife Pierre left for Petersburg. At the
@@ -18310,10 +17970,6 @@ severe gaze straight on Pierre's face.
 
 Pierre felt confused and wished to avoid that look, but the bright old
 eyes attracted him irresistibly.
-
-
-
-
 -------- Book 5: Chapter II --------
 
 "I have the pleasure of addressing Count Bezukhov, if I am not
@@ -18565,10 +18221,6 @@ a trace of his former doubts remained in his soul. He firmly believed in
 the possibility of the brotherhood of men united in the aim of
 supporting one another in the path of virtue, and that is how
 Freemasonry presented itself to him.
-
-
-
-
 -------- Book 5: Chapter III --------
 
 On reaching Petersburg Pierre did not let anyone know of his arrival, he
@@ -18862,10 +18514,6 @@ within...."
 
 Pierre had already long been feeling in himself that refreshing source
 of blessedness which now flooded his heart with glad emotion.
-
-
-
-
 -------- Book 5: Chapter IV --------
 
 Soon after this there came into the dark chamber to fetch Pierre, not
@@ -19000,10 +18648,6 @@ The meeting was at an end, and on reaching home Pierre felt as if he had
 returned from a long journey on which he had spent dozens of years, had
 become completely changed, and had quite left behind his former habits
 and way of life.
-
-
-
-
 -------- Book 5: Chapter V --------
 
 The day after he had been received into the Lodge, Pierre was sitting at
@@ -19079,10 +18723,6 @@ A week later, Pierre, having taken leave of his new friends, the Masons,
 and leaving large sums of money with them for alms, went away to his
 estates. His new brethren gave him letters to the Kiev and Odessa Masons
 and promised to write to him and guide him in his new activity.
-
-
-
-
 -------- Book 5: Chapter VI --------
 
 The duel between Pierre and Dolokhov was hushed up and, in spite of the
@@ -19258,10 +18898,6 @@ aunt wished to hear him.
 and indicating Helene with a sorrowful gesture. "Ah, she is such an
 unfortunate and charming woman! Don't mention him before her--please
 don't! It is too painful for her!"
-
-
-
-
 -------- Book 5: Chapter VII --------
 
 When Boris and Anna Pavlovna returned to the others Prince Hippolyte had
@@ -19342,10 +18978,6 @@ the evening. You must come.... Come!"
 
 During that stay in Petersburg, Boris became an intimate in the
 countess' house.
-
-
-
-
 -------- Book 5: Chapter VIII --------
 
 The war was flaming up and nearing the Russian frontier. Everywhere one
@@ -19521,10 +19153,6 @@ fun at me.... Ah, well! Let him!" And he began reading Bilibin's letter
 which was written in French. He read without understanding half of it,
 read only to forget, if but for a moment, what he had too long been
 thinking of so painfully to the exclusion of all else.
-
-
-
-
 -------- Book 5: Chapter IX --------
 
 Bilibin was now at army headquarters in a diplomatic capacity, and
@@ -19725,10 +19353,6 @@ world. Prince Andrew was the first to move away, ruffling his hair
 against the muslin of the curtain.
 
 "Yes, this is the one thing left me now," he said with a sigh.
-
-
-
-
 -------- Book 5: Chapter X --------
 
 Soon after his admission to the masonic Brotherhood, Pierre went to the
@@ -19900,10 +19524,6 @@ but would probably never even inquire and would never know that the
 newly erected buildings were standing empty and that the serfs continued
 to give in money and work all that other people's serfs gave--that is to
 say, all that could be got out of them.
-
-
-
-
 -------- Book 5: Chapter XI --------
 
 Returning from his journey through South Russia in the happiest state of
@@ -20248,10 +19868,6 @@ always remain the same backs and foreheads."
 
 "No, no! A thousand times no! I shall never agree with you," said
 Pierre.
-
-
-
-
 -------- Book 5: Chapter XII --------
 
 In the evening Andrew and Pierre got into the open carriage and drove to
@@ -20400,10 +20016,6 @@ but he knew that this feeling which he did not know how to develop
 existed within him. His meeting with Pierre formed an epoch in Prince
 Andrew's life. Though outwardly he continued to live in the same old
 way, inwardly he began a new life.
-
-
-
-
 -------- Book 5: Chapter XIII --------
 
 It was getting dusk when Prince Andrew and Pierre drove up to the front
@@ -20595,10 +20207,6 @@ was all my fault, and Andrew was only joking."
 Pelageya stopped doubtfully, but in Pierre's face there was such a look
 of sincere penitence, and Prince Andrew glanced so meekly now at her and
 now at Pierre, that she was gradually reassured.
-
-
-
-
 -------- Book 5: Chapter XIV --------
 
 The pilgrim woman was appeased and, being encouraged to talk, gave a
@@ -20689,10 +20297,6 @@ When Pierre had gone and the members of the household met together, they
 began to express their opinions of him as people always do after a new
 acquaintance has left, but as seldom happens, no one said anything but
 what was good of him.
-
-
-
-
 -------- Book 5: Chapter XV --------
 
 When returning from his leave, Rostov felt, for the first time, how
@@ -20850,10 +20454,6 @@ without looking at Rostov, as was his way at moments of deep feeling.
 
 "Ah, what a mad bweed you Wostovs are!" he muttered, and Rostov noticed
 tears in his eyes.
-
-
-
-
 -------- Book 5: Chapter XVI --------
 
 In April the troops were enlivened by news of the Emperor's arrival, but
@@ -21069,10 +20669,6 @@ French sharpshooter hit him in the fleshy part of his leg. Perhaps at
 another time Denisov would not have left the regiment for so slight a
 wound, but now he took advantage of it to excuse himself from appearing
 at the staff and went into hospital.
-
-
-
-
 -------- Book 5: Chapter XVII --------
 
 In June the battle of Friedland was fought, in which the Pavlograds did
@@ -21236,10 +20832,6 @@ said the assistant hurriedly. "Let us go, your honor."
 "Yes, yes, let us go," said Rostov hastily, and lowering his eyes and
 shrinking, he tried to pass unnoticed between the rows of reproachful
 envious eyes that were fixed upon him, and went out of the room.
-
-
-
-
 -------- Book 5: Chapter XVIII --------
 
 Going along the corridor, the assistant led Rostov to the officers'
@@ -21355,10 +20947,6 @@ asked for pardon.
 "Hand it in. It seems..."
 
 He did not finish, but gave a painfully unnatural smile.
-
-
-
-
 -------- Book 5: Chapter XIX --------
 
 Having returned to the regiment and told the commander the state of
@@ -21531,10 +21119,6 @@ At that moment Zhilinski's voice was heard calling Boris.
 "Well then, go, go, go..." said Rostov, and refusing supper and
 remaining alone in the little room, he walked up and down for a long
 time, hearing the lighthearted French conversation from the next room.
-
-
-
-
 -------- Book 5: Chapter XX --------
 
 Rostov had come to Tilsit the day least suitable for a petition on
@@ -21700,10 +21284,6 @@ and he raised his foot to the stirrup.
 The general bowed his head respectfully, and the monarch mounted and
 rode down the street at a gallop. Beside himself with enthusiasm, Rostov
 ran after him with the crowd.
-
-
-
-
 -------- Book 5: Chapter XXI --------
 
 The Emperor rode to the square where, facing one another, a battalion of
@@ -21919,10 +21499,6 @@ he shouted.
 In 1808 the Emperor Alexander went to Erfurt for a fresh interview with
 the Emperor Napoleon, and in the upper circles of Petersburg there was
 much talk of the grandeur of this important meeting.
-
-
-
-
 -------- Book 5: Chapter XXII --------
 
 In 1809 the intimacy between "the world's two arbiters," as Napoleon and
@@ -21942,10 +21518,6 @@ as usual, independently of and apart from political friendship or enmity
 with Napoleon Bonaparte and from all the schemes of reconstruction.
 
 BOOK SIX: 1808 - 10
-
-
-
-
 -------- Book 6: Chapter I --------
 
 Prince Andrew had spent two years continuously in the country.
@@ -22050,10 +21622,6 @@ were, considered his life afresh and arrived at his old conclusion,
 restful in its hopelessness: that it was not for him to begin anything
 anew--but that he must live out his life, content to do no harm, and not
 disturbing himself or desiring anything.
-
-
-
-
 -------- Book 6: Chapter II --------
 
 Prince Andrew had to see the Marshal of the Nobility for the district in
@@ -22170,10 +21738,6 @@ purpose," thought he.
 In his soul there suddenly arose such an unexpected turmoil of youthful
 thoughts and hopes, contrary to the whole tenor of his life, that unable
 to explain his condition to himself he lay down and fell asleep at once.
-
-
-
-
 -------- Book 6: Chapter III --------
 
 Next morning, having taken leave of no one but the count, and not
@@ -22261,10 +21825,6 @@ within him.
 
 At such moments Princess Mary would think how intellectual work dries
 men up.
-
-
-
-
 -------- Book 6: Chapter IV --------
 
 Prince Andrew arrived in Petersburg in August, 1809. It was the time
@@ -22396,10 +21956,6 @@ Prince Andrew smiled.
 "A member without salary," repeated Arakcheev. "I have the honor... Eh!
 Call the next one! Who else is there?" he shouted, bowing to Prince
 Andrew.
-
-
-
-
 -------- Book 6: Chapter V --------
 
 While waiting for the announcement of his appointment to the committee
@@ -22623,10 +22179,6 @@ also have the pleasure of a more detailed chat with you."
 
 Closing his eyes, he bowed a la francaise, without taking leave, and
 trying to attract as little attention as possible, he left the room.
-
-
-
-
 -------- Book 6: Chapter VI --------
 
 During the first weeks of his stay in Petersburg Prince Andrew felt the
@@ -22743,10 +22295,6 @@ section of the committee for the revision of the laws. At Speranski's
 request he took the first part of the Civil Code that was being drawn up
 and, with the aid of the Code Napoleon and the Institutes of Justinian,
 he worked at formulating the section on Personal Rights.
-
-
-
-
 -------- Book 6: Chapter VII --------
 
 Nearly two years before this, in 1808, Pierre on returning to Petersburg
@@ -22915,10 +22463,6 @@ alone, but also a love of strife that had moved him in the dispute.
 Pierre did not answer him and asked briefly whether his proposal would
 be accepted. He was told that it would not, and without waiting for the
 usual formalities he left the lodge and went home.
-
-
-
-
 -------- Book 6: Chapter VIII --------
 
 Again Pierre was overtaken by the depression he so dreaded. For three
@@ -23035,10 +22579,6 @@ nothing to forgive. It gave me joy to tell her this. She need not know
 how hard it was for me to see her again. I have settled on the upper
 floor of this big house and am experiencing a happy feeling of
 regeneration.
-
-
-
-
 -------- Book 6: Chapter IX --------
 
 At that time, as always happens, the highest society that met at court
@@ -23132,10 +22672,6 @@ nothing but harmed nobody and was a first-rate, good-natured fellow. But
 a complex and difficult process of internal development was taking place
 all this time in Pierre's soul, revealing much to him and causing him
 many spiritual doubts and joys.
-
-
-
-
 -------- Book 6: Chapter X --------
 
 Pierre went on with his diary, and this is what he wrote in it during
@@ -23313,10 +22849,6 @@ that I was doing wrong, but could not tear myself away from them. Lord,
 help me! My God, if Thy forsaking me is Thy doing, Thy will be done; but
 if I am myself the cause, teach me what I should do! I shall perish of
 my debauchery if Thou utterly desertest me!
-
-
-
-
 -------- Book 6: Chapter XI --------
 
 The Rostovs' monetary affairs had not improved during the two years they
@@ -23461,10 +22993,6 @@ note of hand for only sixty thousand."
 "Yes, yes, all right!" said the count hurriedly. "Only excuse me, my
 dear fellow, I'll give you twenty thousand and a note of hand for eighty
 thousand as well. Yes, yes! Kiss me."
-
-
-
-
 -------- Book 6: Chapter XII --------
 
 Natasha was sixteen and it was the year 1809, the very year to which she
@@ -23565,10 +23093,6 @@ he went away in a fog, without having said what he meant to, and not
 knowing what he was doing or why he came, or how it would all end. He
 left off visiting Helene and received reproachful notes from her every
 day, and yet he continued to spend whole days with the Rostovs.
-
-
-
-
 -------- Book 6: Chapter XIII --------
 
 One night when the old countess, in nightcap and dressing jacket,
@@ -23740,10 +23264,6 @@ reality, and even more so because it was different.
 
 Next day the countess called Boris aside and had a talk with him, after
 which he ceased coming to the Rostovs'.
-
-
-
-
 -------- Book 6: Chapter XIV --------
 
 On the thirty-first of December, New Year's Eve, 1809 - 10 an old
@@ -23922,10 +23442,6 @@ was as full of rapturous admiration as the Rostovs' servants had been.
 She praised the Rostovs' toilets. They praised her taste and toilet, and
 at eleven o'clock, careful of their coiffures and dresses, they settled
 themselves in their carriages and drove off.
-
-
-
-
 -------- Book 6: Chapter XV --------
 
 Natasha had not had a moment free since early morning and had not once
@@ -24046,10 +23562,6 @@ give it to him if he treated me as he does those ladies."
 
 
 * "He is all the rage just now."
-
-
-
-
 -------- Book 6: Chapter XVI --------
 
 Suddenly everybody stirred, began talking, and pressed forward and then
@@ -24187,10 +23699,6 @@ slender supple figure and felt her stirring so close to him and smiling
 so near him than the wine of her charm rose to his head, and he felt
 himself revived and rejuvenated when after leaving her he stood
 breathing deeply and watching the other dancers.
-
-
-
-
 -------- Book 6: Chapter XVII --------
 
 After Prince Andrew, Boris came up to ask Natasha for a dance, and then
@@ -24273,10 +23781,6 @@ Pierre smiled absent-mindedly, evidently not grasping what she said.
 the people at the ball alike were good, kind, and splendid people,
 loving one another; none of them capable of injuring another--and so
 they ought all to be happy.
-
-
-
-
 -------- Book 6: Chapter XVIII --------
 
 Next day Prince Andrew thought of the ball, but his mind did not dwell
@@ -24456,10 +23960,6 @@ remembered the peasants and Dron the village elder, and mentally
 applying to them the Personal Rights he had divided into paragraphs, he
 felt astonished that he could have spent so much time on such useless
 work.
-
-
-
-
 -------- Book 6: Chapter XIX --------
 
 Next day Prince Andrew called at a few houses he had not visited before,
@@ -24525,10 +24025,6 @@ much strength and youth in me," he said to himself. "Pierre was right
 when he said one must believe in the possibility of happiness in order
 to be happy, and now I do believe in it. Let the dead bury their dead,
 but while one has life one must live and be happy!" thought he.
-
-
-
-
 -------- Book 6: Chapter XX --------
 
 One morning Colonel Berg, whom Pierre knew as he knew everybody in
@@ -24665,10 +24161,6 @@ old, the young with the young, and the hostess at the tea table, on
 which stood exactly the same kind of cakes in a silver cake basket as
 the Panins had at their party. Everything was just as it was everywhere
 else.
-
-
-
-
 -------- Book 6: Chapter XXI --------
 
 Pierre, as one of the principal guests, had to sit down to boston with
@@ -24796,10 +24288,6 @@ only one thing was lacking that he had always seen at the evening
 parties he wished to imitate. They had not yet had a loud conversation
 among the men and a dispute about something important and clever. Now
 the general had begun such a discussion and so Berg drew Pierre to it.
-
-
-
-
 -------- Book 6: Chapter XXII --------
 
 Next day, having been invited by the count, Prince Andrew dined with the
@@ -24963,10 +24451,6 @@ happy! You understand me? I know you are glad for my sake."
 "Yes, yes," Pierre assented, looking at his friend with a touched and
 sad expression in his eyes. The brighter Prince Andrew's lot appeared to
 him, the gloomier seemed his own.
-
-
-
-
 -------- Book 6: Chapter XXIII --------
 
 Prince Andrew needed his father's consent to his marriage, and to obtain
@@ -25230,10 +24714,6 @@ their blessing.
 
 From that day Prince Andrew began to frequent the Rostovs' as Natasha's
 affianced lover.
-
-
-
-
 -------- Book 6: Chapter XXIV --------
 
 No betrothal ceremony took place and Natasha's engagement to Bolkonski
@@ -25344,10 +24824,6 @@ But a fortnight after his departure, to the surprise of those around
 her, she recovered from her mental sickness just as suddenly and became
 her old self again, but with a change in her moral physiognomy, as a
 child gets up after a long illness with a changed expression of face.
-
-
-
-
 -------- Book 6: Chapter XXV --------
 
 During that year after his son's departure, Prince Nicholas Bolkonski's
@@ -25472,10 +24948,6 @@ dear friend. May God keep you in His holy and mighty care. My dear
 friend, Mademoiselle Bourienne, sends you kisses.
 
 MARY
-
-
-
-
 -------- Book 6: Chapter XXVI --------
 
 In the middle of the summer Princess Mary received an unexpected letter
@@ -25602,10 +25074,6 @@ But afterwards, when she saw her father and especially little Koko
 was a sinner who loved her father and little nephew more than God.
 
 BOOK SEVEN: 1810 - 11
-
-
-
-
 -------- Book 7: Chapter I --------
 
 The Bible legend tells us that the absence of labor--idleness--was a
@@ -25776,10 +25244,6 @@ being so bright: that's because she's living through the last days of
 her girlhood, but I know what she is like every time we receive a letter
 from him! However, God grant that everything turns out well!" (She
 always ended with these words.) "He is an excellent man!"
-
-
-
-
 -------- Book 7: Chapter II --------
 
 After reaching home Nicholas was at first serious and even dull. He was
@@ -25862,10 +25326,6 @@ the old countess to weep tears of joy. After that, young Rostov took no
 further part in any business affairs, but devoted himself with
 passionate enthusiasm to what was to him a new pursuit--the chase--for
 which his father kept a large establishment.
-
-
-
-
 -------- Book 7: Chapter III --------
 
 The weather was already growing wintry and morning frosts congealed an
@@ -25985,10 +25445,6 @@ have anything to do with a young lady seemed to him impossible. He cast
 down his eyes and hurried out as if it were none of his business,
 careful as he went not to inflict any accidental injury on the young
 lady.
-
-
-
-
 -------- Book 7: Chapter IV --------
 
 The old count, who had always kept up an enormous hunting establishment
@@ -26231,10 +25687,6 @@ schoolboy, looked round, trying by a smile to win Simon's sympathy for
 his plight. But Simon was no longer there. He was galloping round by the
 bushes while the field was coming up on both sides, all trying to head
 the wolf, but it vanished into the wood before they could do so.
-
-
-
-
 -------- Book 7: Chapter V --------
 
 Nicholas Rostov meanwhile remained at his post, waiting for the wolf. By
@@ -26417,10 +25869,6 @@ Daniel.
 
 For sole reply Daniel gave him a shy, childlike, meek, and amiable
 smile.
-
-
-
-
 -------- Book 7: Chapter VI --------
 
 The old count went home, and Natasha and Petya promised to return very
@@ -26693,10 +26141,6 @@ Nicholas to be saying.
 When, much later, "Uncle" rode up to Nicholas and began talking to him,
 he felt flattered that, after what had happened, "Uncle" deigned to
 speak to him.
-
-
-
-
 -------- Book 7: Chapter VII --------
 
 Toward evening Ilagin took leave of Nicholas, who found that they were
@@ -27066,10 +26510,6 @@ together!"
 "Ah, there are still lights in the drawing-room!" she said, pointing to
 the windows of the house that gleamed invitingly in the moist velvety
 darkness of the night.
-
-
-
-
 -------- Book 7: Chapter VIII --------
 
 Count Ilya Rostov had resigned the position of Marshal of the Nobility
@@ -27188,10 +26628,6 @@ sorry that she was being wasted all this time and of no use to anyone--
 while she felt herself so capable of loving and being loved.
 
 Things were not cheerful in the Rostovs' home.
-
-
-
-
 -------- Book 7: Chapter IX --------
 
 Christmas came and except for the ceremonial Mass, the solemn and
@@ -27373,10 +26809,6 @@ same.
 
 After tea, Nicholas, Sonya, and Natasha went to the sitting room, to
 their favorite corner where their most intimate talks always began.
-
-
-
-
 -------- Book 7: Chapter X --------
 
 "Does it ever happen to you," said Natasha to her brother, when they
@@ -27758,10 +27190,6 @@ running, out to the porch carrying candles.
 
 "The mummers from the count's. I know by the horses," replied some
 voices.
-
-
-
-
 -------- Book 7: Chapter XI --------
 
 Pelageya Danilovna Melyukova, a broadly built, energetic woman wearing
@@ -27941,10 +27369,6 @@ them to his cheeks.
 
 "Sonya!... Nicholas!"... was all they said. They ran to the barn and
 then back again, re-entering, he by the front and she by the back porch.
-
-
-
-
 -------- Book 7: Chapter XII --------
 
 When they all drove back from Pelageya Danilovna's, Natasha, who always
@@ -28100,10 +27524,6 @@ I am for him and for myself and about everything!..." Natasha began, and
 without replying to Sonya's words of comfort she got into bed, and long
 after her candle was out lay open-eyed and motionless, gazing at the
 moonlight through the frosty windowpanes.
-
-
-
-
 -------- Book 7: Chapter XIII --------
 
 Soon after the Christmas holidays Nicholas told his mother of his love
@@ -28225,10 +27645,6 @@ So the countess remained in the country, and the count, taking Sonya and
 Natasha with him, went to Moscow at the end of January.
 
 BOOK EIGHT: 1811 - 12
-
-
-
-
 -------- Book 8: Chapter I --------
 
 After Prince Andrew's engagement to Natasha, Pierre without any apparent
@@ -28412,10 +27828,6 @@ toys, some in horses, some in politics, some in sport, some in wine, and
 some in governmental affairs. "Nothing is trivial, and nothing is
 important, it's all the same--only to save oneself from it as best one
 can," thought Pierre. "Only not to see it, that dreadful it!"
-
-
-
-
 -------- Book 8: Chapter II --------
 
 At the beginning of winter Prince Nicholas Bolkonski and his daughter
@@ -28547,10 +27959,6 @@ would suddenly fall asleep, letting his napkin drop and his shaking head
 sink over his plate. "He is old and feeble, and I dare to condemn him!"
 she thought at such moments, with a feeling of revulsion against
 herself.
-
-
-
-
 -------- Book 8: Chapter III --------
 
 In 1811 there was living in Moscow a French doctor--Metivier--who had
@@ -28796,10 +28204,6 @@ hearing him!" said the old prince, keeping hold of the hand and offering
 his cheek to be kissed.
 
 Following Rostopchin's example the others also rose.
-
-
-
-
 -------- Book 8: Chapter IV --------
 
 Princess Mary as she sat listening to the old men's talk and
@@ -28935,10 +28339,6 @@ Princess Mary again shook her head disapprovingly.
 Princess Mary told Pierre of her plan to become intimate with her future
 sister-in-law as soon as the Rostovs arrived and to try to accustom the
 old prince to her.
-
-
-
-
 -------- Book 8: Chapter V --------
 
 Boris had not succeeded in making a wealthy match in Petersburg, so with
@@ -29123,10 +28523,6 @@ could demand this, and she received what she demanded.
 The affianced couple, no longer alluding to trees that shed gloom and
 melancholy upon them, planned the arrangements of a splendid house in
 Petersburg, paid calls, and prepared everything for a brilliant wedding.
-
-
-
-
 -------- Book 8: Chapter VI --------
 
 At the end of January old Count Rostov went to Moscow with Natasha and
@@ -29246,10 +28642,6 @@ you already know his sister and father and are liked by them. Am I right
 or not? Won't that be best?"
 
 "Yes, it will," Natasha answered reluctantly.
-
-
-
-
 -------- Book 8: Chapter VII --------
 
 Next day, by Marya Dmitrievna's advice, Count Rostov took Natasha to
@@ -29404,10 +28796,6 @@ She came in to dinner with red eyes. Marya Dmitrievna, who knew how the
 prince had received the Rostovs, pretended not to notice how upset
 Natasha was and jested resolutely and loudly at table with the count and
 the other guests.
-
-
-
-
 -------- Book 8: Chapter VIII --------
 
 That evening the Rostovs went to the Opera, for which Marya Dmitrievna
@@ -29569,10 +28957,6 @@ As soon as it rose everyone in the boxes and stalls became silent, and
 all the men, old and young, in uniform and evening dress, and all the
 women with gems on their bare flesh, turned their whole attention with
 eager curiosity to the stage. Natasha too began to look at it.
-
-
-
-
 -------- Book 8: Chapter IX --------
 
 The floor of the stage consisted of smooth boards, at the sides was some
@@ -29764,10 +29148,6 @@ strange. She looked about with pleasure, smiling joyfully.
 "Isn't Duport delightful?" Helene asked her.
 
 "Oh, yes," replied Natasha.
-
-
-
-
 -------- Book 8: Chapter X --------
 
 During the entr'acte a whiff of cold air came into Helene's box, the
@@ -29895,10 +29275,6 @@ former purity of her love for Prince Andrew had perished. And again in
 imagination she went over her whole conversation with Kuragin, and again
 saw the face, gestures, and tender smile of that bold handsome man when
 he pressed her arm.
-
-
-
-
 -------- Book 8: Chapter XI --------
 
 Anatole Kuragin was staying in Moscow because his father had sent him
@@ -29997,10 +29373,6 @@ who knew of Kuragin's marriage. "Take care!"
 
 "Well, that can't happen twice! Eh?" said Anatole, with a good-humored
 laugh.
-
-
-
-
 -------- Book 8: Chapter XII --------
 
 The day after the opera the Rostovs went nowhere and nobody came to see
@@ -30126,10 +29498,6 @@ remarked:
 "I don't care to have anything to do with Bezukhova and don't advise you
 to; however, if you've promised--go. It will divert your thoughts," she
 added, addressing Natasha.
-
-
-
-
 -------- Book 8: Chapter XIII --------
 
 Count Rostov took the girls to Countess Bezukhova's. There were a good
@@ -30262,10 +29630,6 @@ that, it means that I loved him from the first. It means that he is
 kind, noble, and splendid, and I could not help loving him. What am I to
 do if I love him and the other one too?" she asked herself, unable to
 find an answer to these terrible questions.
-
-
-
-
 -------- Book 8: Chapter XIV --------
 
 Morning came with its cares and bustle. Everyone got up and began to
@@ -30396,10 +29760,6 @@ it.
 
 That evening Marya Dmitrievna was going to the Akharovs' and proposed to
 take the girls with her. Natasha, pleading a headache, remained at home.
-
-
-
-
 -------- Book 8: Chapter XV --------
 
 On returning late in the evening Sonya went to Natasha's room, and to
@@ -30663,10 +30023,6 @@ never I must prove that I remember the family's goodness to me and that
 I love Nicholas. Yes! If I don't sleep for three nights I'll not leave
 this passage and will hold her back by force and will and not let the
 family be disgraced," thought she.
-
-
-
-
 -------- Book 8: Chapter XVI --------
 
 Anatole had lately moved to Dolokhov's. The plan for Natalie Rostova's
@@ -30906,10 +30262,6 @@ excellency!' says I, and I just tumbled on the bottom of the sleigh and
 sprawled there. It wasn't a case of urging them on, there was no holding
 them in till we reached the place. The devils took us there in three
 hours! Only the near one died of it."
-
-
-
-
 -------- Book 8: Chapter XVII --------
 
 Anatole went out of the room and returned a few minutes later wearing a
@@ -31037,10 +30389,6 @@ struggling with the yard porter who was trying to lock it. With a last
 desperate effort Dolokhov pushed the porter aside, and when Anatole ran
 back seized him by the arm, pulled him through the wicket, and ran back
 with him to the troyka.
-
-
-
-
 -------- Book 8: Chapter XVIII --------
 
 Marya Dmitrievna, having found Sonya weeping in the corridor, made her
@@ -31175,10 +30523,6 @@ daughter, and he so prized his own cheerful tranquillity, that he
 avoided inquiries and tried to assure himself that nothing particularly
 had happened; and he was only dissatisfied that her indisposition
 delayed their return to the country.
-
-
-
-
 -------- Book 8: Chapter XIX --------
 
 From the day his wife arrived in Moscow Pierre had been intending to go
@@ -31343,10 +30687,6 @@ Pierre gave his word of honor.
 
 She was evidently unable to speak and made a sign with her hands that
 they should leave her alone.
-
-
-
-
 -------- Book 8: Chapter XX --------
 
 Pierre did not stay for dinner, but left the room and went away at once.
@@ -31496,10 +30836,6 @@ Pierre knew so well in his wife, revolted him.
 "Oh, vile and heartless brood!" he exclaimed, and left the room.
 
 Next day Anatole left for Petersburg.
-
-
-
-
 -------- Book 8: Chapter XXI --------
 
 Pierre drove to Marya Dmitrievna's to tell her of the fulfillment of her
@@ -31677,10 +31013,6 @@ At dinner the talk turned on the war, the approach of which was becoming
 evident. Prince Andrew talked incessantly, arguing now with his father,
 now with the Swiss tutor Dessalles, and showing an unnatural animation,
 the cause of which Pierre so well understood.
-
-
-
-
 -------- Book 8: Chapter XXII --------
 
 That same evening Pierre went to the Rostovs' to fulfill the commission
@@ -31823,10 +31155,6 @@ seemed to Pierre that this comet fully responded to what was passing in
 his own softened and uplifted soul, now blossoming into a new life.
 
 BOOK NINE: 1812
-
-
-
-
 -------- Book 9: Chapter I --------
 
 From the close of the year 1811 intensified arming and concentrating of
@@ -32001,10 +31329,6 @@ like labels they have but the smallest connection with the event itself.
 Every act of theirs, which appears to them an act of their own will, is
 in an historical sense involuntary and is related to the whole course of
 history and predestined from eternity.
-
-
-
-
 -------- Book 9: Chapter II --------
 
 On the twenty-ninth of May Napoleon left Dresden, where he had spent
@@ -32155,10 +31479,6 @@ Quos vult perdere dementat. *
 
 
 * Those whom (God) wishes to destroy he drives mad.
-
-
-
-
 -------- Book 9: Chapter III --------
 
 The Emperor of Russia had, meanwhile, been in Vilna for more than a
@@ -32307,10 +31627,6 @@ Majesty to preserve humanity from the calamity of another war. I am,
 etc.,
 
 (signed) Alexander.
-
-
-
-
 -------- Book 9: Chapter IV --------
 
 At two in the morning of the fourteenth of June, the Emperor, having
@@ -32486,10 +31802,6 @@ village the sentinels of Davout's infantry corps detained him as the
 pickets of the vanguard had done, and an adjutant of the corps
 commander, who was fetched, conducted him into the village to Marshal
 Davout.
-
-
-
-
 -------- Book 9: Chapter V --------
 
 Davout was to Napoleon what Arakcheev was to Alexander--though not a
@@ -32588,10 +31900,6 @@ brilliant suite of aides-de-camp, pages, and generals, who were waiting
 for Napoleon to come out, were standing at the porch, round his saddle
 horse and his Mameluke, Rustan. Napoleon received Balashev in the very
 house in Vilna from which Alexander had dispatched him on his mission.
-
-
-
-
 -------- Book 9: Chapter VI --------
 
 Though Balashev was used to imperial pomp, he was amazed at the luxury
@@ -32881,10 +32189,6 @@ shall receive my letter to the Emperor."
 
 And Napoleon went quickly to the door. Everyone in the reception room
 rushed forward and descended the staircase.
-
-
-
-
 -------- Book 9: Chapter VII --------
 
 After all that Napoleon had said to him--those bursts of anger and the
@@ -33029,10 +32333,6 @@ go!"
 The letter taken by Balashev was the last Napoleon sent to Alexander.
 Every detail of the interview was communicated to the Russian monarch,
 and the war began...
-
-
-
-
 -------- Book 9: Chapter VIII --------
 
 After his interview with Pierre in Moscow, Prince Andrew went to
@@ -33271,10 +32571,6 @@ These conditions of life had been the same before, but then they were
 all connected, while now they had all tumbled to pieces. Only senseless
 things, lacking coherence, presented themselves one after another to
 Prince Andrew's mind.
-
-
-
-
 -------- Book 9: Chapter IX --------
 
 Prince Andrew reached the general headquarters of the army at the end of
@@ -33540,10 +32836,6 @@ defend their country--the very incitement which was the chief cause of
 Russia's triumph in so far as it was produced by the Tsar's personal
 presence in Moscow--was suggested to the Emperor, and accepted by him,
 as a pretext for quitting the army.
-
-
-
-
 -------- Book 9: Chapter X --------
 
 This letter had not yet been presented to the Emperor when Barclay, one
@@ -33672,10 +32964,6 @@ expressed this most eloquently.
 
 He passed into the next room, and the deep, querulous sounds of his
 voice were at once heard from there.
-
-
-
-
 -------- Book 9: Chapter XI --------
 
 Prince Andrew's eyes were still following Pfuel out of the room when
@@ -33868,10 +33156,6 @@ At the review next day the Emperor asked Prince Andrew where he would
 like to serve, and Prince Andrew lost his standing in court circles
 forever by not asking to remain attached to the sovereign's person, but
 for permission to serve in the army.
-
-
-
-
 -------- Book 9: Chapter XII --------
 
 Before the beginning of the campaign, Rostov had received a letter from
@@ -34041,10 +33325,6 @@ darkness that was occasionally rent by distant lightning.
 "Rostov, where are you?"
 
 "Here. What lightning!" they called to one another.
-
-
-
-
 -------- Book 9: Chapter XIII --------
 
 In the tavern, before which stood the doctor's covered cart, there were
@@ -34173,10 +33453,6 @@ they ran out into the porch and reported what was taking place in the
 covered trap. Several times Rostov, covering his head, tried to go to
 sleep, but some remark would arouse him and conversation would be
 resumed, to the accompaniment of unreasoning, merry, childlike laughter.
-
-
-
-
 -------- Book 9: Chapter XIV --------
 
 It was nearly three o'clock but no one was yet asleep, when the
@@ -34307,10 +33583,6 @@ uhlans were galloping back, not to the place they had occupied but more
 to the left, and among the orange-colored uhlans on chestnut horses and
 behind them, in a large group, blue French dragoons on gray horses could
 be seen.
-
-
-
-
 -------- Book 9: Chapter XV --------
 
 Rostov, with his keen sportsman's eye, was one of the first to catch
@@ -34428,10 +33700,6 @@ no clear solution of what puzzled him so, the wheel of fortune in the
 service, as often happens, turned in his favor. After the affair at
 Ostrovna he was brought into notice, received command of an hussar
 battalion, and when a brave officer was needed he was chosen.
-
-
-
-
 -------- Book 9: Chapter XVI --------
 
 On receiving news of Natasha's illness, the countess, though not quite
@@ -34539,10 +33807,6 @@ the country life to which she was accustomed, youth prevailed. Natasha's
 grief began to be overlaid by the impressions of daily life, it ceased
 to press so painfully on her heart, it gradually faded into the past,
 and she began to recover physically.
-
-
-
-
 -------- Book 9: Chapter XVII --------
 
 Natasha was calmer but no happier. She not merely avoided all external
@@ -34670,10 +33934,6 @@ up very much."
 
 The countess, with a cheerful expression on her face, looked down at her
 nails and spat a little for luck as she returned to the drawing room.
-
-
-
-
 -------- Book 9: Chapter XVIII --------
 
 At the beginning of July more and more disquieting reports about the war
@@ -34874,10 +34134,6 @@ punishment that overtakes men for their sins, and especially of her own
 sins, and she prayed to God to forgive them all, and her too, and to
 give them all, and her too, peace and happiness. And it seemed to her
 that God heard her prayer.
-
-
-
-
 -------- Book 9: Chapter XIX --------
 
 From the day when Pierre, after leaving the Rostovs' with Natasha's
@@ -35019,10 +34275,6 @@ vague idea that he was L'russe Besuhof who had the number of the beast,
 of the beast that spoke great and blasphemous things had been
 predestined from eternity, and that therefore he ought not to undertake
 anything, but wait for what was bound to come to pass.
-
-
-
-
 -------- Book 9: Chapter XX --------
 
 A few intimate friends were dining with the Rostovs that day, as usual
@@ -35323,10 +34575,6 @@ to smile but could not: his smile expressed suffering, and he silently
 kissed her hand and went out.
 
 Pierre made up his mind not to go to the Rostovs' any more.
-
-
-
-
 -------- Book 9: Chapter XXI --------
 
 After the definite refusal he had received, Petya went to his room and
@@ -35540,10 +34788,6 @@ and firmly that if he was not allowed to enter the service he would run
 away. And next day, Count Ilya Rostov--though he had not yet quite
 yielded--went to inquire how he could arrange for Petya to serve where
 there would be least danger.
-
-
-
-
 -------- Book 9: Chapter XXII --------
 
 Two days later, on the fifteenth of July, an immense number of carriages
@@ -35769,10 +35013,6 @@ one man.
 
 "He is the enemy of mankind!" cried another. "Allow me to speak...."
 "Gentlemen, you are crushing me!..."
-
-
-
-
 -------- Book 9: Chapter XXIII --------
 
 At that moment Count Rostopchin with his protruding chin and alert eyes,
@@ -35856,10 +35096,6 @@ without some groans gave orders to their stewards about the enrollment,
 feeling amazed themselves at what they had done.
 
 BOOK TEN: 1812
-
-
-
-
 -------- Book 10: Chapter I --------
 
 Napoleon began the war with Russia because he could not resist going to
@@ -36066,10 +35302,6 @@ been misled by their governor. And these ruined inhabitants, setting an
 example to other Russians, went to Moscow thinking only of their own
 losses but kindling hatred of the foe. Napoleon advanced farther and we
 retired, thus arriving at the very result which caused his destruction.
-
-
-
-
 -------- Book 10: Chapter II --------
 
 The day after his son had left, Prince Nicholas sent for Princess Mary
@@ -36270,10 +35502,6 @@ and which he called his "will.")
 "And Alpatych is being sent to Smolensk?" asked Princess Mary.
 
 "Oh, yes, he has been waiting to start for some time."
-
-
-
-
 -------- Book 10: Chapter III --------
 
 When Michael Ivanovich returned to the study with the letter, the old
@@ -36387,10 +35615,6 @@ about his right to kiss her hand.
 
 "Oh, quicker, quicker! To get back to that time and have done with all
 the present! Quicker, quicker--and that they should leave me in peace!"
-
-
-
-
 -------- Book 10: Chapter IV --------
 
 Bald Hills, Prince Nicholas Bolkonski's estate, lay forty miles east
@@ -36868,10 +36092,6 @@ The man in the frieze coat raised his arms and shouted:
 "Well then," continued Prince Andrew to Alpatych, "report to them as I
 have told you"; and not replying a word to Berg who was now mute beside
 him, he touched his horse and rode down the side street.
-
-
-
-
 -------- Book 10: Chapter V --------
 
 From Smolensk the troops continued to retreat, followed by the enemy. On
@@ -37144,10 +36364,6 @@ hatred and shame in all our subjects? What are we scared at and of whom
 are we afraid? I am not to blame that the Minister is vacillating, a
 coward, dense, dilatory, and has all bad qualities. The whole army
 bewails it and calls down curses upon him...
-
-
-
-
 -------- Book 10: Chapter VI --------
 
 Among the innumerable categories applicable to the phenomena of human
@@ -37317,10 +36533,6 @@ that the sovereign himself should not be with the army."
 
 As soon as he said this both Prince Vasili and Anna Pavlovna turned away
 from him and glanced sadly at one another with a sigh at his naivete.
-
-
-
-
 -------- Book 10: Chapter VII --------
 
 While this was taking place in Petersburg the French had already passed
@@ -37463,10 +36675,6 @@ detachment and by evening found his master, Nicholas Rostov, quartered
 at Yankovo. Rostov was just mounting to go for a ride round the
 neighboring villages with Ilyin; he let Lavrushka have another horse and
 took him along with him.
-
-
-
-
 -------- Book 10: Chapter VIII --------
 
 Princess Mary was not in Moscow and out of danger as Prince Andrew
@@ -37829,10 +37037,6 @@ inmates of the house and strangers crowded into the drawing room round
 the coffin--the Marshal, the village Elder, peasant women--and all with
 fixed and frightened eyes, crossing themselves, bowed and kissed the old
 prince's cold and stiffened hand.
-
-
-
-
 -------- Book 10: Chapter IX --------
 
 Until Prince Andrew settled in Bogucharovo its owners had always been
@@ -38037,10 +37241,6 @@ princess, Alpatych had his own belongings taken out of the carts which
 had arrived from Bald Hills and had those horses got ready for the
 princess' carriages. Meanwhile he went himself to the police
 authorities.
-
-
-
-
 -------- Book 10: Chapter X --------
 
 After her father's funeral Princess Mary shut herself up in her room and
@@ -38262,10 +37462,6 @@ Princess Mary did not understand what he wanted of her or why he was
 asking to be discharged. She replied that she had never doubted his
 devotion and that she was ready to do anything for him and for the
 peasants.
-
-
-
-
 -------- Book 10: Chapter XI --------
 
 An hour later Dunyasha came to tell the princess that Dron had come, and
@@ -38397,10 +37593,6 @@ With drooping head Princess Mary left the crowd and went back to the
 house. Having repeated her order to Dron to have horses ready for her
 departure next morning, she went to her room and remained alone with her
 own thoughts.
-
-
-
-
 -------- Book 10: Chapter XII --------
 
 For a long time that night Princess Mary sat by the open window of her
@@ -38477,10 +37669,6 @@ silence brooding over the house and within it held her fast.
 "Dunyasha," she whispered. "Dunyasha!" she screamed wildly, and tearing
 herself out of this silence she ran to the servants' quarters to meet
 her old nurse and the maidservants who came running toward her.
-
-
-
-
 -------- Book 10: Chapter XIII --------
 
 On the seventeenth of August Rostov and Ilyin, accompanied by Lavrushka
@@ -38662,10 +37850,6 @@ suddenly began to cry.
 "Excuse me!" she said.
 
 Rostov, knitting his brows, left the room with another low bow.
-
-
-
-
 -------- Book 10: Chapter XIV --------
 
 "Well, is she pretty? Ah, friend--my pink one is delicious; her name is
@@ -38894,10 +38078,6 @@ Mary's happiness.
 
 But Sonya? And his plighted word? That was why Rostov grew angry when he
 was rallied about Princess Bolkonskaya.
-
-
-
-
 -------- Book 10: Chapter XV --------
 
 On receiving command of the armies Kutuzov remembered Prince Andrew and
@@ -39155,10 +38335,6 @@ the crops and burn wood to their hearts' content. I don't order it or
 allow it, but I don't exact compensation either. One can't get on
 without it. 'When wood is chopped the chips will fly.'" He looked at the
 paper again. "Oh, this German precision!" he muttered, shaking his head.
-
-
-
-
 -------- Book 10: Chapter XVI --------
 
 "Well, that's all!" said Kutuzov as he signed the last of the documents,
@@ -39298,10 +38474,6 @@ he would 'make them eat horseflesh!'"
 On such feelings, more or less dimly shared by all, the unanimity and
 general approval were founded with which, despite court influences, the
 popular choice of Kutuzov as commander-in-chief was received.
-
-
-
-
 -------- Book 10: Chapter XVII --------
 
 After the Emperor had left Moscow, life flowed on there in its usual
@@ -39515,10 +38687,6 @@ homme." *
 "Forfeit, forfeit, forfeit!"
 
 "But how could one say that in Russian?"
-
-
-
-
 -------- Book 10: Chapter XVIII --------
 
 When Pierre returned home he was handed two of Rostopchin's broadsheets
@@ -39727,10 +38895,6 @@ determine for whom and for what he felt such particular delight in
 sacrificing everything. He was not occupied with the question of what to
 sacrifice for; the fact of sacrificing in itself afforded him a new and
 joyous sensation.
-
-
-
-
 -------- Book 10: Chapter XIX --------
 
 On the twenty-fourth of August the battle of the Shevardino Redoubt was
@@ -39923,10 +39087,6 @@ as the French; that is to say, under conditions in which it was not
 merely unthinkable to fight for ten hours and secure an indecisive
 result, but unthinkable to keep an army even from complete
 disintegration and flight.
-
-
-
-
 -------- Book 10: Chapter XX --------
 
 On the morning of the twenty-fifth Pierre was leaving Mozhaysk. At the
@@ -40091,10 +39251,6 @@ perspiring necks, and their shirts opening from the left toward the
 middle, unfastened, exposing their sunburned collarbones, impressed
 Pierre more strongly with the solemnity and importance of the moment
 than anything he had yet seen or heard.
-
-
-
-
 -------- Book 10: Chapter XXI --------
 
 Pierre stepped out of his carriage and, passing the toiling militiamen,
@@ -40292,10 +39448,6 @@ the ground with his hand. The other generals followed his example, then
 the officers, and after them with excited faces, pressing on one
 another, crowding, panting, and pushing, scrambled the soldiers and
 militiamen.
-
-
-
-
 -------- Book 10: Chapter XXII --------
 
 Staggering amid the crush, Pierre looked about him.
@@ -40474,10 +39626,6 @@ Pierre and proposed that he should ride with him along the line.
 
 Half an hour later Kutuzov left for Tatarinova, and Bennigsen and his
 suite, with Pierre among them, set out on their ride along the line.
-
-
-
-
 -------- Book 10: Chapter XXIII --------
 
 From Gorki, Bennigsen descended the highroad to the bridge which, when
@@ -40553,10 +39701,6 @@ ambush, that they should not be seen and might be able to strike an
 approaching enemy unexpectedly. Bennigsen did not know this and moved
 the troops forward according to his own ideas without mentioning the
 matter to the commander-in-chief.
-
-
-
-
 -------- Book 10: Chapter XXIV --------
 
 On that bright evening of August 25, Prince Andrew lay leaning on his
@@ -40665,10 +39809,6 @@ my people? Have they reached Moscow at last?" he asked seriously.
 
 "Yes, they have. Julie Drubetskaya told me so. I went to see them, but
 missed them. They have gone to your estate near Moscow."
-
-
-
-
 -------- Book 10: Chapter XXV --------
 
 The officers were about to take leave, but Prince Andrew, apparently
@@ -40990,10 +40130,6 @@ deign to unite his fate. And I?... and he is still alive and gay!"
 
 Prince Andrew jumped up as if someone had burned him, and again began
 pacing up and down in front of the shed.
-
-
-
-
 -------- Book 10: Chapter XXVI --------
 
 On August 25, the eve of the battle of Borodino, M. de Beausset, prefect
@@ -41174,10 +40310,6 @@ the portrait. "It is too soon for him to see a field of battle."
 
 De Beausset closed his eyes, bowed his head, and sighed deeply, to
 indicate how profoundly he valued and comprehended the Emperor's words.
-
-
-
-
 -------- Book 10: Chapter XXVII --------
 
 On the twenty-fifth of August, so his historians tell us, Napoleon spent
@@ -41325,10 +40457,6 @@ made by Napoleon during the battle. But this was not and could not be
 done, for during the whole battle Napoleon was so far away that, as
 appeared later, he could not know the course of the battle and not one
 of his orders during the fight could be executed.
-
-
-
-
 -------- Book 10: Chapter XXVIII --------
 
 Many historians say that the French did not win the battle of Borodino
@@ -41435,10 +40563,6 @@ inclined to the most reasonable opinions, he made no confusion, did not
 contradict himself, did not get frightened or run away from the field of
 battle, but with his great tact and military experience carried out his
 role of appearing to command, calmly and with dignity.
-
-
-
-
 -------- Book 10: Chapter XXIX --------
 
 On returning from a second inspection of the lines, Napoleon remarked:
@@ -41576,10 +40700,6 @@ and yet more were heard mingling with and overtaking one another.
 
 Napoleon with his suite rode up to the Shevardino Redoubt where he
 dismounted. The game had begun.
-
-
-
-
 -------- Book 10: Chapter XXX --------
 
 On returning to Gorki after having seen Prince Andrew, Pierre ordered
@@ -41708,10 +40828,6 @@ pressed his heels against its sides and, feeling that his spectacles
 were slipping off but unable to let go of the mane and reins, he
 galloped after the general, causing the staff officers to smile as they
 watched him from the knoll.
-
-
-
-
 -------- Book 10: Chapter XXXI --------
 
 Having descended the hill the general after whom Pierre was galloping
@@ -42078,10 +41194,6 @@ only charred green boards and rags littered the scorched grass, and a
 horse, dangling fragments of its shaft behind it, galloped past, while
 another horse lay, like Pierre, on the ground, uttering prolonged and
 piercing cries.
-
-
-
-
 -------- Book 10: Chapter XXXII --------
 
 Beside himself with terror Pierre jumped up and ran back to the battery,
@@ -42156,10 +41268,6 @@ especially to the left, near Semenovsk, something seemed to be seething
 in the smoke, and the roar of cannon and musketry did not diminish, but
 even increased to desperation like a man who, straining himself, shrieks
 with all his remaining strength.
-
-
-
-
 -------- Book 10: Chapter XXXIII --------
 
 The chief action of the battle of Borodino was fought within the seven
@@ -42281,10 +41389,6 @@ under discipline and under the influence of that discipline led them
 back to the zone of fire, where under the influence of fear of death
 they lost their discipline and rushed about according to the chance
 promptings of the throng.
-
-
-
-
 -------- Book 10: Chapter XXXIV --------
 
 Napoleon's generals--Davout, Ney, and Murat, who were near that region
@@ -42496,10 +41600,6 @@ Napoleon bowed his head and remained silent a long time.
 
 "At eight hundred leagues from France, I will not have my Guard
 destroyed!" he said, and turning his horse rode back to Shevardino.
-
-
-
-
 -------- Book 10: Chapter XXXV --------
 
 On the rug-covered bench where Pierre had seen him in the morning sat
@@ -42683,10 +41783,6 @@ the commander-in-chief's soul as in that of every Russian.
 And on learning that tomorrow they were to attack the enemy, and hearing
 from the highest quarters a confirmation of what they wanted to believe,
 the exhausted, wavering men felt comforted and inspirited.
-
-
-
-
 -------- Book 10: Chapter XXXVI --------
 
 Prince Andrew's regiment was among the reserves which till after one
@@ -42883,10 +41979,6 @@ shining eyes and experienced a sense of comfort. "But isn't it all the
 same now?" thought he. "And what will be there, and what has there been
 here? Why was I so reluctant to part with life? There was something in
 this life I did not and do not understand."
-
-
-
-
 -------- Book 10: Chapter XXXVII --------
 
 One of the doctors came out of the tent in a bloodstained apron, holding
@@ -43010,10 +42102,6 @@ who hate us, love of our enemies; yes, that love which God preached on
 earth and which Princess Mary taught me and I did not understand--that
 is what made me sorry to part with life, that is what remained for me
 had I lived. But now it is too late. I know it!"
-
-
-
-
 -------- Book 10: Chapter XXXVIII --------
 
 The terrible spectacle of the battlefield covered with dead and wounded,
@@ -43149,10 +42237,6 @@ horrors that occurred did not stagger his soul. He boldly took the whole
 responsibility for what happened, and his darkened mind found
 justification in the belief that among the hundreds of thousands who
 perished there were fewer Frenchmen than Hessians and Bavarians.
-
-
-
-
 -------- Book 10: Chapter XXXIX --------
 
 Several tens of thousands of the slain lay in diverse postures and
@@ -43254,10 +42338,6 @@ which at Borodino for the first time the hand of an opponent of stronger
 spirit had been laid.
 
 BOOK ELEVEN: 1812
-
-
-
-
 -------- Book 11: Chapter I --------
 
 Absolute continuity of motion is not comprehensible to the human mind.
@@ -43392,10 +42472,6 @@ mental effort has been applied in this direction by historians as has
 been devoted to describing the actions of various kings, commanders, and
 ministers and propounding the historians' own reflections concerning
 these actions.
-
-
-
-
 -------- Book 11: Chapter II --------
 
 The forces of a dozen European nations burst into Russia. The Russian
@@ -43518,10 +42594,6 @@ that question been settled? At Drissa and at Smolensk and most palpably
 of all on the twenty-fourth of August at Shevardino and on the twenty-
 sixth at Borodino, and each day and hour and minute of the retreat from
 Borodino to Fili.
-
-
-
-
 -------- Book 11: Chapter III --------
 
 When Ermolov, having been sent by Kutuzov to inspect the position, told
@@ -43620,10 +42692,6 @@ He called the most important generals to him.
 
 "My head, be it good or bad, must depend on itself," said he, rising
 from the bench, and he rode to Fili where his carriages were waiting.
-
-
-
-
 -------- Book 11: Chapter IV --------
 
 The Council of War began to assemble at two in the afternoon in the
@@ -43766,10 +42834,6 @@ this would happen."
 "But no! They shall eat horseflesh yet, like the Turks!" exclaimed
 Kutuzov without replying, striking the table with his podgy fist. "They
 shall too, if only..."
-
-
-
-
 -------- Book 11: Chapter V --------
 
 At that very time, in circumstances even more important than retreating
@@ -43865,10 +42929,6 @@ and like a child he made sport of the momentous, and unavoidable event--
 the abandonment and burning of Moscow--and tried with his puny hand now
 to speed and now to stay the enormous, popular tide that bore him along
 with it.
-
-
-
-
 -------- Book 11: Chapter VI --------
 
 Helene, having returned with the court from Vilna to Petersburg, found
@@ -44012,10 +43072,6 @@ not abandon the edifice of argument he had laboriously constructed.
 
 "Let us understand one another, Countess," said he with a smile, and
 began refuting his spiritual daughter's arguments.
-
-
-
-
 -------- Book 11: Chapter VII --------
 
 Helene understood that the question was very simple and easy from the
@@ -44201,10 +43257,6 @@ keeping--Your friend Helene.
 
 This letter was brought to Pierre's house when he was on the field of
 Borodino.
-
-
-
-
 -------- Book 11: Chapter VIII --------
 
 Toward the end of the battle of Borodino, Pierre, having run down from
@@ -44312,10 +43364,6 @@ Kirilych--isn't it?"
 There was not a room to be had at the inn, they were all occupied.
 Pierre went out into the yard and, covering himself up head and all, lay
 down in his carriage.
-
-
-
-
 -------- Book 11: Chapter IX --------
 
 Scarcely had Pierre laid his head on the pillow before he felt himself
@@ -44432,10 +43480,6 @@ be heard. Pierre offered the use of his carriage, which had overtaken
 him, to a wounded general he knew, and drove with him to Moscow. On the
 way Pierre was told of the death of his brother-in-law Anatole and of
 that of Prince Andrew.
-
-
-
-
 -------- Book 11: Chapter X --------
 
 On the thirteenth of August Pierre reached Moscow. Close to the gates of
@@ -44591,10 +43635,6 @@ here by the Stone Bridge, and you know there was a large icon of God
 Almighty painted with a scepter in one hand and an orb in the other.
 Well, he took that icon home with him for a few days and what did he do?
 He found some scoundrel of a painter..."
-
-
-
-
 -------- Book 11: Chapter XI --------
 
 In the middle of this fresh tale Pierre was summoned to the commander in
@@ -44688,10 +43728,6 @@ them, went to the back porch and out through the gate.
 From that time till the end of the destruction of Moscow no one of
 Bezukhov's household, despite all the search they made, saw Pierre again
 or knew where he was.
-
-
-
-
 -------- Book 11: Chapter XII --------
 
 The Rostovs remained in Moscow till the first of September, that is,
@@ -44831,10 +43867,6 @@ near Moscow, there would be fighting at the town gates, arms were being
 given out, everybody was escaping--going away somewhere, and in general
 something extraordinary was happening, and that is always exciting,
 especially to the young.
-
-
-
-
 -------- Book 11: Chapter XIII --------
 
 On Saturday, the thirty-first of August, everything in the Rostovs'
@@ -44996,10 +44028,6 @@ night if possible. With a woman's involuntary loving cunning she, who
 till then had not shown any alarm, said that she would die of fright if
 they did not leave that very night. Without any pretense she was now
 afraid of everything.
-
-
-
-
 -------- Book 11: Chapter XIV --------
 
 Madame Schoss, who had been out to visit her daughter, increased the
@@ -45131,10 +44159,6 @@ But they had to avoid carrying the man upstairs, and so they took him
 into the wing and put him in the room that had been Madame Schoss'.
 
 This wounded man was Prince Andrew Bolkonski.
-
-
-
-
 -------- Book 11: Chapter XV --------
 
 Moscow's last day had come. It was a clear bright autumn day, a Sunday.
@@ -45277,10 +44301,6 @@ Natasha stepped up to the window and pondered.
 
 "Papa! Here's Berg coming to see us," said she, looking out of the
 window.
-
-
-
-
 -------- Book 11: Chapter XVI --------
 
 Berg, the Rostovs' son-in-law, was already a colonel wearing the orders
@@ -45512,10 +44532,6 @@ Sonya too was busy all this time, but the aim of her efforts was quite
 different from Natasha's. She was putting away the things that had to be
 left behind and making a list of them as the countess wished, and she
 tried to get as much taken away with them as possible.
-
-
-
-
 -------- Book 11: Chapter XVII --------
 
 Before two o'clock in the afternoon the Rostovs' four carriages, packed
@@ -45740,10 +44756,6 @@ behind the carriage he stepped onto the pavement.
 
 Natasha continued to lean out of the window for a long time, beaming at
 him with her kindly, slightly quizzical, happy smile.
-
-
-
-
 -------- Book 11: Chapter XVIII --------
 
 For the last two days, ever since leaving home, Pierre had been living
@@ -45888,10 +44900,6 @@ gown around him with a shamefaced and angry look and hurried away. It
 was when Pierre (wearing the coachman's coat which Gerasim had procured
 for him and had disinfected by steam) was on his way with the old man to
 buy the pistol at the Sukharev market that he met the Rostovs.
-
-
-
-
 -------- Book 11: Chapter XIX --------
 
 Kutuzov's order to retreat through Moscow to the Ryazan road was issued
@@ -46067,10 +45075,6 @@ Drawn on by the movement of his troops Napoleon rode with them as far as
 the Dorogomilov gate, but there again stopped and, dismounting from his
 horse, paced for a long time by the Kammer-Kollezski rampart, awaiting
 the deputation.
-
-
-
-
 -------- Book 11: Chapter XX --------
 
 Meanwhile Moscow was empty. There were still people in it, perhaps a
@@ -46164,10 +45168,6 @@ He did not drive into the town, but put up at an inn in the Dorogomilov
 suburb.
 
 The coup de theatre had not come off.
-
-
-
-
 -------- Book 11: Chapter XXI --------
 
 The Russian troops were passing through Moscow from two o'clock at night
@@ -46281,10 +45281,6 @@ had ordered two guns to be unlimbered and made a show of firing at the
 bridge. The crowd, crushing one another, upsetting carts, and shouting
 and squeezing desperately, had cleared off the bridge and the troops
 were now moving forward.
-
-
-
-
 -------- Book 11: Chapter XXII --------
 
 Meanwhile, the city itself was deserted. There was hardly anyone in the
@@ -46405,10 +45401,6 @@ overtake his regiment.
 But Mavra Kuzminichna stood at the closed gate for some time with moist
 eyes, pensively swaying her head and feeling an unexpected flow of
 motherly tenderness and pity for the unknown young officer.
-
-
-
-
 -------- Book 11: Chapter XXIII --------
 
 From an unfinished house on the Varvarka, the ground floor of which was
@@ -46605,10 +45597,6 @@ in the direction of the Lubyanka Street.
 "There now, the gentry and merchants have gone away and left us to
 perish. Do they think we're dogs?" voices in the crowd were heard saying
 more and more frequently.
-
-
-
-
 -------- Book 11: Chapter XXIV --------
 
 On the evening of the first of September, after his interview with
@@ -46764,10 +45752,6 @@ Vereshchagin..."
 
 "Vereshchagin! Hasn't he been hanged yet?" shouted Rostopchin. "Bring
 him to me!"
-
-
-
-
 -------- Book 11: Chapter XXV --------
 
 Toward nine o'clock in the morning, when the troops were already moving
@@ -47158,10 +46142,6 @@ meaningless, at any rate Rostopchin made no reply and hastily left him.
 And strange to say, the Governor of Moscow, the proud Count Rostopchin,
 took up a Cossack whip and went to the bridge where he began with shouts
 to drive on the carts that blocked the way.
-
-
-
-
 -------- Book 11: Chapter XXVI --------
 
 Toward four o'clock in the afternoon Murat's troops were entering
@@ -47372,10 +46352,6 @@ in it. Moscow when occupied by the enemy did not remain intact like
 Berlin, Vienna, and other towns, simply because its inhabitants
 abandoned it and did not welcome the French with bread and salt, nor
 bring them the keys of the city.
-
-
-
-
 -------- Book 11: Chapter XXVII --------
 
 The absorption of the French by Moscow, radiating starwise as it did,
@@ -47542,10 +46518,6 @@ cried.
 Gerasim and the porter let Makar Alexeevich go, and in the now silent
 corridor the sound of several hands knocking at the front door could be
 heard.
-
-
-
-
 -------- Book 11: Chapter XXVIII --------
 
 Pierre, having decided that until he had carried out his design he would
@@ -47686,10 +46658,6 @@ to visit the kitchen, came up to his officer.
 "Shall I serve them up?"
 
 "Yes, and some wine," answered the captain.
-
-
-
-
 -------- Book 11: Chapter XXIX --------
 
 When the French officer went into the room with Pierre the latter again
@@ -48100,10 +47068,6 @@ against the fence to save himself from falling.
 Without taking leave of his new friend, Pierre left the gate with
 unsteady steps and returning to his room lay down on the sofa and
 immediately fell asleep.
-
-
-
-
 -------- Book 11: Chapter XXX --------
 
 The glow of the first fire that began on the second of September was
@@ -48189,10 +47153,6 @@ and he gave way to an old man's sob.
 And it was as if they had all only waited for this to realize the
 significance for them of the glow they were watching. Sighs were heard,
 words of prayer, and the sobbing of the count's old valet.
-
-
-
-
 -------- Book 11: Chapter XXXI --------
 
 The valet, returning to the cottage, informed the count that Moscow was
@@ -48384,10 +47344,6 @@ seen on him before. She went up to him and with a swift, flexible,
 youthful movement dropped on her knees.
 
 He smiled and held out his hand to her.
-
-
-
-
 -------- Book 11: Chapter XXXII --------
 
 Seven days had passed since Prince Andrew found himself in the ambulance
@@ -48641,10 +47597,6 @@ engagement would be renewed, no one--least of all Natasha and Prince
 Andrew--spoke of this: the unsettled question of life and death, which
 hung not only over Bolkonski but over all Russia, shut out all other
 considerations.
-
-
-
-
 -------- Book 11: Chapter XXXIII --------
 
 On the third of September Pierre awoke late. His head was aching, the
@@ -48909,10 +47861,6 @@ impossible to get back the way he had come; the maid, Aniska, was no
 longer there, and Pierre with a feeling of pity and disgust pressed the
 wet, painfully sobbing child to himself as tenderly as he could and ran
 with her through the garden seeking another way out.
-
-
-
-
 -------- Book 11: Chapter XXXIV --------
 
 Having run through different yards and side streets, Pierre got back
@@ -49104,10 +48052,6 @@ brought for the night to a large house on the Zubov Rampart that was
 being used as a guardhouse, Pierre was placed apart under strict guard.
 
 BOOK TWELVE: 1812
-
-
-
-
 -------- Book 12: Chapter I --------
 
 In Petersburg at that time a complicated struggle was being carried on
@@ -49268,10 +48212,6 @@ result of the battle to be fought in a few days.
 
 "You will see," said Anna Pavlovna, "that tomorrow, on the Emperor's
 birthday, we shall receive news. I have a favorable presentiment!"
-
-
-
-
 -------- Book 12: Chapter II --------
 
 Anna Pavlovna's presentiment was in fact fulfilled. Next day during the
@@ -49374,10 +48314,6 @@ yourself imagine the effect this news has had on me, and your silence
 increases my astonishment. I am sending this by Adjutant-General Prince
 Volkonski, to hear from you the situation of the army and the reasons
 that have induced you to take this melancholy decision.
-
-
-
-
 -------- Book 12: Chapter III --------
 
 Nine days after the abandonment of Moscow, a messenger from Kutuzov
@@ -49510,10 +48446,6 @@ himself to be, in the following words:
 the nation and the salvation of Europe!"
 
 With an inclination of the head the Emperor dismissed him.
-
-
-
-
 -------- Book 12: Chapter IV --------
 
 It is natural for us who were not living in those days to imagine that
@@ -49706,10 +48638,6 @@ evening, however, as the wife's face grew more flushed and animated, the
 husband's became more and more melancholy and solemn, as though there
 were but a given amount of animation between them and as the wife's
 share increased the husband's diminished.
-
-
-
-
 -------- Book 12: Chapter V --------
 
 Nicholas sat leaning slightly forward in an armchair, bending closely
@@ -49868,10 +48796,6 @@ always a right way of doing things," replied the governor's wife.
 
 "What a matchmaker you are, Aunt..." said Nicholas, kissing her plump
 little hand.
-
-
-
-
 -------- Book 12: Chapter VI --------
 
 On reaching Moscow after her meeting with Rostov, Princess Mary had
@@ -50028,10 +48952,6 @@ these pictures of the future had given him pleasure. But with Princess
 Mary, to whom they were trying to get him engaged, he could never
 picture anything of future married life. If he tried, his pictures
 seemed incongruous and false. It made him afraid.
-
-
-
-
 -------- Book 12: Chapter VII --------
 
 The dreadful news of the battle of Borodino, of our losses in killed and
@@ -50210,10 +49130,6 @@ intimate with the princess as if they were relations.
 
 The following day he saw Princess Mary off on her journey to Yaroslavl,
 and a few days later left to rejoin his regiment.
-
-
-
-
 -------- Book 12: Chapter VIII --------
 
 Sonya's letter written from Troitsa, which had come as an answer to
@@ -50381,10 +49297,6 @@ which she was accustomed to live and loved to live. So with a joyful
 consciousness of performing a magnanimous deed--interrupted several
 times by the tears that dimmed her velvety black eyes--she wrote that
 touching letter the arrival of which had so amazed Nicholas.
-
-
-
-
 -------- Book 12: Chapter IX --------
 
 The officer and soldiers who had arrested Pierre treated him with
@@ -50469,10 +49381,6 @@ rather mysterious power.
 
 These first days, before the eighth of September when the prisoners were
 had up for a second examination, were the hardest of all for Pierre.
-
-
-
-
 -------- Book 12: Chapter X --------
 
 On the eighth of September an officer--a very important one judging by
@@ -50640,10 +49548,6 @@ It was a system--a concurrence of circumstances.
 
 A system of some sort was killing him--Pierre--depriving him of life, of
 everything, annihilating him.
-
-
-
-
 -------- Book 12: Chapter XI --------
 
 From Prince Shcherbatov's house the prisoners were led straight down the
@@ -50788,10 +49692,6 @@ Pierre glanced round at the speaker and saw that it was a soldier who
 was trying to find some relief after what had been done, but was not
 able to do so. Without finishing what he had begun to say he made a
 hopeless movement with his arm and went away.
-
-
-
-
 -------- Book 12: Chapter XII --------
 
 After the execution Pierre was separated from the rest of the prisoners
@@ -51038,10 +49938,6 @@ lay with eyes open in the darkness, listening to the regular snoring of
 Platon who lay beside him, and he felt that the world that had been
 shattered was once more stirring in his soul with a new beauty and on
 new and unshakable foundations.
-
-
-
-
 -------- Book 12: Chapter XIII --------
 
 Twenty-three soldiers, three officers, and two officials were confined
@@ -51150,10 +50046,6 @@ part of a whole of which he was always conscious. His words and actions
 flowed from him as evenly, inevitably, and spontaneously as fragrance
 exhales from a flower. He could not understand the value or significance
 of any word or deed taken separately.
-
-
-
-
 -------- Book 12: Chapter XIV --------
 
 When Princess Mary heard from Nicholas that her brother was with the
@@ -51392,10 +50284,6 @@ her sobs. "I don't know why, but you will see what he is like."
 
 "No, it's not that, but worse. You will see. O, Mary, he is too good, he
 cannot, cannot live, because..."
-
-
-
-
 -------- Book 12: Chapter XV --------
 
 When Natasha opened Prince Andrew's door with a familiar movement and
@@ -51586,10 +50474,6 @@ hopes of saving his life. She took turns with her beside his sofa, and
 did not cry any more, but prayed continually, turning in soul to that
 Eternal and Unfathomable, whose presence above the dying man was now so
 evident.
-
-
-
-
 -------- Book 12: Chapter XVI --------
 
 Not only did Prince Andrew know he would die, but he felt that he was
@@ -51837,10 +50721,6 @@ and solemn mystery of death that had been accomplished in their
 presence.
 
 BOOK THIRTEEN: 1812
-
-
-
-
 -------- Book 13: Chapter I --------
 
 Man's mind cannot grasp the causes of events in their completeness, but
@@ -51952,10 +50832,6 @@ precisely when, or by whom, it was decided to move to Tarutino. Only
 when the army had got there, as the result of innumerable and varying
 forces, did people begin to assure themselves that they had desired this
 movement and long ago foreseen its result.
-
-
-
-
 -------- Book 13: Chapter II --------
 
 The famous flank movement merely consisted in this: after the advance of
@@ -52042,10 +50918,6 @@ in the relative strength, and an advance had become inevitable. And at
 once, as a clock begins to strike and chime as soon as the minute hand
 has completed a full circle, this change was shown by an increased
 activity, whirring, and chiming in the higher spheres.
-
-
-
-
 -------- Book 13: Chapter III --------
 
 The Russian army was commanded by Kutuzov and his staff, and also by the
@@ -52149,10 +51021,6 @@ he supposed the Emperor to hold, and the fact that all the generals
 expressed the same wish--could no longer check the inevitable movement,
 and gave the order to do what he regarded as useless and harmful--gave
 his approval, that is, to the accomplished fact.
-
-
-
-
 -------- Book 13: Chapter IV --------
 
 Bennigsen's note and the Cossack's information that the left flank of
@@ -52246,10 +51114,6 @@ officer had to say, took the papers from him without a word.
 staff that evening, to the officer of the Horse Guards, referring to
 Ermolov. "It was a trick. It was done on purpose to get Konovnitsyn into
 trouble. You'll see what a mess there'll be tomorrow."
-
-
-
-
 -------- Book 13: Chapter V --------
 
 Next day the decrepit Kutuzov, having given orders to be called early,
@@ -52304,10 +51168,6 @@ listened to excuses and self-justifications (Ermolov did not come to see
 him till the next day) and to the insistence of Bennigsen, Konovnitsyn,
 and Toll that the movement that had miscarried should be executed next
 day. And once more Kutuzov had to consent.
-
-
-
-
 -------- Book 13: Chapter VI --------
 
 Next day the troops assembled in their appointed places in the evening
@@ -52448,10 +51308,6 @@ be of any use or no. Danger, cannon balls, and bullets were just what he
 needed in his angry mood. One of the first bullets killed him, and other
 bullets killed many of his men. And his division remained under fire for
 some time quite uselessly.
-
-
-
-
 -------- Book 13: Chapter VII --------
 
 Meanwhile another column was to have attacked the French from the front,
@@ -52545,10 +51401,6 @@ confusion, the most important results of the whole campaign were
 attained: the transition from retreat to advance, an exposure of the
 weakness of the French, and the administration of that shock which
 Napoleon's army had only awaited to begin its flight.
-
-
-
-
 -------- Book 13: Chapter VIII --------
 
 Napoleon enters Moscow after the brilliant victory de la Moskowa; there
@@ -52623,10 +51475,6 @@ disconcert him. He did not lose sight either of the welfare of his army
 or of the doings of the enemy, or of the welfare of the people of
 Russia, or of the direction of affairs in Paris, or of diplomatic
 considerations concerning the terms of the anticipated peace.
-
-
-
-
 -------- Book 13: Chapter IX --------
 
 With regard to military matters, Napoleon immediately on his entry into
@@ -52769,10 +51617,6 @@ from outside, and had paper rubles distributed to them."
 With reference to army discipline, orders were continually being issued
 to inflict severe punishment for the nonperformance of military duties
 and to suppress robbery.
-
-
-
-
 -------- Book 13: Chapter X --------
 
 But strange to say, all these measures, efforts, and plans--which were
@@ -52916,10 +51760,6 @@ During the whole of that period Napoleon, who seems to us to have been
 the leader of all these movements--as the figurehead of a ship may seem
 to a savage to guide the vessel--acted like a child who, holding a
 couple of strings inside a carriage, thinks he is driving it.
-
-
-
-
 -------- Book 13: Chapter XI --------
 
 Early in the morning of the sixth of October Pierre went out of the
@@ -53096,10 +51936,6 @@ pieces.
 
 "But they'll make grand leg bands, dear friend," he said, and went back
 into the shed.
-
-
-
-
 -------- Book 13: Chapter XII --------
 
 Four weeks had passed since Pierre had been taken prisoner and though
@@ -53199,10 +52035,6 @@ the world he had lived in--his strength, his disdain for the comforts of
 life, his absent-mindedness and simplicity--here among these people gave
 him almost the status of a hero. And Pierre felt that their opinion
 placed responsibilities upon him.
-
-
-
-
 -------- Book 13: Chapter XIII --------
 
 The French evacuation began on the night between the sixth and seventh
@@ -53350,10 +52182,6 @@ against the palings with its face smeared with soot.
 guards began cursing and the French soldiers, with fresh virulence,
 drove away with their swords the crowd of prisoners who were gazing at
 the dead man.
-
-
-
-
 -------- Book 13: Chapter XIV --------
 
 Through the cross streets of the Khamovniki quarter the prisoners
@@ -53533,10 +52361,6 @@ stars in its faraway depths. "And all that is me, all that is within me,
 and it is all I!" thought Pierre. "And they caught all that and put it
 into a shed boarded up with planks!" He smiled, and went and lay down to
 sleep beside his companions.
-
-
-
-
 -------- Book 13: Chapter XV --------
 
 In the early days of October another envoy came to Kutuzov with a letter
@@ -53625,10 +52449,6 @@ to explain the whole affair by word of mouth, besides delivering a
 written report. Toward midnight Bolkhovitinov, having received the
 dispatch and verbal instructions, galloped off to the General Staff
 accompanied by a Cossack with spare horses.
-
-
-
-
 -------- Book 13: Chapter XVI --------
 
 It was a warm, dark, autumn night. It had been raining for four days.
@@ -53750,10 +52570,6 @@ And in fact Toll, to whom he went to communicate the news, immediately
 began to expound his plans to a general sharing his quarters, until
 Konovnitsyn, who listened in weary silence, reminded him that they must
 go to see his Highness.
-
-
-
-
 -------- Book 13: Chapter XVII --------
 
 Kutuzov like all old people did not sleep much at night. He often fell
@@ -53876,10 +52692,6 @@ the room, to the corner darkened by the icons that hung there.
 "O Lord, my Creator, Thou has heard our prayer..." said he in a
 tremulous voice with folded hands. "Russia is saved. I thank Thee, O
 Lord!" and he wept.
-
-
-
-
 -------- Book 13: Chapter XVIII --------
 
 From the time he received this news to the end of the campaign all
@@ -53954,10 +52766,6 @@ That Napoleon agreed with Mouton, and that the army retreated, does not
 prove that Napoleon caused it to retreat, but that the forces which
 influenced the whole army and directed it along the Mozhaysk (that is,
 the Smolensk) road acted simultaneously on him also.
-
-
-
-
 -------- Book 13: Chapter XIX --------
 
 A man in motion always devises an aim for that motion. To be able to go
@@ -54044,10 +52852,6 @@ closing up more firmly at the danger, continued, while steadily melting
 away, to pursue its fatal path to Smolensk.
 
 BOOK FOURTEEN: 1812
-
-
-
-
 -------- Book 14: Chapter I --------
 
 The Battle of Borodino, with the occupation of Moscow that followed it
@@ -54167,10 +52971,6 @@ have adopted in similar cases, simply and easily pick up the first
 cudgel that comes to hand and strike with it till the feeling of
 resentment and revenge in their soul yields to a feeling of contempt and
 compassion.
-
-
-
-
 -------- Book 14: Chapter II --------
 
 One of the most obvious and advantageous departures from the so-called
@@ -54272,10 +53072,6 @@ small units, because their spirit had so risen that separate
 individuals, without orders, dealt blows at the French without needing
 any compulsion to induce them to expose themselves to hardships and
 dangers.
-
-
-
-
 -------- Book 14: Chapter III --------
 
 The so-called partisan war began with the entry of the French into
@@ -54382,10 +53178,6 @@ Denisov considered it dangerous to make a second attack for fear of
 putting the whole column on the alert, so he sent Tikhon Shcherbaty, a
 peasant of his party, to Shamshevo to try and seize at least one of the
 French quartermasters who had been sent on in advance.
-
-
-
-
 -------- Book 14: Chapter IV --------
 
 It was a warm rainy autumn day. The sky and the horizon were both the
@@ -54553,10 +53345,6 @@ Shamshevo."
 Denisov, Petya, and the esaul, accompanied by some Cossacks and the
 hussar who had the prisoner, rode to the left across a ravine to the
 edge of the forest.
-
-
-
-
 -------- Book 14: Chapter V --------
 
 The rain had stopped, and only the mist was falling and drops from the
@@ -54710,10 +53498,6 @@ not been content to take only one Frenchman or because he had slept
 through the night, he had crept by day into some bushes right among the
 French and, as Denisov had witnessed from above, had been detected by
 them.
-
-
-
-
 -------- Book 14: Chapter VI --------
 
 After talking for some time with the esaul about next day's attack,
@@ -54822,10 +53606,6 @@ news that Dolokhov was soon coming and that all was well with him.
 
 Denisov at once cheered up and, calling Petya to him, said: "Well, tell
 me about yourself."
-
-
-
-
 -------- Book 14: Chapter VII --------
 
 Petya, having left his people after their departure from Moscow, joined
@@ -54994,10 +53774,6 @@ When the boy had entered the hut, Petya sat down at a distance from him,
 considering it beneath his dignity to pay attention to him. But he
 fingered the money in his pocket and wondered whether it would seem
 ridiculous to give some to the drummer boy.
-
-
-
-
 -------- Book 14: Chapter VIII --------
 
 The arrival of Dolokhov diverted Petya's attention from the drummer boy,
@@ -55104,10 +53880,6 @@ never considered personal danger.
 are... hundreds of lives may depend on it, while there are only two of
 us. Besides, I want to go very much and certainly will go, so don't
 hinder me," said he. "It will only make things worse..."
-
-
-
-
 -------- Book 14: Chapter IX --------
 
 Having put on French greatcoats and shakos, Petya and Dolokhov rode to
@@ -55276,10 +54048,6 @@ How I love you!"
 and Dolokhov saw through the gloom that Petya was bending toward him and
 wanted to kiss him. Dolokhov kissed him, laughed, turned his horse, and
 vanished into the darkness.
-
-
-
-
 -------- Book 14: Chapter X --------
 
 Having returned to the watchman's hut, Petya found Denisov in the
@@ -55472,10 +54240,6 @@ girths.
 
 Denisov came out of the watchman's hut and, having called Petya, gave
 orders to get ready.
-
-
-
-
 -------- Book 14: Chapter XI --------
 
 The men rapidly picked out their horses in the semidarkness, tightened
@@ -55601,10 +54365,6 @@ the wattle fence, and seized hold of it.
 
 Among the Russian prisoners rescued by Denisov and Dolokhov was Pierre
 Bezukhov.
-
-
-
-
 -------- Book 14: Chapter XII --------
 
 During the whole of their march from Moscow no fresh orders had been
@@ -55726,10 +54486,6 @@ have to share that fate. Still less did Pierre think about himself. The
 harder his position became and the more terrible the future, the more
 independent of that position in which he found himself were the joyful
 and comforting thoughts, memories, and imaginings that came to him.
-
-
-
-
 -------- Book 14: Chapter XIII --------
 
 At midday on the twenty-second of October Pierre was going uphill along
@@ -55846,10 +54602,6 @@ gazing before him with a smile.
 And Pierre's soul was dimly but joyfully filled not by the story itself
 but by its mysterious significance: by the rapturous joy that lit up
 Karataev's face as he told it, and the mystic significance of that joy.
-
-
-
-
 -------- Book 14: Chapter XIV --------
 
 "A vos places!" * suddenly cried a voice.
@@ -55915,10 +54667,6 @@ Behind him, where Karataev had been sitting, the dog began to howl.
 His comrades, the prisoner soldiers walking beside him, avoided looking
 back at the place where the shot had been fired and the dog was howling,
 just as Pierre did, but there was a set look on all their faces.
-
-
-
-
 -------- Book 14: Chapter XV --------
 
 The stores, the prisoners, and the marshal's baggage train stopped at
@@ -56032,10 +54780,6 @@ flashed with a cruel light.
 Denisov, bareheaded and with a gloomy face, walked behind some Cossacks
 who were carrying the body of Petya Rostov to a hole that had been dug
 in the garden.
-
-
-
-
 -------- Book 14: Chapter XVI --------
 
 After the twenty-eighth of October when the frosts began, the flight of
@@ -56098,10 +54842,6 @@ miserable wretches who had done much evil for which they had now to pay.
 And though they pretended to be concerned about the army, each was
 thinking only of himself and of how to get away quickly and save
 himself.
-
-
-
-
 -------- Book 14: Chapter XVII --------
 
 The movements of the Russian and French armies during the campaign from
@@ -56167,10 +54907,6 @@ who got across the river fled farther. Their supreme chief donned a fur
 coat and, having seated himself in a sleigh, galloped on alone,
 abandoning his companions. The others who could do so drove away too,
 leaving those who could not to surrender or die.
-
-
-
-
 -------- Book 14: Chapter XVIII --------
 
 This campaign consisted in a flight of the French during which they did
@@ -56249,10 +54985,6 @@ and immeasurable meanness.
 For us with the standard of good and evil given us by Christ, no human
 actions are incommensurable. And there is no greatness where simplicity,
 goodness, and truth are absent.
-
-
-
-
 -------- Book 14: Chapter XIX --------
 
 What Russian, reading the account of the last part of the campaign of
@@ -56446,10 +55178,6 @@ experienced driver knew it was better to hold the whip raised as a
 menace than to strike the running animal on the head.
 
 BOOK FIFTEEN: 1812 - 13
-
-
-
-
 -------- Book 15: Chapter I --------
 
 When seeing a dying animal a man feels a sense of horror: substance
@@ -56608,10 +55336,6 @@ on her face and showing no concern for her mistress.
 "Come to your Papa at once, please!" said she with a strange, excited
 look. "A misfortune... about Peter Ilynich... a letter," she finished
 with a sob.
-
-
-
-
 -------- Book 15: Chapter II --------
 
 Besides a feeling of aloofness from everybody Natasha was feeling a
@@ -56715,10 +55439,6 @@ manly," continued the countess, taking her daughter's hand.
 
 And embracing her daughter, the countess began to weep for the first
 time.
-
-
-
-
 -------- Book 15: Chapter III --------
 
 Princess Mary postponed her departure. Sonya and the count tried to
@@ -56833,10 +55553,6 @@ from within.
 
 At the end of January Princess Mary left for Moscow, and the count
 insisted on Natasha's going with her to consult the doctors.
-
-
-
-
 -------- Book 15: Chapter IV --------
 
 After the encounter at Vyazma, where Kutuzov had been unable to hold
@@ -56962,10 +55678,6 @@ this way, but posterity and history have acclaimed Napoleon as grand,
 while Kutuzov is described by foreigners as a crafty, dissolute, weak
 old courtier, and by Russians as something indefinite--a sort of puppet
 useful only because he had a Russian name.
-
-
-
-
 -------- Book 15: Chapter V --------
 
 In 1812 and 1813 Kutuzov was openly accused of blundering. The Emperor
@@ -57099,10 +55811,6 @@ history has invented.
 
 To a lackey no man can be great, for a lackey has his own conception of
 greatness.
-
-
-
-
 -------- Book 15: Chapter VI --------
 
 The fifth of November was the first day of what is called the battle of
@@ -57224,10 +55932,6 @@ the soul of every soldier and found expression in their joyous and long-
 sustained shouts. Afterwards when one of the generals addressed Kutuzov
 asking whether he wished his caleche to be sent for, Kutuzov in
 answering unexpectedly gave a sob, being evidently greatly moved.
-
-
-
-
 -------- Book 15: Chapter VII --------
 
 When the troops reached their night's halting place on the eighth of
@@ -57334,10 +56038,6 @@ and a campfire was built before it. They beat the tattoo, called the
 roll, had supper, and settled down round the fires for the night--some
 repairing their footgear, some smoking pipes, and some stripping
 themselves naked to steam the lice out of their shirts.
-
-
-
-
 -------- Book 15: Chapter VIII --------
 
 One would have thought that under the almost incredibly wretched
@@ -57530,10 +56230,6 @@ singing songs...."
 "Oh, I'll go across and have a look...."
 
 And several of the men went over to the Fifth Company.
-
-
-
-
 -------- Book 15: Chapter IX --------
 
 The fifth company was bivouacking at the very edge of the forest. A huge
@@ -57653,10 +56349,6 @@ They all grew silent. The stars, as if knowing that no one was looking
 at them, began to disport themselves in the dark sky: now flaring up,
 now vanishing, now trembling, they were busy whispering something
 gladsome and mysterious to one another.
-
-
-
-
 -------- Book 15: Chapter X --------
 
 The French army melted away at the uniform rate of a mathematical
@@ -57874,10 +56566,6 @@ Suddenly he seemed to remember; a scarcely perceptible smile flashed
 across his puffy face, and bowing low and respectfully he took the
 object that lay on the salver. It was the Order of St. George of the
 First Class.
-
-
-
-
 -------- Book 15: Chapter XI --------
 
 Next day the field marshal gave a dinner and ball which the Emperor
@@ -57948,10 +56636,6 @@ the Russian people, after the enemy had been destroyed and Russia had
 been liberated and raised to the summit of her glory, there was nothing
 left to do as a Russian. Nothing remained for the representative of the
 national war but to die, and Kutuzov died.
-
-
-
-
 -------- Book 15: Chapter XII --------
 
 As generally happens, Pierre did not feel the full effects of the
@@ -58057,10 +56741,6 @@ formerly destroyed all his mental edifices, no longer existed for him.
 To that question, "What for?" a simple answer was now always ready in
 his soul: "Because there is a God, that God without whose will not one
 hair falls from a man's head."
-
-
-
-
 -------- Book 15: Chapter XIII --------
 
 In external ways Pierre had hardly changed at all. In appearance he was
@@ -58268,10 +56948,6 @@ maintained the life of this original, peculiar, and unique people. He
 did not contradict Willarski and even seemed to agree with him--an
 apparent agreement being the simplest way to avoid discussions that
 could lead to nothing--and he smiled joyfully as he listened to him.
-
-
-
-
 -------- Book 15: Chapter XIV --------
 
 It would be difficult to explain why and whither ants whose heap has
@@ -58359,10 +57035,6 @@ keep all that was found there. They abused the police and bribed them,
 made out estimates at ten times their value for government stores that
 had perished in the fire, and demanded relief. And Count Rostopchin
 wrote proclamations.
-
-
-
-
 -------- Book 15: Chapter XV --------
 
 At the end of January Pierre went to Moscow and stayed in an annex of
@@ -58495,10 +57167,6 @@ were kindly attentive and sadly interrogative.
 
 Pierre's confusion was not reflected by any confusion on Natasha's part,
 but only by the pleasure that just perceptibly lit up her whole face.
-
-
-
-
 -------- Book 15: Chapter XVI --------
 
 "She has come to stay with me," said Princess Mary. "The count and
@@ -58620,10 +57288,6 @@ don't go. I will order supper. Go downstairs, we will come immediately."
 
 Before Pierre left the room Princess Mary told him: "This is the first
 time she has talked of him like that."
-
-
-
-
 -------- Book 15: Chapter XVII --------
 
 Pierre was shown into the large, brightly lit dining room; a few minutes
@@ -58861,10 +57525,6 @@ in everything."
 
 And the same mischievous smile lingered for a long time on her face as
 if it had been forgotten there.
-
-
-
-
 -------- Book 15: Chapter XVIII --------
 
 It was a long time before Pierre could fall asleep that night. He paced
@@ -59103,10 +57763,6 @@ memories, interpretations, and happy meditations for Pierre. "'I shall
 look forward very much to your return....' Yes, yes, how did she say it?
 Yes, 'I shall look forward very much to your return.' Oh, how happy I
 am! What is happening to me? How happy I am!" said Pierre to himself.
-
-
-
-
 -------- Book 15: Chapter XIX --------
 
 There was nothing in Pierre's soul now at all like what had troubled it
@@ -59179,10 +57835,6 @@ discover personal attributes which he termed "good qualities" in people
 before loving them; his heart was now overflowing with love, and by
 loving people without cause he discovered indubitable causes for loving
 them.
-
-
-
-
 -------- Book 15: Chapter XX --------
 
 After Pierre's departure that first evening, when Natasha had said to
@@ -59261,10 +57913,6 @@ They were silent awhile.
 to her own question. "But no, no, he must... Yes, Mary, He must...."
 
 FIRST EPILOGUE: 1813 - 20
-
-
-
-
 -------- Book 16: Chapter I --------
 
 Seven years had passed. The storm-tossed sea of European history had
@@ -59384,10 +58032,6 @@ have been no life, there would have been nothing.
 
 If we admit that human life can be ruled by reason, the possibility of
 life is destroyed.
-
-
-
-
 -------- Book 16: Chapter II --------
 
 If we assume as the historians do that great men lead humanity to the
@@ -59464,10 +58108,6 @@ any single plant better suited to it than those it produces, so it is
 impossible to imagine any two people more completely adapted down to the
 smallest detail for the purpose they had to fulfill, than Napoleon and
 Alexander with all their antecedents.
-
-
-
-
 -------- Book 16: Chapter III --------
 
 The fundamental and essential significance of the European events of the
@@ -59635,10 +58275,6 @@ who ten years before and a year later was considered an outlawed brigand
 is sent to an island two days' sail from France, which for some reason
 is presented to him as his dominion, and guards are given to him and
 millions of money are paid him.
-
-
-
-
 -------- Book 16: Chapter IV --------
 
 The flood of nations begins to subside into its normal channels. The
@@ -59747,10 +58383,6 @@ comprehension.
 All that is accessible to man is the relation of the life of the bee to
 other manifestations of life. And so it is with the purpose of historic
 characters and nations.
-
-
-
-
 -------- Book 16: Chapter V --------
 
 Natasha's wedding to Bezukhov, which took place in 1813, was the last
@@ -59873,10 +58505,6 @@ did nothing but play cards with his mother, pace silently up and down
 the room, and smoke one pipe after another. He seemed carefully to
 cherish within himself the gloomy mood which alone enabled him to endure
 his position.
-
-
-
-
 -------- Book 16: Chapter VI --------
 
 At the beginning of winter Princess Mary came to Moscow. From reports
@@ -60072,10 +58700,6 @@ and was hurrying from the room.
 She turned round. For a few seconds they gazed silently into one
 another's eyes--and what had seemed impossible and remote suddenly
 became possible, inevitable, and very near.
-
-
-
-
 -------- Book 16: Chapter VII --------
 
 In the winter of 1813 Nicholas married Princess Mary and moved to Bald
@@ -60199,10 +58823,6 @@ to beg him to buy them, and long after his death the memory of his
 administration was devoutly preserved among the serfs. "He was a
 master... the peasants' affairs first and then his own. Of course he was
 not to be trifled with either--in a word, he was a real master!"
-
-
-
-
 -------- Book 16: Chapter VIII --------
 
 One matter connected with his management sometimes worried Nicholas, and
@@ -60350,10 +58970,6 @@ of the hosts, as many as a hundred visitors would gather there for a day
 or two. The rest of the year life pursued its unbroken routine with its
 ordinary occupations, and its breakfasts, lunches, dinners, and suppers,
 provided out of the produce of the estate.
-
-
-
-
 -------- Book 16: Chapter IX --------
 
 It was the eve of St. Nicholas, the fifth of December, 1820. Natasha had
@@ -60602,10 +59218,6 @@ sighed, and her deep eyes expressed a quiet sadness as though she felt,
 through her happiness, that there is another sort of happiness
 unattainable in this life and of which she involuntarily thought at that
 instant.
-
-
-
-
 -------- Book 16: Chapter X --------
 
 Natasha had married in the early spring of 1813, and in 1820 already had
@@ -60792,10 +59404,6 @@ inextricably mingled and overlapping. But only what was really good in
 him was reflected in his wife, all that was not quite good was rejected.
 And this was not the result of logical reasoning but was a direct and
 mysterious reflection.
-
-
-
-
 -------- Book 16: Chapter XI --------
 
 Two months previously when Pierre was already staying with the Rostovs
@@ -60948,10 +59556,6 @@ just made for a baby's seat. Just look!"
 
 "Only not for this..." Pierre suddenly exclaimed with a laugh, and
 shifting the baby he gave him to the nurse.
-
-
-
-
 -------- Book 16: Chapter XII --------
 
 As in every large household, there were at Bald Hills several perfectly
@@ -61146,10 +59750,6 @@ mori," said these glances.
 
 Only the really heartless, the stupid ones of that household, and the
 little children failed to understand this and avoided her.
-
-
-
-
 -------- Book 16: Chapter XIII --------
 
 When Pierre and his wife entered the drawing room the countess was in
@@ -61289,10 +59889,6 @@ This meant two stockings, which by a secret process known only to
 herself Anna Makarovna used to knit at the same time on the same
 needles, and which, when they were ready, she always triumphantly drew,
 one out of the other, in the children's presence.
-
-
-
-
 -------- Book 16: Chapter XIV --------
 
 Soon after this the children came in to say good night. They kissed
@@ -61534,10 +60130,6 @@ And evidently suppressing his vexation with difficulty, he turned away
 from the boy.
 
 "You ought not to have been here at all," he said.
-
-
-
-
 -------- Book 16: Chapter XV --------
 
 The conversation at supper was not about politics or societies, but
@@ -61732,10 +60324,6 @@ suffering of a soul burdened by the body appeared on her face. Nicholas
 gazed at her. "O God! What will become of us if she dies, as I always
 fear when her face is like that?" thought he, and placing himself before
 the icon he began to say his evening prayers.
-
-
-
-
 -------- Book 16: Chapter XVI --------
 
 Natasha and Pierre, left alone, also began to talk as only a husband and
@@ -61956,10 +60544,6 @@ Father, Father! Yes, I will do something with which even he would be
 satisfied...."
 
 SECOND EPILOGUE
-
-
-
-
 -------- Book 17: Chapter I --------
 
 History is the life of nations and of humanity. To seize and put into
@@ -62144,10 +60728,6 @@ everyone. But in spite of every desire to regard it as known, anyone
 reading many historical works cannot help doubting whether this new
 force, so variously understood by the historians themselves, is really
 quite well known to everybody.
-
-
-
-
 -------- Book 17: Chapter II --------
 
 What force moves the nations?
@@ -62307,10 +60887,6 @@ the historians of culture involuntarily contradict themselves, and show
 that the new force they have devised does not account for what happens
 in history, and that history can only be explained by introducing a
 power which they apparently do not recognize.
-
-
-
-
 -------- Book 17: Chapter III --------
 
 A locomotive is moving. Someone asks: "What moves it?" A peasant says
@@ -62396,10 +60972,6 @@ so universal historians and historians of culture, not answering
 humanity's essential question, serve as currency for some purposes of
 their own, only in universities and among the mass of readers who have a
 taste for what they call "serious reading."
-
-
-
-
 -------- Book 17: Chapter IV --------
 
 Having abandoned the conception of the ancients as to the divine
@@ -62647,10 +61219,6 @@ French Revolution they guillotined one another.
 If we unite both these kinds of history, as is done by the newest
 historians, we shall have the history of monarchs and writers, but not
 the history of the life of the peoples.
-
-
-
-
 -------- Book 17: Chapter V --------
 
 The life of the nations is not contained in the lives of a few men, for
@@ -62770,10 +61338,6 @@ commands with events we must restore: (1) the condition of all that
 takes place: the continuity of movement in time both of the events and
 of the person who commands, and (2) the inevitability of the connection
 between the person commanding and those who execute his command.
-
-
-
-
 -------- Book 17: Chapter VI --------
 
 Only the expression of the will of the Deity, not dependent on time, can
@@ -62916,10 +61480,6 @@ relation between those who command and those who execute, we find that
 by the very nature of the case those who command take the smallest part
 in the action itself and that their activity is exclusively directed to
 commanding.
-
-
-
-
 -------- Book 17: Chapter VII --------
 
 When an event is taking place people express their opinions and wishes
@@ -63060,10 +61620,6 @@ not know. We only know that to produce the one or the other action,
 people combine in a certain formation in which they all take part, and
 we say that this is so because it is unthinkable otherwise, or in other
 words that it is a law.
-
-
-
-
 -------- Book 17: Chapter VIII --------
 
 If history dealt only with external phenomena, the establishment of this
@@ -63247,10 +61803,6 @@ superintendent of the work, should in an access of zeal plaster over the
 windows, icons, woodwork, and still unbuttressed walls, and should be
 delighted that from their point of view as plasterers, everything is now
 so smooth and regular.
-
-
-
-
 -------- Book 17: Chapter IX --------
 
 For the solution of the question of free will or inevitability, history
@@ -63465,10 +62017,6 @@ which the man was placed whose action is being judged, and according to
 the greater or lesser interval of time between the commission of the
 action and its investigation, and according to the greater or lesser
 understanding of the causes that led to the action.
-
-
-
-
 -------- Book 17: Chapter X --------
 
 Thus our conception of free will and inevitability gradually diminishes
@@ -63679,10 +62227,6 @@ So also in history what is known to us we call laws of inevitability,
 what is unknown we call free will. Free will is for history only an
 expression for the unknown remainder of what we know about the laws of
 human life.
-
-
-
-
 -------- Book 17: Chapter XI --------
 
 History examines the manifestations of man's free will in connection
@@ -63749,10 +62293,6 @@ the study of the movement of the nations and of humanity and not the
 narration of episodes in the lives of individuals, it too, setting aside
 the conception of cause, should seek the laws common to all the
 inseparably interconnected infinitesimal elements of free will.
-
-
-
-
 -------- Book 17: Chapter XII --------
 
 From the time the law of Copernicus was discovered and proved, the mere
@@ -63843,4 +62383,5 @@ unreal immobility in space and to recognize a motion we did not feel; in
 the present case it is similarly necessary to renounce a freedom that
 does not exist, and to recognize a dependence of which we are not
 conscious.
+
 `;
