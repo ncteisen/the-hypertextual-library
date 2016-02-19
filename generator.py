@@ -72,9 +72,11 @@ for i, book in enumerate(books):
 		sys.stderr.write("Error: no file %s -- Site won't be generated\n" % pfile)
 		continue;
 
+	# this will be where we write the generated index file per book
 	html_outfile_name = "%s/index.html" % uniquename
 	html_outfile = open(html_outfile_name, "w")
 
+	# linkified, so the titles are clickable
 	title = linkify(book["title"])
 	author = linkify(book["author"])
 
@@ -88,6 +90,7 @@ for i, book in enumerate(books):
 
 	html_outfile.write(html)
 
+	# this will be the js file that holds all the text
 	raw_text_file_name = "%s/text.txt" % uniquename
 	raw_text_file = open(raw_text_file_name, "r")
 	raw_text = raw_text_file.read()
@@ -99,7 +102,7 @@ for i, book in enumerate(books):
 
 	js_text_outfile.write(js_text)
 
-	# constructing the library code
+	# constructing the library html
 	library_book_elt_html = library_book_elt_html_template.format(
 		uniquename = uniquename,
 		title = book["title"],

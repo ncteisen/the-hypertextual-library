@@ -69,6 +69,26 @@
 			"title" : "Narrative of the Life of Frederick Douglass, an American Slave",
 			"author" : "Frederick Douglass",
 			"uniquename" : "frederick_douglass"
+		},
+		{
+			"title" : "Metamorphosis",
+			"author" : "Franz Kafka",
+			"uniquename" : "metamorphosis"
+		},
+		{
+			"title" : "The Importance of Being Earnest",
+			"author" : "Oscar Wilde",
+			"uniquename" : "being_earnest"
+		},
+		{
+			"title" : "The Adventures of Tom Sawyer",
+			"author" : "Mark Twain",
+			"uniquename" : "tom_sawyer"
+		},
+		{
+			"title" : "Moby-Dick; or, The Whale",
+			"author" : "Herman Melville",
+			"uniquename" : "moby_dick"
 		}
 	]
 }
