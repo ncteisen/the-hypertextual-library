@@ -1,0 +1,235 @@
+body{
+	background-color: black;
+}
+
+div {
+	padding: 0px 20px 0px 20px;
+}
+
+a, h1, h2, h3, h4, h5, h6, th, td, footer, p, ul, button, div {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color: white;
+}
+
+p {
+	padding: 0px 0px 0px 10px;
+	margin: 1px 1px 1px 10px;
+}
+
+.no-js #loader { display: none;  }
+.js #loader { display: block; position: absolute; left: 100px; top: 0; }
+.se-pre-con {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	background: url(loading.gif) center no-repeat #fff;
+}
+
+a.num {
+	text-decoration: none;
+	color: white;
+}
+
+p.regular {
+	text-decoration: none;
+	color: white;
+}
+
+p.regular:hover {
+	text-decoration: none;
+}
+
+
+.pic-wrapper {
+	padding: 15px;
+	background-color: #292929;
+	border-radius: 15px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.pic-wrapper:hover {
+	background-color: #363636;
+	text-decoration: none;
+}
+
+.pic {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.scrollable-menu {
+    height: auto;
+    max-height: 500px;
+    overflow-x: hidden;
+}
+
+a.word {
+	text-decoration: none;
+	color: white;
+}
+
+a.new-word {
+	text-decoration: none;
+	color: white;
+}
+
+a.page-word, a.result-word {
+	text-decoration: none;
+	color: white;
+	font-size: 14px;
+	padding: 0px 0px 0px 0px;
+}
+
+mark {
+	text-decoration: none;
+	color: white;
+	font-size: 14px;
+	padding: 0px 0px 0px 0px;
+	background-color: #676767;
+}
+
+a.page-word:hover, a.result-word:hover, a.word:hover, a.link-word:hover, a.new-word:hover {
+	cursor: pointer;
+	text-decoration: underline;
+}
+
+a.result:hover, a.chapter-dropdown:hover {
+	cursor: pointer;
+}
+
+
+table {
+    border: 1px solid #515151;
+}
+
+tr:nth-child(even) {
+	background-color: #454545;
+}
+
+tr:hover {
+	background-color: #2d2d2d	;
+}
+
+th, td {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #515151;
+}
+
+table {
+	max-height: 100px;
+	overflow-y: scroll;
+}
+
+table[id="top-bar"] {
+	border-style: none;
+}
+
+table[id="top-bar"] td {
+	padding: 5px 0px 0px 20px;
+	text-align: center;
+
+}
+
+.btn {
+	padding: 10px 10px 10px 10px;
+	margin: 0px 0px -1px -50px;
+	font-size: 14px;
+	color: white;
+	background-color: black;
+}
+
+.filler {
+	padding: 15px 20px 50px 20px
+}
+
+.jumbotron {
+	background-color: #292929;
+	padding: 20px 20px 20px 20px
+}
+
+/*.top {
+	margin: 1px -15px 1px -15px;
+}*/
+
+.btn-group {
+	padding: 5px
+}
+
+button > a {
+	padding: 0px;
+}
+
+.page_number{
+	font-style: italic;
+}
+
+.navbar-default {
+	background-color: #292929;
+	border: 0;
+}
+
+.dropdown-menu>li>a{
+    background-color: black;
+    color: white;
+}
+
+.dropdown-menu {
+    background-color: black;
+}
+
+.active > a {
+	background-color: #47d;
+}
+
+.table-fixed thead {
+  width: 97%;
+}
+.table-fixed tbody {
+  height: 600px;
+  overflow-y: auto;
+  width: 100%;
+}
+.table-fixed thead, .table-fixed tbody, .table-fixed tr, .table-fixed td, .table-fixed th {
+  display: block;
+}
+.table-fixed tbody td, .table-fixed thead > tr > th {
+  float: left;
+  border-bottom-width: 0;
+  font-size: 14px
+}
+
+#search-box {
+	color: white;
+	background-color: black;
+}
+
+td.chapter {
+	width: 150px;
+}
+
+td.line-number {
+	width: 150px;
+}
+
+td.line {
+	width: 300px;
+}
+
+.modal-content {
+	background-color: black;
+	color: white;
+}
+
+.modal-body a {
+	color: lightblue;
+}
+
+footer a {
+	color: lightblue;
+}

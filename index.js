@@ -2,6 +2,7 @@
 
 var old_search = null;
 var row_size = 4;
+var lights_on = true;
 
 
 // returns true if every part of the search matches
@@ -62,4 +63,25 @@ $(document).on("input", function (e) {
     if (old_search === new_search) return; 
     old_search = new_search;
     reload_book_list(new_search);
+});
+
+// attatches func for when search is performed
+$(function() {
+	$("#toggle-lights").click(function (e) {
+		e.preventDefault();
+
+		// toggle to light
+		if (lights_on) {
+			lights_on = false;
+			$("#toggle-lights").text("Lights On");
+			document.getElementById('pagestyle').setAttribute('href', "css/dark.css");
+		}
+
+		// toggle to dark
+		else {
+			lights_on = true;
+			$("#toggle-lights").text("Lights Off");
+			document.getElementById('pagestyle').setAttribute('href', "css/light.css");
+		}
+	});
 });

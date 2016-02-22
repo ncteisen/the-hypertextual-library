@@ -5,6 +5,7 @@
 var current_top_line = 0;
 var page_length = 35;
 var current_linked_query_regex = null;
+var lights_on = true;
 
 // load up all the data structires we will need
 var line_array_dirty = raw_text.split('\n');
@@ -342,6 +343,27 @@ $(function() {
 		e.preventDefault();
 		var query = $("#search-box").val().toLowerCase();
 		perform_search_wrapper(query);
+	});
+});
+
+// attatches func for when search is performed
+$(function() {
+	$("#toggle-lights").click(function (e) {
+		e.preventDefault();
+
+		// toggle to light
+		if (lights_on) {
+			lights_on = false;
+			$("#toggle-lights").text("Lights On");
+			document.getElementById('pagestyle').setAttribute('href', "../css/dark.css");
+		}
+
+		// toggle to dark
+		else {
+			lights_on = true;
+			$("#toggle-lights").text("Lights Off");
+			document.getElementById('pagestyle').setAttribute('href', "../css/light.css");
+		}
 	});
 });
 

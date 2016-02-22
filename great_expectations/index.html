@@ -1,7 +1,7 @@
 <html>
 
     <head>
-        <title>Hypertextual Literature</title>
+        <title>Hypertext Literature</title>
         
         <!-- Latest compiled and minified CSS -->
         <link rel="stylesheet" href="../css/bootstrap.min.css">
@@ -13,7 +13,10 @@
         <script src="../js/bootstrap.min.js"></script>
 
         <!-- personal style -->
-        <link rel="stylesheet" href="../style.css" media="screen" title="no title" charset="utf-8">
+        <link id="pagestyle" rel="stylesheet" href="../css/light.css">
+
+        <!-- icon -->
+        <link rel="shortcut icon" type="image/x-icon" href="../book.ico" />
 
     </head>
 
@@ -29,6 +32,9 @@
                 <div class="btn-group pull-right">
                     <a href="../" type="button" class="btn btn-default">
                         Back to the Library
+                    </a>
+                    <a type="button" id="toggle-lights" class="btn btn-default">
+                        Lights Off
                     </a>
                     <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                       Chapters
