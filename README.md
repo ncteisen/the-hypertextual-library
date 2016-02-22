@@ -1,6 +1,6 @@
 # The Hypertext Library
 
-See this website in action [here](http://hypertextlibrary.com/ "The Hypertext Library")
+See this website in action [here](http://hypertextlibrary.com/ "The Hypertext Library")!
 
 
 ## Our Mission
@@ -26,3 +26,78 @@ read the overview of all of the files. Once you are comfortable with how the pro
 make a pull request. I will accept it after testing it.
 
 ## Overview of the Files
+
+Many of the files in the project are generated, and should not be modified. The templates folder contains 
+the base files for all the generated html and js code. The `generator.py` file is responsible for creation of 
+books.js, index.html, and most of the content of the per book directories. All of these files will be explained
+in more detail in the following sections.
+
+### Non Generated Files
+
+#### `books.json`
+
+This file stores all of the books in the library as JSON objects. Each book must have a title, author, 
+and uniquename. The uniquename is a one word identifier (could have underscores) of the novel. It will be used
+by generator.py to create all the needed files per book.
+
+#### `<uniquename>/text.txt`
+
+This file stores the raw text for each book. The text must be in a very strict format. All lines must be less than 75
+characters long. The `wrap.py` files can be used to wrap text with longer lines. All chapter titles must be sandwiched by
+8 dashes, and there should be no new lines between the end of a previous chapter and the new chapter title. Here is an example
+of a clean chapter transition:
+
+```
+and this is how we must end the previous chapter, note how
+the text hugs the new chapter title closely.
+-------- Chapter Title --------
+
+This is the start of the next chapter. blah blah blah blah
+blah and so on and so on.
+```
+
+If a book has a lot of chapters, it may be necessary to clean the text with a python script. The `chapterize.py` script
+can be very useful, althought you will have to make small modification to it for every book you process.
+
+#### `<uniquename>/<uniquname>.jpg`
+
+This is the picture that will be displayed for each book. It should be of the cover of the book.
+
+#### `book-page-search.js`
+
+This file contains the bulk of the code for the actual webpages. The code in this file is responsible for loading each 
+page of the text as users click the next and prev page buttons. It is also responsible for performing the searches
+when a user inputs a certain query. Lastly, this file will link up all of the words on the website to be clickable. 
+Clicking a certain word will cause a query to be executed for that particular word.
+
+If you want more details about the implementation, see the code, for it is well commented. One high level note about the
+query functionality is that every search will iterate over every single line of the text.
+
+#### `css/light.css` and `css/dark.css`
+
+These are the personal style files. One is for classic, and the other is for light-on-dark reading. They are switched
+dynamically by the javascript.
+
+#### `generate.py`
+
+This file reads in `books.json` and then generated several common files using templates, as well as many per book files. 
+These will be discussed in the following sections.
+
+### Templates
+
+#### template.html
+
+#### library.html
+
+#### `raw_text.js`
+
+### Generated Files
+
+#### `index.html`
+
+#### `<uniquename>/index.html`
+
+#### `<uniquename>/<uniquename>_text.js`
+
+## How to Add a Book
+
