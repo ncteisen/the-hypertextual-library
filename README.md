@@ -78,26 +78,30 @@ query functionality is that every search will iterate over every single line of 
 These are the personal style files. One is for classic, and the other is for light-on-dark reading. They are switched
 dynamically by the javascript.
 
-#### `generate.py`
+#### `generator.py`
 
 This file reads in `books.json` and then generated several common files using templates, as well as many per book files. 
-These will be discussed in the following sections.
+These will be discussed in the following sections. `generator.py` will only generate a website for a book if there exists
+a directory that is named the book's uniquename. This directory must include the `text.txt` and `<uniquename>.jpg` file.
 
-### Templates
+### Templates and Generated Files
 
-#### template.html
+The following template files are located in the `templates` folder. They are read in by `generator.py`, which adds data to them
+and then writes out all of the generated files.
 
-#### library.html
+#### `library.html` and `index.html`
 
-#### `raw_text.js`
+`library.html` is the template file for the library homepage. It includes a spot to insert the list of all the books 
+in the library. `generator.py` will generate this list, add it to the template, and then output the `index.html` file.
 
-### Generated Files
+#### `raw_text.js` and `<uniquename>/<uniquename>_text.js`
 
-#### `index.html`
+This is the template for the Javascript files that hold the entire text of each book. `generator.py` will read it in, then
+insert all of the text contained in `<uniquename>/text.txt`, then output the `<uniquename>/<uniquename>_text.js` file.
 
-#### `<uniquename>/index.html`
+#### `template.html` and `<uniquename>/index.html`
 
-#### `<uniquename>/<uniquename>_text.js`
-
-## How to Add a Book
-
+`template.html` is the template file for the html code for each book page. It leaves spots to insert the title, author, 
+and `<uniquename>/<uniquename>_text.js` files
+that each site will need. `generator.py` reads it in, fills in the needed info, then writes it to `<uniquename>/index.html` 
+for every book.
