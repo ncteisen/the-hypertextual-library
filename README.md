@@ -105,3 +105,21 @@ insert all of the text contained in `<uniquename>/text.txt`, then output the `<u
 and `<uniquename>/<uniquename>_text.js` files
 that each site will need. `generator.py` reads it in, fills in the needed info, then writes it to `<uniquename>/index.html` 
 for every book.
+
+#### `books.js`
+
+This is a generated file that is produced by `generator.py`. It contains a sorted JSON object of all the books.
+Every book element has an html attribute that contains all of the needed html to display the book in the library.
+This file is used by `index.html` in order to achieve the live search filter feature.
+
+## How to Add a Book Yourself
+
+Here are the steps to add a book:
+
+1. create a uniquename for the book
+2. add the book's data to books.json
+2. find the raw text online somewhere and save it under <uniquename>/text.txt
+2. format the raw text as described in the `<uniquename>/text.txt` section
+3. find a cover picture and save it as `<uniquename>/<uniquname>.jpg`
+4. run `python generator.py` from the root directory
+5. test to make sure everything worked
