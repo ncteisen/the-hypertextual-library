@@ -17,7 +17,7 @@ the text.
 If there is a book you would like to see added to the website, shoot me an email (ncteisen@umich.edu) with a link to the
 text from the book. The book must be in the public domain in order to be added to this website. 
 [Project Gutenberg] (https://www.gutenberg.org/ "Project Gutenberg") is a great place to find books that are
-availible to be added to the library.
+available to be added to the library.
 
 ## How to Contribute
 
@@ -57,7 +57,7 @@ blah and so on and so on.
 ```
 
 If a book has a lot of chapters, it may be necessary to clean the text with a python script. The `chapterize.py` script
-can be very useful, althought you will have to make small modification to it for every book you process.
+can be very useful, although you will have to make small modification to it for every book you process.
 
 #### `<uniquename>/<uniquname>.jpg`
 
