@@ -123,3 +123,11 @@ Here are the steps to add a book:
 3. find a cover picture and save it as `<uniquename>/<uniquname>.jpg`
 4. run `python generator.py` from the root directory
 5. test to make sure everything worked
+
+## Future Features
+
+* in site ability to define words
+* cross book analysis
+* ability to change font size
+* make the mobile version look better
+* allow users to upload their own texts
