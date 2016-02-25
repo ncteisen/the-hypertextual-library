@@ -24,7 +24,7 @@ p {
 	width: 100%;
 	height: 100%;
 	z-index: 9999;
-	background: url(loading.gif) center no-repeat #fff;
+	background: url(loading.png) center no-repeat #fff;
 }
 
 a.num {
