@@ -1,6 +1,18 @@
 'use strict'
 //debugger;
 
+// function to attach to every single word on the page.
+// will either trigger a lookup or a query
+var word_click = function(e) {
+		var text = e.target.innerHTML.toLowerCase();
+		if (e.altKey) {
+			lookup_word(text)
+		}
+		else {
+			perform_search_wrapper(text);
+		}
+	}
+
 // populate all globals
 var current_top_line = 0;
 var page_length = 35;
@@ -64,6 +76,53 @@ chapters_array.forEach(function (c, i) {
 		"\" line-number-chapter=\"" + c.lineno + "\">" + c.title + "</a></li>");
 });
 
+function createCORSRequest(method, url) {
+  var xhr = new XMLHttpRequest();
+  if ("withCredentials" in xhr) {
+
+    // Check if the XMLHttpRequest object has a "withCredentials" property.
+    // "withCredentials" only exists on XMLHTTPRequest2 objects.
+    xhr.open(method, url, true);
+
+  } else if (typeof XDomainRequest != "undefined") {
+
+    // Otherwise, check if XDomainRequest.
+    // XDomainRequest only exists in IE, and is IE's way of making CORS requests.
+    xhr = new XDomainRequest();
+    xhr.open(method, url);
+
+  } else {
+
+    // Otherwise, CORS is not supported by the browser.
+    xhr = null;
+
+  }
+  return xhr;
+}
+
+function lookup_word(word) {
+
+	alert("looking up words is not yet implemented!");
+
+	// console.log(word);
+	
+	// var xhr = createCORSRequest('GET', "http://dictionaryapi.net/api/definition/" + word);
+
+	// xhr.addHeader("Access-Control-Allow-Origin", "*");
+
+	// xhr.onload = function() {
+	// 	var responseText = xhr.responseText;
+	// 	console.log(responseText);
+	//  	// process the response.
+	// };
+
+	// xhr.onerror = function() {
+	//   console.log('There was an error!');
+	// };
+
+	// xhr.send();
+}
+
 // loads a full page starting from top_line, extending for page_length
 // also handles changing the title, setting the pageno
 function load_page(top_line) {
@@ -119,10 +178,7 @@ function load_page(top_line) {
 
 	// link up the words
 	$(function () {
-		$("#page .result-word").click(function(e) {
-			var text = e.target.innerHTML.toLowerCase();
-			perform_search_wrapper(text);
-		});
+		$("#page .result-word").click(word_click);
 	});
 }
 
@@ -369,18 +425,12 @@ $(function() {
 
 // link up the words to their searches
 $(function () {
-	$(".word").click(function(e) {
-		var text = e.target.innerHTML.toLowerCase();
-		perform_search_wrapper(text);
-	});
+	$(".word").click(word_click);
 });
 
 // link up the words to their searches
 $(function () {
-	$(".link-word").click(function(e) {
-		var text = e.target.innerHTML.toLowerCase();
-		perform_search_wrapper(text);
-	});
+	$(".link-word").click(word_click);
 });
 
 $(window).load(function() {
