@@ -1,6 +1,11 @@
 {
 	"books" : [
 		{
+			"title" : "1984",
+			"author" : "George Orwell",
+			"uniquename" : "1984"
+		},
+		{
 			"title" : "Ulysses",
 			"author" : "James Joyce",
 			"uniquename" : "ulysses"
@@ -48,7 +53,7 @@
 		{
 			"title" : "The Adventures of Sherlock Holmes",
 			"author" : "Arthur Conan Doyle",
-			"uniquename" : "sherlock_holmes"	
+			"uniquename" : "sherlock_holmes"
 		},
 		{
 			"title" : "The Yellow Wallpaper",
