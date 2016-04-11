@@ -99,6 +99,11 @@
 			"title" : "Animal Farm",
 			"author" : "George Orwell",
 			"uniquename" : "animal_farm"
+		},
+		{
+			"title" : "The Great Gatsby",
+			"author" : "F. Scott Fitzgerald",
+			"uniquename" : "great_gatsby"
 		}
 	]
 }
