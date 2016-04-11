@@ -94,6 +94,11 @@
 			"title" : "1984",
 			"author" : "George Orwell",
 			"uniquename" : "1984"
+		},
+		{
+			"title" : "Animal Farm",
+			"author" : "George Orwell",
+			"uniquename" : "animal_farm"
 		}
 	]
 }
