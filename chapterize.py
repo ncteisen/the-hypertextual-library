@@ -1,7 +1,6 @@
 import sys
 
 
-book_num = 0
 lines = list(sys.stdin)
 to_print = []
 for i in range(len(lines)):
@@ -10,8 +9,8 @@ for i in range(len(lines)):
 			to_print.pop()
 			to_print.pop()
 			to_print.pop()
+			to_print.pop()
 			line = lines[i].strip()
-			line = line[0] + line[1:7].lower() + line[7:]
 			#line = line.replace(".","")
 			to_print.append("-------- %s --------\n" % line)
 			sys.stderr.write(line + "\n")

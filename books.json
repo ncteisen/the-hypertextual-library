@@ -89,6 +89,11 @@
 			"title" : "Moby-Dick; or, The Whale",
 			"author" : "Herman Melville",
 			"uniquename" : "moby_dick"
+		},
+		{
+			"title" : "1984",
+			"author" : "George Orwell",
+			"uniquename" : "1984"
 		}
 	]
 }
