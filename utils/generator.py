@@ -5,7 +5,7 @@ import os
 # this will build the html that makes up the library of books
 library_book_elt_html_template = """
 <div class="col-md-3 col-height book" book-title="{title}" uniquename="{uniquename}">
-    <a href="{uniquename}/">
+    <a href="books/{uniquename}/">
         <div class="pic-wrapper">
             <img src="{picture}" class="img-rounded pic" width="175" height="250">
             <br>
