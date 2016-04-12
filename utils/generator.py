@@ -57,23 +57,25 @@ for i, book in enumerate(books):
 
 	uniquename = book["uniquename"]
 
+	bookdir = "books/%s" % uniquename
+
 	# validate all the info
-	if (not os.path.isdir(uniquename)):
-		sys.stderr.write("Error: no directory named %s -- Site won't be generated\n" % uniquename)
+	if (not os.path.isdir(bookdir)):
+		sys.stderr.write("Error: no directory named %s -- Site won't be generated\n" % bookdir)
 		continue;
 
-	tfile = "%s/text.txt" % (uniquename)
+	tfile = "%s/text.txt" % (bookdir)
 	if (not os.path.isfile(tfile)):
 		sys.stderr.write("Error: no file %s -- Site won't be generated\n" % tfile)
 		continue;
 
-	pfile = "%s/%s.jpg" % (uniquename, uniquename)
+	pfile = "%s/cover.jpg" % (bookdir)
 	if (not os.path.isfile(pfile)):
 		sys.stderr.write("Error: no file %s -- Site won't be generated\n" % pfile)
 		continue;
 
 	# this will be where we write the generated index file per book
-	html_outfile_name = "%s/index.html" % uniquename
+	html_outfile_name = "%s/index.html" % bookdir
 	html_outfile = open(html_outfile_name, "w")
 
 	# linkified, so the titles are clickable
@@ -83,21 +85,19 @@ for i, book in enumerate(books):
 	# creation of the per book html page
 	html = html_template.format(
 		title = title,
-		author = author,
-		raw_text_file = "%s_text.js" % uniquename,
-		title_picture = "%s.jpg" % uniquename
+		author = author
 	)
 
 	html_outfile.write(html)
 
 	# this will be the js file that holds all the text
-	raw_text_file_name = "%s/text.txt" % uniquename
+	raw_text_file_name = "books/%s/text.txt" % uniquename
 	raw_text_file = open(raw_text_file_name, "r")
 	raw_text = raw_text_file.read()
 
 	js_text = js_text_file_template.format(text = raw_text)
 
-	js_text_outfile_name = "%s/%s_text.js" % (uniquename, uniquename)
+	js_text_outfile_name = "%s/raw_text.js" % (bookdir)
 	js_text_outfile = open(js_text_outfile_name, "w")
 
 	js_text_outfile.write(js_text)
@@ -107,7 +107,7 @@ for i, book in enumerate(books):
 		uniquename = uniquename,
 		title = book["title"],
 		author = book["author"],
-		picture = "%s/%s.jpg" % (uniquename, uniquename)
+		picture = "%s/cover.jpg" % (bookdir)
 	)
 
 	# adds row to the bootsrap as needed
