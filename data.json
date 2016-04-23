@@ -105,5 +105,12 @@
 			"author" : "F. Scott Fitzgerald",
 			"uniquename" : "great_gatsby"
 		}
+	],
+	"movies" : [
+		{
+			"title" : "The Revenant",
+			"director" : "Alejandro G. Inarritu",
+			"uniquename" : "revenant"
+		}
 	]
 }
