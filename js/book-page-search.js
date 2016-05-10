@@ -126,6 +126,9 @@ function load_page(top_line) {
 	// build the new page
 	for (var i = 0; i < page_length; ++i) {
 
+		// nasty hack bc I don't want to debug :(
+		if (top_line + i < 0) break;
+
 		var linked_line = "<a class=\"result-word\">" + line_array[top_line + i].split(" ").join("</a> <a class=\"result-word\">") + "</a>";
 			
 			if (current_linked_query_regex) {
