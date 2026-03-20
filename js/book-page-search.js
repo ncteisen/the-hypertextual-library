@@ -319,7 +319,7 @@ function perform_search(dirty_query, line_array, chapters_array) {
 
 		}
 	});
-    return [table, count, query];
+    return [table, count, query, linked_query];
 }
 
 function show_search_results(results) {
@@ -327,6 +327,8 @@ function show_search_results(results) {
     var table = results[0];
     var count = results[1];
     var query = results[2];
+    var linked_query = results[3];
+    current_linked_query_regex = new RegExp(linked_query, "gi");
 
     // hide the old stuff, show the new
 	$("#loading-img").hide();
