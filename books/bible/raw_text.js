@@ -23572,16 +23572,7 @@ Jesse, the father of David.
 4:19 And Hezron begat Ram, and Ram begat Amminadab, 4:20 And Amminadab
 begat Nahshon, and Nahshon begat Salmon, 4:21 And Salmon begat Boaz,
 and Boaz begat Obed, 4:22 And Obed begat Jesse, and Jesse begat David.
-
-
-
-
-The First Book of Samuel
-
-Otherwise Called:
-
-The First Book of the Kings
-
+-------- The First Book of Samuel --------
 
 1:1 Now there was a certain man of Ramathaimzophim, of mount Ephraim,
 and his name was Elkanah, the son of Jeroham, the son of Elihu, the
@@ -26562,16 +26553,7 @@ from the wall of Bethshan, and came to Jabesh, and burnt them there.
 
 31:13 And they took their bones, and buried them under a tree at
 Jabesh, and fasted seven days.
-
-
-
-
-The Second Book of Samuel
-
-Otherwise Called:
-
-The Second Book of the Kings
-
+-------- The Second Book of Samuel --------
 
 1:1 Now it came to pass after the death of Saul, when David was
 returned from the slaughter of the Amalekites, and David had abode two
@@ -29015,16 +28997,7 @@ threshingfloor and the oxen for fifty shekels of silver.
 24:25 And David built there an altar unto the LORD, and offered burnt
 offerings and peace offerings. So the LORD was intreated for the land,
 and the plague was stayed from Israel.
-
-
-
-
-The First Book of the Kings
-
-Commonly Called:
-
-The Third Book of the Kings
-
+-------- The First Book of Kings --------
 
 1:1 Now king David was old and stricken in years; and they covered
 him with clothes, but he gat no heat.
@@ -31911,16 +31884,7 @@ of his father, and in the way of his mother, and in the way of
 Jeroboam the son of Nebat, who made Israel to sin: 22:53 For he served
 Baal, and worshipped him, and provoked to anger the LORD God of
 Israel, according to all that his father had done.
-
-
-
-
-The Second Book of the Kings
-
-Commonly Called:
-
-The Fourth Book of the Kings
-
+-------- The Second Book of Kings --------
 
 1:1 Then Moab rebelled against Israel after the death of Ahab.
 

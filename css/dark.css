@@ -198,6 +198,9 @@ button > a {
 .table-fixed thead, .table-fixed tbody, .table-fixed tr, .table-fixed td, .table-fixed th {
   display: block;
 }
+.table-fixed tr {
+  overflow: hidden;
+}
 .table-fixed tbody td, .table-fixed thead > tr > th {
   float: left;
   border-bottom-width: 0;
@@ -209,15 +212,15 @@ button > a {
 	background-color: black;
 }
 
-td.chapter {
-	width: 150px;
+td.chapter, th.chapter {
+	width: 200px;
 }
 
-td.line-number {
-	width: 150px;
+td.line-number, th.line-number {
+	width: 100px;
 }
 
-td.line {
+td.line, th.line {
 	width: 300px;
 }
 
