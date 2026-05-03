@@ -49,7 +49,8 @@ The main hand-authored runtime files are:
 - `js/book-page-search.js` for work-page pagination, chapter navigation, search,
   result rendering, highlighting, theme toggling, and dictionary lookup.
 - `js/index.js` for library-page filtering and theme toggling.
-- `js/multithread.js` for the Web Worker helper used by search.
+- `js/multithread.js` is a legacy Web Worker helper and is not loaded by the
+  current templates.
 - `js/dictionary.js` for the bundled dictionary object.
 - `css/light.css` and `css/dark.css` for the two themes.
 - `index.html` and `placeholder.html` are hand-authored static pages, not
@@ -97,7 +98,6 @@ Each generated work page loads `raw_text.js`, which defines one global variable:
 - Builds a chapter dropdown from lines containing `--------`.
 - Renders each page into clickable word anchors.
 - Searches the full text and renders matching lines in the results table.
-- Uses `js/multithread.js` to execute search work through Web Workers.
 - Highlights searched terms on the current page and in result snippets.
 - Uses `js/dictionary.js` for the unfinished Alt+click dictionary feature.
 
@@ -107,9 +107,9 @@ that list as the user types.
 
 ## Known Revival Notes
 
-- `js/book-page-search.js` builds HTML by string concatenation from raw text and
-  search terms. Be careful about escaping if adding user-uploaded texts or
-  broader content sources.
+- `js/book-page-search.js` now builds reader and result content mostly through
+  DOM APIs. Keep escaping in mind if adding user-uploaded texts or broader
+  content sources.
 - Some candidate texts may not be public domain in every jurisdiction. Recheck
   copyright status before adding or redeploying texts publicly.
 

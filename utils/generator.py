@@ -1,29 +1,29 @@
 import sys
 import json
 import os
+import html as html_lib
 
 # this will build the html that makes up the library of books
-library_book_elt_html_template = """
-<div class="col-md-3 col-height book" book-title="{title}" uniquename="{uniquename}">
-    <a href="{uniquename}/">
-        <div class="pic-wrapper">
-            <img src="{picture}" class="img-rounded pic" width="175" height="250">
-            <br>
-            <p class="regular text-center">{title} - {author}</p>
-        </div>
+library_book_elt_html_template = """<article class="book-card book" data-book-title="{title}" data-author="{author}" data-uniquename="{uniquename}">
+    <a class="book-card__link" href="{uniquename}/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="{picture}" alt="Cover for {title}" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">{title}</span>
+            <span class="book-card__author">{author}</span>
+        </span>
     </a>
-</div>
+</article>
 """
 
 # given a phrase, makes it linked so that it is clickable
 # to beused when creating html pages for each book
 def linkify(phrase):
-	phrase = phrase.split(" ")
-	res = "<a class=\"word\">"
-	for word in phrase:
-		res += word + "</a> <a class=\"word\">"
-	res += "</a>"
-	return res
+	return " ".join(
+		"<a class=\"word\" href=\"#\">%s</a>" % html_lib.escape(word)
+		for word in phrase.split(" ")
+	)
 
 # returns a string in the form:
 #    lastname firstname title
@@ -49,13 +49,12 @@ data = json.loads(data)
 # sort the books by author, then title
 books = sorted(data["books"], key = book_sort_string)
 
-# start the html by opening the elements
-book_list_html = "<div class=\"row\"><div class=\"row-height\">"
-
-col_per_row = 4
+book_list_html = ""
 for i, book in enumerate(books):
 
 	uniquename = book["uniquename"]
+	title_text = html_lib.escape(book["title"])
+	author_text = html_lib.escape(book["author"])
 
 	bookdir = "books/%s" % uniquename
 
@@ -105,14 +104,10 @@ for i, book in enumerate(books):
 	# constructing the library html
 	library_book_elt_html = library_book_elt_html_template.format(
 		uniquename = uniquename,
-		title = book["title"],
-		author = book["author"],
+		title = title_text,
+		author = author_text,
 		picture = "%s/cover.jpg" % (uniquename)
 	)
-
-	# adds row to the bootsrap as needed
-	if i and i % col_per_row == 0:
-		book_list_html += "</div></div><div class=\"row\"><div class=\"row-height\">"
 
 	book_list_html += library_book_elt_html
 	book["html"] = library_book_elt_html
@@ -120,9 +115,6 @@ for i, book in enumerate(books):
 # make the index for the library
 library = open("template/library.html", "r").read()
 book_outfile = open("books/index.html", "w")
-
-# close elts of the lib html
-book_list_html += "</div></div>"
 
 book_outfile.write(library.format(book_list=book_list_html, type="books"))
 

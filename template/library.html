@@ -1,127 +1,72 @@
-<html>
-
+<!doctype html>
+<html lang="en">
     <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>The Hypertext Library</title>
-        
-        <!-- Latest compiled and minified CSS -->
-        <link rel="stylesheet" href="../css/bootstrap.min.css">
-
-        <!-- jQuery library -->
-        <script src="../js/jquery.min.js"></script>
-
-        <!-- Latest compiled JavaScript -->
-        <script src="../js/bootstrap.min.js"></script>
-
-        <!-- personal style -->
-        <link id="pagestyle" rel="stylesheet" href="../css/light.css" media="screen" title="no title" charset="utf-8">
-
-        <!-- icon -->
-        <link rel="shortcut icon" type="image/x-icon" href="../graphics/book.ico" />
-
-        <!-- js scripts -->
-        <script src="../js/{type}.js"></script>
-        <script src="../js/index.js"></script>
-
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Inter:wght@400;500;600&family=Literata:opsz,wght@7..72,400;7..72,500;7..72,600&display=swap" rel="stylesheet">
+        <link id="pagestyle" rel="stylesheet" href="../css/light.css">
+        <link rel="shortcut icon" type="image/x-icon" href="../graphics/book.ico">
+        <script src="../js/{type}.js" defer></script>
+        <script src="../js/index.js" defer></script>
     </head>
+    <body data-page="library">
+        <header class="site-header">
+            <a class="brand" href="./" aria-label="The Hypertext Library home">
+                <span class="brand__mark" aria-hidden="true">*</span>
+                <span>The Hypertext Library</span>
+            </a>
+            <nav class="site-actions" aria-label="Library actions">
+                <button class="button button--secondary" type="button" id="toggle-lights">Lights Off</button>
+                <a class="button button--secondary" href="../">Back to Library</a>
+                <button class="button button--primary" type="button" data-dialog-open="aboutModal">About This Site</button>
+            </nav>
+        </header>
 
-
-    <body>
-
-    <!-- <div class="se-pre-con"></div> -->
-
-<!-- *********************************    Navbar   ************************************ -->
-
-        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-            <div class="container top">
-                <div class="btn-group pull-right">
-                    <a type="button" id="toggle-lights" class="btn btn-default">
-                        Lights Off
-                    </a>
-                    <a type="button" class="btn btn-default" href="../">
-                        Back to Library
-                    </a>
-                    <button type="button" class="btn btn-default" data-toggle="modal" data-target="#aboutModal">
-                        About This Site
-                    </button>
+        <main>
+            <section class="library-hero" aria-labelledby="library-title">
+                <div class="library-hero__copy">
+                    <p class="eyebrow">Public-domain texts, warmly linked</p>
+                    <h1 id="library-title">The Hypertext Library</h1>
+                    <p class="lede">Choose a classic, settle in, and follow any word through the whole work like a trail of marginalia.</p>
                 </div>
-            </div>
-        </div>
-
-<!-- *********************************    Title   ************************************ -->
-
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <div class="filler"></div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-12">
-                <div class="jumbotron">
-                    <h1> 
-                        The Hypertext Library
-                    </h1>
+                <div class="library-hero__panel" aria-label="How it works">
+                    <p>Every rendered word is clickable. Search a phrase, open a chapter, or click a single word to see where it returns.</p>
                 </div>
-            </div>
-        </div>
-    </div>
+            </section>
 
-<!-- ******************************    Library   ************************************ -->
-
-<div class="container">
-    <div class="container">
-        <div class="row">
-            <div class="col-xs-12">
-                <div class="form-group">
-                <input type="text" id="search-box" class="form-control" placeholder="Search" autofocus tabindex="1">
+            <section class="library-controls" aria-label="Find a book">
+                <label class="search-label" for="search-box">Search the shelves</label>
+                <div class="search-shell">
+                    <input type="search" id="search-box" class="text-input" placeholder="Search by title or author" autofocus tabindex="1">
                 </div>
+                <p class="library-count" id="book-count" aria-live="polite"></p>
+            </section>
+
+            <section class="book-grid" id="book-list" aria-label="Available books">
+                {book_list}
+            </section>
+        </main>
+
+        <footer class="site-footer">
+            <p>The Hypertext Library. Made by <a href="http://noaheisen.com/" target="_blank" rel="noreferrer">Noah Eisen</a> and <a href="https://www.linkedin.com/in/robert-rose-b4a98b104?authType=NAME_SEARCH&authToken=_mX-&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A444351658%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1454427639364%2Ctas%3Arobe" target="_blank" rel="noreferrer">Robert Rose</a>.</p>
+        </footer>
+
+        <dialog class="dialog" id="aboutModal" aria-labelledby="aboutModalLabel">
+            <div class="dialog__header">
+                <h2 id="aboutModalLabel">About The Hypertext Library</h2>
+                <button class="icon-button" type="button" data-dialog-close aria-label="Close about dialog">x</button>
             </div>
-        </div>
-    </div>
-    <div id="book-list" class="container">
-        {book_list}
-    </div>
-</div>
-
-
-<!-- *********************************    Footer    ************************************ -->
-
-        <br><br>
-        <div class="row">
-            <div class="col-12 text-center">
-                <footer>
-                    <h6>
-                        The Hypertextual Library. Made by <a href="http://noaheisen.com/" target="_">Noah Eisen</a> and <a href="https://www.linkedin.com/in/robert-rose-b4a98b104?authType=NAME_SEARCH&authToken=_mX-&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A444351658%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1454427639364%2Ctas%3Arobe" target="_">Robert Rose</a>
-                    </h6>
-                </footer>
+            <div class="dialog__body">
+                <p>This site is devoted to the idea that literature can be analyzed in a hypertextual manner. A certain word or phrase may appear several times for a given book, and we believe there is meaning embedded in the links between the occurrences. This site allows you to treat a book like a brain, with synaptic connections from word to word, strengthening the meaning behind the text. As you explore the books, remember, every word is a link, click it to see where it leads.</p>
+                <p>The Hypertext Library was made by <a href="http://noaheisen.com/" target="_blank" rel="noreferrer">Noah Eisen</a> and <a href="https://www.linkedin.com/in/robert-rose-b4a98b104?authType=NAME_SEARCH&authToken=_mX-&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A444351658%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1454427639364%2Ctas%3Arobe" target="_blank" rel="noreferrer">Robert Rose</a>. Our initial goal was to improve the performance and aesthetics of <a href="http://www.doc.ic.ac.uk/~rac101/concord/texts/ulysses" target="_blank" rel="noreferrer">this site</a>, which we both used while reading Ulysses.</p>
+                <p>If you are interested in contributing, requesting a book, or learning more about this website, check out our <a href="https://github.com/ncteisen/the-hypertextual-library" target="_blank" rel="noreferrer">GitHub page</a>.</p>
             </div>
-        </div>
-
-
-<!-- ******************************    Modal Popup   ************************************ -->
-
-
-        <div class="modal fade" id="aboutModal" tabindex="-1" role="dialog" aria-labelledby="aboutModalLabel">
-          <div class="modal-dialog" role="document">
-            <div class="modal-content">
-              <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                <h4 class="modal-title" id="aboutModalLabel">About The Hypertext Library</h4>
-              </div>
-              <div class="modal-body">
-              This site is devoted to the idea that literature can be analyzed in a hypertextual manner. A certain word or phrase may appear several times for a given book, and we believe there is meaning embedded in the links between the occurrences. This site allows you to treat a book like a brain, with synaptic connections from word to word, strengthening the meaning behind the text. As you explore the books, remember, every word is a link, click it to see where it leads.
-              <br><br>
-              The Hypertext Library was made by <a href="http://noaheisen.com/" target="_">Noah Eisen</a> and <a href="https://www.linkedin.com/in/robert-rose-b4a98b104?authType=NAME_SEARCH&authToken=_mX-&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A444351658%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1454427639364%2Ctas%3Arobe" target="_">Robert Rose</a>. Our initial goal was to improve the performance and aesthetics of <a href="http://www.doc.ic.ac.uk/~rac101/concord/texts/ulysses" target="_">this site</a>, which we both used while reading Ulysses.
-              <br><br>
-              If you are interested in contributing, requesting a book, or learning more about this website, check out our <a href="https://github.com/ncteisen/the-hypertextual-library" target="_">github page</a>.
-              </div>
-              <div class="modal-footer">
-                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-              </div>
-            </div>
-          </div>
-        </div>
-
-
+            <form method="dialog" class="dialog__footer">
+                <button class="button button--primary" type="submit">Close</button>
+            </form>
+        </dialog>
     </body>
 </html>

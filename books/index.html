@@ -1,317 +1,281 @@
-<html>
-
+<!doctype html>
+<html lang="en">
     <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>The Hypertext Library</title>
-        
-        <!-- Latest compiled and minified CSS -->
-        <link rel="stylesheet" href="../css/bootstrap.min.css">
-
-        <!-- jQuery library -->
-        <script src="../js/jquery.min.js"></script>
-
-        <!-- Latest compiled JavaScript -->
-        <script src="../js/bootstrap.min.js"></script>
-
-        <!-- personal style -->
-        <link id="pagestyle" rel="stylesheet" href="../css/light.css" media="screen" title="no title" charset="utf-8">
-
-        <!-- icon -->
-        <link rel="shortcut icon" type="image/x-icon" href="../graphics/book.ico" />
-
-        <!-- js scripts -->
-        <script src="../js/books.js"></script>
-        <script src="../js/index.js"></script>
-
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Inter:wght@400;500;600&family=Literata:opsz,wght@7..72,400;7..72,500;7..72,600&display=swap" rel="stylesheet">
+        <link id="pagestyle" rel="stylesheet" href="../css/light.css">
+        <link rel="shortcut icon" type="image/x-icon" href="../graphics/book.ico">
+        <script src="../js/books.js" defer></script>
+        <script src="../js/index.js" defer></script>
     </head>
+    <body data-page="library">
+        <header class="site-header">
+            <a class="brand" href="./" aria-label="The Hypertext Library home">
+                <span class="brand__mark" aria-hidden="true">*</span>
+                <span>The Hypertext Library</span>
+            </a>
+            <nav class="site-actions" aria-label="Library actions">
+                <button class="button button--secondary" type="button" id="toggle-lights">Lights Off</button>
+                <a class="button button--secondary" href="../">Back to Library</a>
+                <button class="button button--primary" type="button" data-dialog-open="aboutModal">About This Site</button>
+            </nav>
+        </header>
 
-
-    <body>
-
-    <!-- <div class="se-pre-con"></div> -->
-
-<!-- *********************************    Navbar   ************************************ -->
-
-        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-            <div class="container top">
-                <div class="btn-group pull-right">
-                    <a type="button" id="toggle-lights" class="btn btn-default">
-                        Lights Off
-                    </a>
-                    <a type="button" class="btn btn-default" href="../">
-                        Back to Library
-                    </a>
-                    <button type="button" class="btn btn-default" data-toggle="modal" data-target="#aboutModal">
-                        About This Site
-                    </button>
+        <main>
+            <section class="library-hero" aria-labelledby="library-title">
+                <div class="library-hero__copy">
+                    <p class="eyebrow">Public-domain texts, warmly linked</p>
+                    <h1 id="library-title">The Hypertext Library</h1>
+                    <p class="lede">Choose a classic, settle in, and follow any word through the whole work like a trail of marginalia.</p>
                 </div>
-            </div>
-        </div>
-
-<!-- *********************************    Title   ************************************ -->
-
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <div class="filler"></div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-12">
-                <div class="jumbotron">
-                    <h1> 
-                        The Hypertext Library
-                    </h1>
+                <div class="library-hero__panel" aria-label="How it works">
+                    <p>Every rendered word is clickable. Search a phrase, open a chapter, or click a single word to see where it returns.</p>
                 </div>
-            </div>
-        </div>
-    </div>
+            </section>
 
-<!-- ******************************    Library   ************************************ -->
-
-<div class="container">
-    <div class="container">
-        <div class="row">
-            <div class="col-xs-12">
-                <div class="form-group">
-                <input type="text" id="search-box" class="form-control" placeholder="Search" autofocus tabindex="1">
+            <section class="library-controls" aria-label="Find a book">
+                <label class="search-label" for="search-box">Search the shelves</label>
+                <div class="search-shell">
+                    <input type="search" id="search-box" class="text-input" placeholder="Search by title or author" autofocus tabindex="1">
                 </div>
+                <p class="library-count" id="book-count" aria-live="polite"></p>
+            </section>
+
+            <section class="book-grid" id="book-list" aria-label="Available books">
+                <article class="book-card book" data-book-title="The King James Bible" data-author="God" data-uniquename="bible">
+    <a class="book-card__link" href="bible/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="bible/cover.jpg" alt="Cover for The King James Bible" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">The King James Bible</span>
+            <span class="book-card__author">God</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="Pride and Prejudice" data-author="Jane Austen" data-uniquename="pride_and_prejudice">
+    <a class="book-card__link" href="pride_and_prejudice/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="pride_and_prejudice/cover.jpg" alt="Cover for Pride and Prejudice" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">Pride and Prejudice</span>
+            <span class="book-card__author">Jane Austen</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="Alice&#x27;s Adventures in Wonderland" data-author="Lewis Carroll" data-uniquename="alice">
+    <a class="book-card__link" href="alice/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="alice/cover.jpg" alt="Cover for Alice&#x27;s Adventures in Wonderland" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">Alice&#x27;s Adventures in Wonderland</span>
+            <span class="book-card__author">Lewis Carroll</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="The Adventures of Sherlock Holmes" data-author="Arthur Conan Doyle" data-uniquename="sherlock_holmes">
+    <a class="book-card__link" href="sherlock_holmes/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="sherlock_holmes/cover.jpg" alt="Cover for The Adventures of Sherlock Holmes" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">The Adventures of Sherlock Holmes</span>
+            <span class="book-card__author">Arthur Conan Doyle</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="A Tale of Two Cities" data-author="Charles Dickens" data-uniquename="tale_of_two_cities">
+    <a class="book-card__link" href="tale_of_two_cities/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="tale_of_two_cities/cover.jpg" alt="Cover for A Tale of Two Cities" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">A Tale of Two Cities</span>
+            <span class="book-card__author">Charles Dickens</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="Great Expectations" data-author="Charles Dickens" data-uniquename="great_expectations">
+    <a class="book-card__link" href="great_expectations/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="great_expectations/cover.jpg" alt="Cover for Great Expectations" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">Great Expectations</span>
+            <span class="book-card__author">Charles Dickens</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="Narrative of the Life of Frederick Douglass, an American Slave" data-author="Frederick Douglass" data-uniquename="frederick_douglass">
+    <a class="book-card__link" href="frederick_douglass/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="frederick_douglass/cover.jpg" alt="Cover for Narrative of the Life of Frederick Douglass, an American Slave" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">Narrative of the Life of Frederick Douglass, an American Slave</span>
+            <span class="book-card__author">Frederick Douglass</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="Dubliners" data-author="James Joyce" data-uniquename="dubliners">
+    <a class="book-card__link" href="dubliners/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="dubliners/cover.jpg" alt="Cover for Dubliners" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">Dubliners</span>
+            <span class="book-card__author">James Joyce</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="Portrait of the Artist as a Young Man" data-author="James Joyce" data-uniquename="portrait">
+    <a class="book-card__link" href="portrait/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="portrait/cover.jpg" alt="Cover for Portrait of the Artist as a Young Man" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">Portrait of the Artist as a Young Man</span>
+            <span class="book-card__author">James Joyce</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="Ulysses" data-author="James Joyce" data-uniquename="ulysses">
+    <a class="book-card__link" href="ulysses/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="ulysses/cover.jpg" alt="Cover for Ulysses" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">Ulysses</span>
+            <span class="book-card__author">James Joyce</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="Metamorphosis" data-author="Franz Kafka" data-uniquename="metamorphosis">
+    <a class="book-card__link" href="metamorphosis/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="metamorphosis/cover.jpg" alt="Cover for Metamorphosis" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">Metamorphosis</span>
+            <span class="book-card__author">Franz Kafka</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="Moby-Dick; or, The Whale" data-author="Herman Melville" data-uniquename="moby_dick">
+    <a class="book-card__link" href="moby_dick/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="moby_dick/cover.jpg" alt="Cover for Moby-Dick; or, The Whale" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">Moby-Dick; or, The Whale</span>
+            <span class="book-card__author">Herman Melville</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="The Yellow Wallpaper" data-author="Charlotte Perkins Gilman" data-uniquename="yellow_wallpaper">
+    <a class="book-card__link" href="yellow_wallpaper/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="yellow_wallpaper/cover.jpg" alt="Cover for The Yellow Wallpaper" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">The Yellow Wallpaper</span>
+            <span class="book-card__author">Charlotte Perkins Gilman</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="The Great Gatsby" data-author="F. Scott Fitzgerald" data-uniquename="great_gatsby">
+    <a class="book-card__link" href="great_gatsby/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="great_gatsby/cover.jpg" alt="Cover for The Great Gatsby" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">The Great Gatsby</span>
+            <span class="book-card__author">F. Scott Fitzgerald</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="Frankenstein" data-author="Mary Shelley" data-uniquename="frankenstein">
+    <a class="book-card__link" href="frankenstein/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="frankenstein/cover.jpg" alt="Cover for Frankenstein" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">Frankenstein</span>
+            <span class="book-card__author">Mary Shelley</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="War and Peace" data-author="Leo Tolstoy" data-uniquename="war_and_peace">
+    <a class="book-card__link" href="war_and_peace/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="war_and_peace/cover.jpg" alt="Cover for War and Peace" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">War and Peace</span>
+            <span class="book-card__author">Leo Tolstoy</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="The Adventures of Huckleberry Finn" data-author="Mark Twain" data-uniquename="huck_finn">
+    <a class="book-card__link" href="huck_finn/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="huck_finn/cover.jpg" alt="Cover for The Adventures of Huckleberry Finn" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">The Adventures of Huckleberry Finn</span>
+            <span class="book-card__author">Mark Twain</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="The Adventures of Tom Sawyer" data-author="Mark Twain" data-uniquename="tom_sawyer">
+    <a class="book-card__link" href="tom_sawyer/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="tom_sawyer/cover.jpg" alt="Cover for The Adventures of Tom Sawyer" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">The Adventures of Tom Sawyer</span>
+            <span class="book-card__author">Mark Twain</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="The Importance of Being Earnest" data-author="Oscar Wilde" data-uniquename="being_earnest">
+    <a class="book-card__link" href="being_earnest/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="being_earnest/cover.jpg" alt="Cover for The Importance of Being Earnest" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">The Importance of Being Earnest</span>
+            <span class="book-card__author">Oscar Wilde</span>
+        </span>
+    </a>
+</article>
+
+            </section>
+        </main>
+
+        <footer class="site-footer">
+            <p>The Hypertext Library. Made by <a href="http://noaheisen.com/" target="_blank" rel="noreferrer">Noah Eisen</a> and <a href="https://www.linkedin.com/in/robert-rose-b4a98b104?authType=NAME_SEARCH&authToken=_mX-&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A444351658%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1454427639364%2Ctas%3Arobe" target="_blank" rel="noreferrer">Robert Rose</a>.</p>
+        </footer>
+
+        <dialog class="dialog" id="aboutModal" aria-labelledby="aboutModalLabel">
+            <div class="dialog__header">
+                <h2 id="aboutModalLabel">About The Hypertext Library</h2>
+                <button class="icon-button" type="button" data-dialog-close aria-label="Close about dialog">x</button>
             </div>
-        </div>
-    </div>
-    <div id="book-list" class="container">
-        <div class="row"><div class="row-height">
-<div class="col-md-3 col-height book" book-title="The King James Bible" uniquename="bible">
-    <a href="bible/">
-        <div class="pic-wrapper">
-            <img src="bible/cover.jpg" class="img-rounded pic" width="175" height="250">
-            <br>
-            <p class="regular text-center">The King James Bible - God</p>
-        </div>
-    </a>
-</div>
-
-<div class="col-md-3 col-height book" book-title="Pride and Prejudice" uniquename="pride_and_prejudice">
-    <a href="pride_and_prejudice/">
-        <div class="pic-wrapper">
-            <img src="pride_and_prejudice/cover.jpg" class="img-rounded pic" width="175" height="250">
-            <br>
-            <p class="regular text-center">Pride and Prejudice - Jane Austen</p>
-        </div>
-    </a>
-</div>
-
-<div class="col-md-3 col-height book" book-title="Alice's Adventures in Wonderland" uniquename="alice">
-    <a href="alice/">
-        <div class="pic-wrapper">
-            <img src="alice/cover.jpg" class="img-rounded pic" width="175" height="250">
-            <br>
-            <p class="regular text-center">Alice's Adventures in Wonderland - Lewis Carroll</p>
-        </div>
-    </a>
-</div>
-
-<div class="col-md-3 col-height book" book-title="The Adventures of Sherlock Holmes" uniquename="sherlock_holmes">
-    <a href="sherlock_holmes/">
-        <div class="pic-wrapper">
-            <img src="sherlock_holmes/cover.jpg" class="img-rounded pic" width="175" height="250">
-            <br>
-            <p class="regular text-center">The Adventures of Sherlock Holmes - Arthur Conan Doyle</p>
-        </div>
-    </a>
-</div>
-</div></div><div class="row"><div class="row-height">
-<div class="col-md-3 col-height book" book-title="A Tale of Two Cities" uniquename="tale_of_two_cities">
-    <a href="tale_of_two_cities/">
-        <div class="pic-wrapper">
-            <img src="tale_of_two_cities/cover.jpg" class="img-rounded pic" width="175" height="250">
-            <br>
-            <p class="regular text-center">A Tale of Two Cities - Charles Dickens</p>
-        </div>
-    </a>
-</div>
-
-<div class="col-md-3 col-height book" book-title="Great Expectations" uniquename="great_expectations">
-    <a href="great_expectations/">
-        <div class="pic-wrapper">
-            <img src="great_expectations/cover.jpg" class="img-rounded pic" width="175" height="250">
-            <br>
-            <p class="regular text-center">Great Expectations - Charles Dickens</p>
-        </div>
-    </a>
-</div>
-
-<div class="col-md-3 col-height book" book-title="Narrative of the Life of Frederick Douglass, an American Slave" uniquename="frederick_douglass">
-    <a href="frederick_douglass/">
-        <div class="pic-wrapper">
-            <img src="frederick_douglass/cover.jpg" class="img-rounded pic" width="175" height="250">
-            <br>
-            <p class="regular text-center">Narrative of the Life of Frederick Douglass, an American Slave - Frederick Douglass</p>
-        </div>
-    </a>
-</div>
-
-<div class="col-md-3 col-height book" book-title="Dubliners" uniquename="dubliners">
-    <a href="dubliners/">
-        <div class="pic-wrapper">
-            <img src="dubliners/cover.jpg" class="img-rounded pic" width="175" height="250">
-            <br>
-            <p class="regular text-center">Dubliners - James Joyce</p>
-        </div>
-    </a>
-</div>
-</div></div><div class="row"><div class="row-height">
-<div class="col-md-3 col-height book" book-title="Portrait of the Artist as a Young Man" uniquename="portrait">
-    <a href="portrait/">
-        <div class="pic-wrapper">
-            <img src="portrait/cover.jpg" class="img-rounded pic" width="175" height="250">
-            <br>
-            <p class="regular text-center">Portrait of the Artist as a Young Man - James Joyce</p>
-        </div>
-    </a>
-</div>
-
-<div class="col-md-3 col-height book" book-title="Ulysses" uniquename="ulysses">
-    <a href="ulysses/">
-        <div class="pic-wrapper">
-            <img src="ulysses/cover.jpg" class="img-rounded pic" width="175" height="250">
-            <br>
-            <p class="regular text-center">Ulysses - James Joyce</p>
-        </div>
-    </a>
-</div>
-
-<div class="col-md-3 col-height book" book-title="Metamorphosis" uniquename="metamorphosis">
-    <a href="metamorphosis/">
-        <div class="pic-wrapper">
-            <img src="metamorphosis/cover.jpg" class="img-rounded pic" width="175" height="250">
-            <br>
-            <p class="regular text-center">Metamorphosis - Franz Kafka</p>
-        </div>
-    </a>
-</div>
-
-<div class="col-md-3 col-height book" book-title="Moby-Dick; or, The Whale" uniquename="moby_dick">
-    <a href="moby_dick/">
-        <div class="pic-wrapper">
-            <img src="moby_dick/cover.jpg" class="img-rounded pic" width="175" height="250">
-            <br>
-            <p class="regular text-center">Moby-Dick; or, The Whale - Herman Melville</p>
-        </div>
-    </a>
-</div>
-</div></div><div class="row"><div class="row-height">
-<div class="col-md-3 col-height book" book-title="The Yellow Wallpaper" uniquename="yellow_wallpaper">
-    <a href="yellow_wallpaper/">
-        <div class="pic-wrapper">
-            <img src="yellow_wallpaper/cover.jpg" class="img-rounded pic" width="175" height="250">
-            <br>
-            <p class="regular text-center">The Yellow Wallpaper - Charlotte Perkins Gilman</p>
-        </div>
-    </a>
-</div>
-
-<div class="col-md-3 col-height book" book-title="The Great Gatsby" uniquename="great_gatsby">
-    <a href="great_gatsby/">
-        <div class="pic-wrapper">
-            <img src="great_gatsby/cover.jpg" class="img-rounded pic" width="175" height="250">
-            <br>
-            <p class="regular text-center">The Great Gatsby - F. Scott Fitzgerald</p>
-        </div>
-    </a>
-</div>
-
-<div class="col-md-3 col-height book" book-title="Frankenstein" uniquename="frankenstein">
-    <a href="frankenstein/">
-        <div class="pic-wrapper">
-            <img src="frankenstein/cover.jpg" class="img-rounded pic" width="175" height="250">
-            <br>
-            <p class="regular text-center">Frankenstein - Mary Shelley</p>
-        </div>
-    </a>
-</div>
-
-<div class="col-md-3 col-height book" book-title="War and Peace" uniquename="war_and_peace">
-    <a href="war_and_peace/">
-        <div class="pic-wrapper">
-            <img src="war_and_peace/cover.jpg" class="img-rounded pic" width="175" height="250">
-            <br>
-            <p class="regular text-center">War and Peace - Leo Tolstoy</p>
-        </div>
-    </a>
-</div>
-</div></div><div class="row"><div class="row-height">
-<div class="col-md-3 col-height book" book-title="The Adventures of Huckleberry Finn" uniquename="huck_finn">
-    <a href="huck_finn/">
-        <div class="pic-wrapper">
-            <img src="huck_finn/cover.jpg" class="img-rounded pic" width="175" height="250">
-            <br>
-            <p class="regular text-center">The Adventures of Huckleberry Finn - Mark Twain</p>
-        </div>
-    </a>
-</div>
-
-<div class="col-md-3 col-height book" book-title="The Adventures of Tom Sawyer" uniquename="tom_sawyer">
-    <a href="tom_sawyer/">
-        <div class="pic-wrapper">
-            <img src="tom_sawyer/cover.jpg" class="img-rounded pic" width="175" height="250">
-            <br>
-            <p class="regular text-center">The Adventures of Tom Sawyer - Mark Twain</p>
-        </div>
-    </a>
-</div>
-
-<div class="col-md-3 col-height book" book-title="The Importance of Being Earnest" uniquename="being_earnest">
-    <a href="being_earnest/">
-        <div class="pic-wrapper">
-            <img src="being_earnest/cover.jpg" class="img-rounded pic" width="175" height="250">
-            <br>
-            <p class="regular text-center">The Importance of Being Earnest - Oscar Wilde</p>
-        </div>
-    </a>
-</div>
-</div></div>
-    </div>
-</div>
-
-
-<!-- *********************************    Footer    ************************************ -->
-
-        <br><br>
-        <div class="row">
-            <div class="col-12 text-center">
-                <footer>
-                    <h6>
-                        The Hypertextual Library. Made by <a href="http://noaheisen.com/" target="_">Noah Eisen</a> and <a href="https://www.linkedin.com/in/robert-rose-b4a98b104?authType=NAME_SEARCH&authToken=_mX-&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A444351658%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1454427639364%2Ctas%3Arobe" target="_">Robert Rose</a>
-                    </h6>
-                </footer>
+            <div class="dialog__body">
+                <p>This site is devoted to the idea that literature can be analyzed in a hypertextual manner. A certain word or phrase may appear several times for a given book, and we believe there is meaning embedded in the links between the occurrences. This site allows you to treat a book like a brain, with synaptic connections from word to word, strengthening the meaning behind the text. As you explore the books, remember, every word is a link, click it to see where it leads.</p>
+                <p>The Hypertext Library was made by <a href="http://noaheisen.com/" target="_blank" rel="noreferrer">Noah Eisen</a> and <a href="https://www.linkedin.com/in/robert-rose-b4a98b104?authType=NAME_SEARCH&authToken=_mX-&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A444351658%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1454427639364%2Ctas%3Arobe" target="_blank" rel="noreferrer">Robert Rose</a>. Our initial goal was to improve the performance and aesthetics of <a href="http://www.doc.ic.ac.uk/~rac101/concord/texts/ulysses" target="_blank" rel="noreferrer">this site</a>, which we both used while reading Ulysses.</p>
+                <p>If you are interested in contributing, requesting a book, or learning more about this website, check out our <a href="https://github.com/ncteisen/the-hypertextual-library" target="_blank" rel="noreferrer">GitHub page</a>.</p>
             </div>
-        </div>
-
-
-<!-- ******************************    Modal Popup   ************************************ -->
-
-
-        <div class="modal fade" id="aboutModal" tabindex="-1" role="dialog" aria-labelledby="aboutModalLabel">
-          <div class="modal-dialog" role="document">
-            <div class="modal-content">
-              <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                <h4 class="modal-title" id="aboutModalLabel">About The Hypertext Library</h4>
-              </div>
-              <div class="modal-body">
-              This site is devoted to the idea that literature can be analyzed in a hypertextual manner. A certain word or phrase may appear several times for a given book, and we believe there is meaning embedded in the links between the occurrences. This site allows you to treat a book like a brain, with synaptic connections from word to word, strengthening the meaning behind the text. As you explore the books, remember, every word is a link, click it to see where it leads.
-              <br><br>
-              The Hypertext Library was made by <a href="http://noaheisen.com/" target="_">Noah Eisen</a> and <a href="https://www.linkedin.com/in/robert-rose-b4a98b104?authType=NAME_SEARCH&authToken=_mX-&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A444351658%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1454427639364%2Ctas%3Arobe" target="_">Robert Rose</a>. Our initial goal was to improve the performance and aesthetics of <a href="http://www.doc.ic.ac.uk/~rac101/concord/texts/ulysses" target="_">this site</a>, which we both used while reading Ulysses.
-              <br><br>
-              If you are interested in contributing, requesting a book, or learning more about this website, check out our <a href="https://github.com/ncteisen/the-hypertextual-library" target="_">github page</a>.
-              </div>
-              <div class="modal-footer">
-                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-              </div>
-            </div>
-          </div>
-        </div>
-
-
+            <form method="dialog" class="dialog__footer">
+                <button class="button button--primary" type="submit">Close</button>
+            </form>
+        </dialog>
     </body>
 </html>

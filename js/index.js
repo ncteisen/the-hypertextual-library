@@ -1,88 +1,150 @@
-'use strict'
+'use strict';
 
 var old_search = null;
-var row_size = 4;
-var lights_on = true;
 
-
-// returns true if every part of the search matches
-// either a word in the title or the author's name
-function book_matches_search(book, search)
-{
-	// the parts of the search
-	var parts = search.toLowerCase().split(" ")
-	var creator = book.author || book.director || "";
-
-	for (var i = 0; i < parts.length; ++i) {
-
-		// check for a mismatch to sieve it out
-		if (book.title.toLowerCase().indexOf(parts[i]) < 0 && 
-			creator.toLowerCase().indexOf(parts[i]) < 0) 
-		{
-			return false;
-		}
-	}
-
-	// pass
-	return true;
+function stylesheetPath(theme) {
+    var style = document.getElementById('pagestyle');
+    var href = style ? style.getAttribute('href') : 'css/light.css';
+    return href.replace(/(light|dark)\.css$/, theme + '.css');
 }
 
-// reloads the list of books based on the current query.
-// will filter out any results that don't match 
-function reload_book_list(search)
-{
-	var book_list_html = $("#book-list");
+function setTheme(theme) {
+    var style = document.getElementById('pagestyle');
+    var toggle = document.getElementById('toggle-lights');
 
-	var new_html = "<div class=\"row\"><div class=\"row-height\">";
+    if (style) {
+        style.setAttribute('href', stylesheetPath(theme));
+    }
 
-	var count = 0
-	book_list.forEach(function (book) {
+    document.documentElement.setAttribute('data-theme', theme);
 
-		if (book_matches_search(book, search)) {
+    if (toggle) {
+        toggle.textContent = theme === 'dark' ? 'Lights On' : 'Lights Off';
+        toggle.setAttribute('aria-pressed', theme === 'dark' ? 'true' : 'false');
+    }
 
-			// add rows to make things line up
-			if (count && count % row_size == 0) {
-				new_html += "</div></div><div class=\"row\"><div class=\"row-height\">";
-			}
-			count += 1;
-
-			// html is stored in json object that was generated
-			// by the generate.py script
-			new_html += book.html;
-
-		}
-	});
-
-	new_html += "</div></div>";
-
-	book_list_html.html(new_html);
+    try {
+        window.localStorage.setItem('hypertext-theme', theme);
+    }
+    catch (e) {}
 }
 
-// notate every keypress
-$(document).on("input", function (e) {
-    var new_search = $("#search-box").val();
-    if (old_search === new_search) return; 
-    old_search = new_search;
-    reload_book_list(new_search);
-});
+function initializeTheme() {
+    var savedTheme = 'light';
+    try {
+        savedTheme = window.localStorage.getItem('hypertext-theme') || 'light';
+    }
+    catch (e) {}
 
-// attatches func for when search is performed
-$(function() {
-	$("#toggle-lights").click(function (e) {
-		e.preventDefault();
+    setTheme(savedTheme === 'dark' ? 'dark' : 'light');
 
-		// toggle to light
-		if (lights_on) {
-			lights_on = false;
-			$("#toggle-lights").text("Lights On");
-			document.getElementById('pagestyle').setAttribute('href', "css/dark.css");
-		}
+    var toggle = document.getElementById('toggle-lights');
+    if (toggle) {
+        toggle.addEventListener('click', function () {
+            var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+            setTheme(isDark ? 'light' : 'dark');
+        });
+    }
+}
 
-		// toggle to dark
-		else {
-			lights_on = true;
-			$("#toggle-lights").text("Lights Off");
-			document.getElementById('pagestyle').setAttribute('href', "css/light.css");
-		}
-	});
+function book_matches_search(book, search) {
+    var parts = search.toLowerCase().split(/\s+/).filter(Boolean);
+    var creator = book.author || book.director || '';
+
+    for (var i = 0; i < parts.length; ++i) {
+        if (book.title.toLowerCase().indexOf(parts[i]) < 0 &&
+            creator.toLowerCase().indexOf(parts[i]) < 0) {
+            return false;
+        }
+    }
+
+    return true;
+}
+
+function reload_book_list(search) {
+    var bookList = document.getElementById('book-list');
+    var countText = document.getElementById('book-count');
+
+    if (!bookList || typeof book_list === 'undefined') return;
+
+    var nextHtml = '';
+    var count = 0;
+
+    book_list.forEach(function (book) {
+        if (book_matches_search(book, search)) {
+            count += 1;
+            nextHtml += book.html;
+        }
+    });
+
+    bookList.innerHTML = nextHtml;
+
+    if (countText) {
+        var total = book_list.length;
+        if (search) {
+            countText.textContent = count + ' of ' + total + ' books match your search.';
+        }
+        else {
+            countText.textContent = total + ' books waiting on the shelves.';
+        }
+    }
+}
+
+function initializeLibrarySearch() {
+    var searchBox = document.getElementById('search-box');
+    if (!searchBox || typeof book_list === 'undefined') return;
+
+    reload_book_list(searchBox.value || '');
+
+    searchBox.addEventListener('input', function () {
+        var newSearch = searchBox.value;
+        if (old_search === newSearch) return;
+        old_search = newSearch;
+        reload_book_list(newSearch);
+    });
+}
+
+function initializeDialogs() {
+    var openers = document.querySelectorAll('[data-dialog-open]');
+    var closers = document.querySelectorAll('[data-dialog-close]');
+
+    openers.forEach(function (opener) {
+        opener.addEventListener('click', function () {
+            var dialog = document.getElementById(opener.getAttribute('data-dialog-open'));
+            if (!dialog) return;
+
+            if (typeof dialog.showModal === 'function') {
+                dialog.showModal();
+            }
+            else {
+                dialog.setAttribute('open', '');
+            }
+        });
+    });
+
+    closers.forEach(function (closer) {
+        closer.addEventListener('click', function () {
+            var dialog = closer.closest('dialog');
+            if (!dialog) return;
+
+            if (typeof dialog.close === 'function') {
+                dialog.close();
+            }
+            else {
+                dialog.removeAttribute('open');
+            }
+        });
+    });
+
+    document.addEventListener('click', function (event) {
+        if (event.target instanceof HTMLDialogElement) {
+            event.target.close();
+        }
+    });
+}
+
+document.addEventListener('DOMContentLoaded', function () {
+    initializeTheme();
+    initializeLibrarySearch();
+    initializeDialogs();
 });

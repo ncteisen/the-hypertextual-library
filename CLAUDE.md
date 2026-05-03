@@ -30,8 +30,8 @@ This reads `data.json`, validates each book's files, and regenerates all HTML/JS
 
 **Runtime (JavaScript):** Each book page loads its full text from `raw_text.js` (a single `raw_text` variable). The JS then:
 - Splits text into 35-line pages, aligned to chapter boundaries
-- Wraps every word in `<a class="word">` tags for click-to-search
-- Uses 4 Web Workers (`multithread.js`) for non-blocking search
+- Renders every word as a clickable link for click-to-search
+- Searches the full text in vanilla browser JavaScript
 - Highlights results with `<mark class="searched-word">` tags
 - Alt+click on a word triggers dictionary lookup
 

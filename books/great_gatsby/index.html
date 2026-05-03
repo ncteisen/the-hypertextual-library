@@ -1,225 +1,104 @@
-<html>
-
+<!doctype html>
+<html lang="en">
     <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Hypertext Literature</title>
-        
-        <!-- Latest compiled and minified CSS -->
-        <link rel="stylesheet" href="../../css/bootstrap.min.css">
-
-        <!-- jQuery library -->
-        <script src="../../js/jquery.min.js"></script>
-
-        <!-- Latest compiled JavaScript -->
-        <script src="../../js/bootstrap.min.js"></script>
-
-        <script src="../../js/multithread.js"></script>
-
-        <!-- personal style -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Inter:wght@400;500;600&family=Literata:opsz,wght@7..72,400;7..72,500;7..72,600&display=swap" rel="stylesheet">
         <link id="pagestyle" rel="stylesheet" href="../../css/light.css">
-
-        <!-- icon -->
-        <link rel="shortcut icon" type="image/x-icon" href="../../graphics/book.ico" />
-
+        <link rel="shortcut icon" type="image/x-icon" href="../../graphics/book.ico">
     </head>
+    <body data-page="reader">
+        <div class="se-pre-con" aria-hidden="true"></div>
 
+        <header class="site-header reader-header">
+            <a class="brand" href="../" aria-label="Back to all books">
+                <span class="brand__mark" aria-hidden="true">*</span>
+                <span>The Hypertext Library</span>
+            </a>
+            <nav class="site-actions" aria-label="Reader actions">
+                <button class="button button--secondary" type="button" id="toggle-lights">Lights Off</button>
+                <a class="button button--secondary" href="../">All Books</a>
+                <details class="chapter-menu">
+                    <summary class="button button--primary">Chapters</summary>
+                    <ul class="chapter-list scrollable-menu"></ul>
+                </details>
+            </nav>
+        </header>
 
-    <body>
+        <main>
+            <section class="work-hero" aria-labelledby="work-title">
+                <p class="eyebrow">Now reading</p>
+                <h1 id="work-title"><a class="word" href="#">The</a> <a class="word" href="#">Great</a> <a class="word" href="#">Gatsby</a></h1>
+                <p class="work-author"><a class="word" href="#">F.</a> <a class="word" href="#">Scott</a> <a class="word" href="#">Fitzgerald</a></p>
+            </section>
 
-    <div class="se-pre-con"></div>
+            <section class="reader-layout" aria-label="Reading and search">
+                <article class="reader-pane" id="page">
+                    <header class="reader-pane__header">
+                        <h2 id="chapter-title">Chapter Title</h2>
+                        <div class="reader-nav" aria-label="Page navigation">
+                            <button class="icon-button last" type="button" aria-label="Previous page">&lsaquo;</button>
+                            <span class="page_number" aria-live="polite"></span>
+                            <button class="icon-button next" type="button" aria-label="Next page">&rsaquo;</button>
+                        </div>
+                    </header>
+                    <div id="page-text" class="page-text"></div>
+                    <footer class="reader-pane__footer">
+                        <button class="button button--secondary last" type="button">Previous</button>
+                        <span class="page_number" aria-live="polite"></span>
+                        <button class="button button--secondary next" type="button">Next</button>
+                    </footer>
+                </article>
 
-<!-- *********************************    Navbar   ************************************ -->
-
-        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-            <div class="container top">
-                <div class="btn-group pull-right">
-                    <a type="button" id="toggle-lights" class="btn btn-default">
-                        Lights Off
-                    </a>
-                    <a href="../" type="button" class="btn btn-default">
-                        Back to all Books
-                    </a>
-                    <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                      Chapters
-                      <span class="caret"></span>
-                    </button>
-                    <ul class="dropdown-menu scrollable-menu">
-
-                    </ul>
-                </div>
-            </div>
-        </div>
-
-<!-- *********************************    Title   ************************************ -->
-
-        <div class="row">
-            <div class="col-12">
-                <div class="filler"></div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-12">
-                <div class="jumbotron">
-                    <h1> 
-                        <a class="word">The</a> <a class="word">Great</a> <a class="word">Gatsby</a> <a class="word"></a>
-                    </h1>
-                    <h4>
-                        <a class="word">F.</a> <a class="word">Scott</a> <a class="word">Fitzgerald</a> <a class="word"></a>
-                    </h4>
-                </div>
-            </div>
-        </div>
-
-<!-- ******************************    Page View   ************************************ -->
-
-        <div class="row">
-        <div class="col-xs-6" id="page">
-        <div class="row">
-            <div class="col-xs-12 text-center">
-                <h4 id="chapter-title"> Chapter Title </h4>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-xs-4 text-left">
-                <nav>
-                    <ul class="pagination">
-                        <li class="active">
-                            <a class="last" aria-label="Previous">
-                                <span aria-hidden="true">&laquo;</span>
-                            </a>
-                        </li>
-                    </ul>
-                </nav>
-            </div>
-            <div class="col-xs-4 page_number text-center" page="1">
-            </div>
-            <div class="col-xs-4 text-right">
-                <nav>
-                    <ul class="pagination">
-                        <li class="active">
-                            <a class="next" aria-label="Previous">
-                                <span aria-hidden="true">&raquo;</span>
-                            </a>
-                        </li>
-                    </ul>
-                </nav>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-6" id="page-text">
-                
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-xs-6 text-left">
-                <nav>
-                    <ul class="pagination">
-                        <li class="active">
-                            <a class="last" aria-label="Previous">
-                                <span aria-hidden="true">&laquo;</span>
-                            </a>
-                        </li>
-                    </ul>
-                </nav>
-            </div>
-            <div class="col-xs-6 text-right">
-                <nav>
-                    <ul class="pagination">
-                        <li class="active">
-                            <a class="next" aria-label="Previous">
-                                <span aria-hidden="true">&raquo;</span>
-                            </a>
-                        </li>
-                    </ul>
-                </nav>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-xs-12 text-center page_number">
-            </div>
-        </div>
-        </div>
-
-
-<!-- *********************************    Search Results   ************************************ -->
-
-
-        <div class="col-xs-6" id="search-results">
-            <div class="row">
-                <div class="col-xs-12">
-                    <h4> <a class="word">Welcome</a> <a class="word">to</a> <a class="word">Hypertextual</a> <a class="word">Literature</a>. <a class="word">Click</a> <a class="word">on</a> <a class="word">any</a> <a class="word">word</a> <a class="word">to</a> <a class="word">see</a> <a class="word">where</a> <a class="word">else</a> <a class="word">it</a> <a class="word">occurs</a> <a class="word">in</a> <a class="word">the</a> <a class="word">book,</a> <a class="word">search</a> <a class="word">for</a> <a class="word">a</a> <a class="word">word</a> <a class="word">below</a>, <a class="word">or</a> <a class="word">pick</a> <a class="word">a</a> <a class="word">chapter</a> <a class="word">to</a> <a class="word">skip</a> <a class="word">to</a>.</h4>
-                </div>
-            </div>
-            <form>
-            <div class="row">
-                <div class="col-xs-10">
-                    <div class="form-group">
-                    <input type="text" class="form-control" placeholder="Search" id="search-box" autofocus tabindex="1">
+                <aside class="search-pane" id="search-results" aria-label="Search this work">
+                    <div class="search-intro">
+                        <p>Click any word in the page to search the whole book. Search below to follow a phrase, or open the chapter list to jump through the text.</p>
                     </div>
-                </div>
-                <div class="col-xs-2">
-                    <button type="submit" class="btn btn-default" id="search-btn"><span class="glyphicon glyphicon-search" tabindex="2"></span></button>
-                </div>
-            </div>
-            </form>
-            <div class="row" id="search-img">
-                <div class="col-xs-12">
-                    <img src="cover.jpg" class="img-rounded" alt="cover" width="550" height="725">
-                </div>
-            </div>
-            <div class="row" id="loading-img">
-                <div class="col-xs-12">
-                    <img src="../../graphics/loading.png" class="img-rounded" alt="loading" width="550" height="725">
-                </div>
-            </div>
-            <div class="row" id="result-table-header">
-                <div class="col-12">
-                    <h2>
-                        <small><a class="new-word">Showing</a> <a class="new-word">results</a> <a class="new-word">for:</a> <a class="new-word" id="search-term"></a></small>
-                        <h5>
-                            <a id="occurrences" class="num"></a> <a class="new-word">occurrences</a>
-                        </h5>
-                    </h2>
-                </div>
-            </div>
-            <div class="row" id="result-table">
-                <div class="col-6">
-                    <table class="table table-fixed affix-top">
-                        <thead>
-                        <tr>
-                            <th class="chapter">
-                                Chapter
-                            </th>
-                            <th class="line-number">
-                                Line
-                            </th>
-                            <th class="line">
-                            </th>
-                        </tr>
-                        </thead>
-                        <tbody id="table-body">
+                    <form class="work-search" id="search-form">
+                        <label class="search-label" for="search-box">Search this book</label>
+                        <div class="search-row">
+                            <input type="search" class="text-input" placeholder="Search a word or phrase" id="search-box" autofocus tabindex="1">
+                            <button type="submit" class="button button--primary" id="search-btn">Search</button>
+                        </div>
+                    </form>
 
-                        </tbody>
-                    </table>
-                </div>
-            </div>
-        </div>
-        </div>
+                    <div class="cover-panel" id="search-img">
+                        <img src="cover.jpg" alt="Book cover">
+                    </div>
+                    <div class="cover-panel loading-panel" id="loading-img" hidden>
+                        <img src="../../graphics/loading.png" alt="Searching">
+                    </div>
+
+                    <section class="result-summary" id="result-table-header" hidden aria-live="polite">
+                        <p class="eyebrow">Search results</p>
+                        <h2>Showing results for <span id="search-term"></span></h2>
+                        <p><span id="occurrences" class="num"></span> occurrences</p>
+                    </section>
+                    <section class="results-shell" id="result-table" hidden>
+                        <table class="result-table">
+                            <thead>
+                                <tr>
+                                    <th class="chapter">Chapter</th>
+                                    <th class="line-number">Line</th>
+                                    <th class="line">Text</th>
+                                </tr>
+                            </thead>
+                            <tbody id="table-body"></tbody>
+                        </table>
+                    </section>
+                </aside>
+            </section>
+        </main>
+
+        <footer class="site-footer">
+            <p><a class="word" href="#">The</a> <a class="word" href="#">Hypertext</a> <a class="word" href="#">Library</a>. <a class="word" href="#">Made</a> <a class="word" href="#">by</a> <a class="link-word" href="http://noaheisen.com/" target="_blank" rel="noreferrer">Noah</a> <a class="link-word" href="http://noaheisen.com/" target="_blank" rel="noreferrer">Eisen</a> <a class="word" href="#">and</a> <a class="link-word" href="https://www.linkedin.com/in/robert-rose-b4a98b104?authType=NAME_SEARCH&authToken=_mX-&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A444351658%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1454427639364%2Ctas%3Arobe" target="_blank" rel="noreferrer">Robert</a> <a class="link-word" href="https://www.linkedin.com/in/robert-rose-b4a98b104?authType=NAME_SEARCH&authToken=_mX-&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A444351658%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1454427639364%2Ctas%3Arobe" target="_blank" rel="noreferrer">Rose</a>.</p>
+        </footer>
 
         <script type="text/javascript" src="../../js/dictionary.js"></script>
         <script src="raw_text.js"></script>
         <script src="../../js/book-page-search.js"></script>
-
-<!-- *********************************    Footer    ************************************ -->
-
-        <div class="row">
-            <div class="col-12 text-center">
-                <footer>
-                    <h6>
-                        <a class="word">The</a> <a class="word">Hypertext</a> <a class="word">Library</a>. <a class="word">Made</a> <a class="word">by</a> <a class="link-word" href="http://noaheisen.com/" target="_">Noah</a> <a class="link-word" href="http://noaheisen.com/" target="_">Eisen</a> <a class="word">and</a> <a class="link-word" href="https://www.linkedin.com/in/robert-rose-b4a98b104?authType=NAME_SEARCH&authToken=_mX-&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A444351658%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1454427639364%2Ctas%3Arobe" target="_">Robert</a> <a class="link-word" href="https://www.linkedin.com/in/robert-rose-b4a98b104?authType=NAME_SEARCH&authToken=_mX-&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A444351658%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1454427639364%2Ctas%3Arobe" target="_">Rose</a>
-                    </h6>
-                </footer>
-            </div>
-        </div>
-
     </body>
 </html>
