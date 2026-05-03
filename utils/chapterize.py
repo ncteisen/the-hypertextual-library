@@ -17,4 +17,4 @@ for i in range(len(lines)):
 	else:
 		to_print.append(lines[i])
 
-print ''.join(to_print)
+sys.stdout.write(''.join(to_print))

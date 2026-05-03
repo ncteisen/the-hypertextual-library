@@ -62,7 +62,7 @@
 		},
 		{
 			"title" : "Frankenstein",
-			"author" : "Mary Shelly",
+			"author" : "Mary Shelley",
 			"uniquename" : "frankenstein"
 		},
 		{
@@ -91,26 +91,9 @@
 			"uniquename" : "moby_dick"
 		},
 		{
-			"title" : "1984",
-			"author" : "George Orwell",
-			"uniquename" : "1984"
-		},
-		{
-			"title" : "Animal Farm",
-			"author" : "George Orwell",
-			"uniquename" : "animal_farm"
-		},
-		{
 			"title" : "The Great Gatsby",
 			"author" : "F. Scott Fitzgerald",
 			"uniquename" : "great_gatsby"
-		}
-	],
-	"movies" : [
-		{
-			"title" : "The Revenant",
-			"director" : "Alejandro G. Inarritu",
-			"uniquename" : "revenant"
 		}
 	]
 }

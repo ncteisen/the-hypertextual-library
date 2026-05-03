@@ -3,23 +3,21 @@
 This tracker captures ideas from the codebase review on 2026-05-03. It is meant
 to be a practical parking lot for reviving the project, not a binding roadmap.
 
-## Immediate Repairs
+## Completed Immediate Repairs
 
-- Fix the documented build command in `README.md` and `CLAUDE.md` from
-  `python generator.py` to `python3 utils/generator.py`.
-- Port `utils/wrap.py` and `utils/chapterize.py` to Python 3 so new texts can be
-  prepared in the current environment.
-- Remove the extra `>` after the dictionary script tag in
-  `template/template.html`, then regenerate generated pages.
-- Fix movie library search by teaching `js/index.js` to search `director` when
-  `author` is absent.
-- Correct visible typos: `Hyptertext`, `Hyptertextual`, and `occurences`.
-- Decide what to do with stale `books/<uniquename>/<uniquename>_text.js` files:
-  remove them, regenerate them intentionally, or document why they remain.
-- Add a missing `music/` destination, remove the root `music/` link, or mark it
-  as a deliberate future placeholder.
-- Review deployed content for copyright/public-domain safety before putting the
-  site back online.
+- Fixed documented build commands to use `python3 utils/generator.py`.
+- Ported `utils/wrap.py` and `utils/chapterize.py` to Python 3.
+- Removed the extra `>` after the dictionary script tag in
+  `template/template.html`.
+- Kept `js/index.js` tolerant of `director` metadata, even though the revived
+  site is now books-only.
+- Corrected the known visible spelling mistakes in footer copy and
+  search-result labels.
+- Removed stale `books/<uniquename>/<uniquename>_text.js` generated artifacts.
+- Removed the missing `music/` destination and the movie destination.
+- Reviewed the deployable content for US public-domain safety, removed the
+  movie/script content, and removed the clearest book risks: `1984` and
+  `Animal Farm`.
 
 ## Build And Repository Hygiene
 
@@ -78,12 +76,9 @@ to be a practical parking lot for reviving the project, not a binding roadmap.
 
 - Add more public-domain books with consistent source attribution.
 - Add source URLs and edition notes for every existing text.
-- Fix author metadata typos, including `Mary Shelly` to `Mary Shelley`.
-- Add content categories such as novels, essays, plays, scripture, speeches,
-  and screenplays.
-- Decide whether movies/scripts should remain part of the same experience or
-  move into a separate "Hypertext Media" area.
-- Add a proper placeholder or remove unused `plays/` until plays are supported.
+- Add content categories such as novels, essays, scripture, speeches, and
+  letters.
+- Keep the public site books-only unless the project scope changes later.
 - Add cover-image provenance and replacement guidance.
 
 ## Technical Modernization Options
@@ -109,8 +104,7 @@ to be a practical parking lot for reviving the project, not a binding roadmap.
 - Add unit tests for the generator's sorting, validation, and output paths.
 - Add unit tests for chapter detection, page padding, line-to-page conversion,
   and search matching.
-- Add browser smoke tests for `/`, `/books/`, `/movies/`, and one generated work
-  page.
+- Add browser smoke tests for `/`, `/books/`, and one generated work page.
 - Add visual regression screenshots for light and dark themes.
 - Add fixture texts that include punctuation, apostrophes, hyphenation, empty
   lines, no chapters, and very long chapters.

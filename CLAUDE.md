@@ -9,7 +9,7 @@ The Hypertextual Library is a static site that lets readers explore classic book
 ## Build Command
 
 ```bash
-python generator.py
+python3 utils/generator.py
 ```
 
 This reads `data.json`, validates each book's files, and regenerates all HTML/JS from templates. Run this after any changes to `data.json`, `template/`, or when adding a new book.
@@ -18,15 +18,15 @@ This reads `data.json`, validates each book's files, and regenerates all HTML/JS
 
 1. Add an entry to `data.json` under `"books"` with `title`, `author`, and `uniquename`
 2. Format the raw text (from Project Gutenberg):
-   - Lines must be ≤75 chars: `python utils/wrap.py < raw.txt > wrapped.txt`
+   - Lines must be ≤75 chars: `python3 utils/wrap.py < raw.txt > wrapped.txt`
    - Chapter titles must be: `-------- Chapter Title --------`
 3. Save formatted text as `books/<uniquename>/text.txt`
 4. Add cover image as `books/<uniquename>/cover.jpg`
-5. Run `python generator.py`
+5. Run `python3 utils/generator.py`
 
 ## Architecture
 
-**Build time (Python):** `generator.py` fills `template/template.html` and `template/raw_text.js` for each book, producing per-book `<uniquename>/index.html` and `<uniquename>/raw_text.js`. It also generates `books/index.html` and `movies/index.html` from `template/library.html`.
+**Build time (Python):** `utils/generator.py` fills `template/template.html` and `template/raw_text.js` for each book, producing per-book `books/<uniquename>/index.html` and `books/<uniquename>/raw_text.js`. It also generates `books/index.html` from `template/library.html`.
 
 **Runtime (JavaScript):** Each book page loads its full text from `raw_text.js` (a single `raw_text` variable). The JS then:
 - Splits text into 35-line pages, aligned to chapter boundaries
@@ -36,7 +36,7 @@ This reads `data.json`, validates each book's files, and regenerates all HTML/JS
 - Alt+click on a word triggers dictionary lookup
 
 **Key files:**
-- `data.json` — source of truth for all book/movie metadata
+- `data.json` — source of truth for all book metadata
 - `template/` — HTML/JS templates used by the generator
 - `js/` — shared frontend JS (search, pagination, theme toggle, workers)
 - `css/` — light and dark theme stylesheets

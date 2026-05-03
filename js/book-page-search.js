@@ -342,7 +342,7 @@ function show_search_results(results) {
 	// add table to DOM
 	table_body.html(table)
 
-	$("#occurences").text(count);
+	$("#occurrences").text(count);
 	
 	$("#search-box").val(query);
 

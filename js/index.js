@@ -11,12 +11,13 @@ function book_matches_search(book, search)
 {
 	// the parts of the search
 	var parts = search.toLowerCase().split(" ")
+	var creator = book.author || book.director || "";
 
 	for (var i = 0; i < parts.length; ++i) {
 
 		// check for a mismatch to sieve it out
 		if (book.title.toLowerCase().indexOf(parts[i]) < 0 && 
-			book.author.toLowerCase().indexOf(parts[i]) < 0) 
+			creator.toLowerCase().indexOf(parts[i]) < 0) 
 		{
 			return false;
 		}
