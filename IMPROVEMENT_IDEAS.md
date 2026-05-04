@@ -29,9 +29,9 @@ to be a practical parking lot for reviving the project, not a binding roadmap.
   values, missing directories, missing `text.txt` or `script.txt`, missing
   covers, and suspiciously unwrapped lines.
 - Add a lightweight HTML validation pass over generated pages.
-- Replace old Python scripts with one maintained text-ingestion CLI that can
-  wrap lines, normalize chapter headings, strip Gutenberg headers/footers, and
-  report formatting warnings.
+- Continue expanding `utils/ingest_gutenberg.py` until it fully replaces the old
+  one-off text filters; it can now wrap lines, normalize likely chapter
+  headings, strip Gutenberg headers/footers, and report formatting warnings.
 - Create a clear generated-artifact policy: either commit generated HTML/JS for
   GitHub Pages simplicity or move to a build-and-deploy workflow that publishes
   generated output.
@@ -75,6 +75,8 @@ to be a practical parking lot for reviving the project, not a binding roadmap.
 ## Content And Library Growth
 
 - Add more public-domain books with consistent source attribution.
+- Import and review the high-priority Project Gutenberg candidates in
+  `ingestion_candidates.json`.
 - Add source URLs and edition notes for every existing text.
 - Add content categories such as novels, essays, scripture, speeches, and
   letters.

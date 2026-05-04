@@ -1,0 +1,20 @@
+{
+	"title": "Jane Eyre: An Autobiography",
+	"author": "Charlotte Bronte",
+	"uniquename": "jane_eyre",
+	"source": {
+		"name": "Project Gutenberg",
+		"ebook_id": 1260,
+		"ebook_url": "https://www.gutenberg.org/ebooks/1260",
+		"plain_text_url": "https://www.gutenberg.org/files/1260/1260-0.txt",
+		"license_url": "https://www.gutenberg.org/policy/license",
+		"copyright_status": "Public domain in the USA",
+		"downloaded_at": "2026-05-04T01:28:10+00:00"
+	},
+	"ingestion": {
+		"script": "utils/ingest_gutenberg.py",
+		"line_width": 73,
+		"review_status": "needs_human_review",
+		"warnings": []
+	}
+}

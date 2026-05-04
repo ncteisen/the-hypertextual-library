@@ -1,0 +1,20 @@
+{
+	"title": "The War of the Worlds",
+	"author": "H. G. Wells",
+	"uniquename": "war_of_the_worlds",
+	"source": {
+		"name": "Project Gutenberg",
+		"ebook_id": 36,
+		"ebook_url": "https://www.gutenberg.org/ebooks/36",
+		"plain_text_url": "https://www.gutenberg.org/ebooks/36.txt.utf-8",
+		"license_url": "https://www.gutenberg.org/policy/license",
+		"copyright_status": "Public domain in the USA",
+		"downloaded_at": "2026-05-04T01:05:25+00:00"
+	},
+	"ingestion": {
+		"script": "utils/ingest_gutenberg.py",
+		"line_width": 73,
+		"review_status": "needs_human_review",
+		"warnings": []
+	}
+}

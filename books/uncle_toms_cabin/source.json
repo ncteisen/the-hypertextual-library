@@ -1,0 +1,20 @@
+{
+	"title": "Uncle Tom's Cabin",
+	"author": "Harriet Beecher Stowe",
+	"uniquename": "uncle_toms_cabin",
+	"source": {
+		"name": "Project Gutenberg",
+		"ebook_id": 203,
+		"ebook_url": "https://www.gutenberg.org/ebooks/203",
+		"plain_text_url": "https://www.gutenberg.org/ebooks/203.txt.utf-8",
+		"license_url": "https://www.gutenberg.org/policy/license",
+		"copyright_status": "Public domain in the USA",
+		"downloaded_at": "2026-05-04T01:13:36+00:00"
+	},
+	"ingestion": {
+		"script": "utils/ingest_gutenberg.py",
+		"line_width": 73,
+		"review_status": "needs_human_review",
+		"warnings": []
+	}
+}

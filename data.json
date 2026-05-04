@@ -1,99 +1,214 @@
 {
-	"books" : [
+	"books": [
 		{
-			"title" : "Ulysses",
-			"author" : "James Joyce",
-			"uniquename" : "ulysses"
+			"title": "Ulysses",
+			"author": "James Joyce",
+			"uniquename": "ulysses"
 		},
 		{
-			"title" : "Portrait of the Artist as a Young Man",
-			"author" : "James Joyce",
-			"uniquename" : "portrait"
+			"title": "Portrait of the Artist as a Young Man",
+			"author": "James Joyce",
+			"uniquename": "portrait"
 		},
 		{
-			"title" : "Dubliners",
-			"author" : "James Joyce",
-			"uniquename" : "dubliners"
+			"title": "Dubliners",
+			"author": "James Joyce",
+			"uniquename": "dubliners"
 		},
 		{
-			"title" : "War and Peace",
-			"author" : "Leo Tolstoy",
-			"uniquename" : "war_and_peace"
+			"title": "War and Peace",
+			"author": "Leo Tolstoy",
+			"uniquename": "war_and_peace"
 		},
 		{
-			"title" : "Pride and Prejudice",
-			"author" : "Jane Austen",
-			"uniquename" : "pride_and_prejudice"
+			"title": "Pride and Prejudice",
+			"author": "Jane Austen",
+			"uniquename": "pride_and_prejudice"
 		},
 		{
-			"title" : "Great Expectations",
-			"author" : "Charles Dickens",
-			"uniquename" : "great_expectations"
+			"title": "Great Expectations",
+			"author": "Charles Dickens",
+			"uniquename": "great_expectations"
 		},
 		{
-			"title" : "A Tale of Two Cities",
-			"author" : "Charles Dickens",
-			"uniquename" : "tale_of_two_cities"
+			"title": "A Tale of Two Cities",
+			"author": "Charles Dickens",
+			"uniquename": "tale_of_two_cities"
 		},
 		{
-			"title" : "The King James Bible",
-			"author" : "God",
-			"uniquename" : "bible"
+			"title": "The King James Bible",
+			"author": "God",
+			"uniquename": "bible"
 		},
 		{
-			"title" : "Alice's Adventures in Wonderland",
-			"author" : "Lewis Carroll",
-			"uniquename" : "alice"
+			"title": "Alice's Adventures in Wonderland",
+			"author": "Lewis Carroll",
+			"uniquename": "alice"
 		},
 		{
-			"title" : "The Adventures of Sherlock Holmes",
-			"author" : "Arthur Conan Doyle",
-			"uniquename" : "sherlock_holmes"
+			"title": "The Adventures of Sherlock Holmes",
+			"author": "Arthur Conan Doyle",
+			"uniquename": "sherlock_holmes"
 		},
 		{
-			"title" : "The Yellow Wallpaper",
-			"author" : "Charlotte Perkins Gilman",
-			"uniquename" : "yellow_wallpaper"
+			"title": "The Yellow Wallpaper",
+			"author": "Charlotte Perkins Gilman",
+			"uniquename": "yellow_wallpaper"
 		},
 		{
-			"title" : "The Adventures of Huckleberry Finn",
-			"author" : "Mark Twain",
-			"uniquename" : "huck_finn"
+			"title": "The Adventures of Huckleberry Finn",
+			"author": "Mark Twain",
+			"uniquename": "huck_finn"
 		},
 		{
-			"title" : "Frankenstein",
-			"author" : "Mary Shelley",
-			"uniquename" : "frankenstein"
+			"title": "Frankenstein",
+			"author": "Mary Shelley",
+			"uniquename": "frankenstein"
 		},
 		{
-			"title" : "Narrative of the Life of Frederick Douglass, an American Slave",
-			"author" : "Frederick Douglass",
-			"uniquename" : "frederick_douglass"
+			"title": "Narrative of the Life of Frederick Douglass, an American Slave",
+			"author": "Frederick Douglass",
+			"uniquename": "frederick_douglass"
 		},
 		{
-			"title" : "Metamorphosis",
-			"author" : "Franz Kafka",
-			"uniquename" : "metamorphosis"
+			"title": "Metamorphosis",
+			"author": "Franz Kafka",
+			"uniquename": "metamorphosis"
 		},
 		{
-			"title" : "The Importance of Being Earnest",
-			"author" : "Oscar Wilde",
-			"uniquename" : "being_earnest"
+			"title": "The Importance of Being Earnest",
+			"author": "Oscar Wilde",
+			"uniquename": "being_earnest"
 		},
 		{
-			"title" : "The Adventures of Tom Sawyer",
-			"author" : "Mark Twain",
-			"uniquename" : "tom_sawyer"
+			"title": "The Adventures of Tom Sawyer",
+			"author": "Mark Twain",
+			"uniquename": "tom_sawyer"
 		},
 		{
-			"title" : "Moby-Dick; or, The Whale",
-			"author" : "Herman Melville",
-			"uniquename" : "moby_dick"
+			"title": "Moby-Dick; or, The Whale",
+			"author": "Herman Melville",
+			"uniquename": "moby_dick"
 		},
 		{
-			"title" : "The Great Gatsby",
-			"author" : "F. Scott Fitzgerald",
-			"uniquename" : "great_gatsby"
+			"title": "The Great Gatsby",
+			"author": "F. Scott Fitzgerald",
+			"uniquename": "great_gatsby"
+		},
+		{
+			"title": "Dracula",
+			"author": "Bram Stoker",
+			"uniquename": "dracula"
+		},
+		{
+			"title": "Jane Eyre: An Autobiography",
+			"author": "Charlotte Bronte",
+			"uniquename": "jane_eyre"
+		},
+		{
+			"title": "Wuthering Heights",
+			"author": "Emily Bronte",
+			"uniquename": "wuthering_heights"
+		},
+		{
+			"title": "Middlemarch",
+			"author": "George Eliot",
+			"uniquename": "middlemarch"
+		},
+		{
+			"title": "The Picture of Dorian Gray",
+			"author": "Oscar Wilde",
+			"uniquename": "dorian_gray"
+		},
+		{
+			"title": "The Time Machine",
+			"author": "H. G. Wells",
+			"uniquename": "time_machine"
+		},
+		{
+			"title": "The War of the Worlds",
+			"author": "H. G. Wells",
+			"uniquename": "war_of_the_worlds"
+		},
+		{
+			"title": "The Souls of Black Folk",
+			"author": "W. E. B. Du Bois",
+			"uniquename": "souls_of_black_folk"
+		},
+		{
+			"title": "The Call of the Wild",
+			"author": "Jack London",
+			"uniquename": "call_of_the_wild"
+		},
+		{
+			"title": "White Fang",
+			"author": "Jack London",
+			"uniquename": "white_fang"
+		},
+		{
+			"title": "The Secret Garden",
+			"author": "Frances Hodgson Burnett",
+			"uniquename": "secret_garden"
+		},
+		{
+			"title": "Anne of Green Gables",
+			"author": "L. M. Montgomery",
+			"uniquename": "anne_of_green_gables"
+		},
+		{
+			"title": "The Count of Monte Cristo",
+			"author": "Alexandre Dumas and Auguste Maquet",
+			"uniquename": "count_of_monte_cristo"
+		},
+		{
+			"title": "Crime and Punishment",
+			"author": "Fyodor Dostoyevsky",
+			"uniquename": "crime_and_punishment"
+		},
+		{
+			"title": "The Brothers Karamazov",
+			"author": "Fyodor Dostoyevsky",
+			"uniquename": "brothers_karamazov"
+		},
+		{
+			"title": "The Scarlet Letter",
+			"author": "Nathaniel Hawthorne",
+			"uniquename": "scarlet_letter"
+		},
+		{
+			"title": "Uncle Tom's Cabin",
+			"author": "Harriet Beecher Stowe",
+			"uniquename": "uncle_toms_cabin"
+		},
+		{
+			"title": "The Jungle",
+			"author": "Upton Sinclair",
+			"uniquename": "the_jungle"
+		},
+		{
+			"title": "Treasure Island",
+			"author": "Robert Louis Stevenson",
+			"uniquename": "treasure_island"
+		},
+		{
+			"title": "A Christmas Carol in Prose; Being a Ghost Story of Christmas",
+			"author": "Charles Dickens",
+			"uniquename": "christmas_carol"
+		},
+		{
+			"title": "Leaves of Grass",
+			"author": "Walt Whitman",
+			"uniquename": "leaves_of_grass"
+		},
+		{
+			"title": "The Iliad",
+			"author": "Homer",
+			"uniquename": "iliad"
+		},
+		{
+			"title": "The Odyssey",
+			"author": "Homer",
+			"uniquename": "odyssey"
 		}
 	]
 }

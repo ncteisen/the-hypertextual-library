@@ -77,6 +77,43 @@ Generated files include:
 7. Run `python3 utils/generator.py`.
 8. Test the generated page in a browser.
 
+## Ingesting Project Gutenberg Texts
+
+The repo has a candidate queue of Project Gutenberg works in
+`ingestion_candidates.json`. List importable candidates with:
+
+```bash
+python3 utils/ingest_gutenberg.py --list-candidates
+```
+
+Import one candidate into `books/<uniquename>/` for review:
+
+```bash
+python3 utils/ingest_gutenberg.py dracula
+```
+
+The importer downloads the UTF-8 plain text, strips Project Gutenberg
+boilerplate, normalizes likely chapter headings to the reader's
+`-------- Chapter --------` shape, wraps long lines, copies the generic cover,
+and writes `source.json` provenance beside `text.txt`.
+
+Use `--dry-run` to check the downloader and formatter without writing files:
+
+```bash
+python3 utils/ingest_gutenberg.py dracula --dry-run
+```
+
+Review the imported `text.txt` before publishing. When it looks good, add it to
+`data.json` and regenerate:
+
+```bash
+python3 utils/ingest_gutenberg.py dracula --data-only
+python3 utils/generator.py
+```
+
+For texts whose title page, contents, or appendices need a cleaner boundary, use
+`--start-regex` or `--end-regex` during import.
+
 ## Content Policy
 
 Only add books that are safe to redistribute from this US-hosted GitHub Pages

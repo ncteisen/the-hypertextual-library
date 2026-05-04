@@ -1,0 +1,20 @@
+{
+	"title": "Leaves of Grass",
+	"author": "Walt Whitman",
+	"uniquename": "leaves_of_grass",
+	"source": {
+		"name": "Project Gutenberg",
+		"ebook_id": 1322,
+		"ebook_url": "https://www.gutenberg.org/ebooks/1322",
+		"plain_text_url": "https://www.gutenberg.org/ebooks/1322.txt.utf-8",
+		"license_url": "https://www.gutenberg.org/policy/license",
+		"copyright_status": "Public domain in the USA",
+		"downloaded_at": "2026-05-04T01:16:49+00:00"
+	},
+	"ingestion": {
+		"script": "utils/ingest_gutenberg.py",
+		"line_width": 73,
+		"review_status": "needs_human_review",
+		"warnings": []
+	}
+}

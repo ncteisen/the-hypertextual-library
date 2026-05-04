@@ -1,0 +1,244 @@
+{
+	"source": "Project Gutenberg",
+	"source_notes": [
+		"Candidates were checked against Project Gutenberg pages on 2026-05-04.",
+		"Each entry has a Project Gutenberg text record, a Plain Text UTF-8 URL, and a Project Gutenberg page reporting Public domain in the USA.",
+		"Public-domain status is territorial. Recheck edition and jurisdiction before public deployment outside the United States."
+	],
+	"works": [
+		{
+			"title": "Dracula",
+			"author": "Bram Stoker",
+			"uniquename": "dracula",
+			"gutenberg_ebook_id": 345,
+			"ebook_url": "https://www.gutenberg.org/ebooks/345",
+			"plain_text_url": "https://www.gutenberg.org/ebooks/345.txt.utf-8",
+			"copyright_status": "Public domain in the USA",
+			"priority": "high"
+		},
+		{
+			"title": "Jane Eyre: An Autobiography",
+			"author": "Charlotte Bronte",
+			"uniquename": "jane_eyre",
+			"gutenberg_ebook_id": 1260,
+			"ebook_url": "https://www.gutenberg.org/ebooks/1260",
+			"plain_text_url": "https://www.gutenberg.org/ebooks/1260.txt.utf-8",
+			"copyright_status": "Public domain in the USA",
+			"priority": "high"
+		},
+		{
+			"title": "Wuthering Heights",
+			"author": "Emily Bronte",
+			"uniquename": "wuthering_heights",
+			"gutenberg_ebook_id": 768,
+			"ebook_url": "https://www.gutenberg.org/ebooks/768",
+			"plain_text_url": "https://www.gutenberg.org/ebooks/768.txt.utf-8",
+			"copyright_status": "Public domain in the USA",
+			"priority": "high"
+		},
+		{
+			"title": "Middlemarch",
+			"author": "George Eliot",
+			"uniquename": "middlemarch",
+			"gutenberg_ebook_id": 145,
+			"ebook_url": "https://www.gutenberg.org/ebooks/145",
+			"plain_text_url": "https://www.gutenberg.org/ebooks/145.txt.utf-8",
+			"copyright_status": "Public domain in the USA",
+			"priority": "high"
+		},
+		{
+			"title": "The Picture of Dorian Gray",
+			"author": "Oscar Wilde",
+			"uniquename": "dorian_gray",
+			"gutenberg_ebook_id": 174,
+			"ebook_url": "https://www.gutenberg.org/ebooks/174",
+			"plain_text_url": "https://www.gutenberg.org/ebooks/174.txt.utf-8",
+			"copyright_status": "Public domain in the USA",
+			"priority": "high"
+		},
+		{
+			"title": "The Time Machine",
+			"author": "H. G. Wells",
+			"uniquename": "time_machine",
+			"gutenberg_ebook_id": 35,
+			"ebook_url": "https://www.gutenberg.org/ebooks/35",
+			"plain_text_url": "https://www.gutenberg.org/ebooks/35.txt.utf-8",
+			"copyright_status": "Public domain in the USA",
+			"priority": "high"
+		},
+		{
+			"title": "The War of the Worlds",
+			"author": "H. G. Wells",
+			"uniquename": "war_of_the_worlds",
+			"gutenberg_ebook_id": 36,
+			"ebook_url": "https://www.gutenberg.org/ebooks/36",
+			"plain_text_url": "https://www.gutenberg.org/ebooks/36.txt.utf-8",
+			"copyright_status": "Public domain in the USA",
+			"priority": "high"
+		},
+		{
+			"title": "The Souls of Black Folk",
+			"author": "W. E. B. Du Bois",
+			"uniquename": "souls_of_black_folk",
+			"gutenberg_ebook_id": 408,
+			"ebook_url": "https://www.gutenberg.org/ebooks/408",
+			"plain_text_url": "https://www.gutenberg.org/ebooks/408.txt.utf-8",
+			"copyright_status": "Public domain in the USA",
+			"priority": "high"
+		},
+		{
+			"title": "The Call of the Wild",
+			"author": "Jack London",
+			"uniquename": "call_of_the_wild",
+			"gutenberg_ebook_id": 215,
+			"ebook_url": "https://www.gutenberg.org/ebooks/215",
+			"plain_text_url": "https://www.gutenberg.org/ebooks/215.txt.utf-8",
+			"copyright_status": "Public domain in the USA",
+			"priority": "medium"
+		},
+		{
+			"title": "White Fang",
+			"author": "Jack London",
+			"uniquename": "white_fang",
+			"gutenberg_ebook_id": 910,
+			"ebook_url": "https://www.gutenberg.org/ebooks/910",
+			"plain_text_url": "https://www.gutenberg.org/ebooks/910.txt.utf-8",
+			"copyright_status": "Public domain in the USA",
+			"priority": "medium"
+		},
+		{
+			"title": "The Secret Garden",
+			"author": "Frances Hodgson Burnett",
+			"uniquename": "secret_garden",
+			"gutenberg_ebook_id": 113,
+			"ebook_url": "https://www.gutenberg.org/ebooks/113",
+			"plain_text_url": "https://www.gutenberg.org/ebooks/113.txt.utf-8",
+			"copyright_status": "Public domain in the USA",
+			"priority": "medium"
+		},
+		{
+			"title": "Anne of Green Gables",
+			"author": "L. M. Montgomery",
+			"uniquename": "anne_of_green_gables",
+			"gutenberg_ebook_id": 45,
+			"ebook_url": "https://www.gutenberg.org/ebooks/45",
+			"plain_text_url": "https://www.gutenberg.org/ebooks/45.txt.utf-8",
+			"copyright_status": "Public domain in the USA",
+			"priority": "medium"
+		},
+		{
+			"title": "The Count of Monte Cristo",
+			"author": "Alexandre Dumas and Auguste Maquet",
+			"uniquename": "count_of_monte_cristo",
+			"gutenberg_ebook_id": 1184,
+			"ebook_url": "https://www.gutenberg.org/ebooks/1184",
+			"plain_text_url": "https://www.gutenberg.org/ebooks/1184.txt.utf-8",
+			"copyright_status": "Public domain in the USA",
+			"priority": "medium"
+		},
+		{
+			"title": "Crime and Punishment",
+			"author": "Fyodor Dostoyevsky",
+			"translator": "Constance Garnett",
+			"uniquename": "crime_and_punishment",
+			"gutenberg_ebook_id": 2554,
+			"ebook_url": "https://www.gutenberg.org/ebooks/2554",
+			"plain_text_url": "https://www.gutenberg.org/ebooks/2554.txt.utf-8",
+			"copyright_status": "Public domain in the USA",
+			"priority": "medium"
+		},
+		{
+			"title": "The Brothers Karamazov",
+			"author": "Fyodor Dostoyevsky",
+			"translator": "Constance Garnett",
+			"uniquename": "brothers_karamazov",
+			"gutenberg_ebook_id": 28054,
+			"ebook_url": "https://www.gutenberg.org/ebooks/28054",
+			"plain_text_url": "https://www.gutenberg.org/ebooks/28054.txt.utf-8",
+			"copyright_status": "Public domain in the USA",
+			"priority": "medium"
+		},
+		{
+			"title": "The Scarlet Letter",
+			"author": "Nathaniel Hawthorne",
+			"uniquename": "scarlet_letter",
+			"gutenberg_ebook_id": 25344,
+			"ebook_url": "https://www.gutenberg.org/ebooks/25344",
+			"plain_text_url": "https://www.gutenberg.org/ebooks/25344.txt.utf-8",
+			"copyright_status": "Public domain in the USA",
+			"priority": "medium"
+		},
+		{
+			"title": "Uncle Tom's Cabin",
+			"author": "Harriet Beecher Stowe",
+			"uniquename": "uncle_toms_cabin",
+			"gutenberg_ebook_id": 203,
+			"ebook_url": "https://www.gutenberg.org/ebooks/203",
+			"plain_text_url": "https://www.gutenberg.org/ebooks/203.txt.utf-8",
+			"copyright_status": "Public domain in the USA",
+			"priority": "medium"
+		},
+		{
+			"title": "The Jungle",
+			"author": "Upton Sinclair",
+			"uniquename": "the_jungle",
+			"gutenberg_ebook_id": 140,
+			"ebook_url": "https://www.gutenberg.org/ebooks/140",
+			"plain_text_url": "https://www.gutenberg.org/ebooks/140.txt.utf-8",
+			"copyright_status": "Public domain in the USA",
+			"priority": "medium"
+		},
+		{
+			"title": "Treasure Island",
+			"author": "Robert Louis Stevenson",
+			"uniquename": "treasure_island",
+			"gutenberg_ebook_id": 120,
+			"ebook_url": "https://www.gutenberg.org/ebooks/120",
+			"plain_text_url": "https://www.gutenberg.org/ebooks/120.txt.utf-8",
+			"copyright_status": "Public domain in the USA",
+			"priority": "medium"
+		},
+		{
+			"title": "A Christmas Carol in Prose; Being a Ghost Story of Christmas",
+			"author": "Charles Dickens",
+			"uniquename": "christmas_carol",
+			"gutenberg_ebook_id": 46,
+			"ebook_url": "https://www.gutenberg.org/ebooks/46",
+			"plain_text_url": "https://www.gutenberg.org/ebooks/46.txt.utf-8",
+			"copyright_status": "Public domain in the USA",
+			"priority": "low"
+		},
+		{
+			"title": "Leaves of Grass",
+			"author": "Walt Whitman",
+			"uniquename": "leaves_of_grass",
+			"gutenberg_ebook_id": 1322,
+			"ebook_url": "https://www.gutenberg.org/ebooks/1322",
+			"plain_text_url": "https://www.gutenberg.org/ebooks/1322.txt.utf-8",
+			"copyright_status": "Public domain in the USA",
+			"priority": "low"
+		},
+		{
+			"title": "The Iliad",
+			"author": "Homer",
+			"translator": "Samuel Butler",
+			"uniquename": "iliad",
+			"gutenberg_ebook_id": 2199,
+			"ebook_url": "https://www.gutenberg.org/ebooks/2199",
+			"plain_text_url": "https://www.gutenberg.org/ebooks/2199.txt.utf-8",
+			"copyright_status": "Public domain in the USA",
+			"priority": "low"
+		},
+		{
+			"title": "The Odyssey",
+			"author": "Homer",
+			"translator": "Samuel Butler",
+			"uniquename": "odyssey",
+			"gutenberg_ebook_id": 1727,
+			"ebook_url": "https://www.gutenberg.org/ebooks/1727",
+			"plain_text_url": "https://www.gutenberg.org/ebooks/1727.txt.utf-8",
+			"copyright_status": "Public domain in the USA",
+			"priority": "low"
+		}
+	]
+}

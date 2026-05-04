@@ -24,6 +24,10 @@ revival is: only ship texts that are safe to redistribute in the United States.
   text and edition still needs its own provenance check.
 - Keep source URLs, edition notes, and public-domain rationale with any future
   additions.
+- `ingestion_candidates.json` records Project Gutenberg candidates checked on
+  2026-05-04. Treat it as an import queue, not publication approval; each
+  imported `books/<uniquename>/source.json` should still be reviewed with the
+  generated reader page before deployment.
 
 ## References
 
@@ -33,3 +37,7 @@ revival is: only ship texts that are safe to redistribute in the United States.
   https://legalclarity.org/when-does-1984-enter-the-public-domain/
 - LegalClarity, `Animal Farm` public-domain overview:
   https://legalclarity.org/is-animal-farm-in-the-public-domain/
+- Project Gutenberg license:
+  https://www.gutenberg.org/policy/license
+- Project Gutenberg robot access guidance:
+  https://www.gutenberg.org/policy/robot_access.html
