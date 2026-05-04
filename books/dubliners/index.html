@@ -75,7 +75,10 @@
                     <section class="result-summary" id="result-table-header" hidden aria-live="polite">
                         <p class="eyebrow">Search results</p>
                         <h2>Showing results for <span id="search-term"></span></h2>
-                        <p><span id="occurrences" class="num"></span> occurrences</p>
+                        <div class="result-summary__meta">
+                            <p><span id="occurrences" class="num"></span> occurrences</p>
+                            <button class="table-sort" type="button" id="sort-line-results" onclick="toggleResultSort()" aria-label="Sort results by line descending">Line &uarr;</button>
+                        </div>
                     </section>
                     <section class="results-shell" id="result-table" hidden>
                         <table class="result-table">

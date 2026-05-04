@@ -3,6 +3,8 @@
 var current_top_line = 0;
 var page_length = 35;
 var current_query = '';
+var last_search_payload = null;
+var line_sort_ascending = true;
 var line_array_dirty = raw_text.split('\n');
 var line_array = [];
 var chapters_array = [];
@@ -115,6 +117,21 @@ function appendLinkedLine(container, line, query) {
     }
 }
 
+function appendCanonicalLine(container, entry, query) {
+    var lineSpan = document.createElement('span');
+    lineSpan.className = is_title(entry.text) ? 'reader-line reader-line--chapter' : 'reader-line';
+    lineSpan.dataset.displayLine = String(entry.displayLine);
+
+    if (entry.sourceLine) {
+        lineSpan.id = 'L' + entry.sourceLine;
+        lineSpan.dataset.line = String(entry.sourceLine);
+        lineSpan.title = 'Source line ' + entry.sourceLine;
+    }
+
+    appendLinkedLine(lineSpan, entry.text, query);
+    container.appendChild(lineSpan);
+}
+
 var word_click = function (e) {
     e.preventDefault();
     var text = e.currentTarget.textContent.toLowerCase();
@@ -130,26 +147,35 @@ function buildPagedLines() {
     var line_count = 0;
     var first = true;
 
-    line_array_dirty.forEach(function (line) {
+    function pushLine(text, sourceLine, isPadding) {
+        line_array.push({
+            text: text,
+            sourceLine: sourceLine,
+            displayLine: line_array.length,
+            isPadding: Boolean(isPadding)
+        });
+    }
+
+    line_array_dirty.forEach(function (line, sourceIndex) {
         if (first && is_title(line)) {
             first = false;
         }
         else if (!first && is_title(line)) {
             while (line_count % page_length) {
-                line_array.push('');
+                pushLine('', null, true);
                 line_count++;
             }
             line_count = 0;
         }
 
         line_count = (line_count + 1) % page_length;
-        line_array.push(line);
+        pushLine(line, sourceIndex + 1, false);
     });
 
-    line_array.forEach(function (line, i) {
-        if (is_title(line)) {
-            var title = line.replace(/--/g, '').trim();
-            chapters_array.push({title: title || 'Chapter', lineno: i});
+    line_array.forEach(function (entry, i) {
+        if (is_title(entry.text)) {
+            var title = entry.text.replace(/--/g, '').trim();
+            chapters_array.push({title: title || 'Chapter', lineno: i, sourceLine: entry.sourceLine});
         }
     });
 
@@ -160,7 +186,7 @@ function buildPagedLines() {
     last_page_n = Math.floor(Math.max(line_array.length - 1, 0) / page_length);
 
     for (var i = 0; i < 100; ++i) {
-        line_array.push('');
+        pushLine('', null, true);
     }
 }
 
@@ -256,12 +282,42 @@ function load_page(top_line) {
     if (!page) return;
 
     page.innerHTML = '';
+    var paragraph = null;
+
+    function ensureParagraph() {
+        if (!paragraph) {
+            paragraph = document.createElement('p');
+            paragraph.className = 'reader-paragraph';
+            page.appendChild(paragraph);
+        }
+        return paragraph;
+    }
+
+    function closeParagraph() {
+        paragraph = null;
+    }
+
     for (var i = 0; i < page_length; ++i) {
-        var line = line_array[top_line + i] || '';
-        var lineElement = document.createElement('div');
-        lineElement.className = 'reader-line';
-        appendLinkedLine(lineElement, line, current_query);
-        page.appendChild(lineElement);
+        var entry = line_array[top_line + i] || {text: '', sourceLine: null, displayLine: top_line + i, isPadding: true};
+
+        if (!entry.text.trim()) {
+            closeParagraph();
+            continue;
+        }
+
+        if (is_title(entry.text)) {
+            closeParagraph();
+            var chapterLine = document.createElement('p');
+            chapterLine.className = 'reader-paragraph reader-paragraph--chapter';
+            appendCanonicalLine(chapterLine, entry, current_query);
+            page.appendChild(chapterLine);
+            closeParagraph();
+            continue;
+        }
+
+        var target = ensureParagraph();
+        appendCanonicalLine(target, entry, current_query);
+        target.appendChild(document.createTextNode(' '));
     }
 }
 
@@ -288,7 +344,10 @@ function perform_search(dirty_query) {
         return {results: results, count: count, query: query};
     }
 
-    line_array.forEach(function (line, i) {
+    line_array.forEach(function (entry, i) {
+        if (!entry.sourceLine || entry.isPadding) return;
+
+        var line = entry.text;
         query_regex.lastIndex = 0;
         var matches = line.match(query_regex);
         if (!matches) return;
@@ -298,7 +357,8 @@ function perform_search(dirty_query) {
         results.push({
             title: chapters_array[chap_index].title,
             chapterIndex: chap_index,
-            lineNumber: i,
+            lineNumber: entry.sourceLine,
+            displayLine: i,
             pageNumber: lineno_to_pageno(i),
             line: line
         });
@@ -306,6 +366,21 @@ function perform_search(dirty_query) {
 
     return {results: results, count: count, query: query};
 }
+
+function sortedResults(results) {
+    return results.slice().sort(function (a, b) {
+        return line_sort_ascending ? a.lineNumber - b.lineNumber : b.lineNumber - a.lineNumber;
+    });
+}
+
+function toggleResultSort() {
+    line_sort_ascending = !line_sort_ascending;
+    if (last_search_payload) {
+        show_search_results(last_search_payload);
+    }
+}
+
+window.toggleResultSort = toggleResultSort;
 
 function show_search_results(payload) {
     var searchImage = document.getElementById('search-img');
@@ -316,7 +391,9 @@ function show_search_results(payload) {
     var searchTerm = document.getElementById('search-term');
     var occurrences = document.getElementById('occurrences');
     var searchBox = document.getElementById('search-box');
+    var sortButton = document.getElementById('sort-line-results');
 
+    last_search_payload = payload;
     current_query = payload.query;
 
     if (loadingImage) loadingImage.hidden = true;
@@ -326,11 +403,16 @@ function show_search_results(payload) {
     if (searchTerm) searchTerm.textContent = payload.query;
     if (occurrences) occurrences.textContent = payload.count;
     if (searchBox) searchBox.value = payload.query;
+    if (sortButton) {
+        sortButton.textContent = line_sort_ascending ? 'Line \u2191' : 'Line \u2193';
+        sortButton.setAttribute('aria-label', line_sort_ascending ? 'Sort results by line descending' : 'Sort results by line ascending');
+    }
 
     if (tableBody) {
         tableBody.innerHTML = '';
-        payload.results.forEach(function (result) {
+        sortedResults(payload.results).forEach(function (result) {
             var row = document.createElement('tr');
+            row.dataset.line = String(result.lineNumber);
 
             var chapterCell = document.createElement('td');
             chapterCell.className = 'chapter';
@@ -354,6 +436,14 @@ function show_search_results(payload) {
                 e.preventDefault();
                 current_top_line = pageno_to_top_line(result.pageNumber);
                 load_page(current_top_line);
+                var targetLine = document.getElementById('L' + result.lineNumber);
+                if (targetLine) {
+                    targetLine.classList.add('reader-line--target');
+                    targetLine.scrollIntoView({block: 'center', behavior: 'smooth'});
+                    window.setTimeout(function () {
+                        targetLine.classList.remove('reader-line--target');
+                    }, 1600);
+                }
             });
             lineCell.appendChild(lineLink);
 
