@@ -32,11 +32,13 @@ Then open `http://localhost:8000/`.
 ## Source Files
 
 - `data.json` stores the book metadata.
-- `template/library.html` generates `books/index.html`.
+- `template/library.html` generates `index.html`.
 - `template/template.html` generates each book's `index.html`.
 - `template/raw_text.js` generates each book's `raw_text.js`.
 - `books/<uniquename>/text.txt` stores the formatted source text for a book.
 - `books/<uniquename>/cover.jpg` stores the book cover.
+- `<uniquename>/index.html`, `<uniquename>/raw_text.js`, and
+  `<uniquename>/cover.jpg` are generated reader assets for clean URLs.
 - `js/book-page-search.js` powers reader pagination, search, highlighting,
   chapter navigation, and dictionary lookup.
 - `js/index.js` powers library-page filtering and theme toggling.
@@ -51,8 +53,10 @@ Generated files include:
 
 - `books/index.html`
 - `js/books.js`
-- `books/<uniquename>/index.html`
-- `books/<uniquename>/raw_text.js`
+- `index.html`
+- `<uniquename>/index.html`
+- `<uniquename>/raw_text.js`
+- `<uniquename>/cover.jpg`
 
 ## Adding A Book
 
@@ -94,8 +98,8 @@ python3 utils/ingest_gutenberg.py dracula
 
 The importer downloads the UTF-8 plain text, strips Project Gutenberg
 boilerplate, normalizes likely chapter headings to the reader's
-`-------- Chapter --------` shape, wraps long lines, copies the generic cover,
-and writes `source.json` provenance beside `text.txt`.
+`-------- Chapter --------` shape, wraps long lines, copies the generic source
+cover, and writes `source.json` provenance beside `text.txt`.
 
 Use `--dry-run` to check the downloader and formatter without writing files:
 
@@ -113,6 +117,18 @@ python3 utils/generator.py
 
 For texts whose title page, contents, or appendices need a cleaner boundary, use
 `--start-regex` or `--end-regex` during import.
+
+Imported books start with the generic `graphics/book.jpg` cover. Replace those
+placeholder covers from Open Library with:
+
+```bash
+python3 utils/fetch_openlibrary_covers.py
+python3 utils/generator.py
+```
+
+The cover fetcher only targets books with `source.json` by default, skips
+non-placeholder covers unless `--force` is passed, and records the Open Library
+cover URL in each book's `source.json`.
 
 ## Content Policy
 

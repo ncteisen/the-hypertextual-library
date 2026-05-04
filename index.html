@@ -1,15 +1,533 @@
 <!doctype html>
-<html>
+<html lang="en">
     <head>
         <meta charset="utf-8">
-        <meta http-equiv="refresh" content="0; url=books/">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>The Hypertext Library</title>
-        <link rel="canonical" href="books/">
-        <script>
-            window.location.replace("books/");
-        </script>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Inter:wght@400;500;600&family=Literata:opsz,wght@7..72,400;7..72,500;7..72,600&display=swap" rel="stylesheet">
+        <link id="pagestyle" rel="stylesheet" href="css/light.css">
+        <link rel="shortcut icon" type="image/x-icon" href="graphics/book.ico">
+        <script src="js/books.js" defer></script>
+        <script src="js/index.js" defer></script>
     </head>
-    <body>
-        <p><a href="books/">Go to The Hypertext Library</a></p>
+    <body data-page="library">
+        <header class="site-header">
+            <a class="brand" href="./" aria-label="The Hypertext Library home">
+                <span class="brand__mark" aria-hidden="true">*</span>
+                <span>The Hypertext Library</span>
+            </a>
+            <nav class="site-actions" aria-label="Library actions">
+                <button class="button button--secondary" type="button" id="toggle-lights">Lights Off</button>
+                <button class="button button--primary" type="button" data-dialog-open="aboutModal">About This Site</button>
+            </nav>
+        </header>
+
+        <main>
+            <section class="library-hero" aria-labelledby="library-title">
+                <div class="library-hero__copy">
+                    <p class="eyebrow">Public-domain texts, warmly linked</p>
+                    <h1 id="library-title">The Hypertext Library</h1>
+                    <p class="lede">Choose a classic, settle in, and follow any word through the whole work like a trail of marginalia.</p>
+                </div>
+                <div class="library-hero__panel" aria-label="How it works">
+                    <p>Every rendered word is clickable. Search a phrase, open a chapter, or click a single word to see where it returns.</p>
+                </div>
+            </section>
+
+            <section class="library-controls" aria-label="Find a book">
+                <label class="search-label" for="search-box">Search the shelves</label>
+                <div class="search-shell">
+                    <input type="search" id="search-box" class="text-input" placeholder="Search by title or author" autofocus tabindex="1">
+                </div>
+                <p class="library-count" id="book-count" aria-live="polite"></p>
+            </section>
+
+            <section class="book-grid" id="book-list" aria-label="Available books">
+                <article class="book-card book" data-book-title="The Iliad" data-author="Homer" data-uniquename="iliad">
+    <a class="book-card__link" href="iliad/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="iliad/cover.jpg" alt="Cover for The Iliad" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">The Iliad</span>
+            <span class="book-card__author">Homer</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="The King James Bible" data-author="God" data-uniquename="bible">
+    <a class="book-card__link" href="bible/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="bible/cover.jpg" alt="Cover for The King James Bible" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">The King James Bible</span>
+            <span class="book-card__author">God</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="The Odyssey" data-author="Homer" data-uniquename="odyssey">
+    <a class="book-card__link" href="odyssey/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="odyssey/cover.jpg" alt="Cover for The Odyssey" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">The Odyssey</span>
+            <span class="book-card__author">Homer</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="Pride and Prejudice" data-author="Jane Austen" data-uniquename="pride_and_prejudice">
+    <a class="book-card__link" href="pride_and_prejudice/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="pride_and_prejudice/cover.jpg" alt="Cover for Pride and Prejudice" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">Pride and Prejudice</span>
+            <span class="book-card__author">Jane Austen</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="Uncle Tom&#x27;s Cabin" data-author="Harriet Beecher Stowe" data-uniquename="uncle_toms_cabin">
+    <a class="book-card__link" href="uncle_toms_cabin/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="uncle_toms_cabin/cover.jpg" alt="Cover for Uncle Tom&#x27;s Cabin" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">Uncle Tom&#x27;s Cabin</span>
+            <span class="book-card__author">Harriet Beecher Stowe</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="Jane Eyre: An Autobiography" data-author="Charlotte Bronte" data-uniquename="jane_eyre">
+    <a class="book-card__link" href="jane_eyre/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="jane_eyre/cover.jpg" alt="Cover for Jane Eyre: An Autobiography" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">Jane Eyre: An Autobiography</span>
+            <span class="book-card__author">Charlotte Bronte</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="Wuthering Heights" data-author="Emily Bronte" data-uniquename="wuthering_heights">
+    <a class="book-card__link" href="wuthering_heights/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="wuthering_heights/cover.jpg" alt="Cover for Wuthering Heights" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">Wuthering Heights</span>
+            <span class="book-card__author">Emily Bronte</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="Alice&#x27;s Adventures in Wonderland" data-author="Lewis Carroll" data-uniquename="alice">
+    <a class="book-card__link" href="alice/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="alice/cover.jpg" alt="Cover for Alice&#x27;s Adventures in Wonderland" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">Alice&#x27;s Adventures in Wonderland</span>
+            <span class="book-card__author">Lewis Carroll</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="The Adventures of Sherlock Holmes" data-author="Arthur Conan Doyle" data-uniquename="sherlock_holmes">
+    <a class="book-card__link" href="sherlock_holmes/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="sherlock_holmes/cover.jpg" alt="Cover for The Adventures of Sherlock Holmes" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">The Adventures of Sherlock Holmes</span>
+            <span class="book-card__author">Arthur Conan Doyle</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="A Christmas Carol in Prose; Being a Ghost Story of Christmas" data-author="Charles Dickens" data-uniquename="christmas_carol">
+    <a class="book-card__link" href="christmas_carol/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="christmas_carol/cover.jpg" alt="Cover for A Christmas Carol in Prose; Being a Ghost Story of Christmas" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">A Christmas Carol in Prose; Being a Ghost Story of Christmas</span>
+            <span class="book-card__author">Charles Dickens</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="A Tale of Two Cities" data-author="Charles Dickens" data-uniquename="tale_of_two_cities">
+    <a class="book-card__link" href="tale_of_two_cities/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="tale_of_two_cities/cover.jpg" alt="Cover for A Tale of Two Cities" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">A Tale of Two Cities</span>
+            <span class="book-card__author">Charles Dickens</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="Great Expectations" data-author="Charles Dickens" data-uniquename="great_expectations">
+    <a class="book-card__link" href="great_expectations/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="great_expectations/cover.jpg" alt="Cover for Great Expectations" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">Great Expectations</span>
+            <span class="book-card__author">Charles Dickens</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="Crime and Punishment" data-author="Fyodor Dostoyevsky" data-uniquename="crime_and_punishment">
+    <a class="book-card__link" href="crime_and_punishment/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="crime_and_punishment/cover.jpg" alt="Cover for Crime and Punishment" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">Crime and Punishment</span>
+            <span class="book-card__author">Fyodor Dostoyevsky</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="The Brothers Karamazov" data-author="Fyodor Dostoyevsky" data-uniquename="brothers_karamazov">
+    <a class="book-card__link" href="brothers_karamazov/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="brothers_karamazov/cover.jpg" alt="Cover for The Brothers Karamazov" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">The Brothers Karamazov</span>
+            <span class="book-card__author">Fyodor Dostoyevsky</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="Narrative of the Life of Frederick Douglass, an American Slave" data-author="Frederick Douglass" data-uniquename="frederick_douglass">
+    <a class="book-card__link" href="frederick_douglass/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="frederick_douglass/cover.jpg" alt="Cover for Narrative of the Life of Frederick Douglass, an American Slave" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">Narrative of the Life of Frederick Douglass, an American Slave</span>
+            <span class="book-card__author">Frederick Douglass</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="The Count of Monte Cristo" data-author="Alexandre Dumas and Auguste Maquet" data-uniquename="count_of_monte_cristo">
+    <a class="book-card__link" href="count_of_monte_cristo/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="count_of_monte_cristo/cover.jpg" alt="Cover for The Count of Monte Cristo" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">The Count of Monte Cristo</span>
+            <span class="book-card__author">Alexandre Dumas and Auguste Maquet</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="The Souls of Black Folk" data-author="W. E. B. Du Bois" data-uniquename="souls_of_black_folk">
+    <a class="book-card__link" href="souls_of_black_folk/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="souls_of_black_folk/cover.jpg" alt="Cover for The Souls of Black Folk" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">The Souls of Black Folk</span>
+            <span class="book-card__author">W. E. B. Du Bois</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="Middlemarch" data-author="George Eliot" data-uniquename="middlemarch">
+    <a class="book-card__link" href="middlemarch/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="middlemarch/cover.jpg" alt="Cover for Middlemarch" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">Middlemarch</span>
+            <span class="book-card__author">George Eliot</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="The Time Machine" data-author="H. G. Wells" data-uniquename="time_machine">
+    <a class="book-card__link" href="time_machine/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="time_machine/cover.jpg" alt="Cover for The Time Machine" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">The Time Machine</span>
+            <span class="book-card__author">H. G. Wells</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="The War of the Worlds" data-author="H. G. Wells" data-uniquename="war_of_the_worlds">
+    <a class="book-card__link" href="war_of_the_worlds/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="war_of_the_worlds/cover.jpg" alt="Cover for The War of the Worlds" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">The War of the Worlds</span>
+            <span class="book-card__author">H. G. Wells</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="The Scarlet Letter" data-author="Nathaniel Hawthorne" data-uniquename="scarlet_letter">
+    <a class="book-card__link" href="scarlet_letter/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="scarlet_letter/cover.jpg" alt="Cover for The Scarlet Letter" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">The Scarlet Letter</span>
+            <span class="book-card__author">Nathaniel Hawthorne</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="The Secret Garden" data-author="Frances Hodgson Burnett" data-uniquename="secret_garden">
+    <a class="book-card__link" href="secret_garden/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="secret_garden/cover.jpg" alt="Cover for The Secret Garden" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">The Secret Garden</span>
+            <span class="book-card__author">Frances Hodgson Burnett</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="Dubliners" data-author="James Joyce" data-uniquename="dubliners">
+    <a class="book-card__link" href="dubliners/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="dubliners/cover.jpg" alt="Cover for Dubliners" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">Dubliners</span>
+            <span class="book-card__author">James Joyce</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="Portrait of the Artist as a Young Man" data-author="James Joyce" data-uniquename="portrait">
+    <a class="book-card__link" href="portrait/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="portrait/cover.jpg" alt="Cover for Portrait of the Artist as a Young Man" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">Portrait of the Artist as a Young Man</span>
+            <span class="book-card__author">James Joyce</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="Ulysses" data-author="James Joyce" data-uniquename="ulysses">
+    <a class="book-card__link" href="ulysses/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="ulysses/cover.jpg" alt="Cover for Ulysses" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">Ulysses</span>
+            <span class="book-card__author">James Joyce</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="Metamorphosis" data-author="Franz Kafka" data-uniquename="metamorphosis">
+    <a class="book-card__link" href="metamorphosis/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="metamorphosis/cover.jpg" alt="Cover for Metamorphosis" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">Metamorphosis</span>
+            <span class="book-card__author">Franz Kafka</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="The Call of the Wild" data-author="Jack London" data-uniquename="call_of_the_wild">
+    <a class="book-card__link" href="call_of_the_wild/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="call_of_the_wild/cover.jpg" alt="Cover for The Call of the Wild" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">The Call of the Wild</span>
+            <span class="book-card__author">Jack London</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="White Fang" data-author="Jack London" data-uniquename="white_fang">
+    <a class="book-card__link" href="white_fang/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="white_fang/cover.jpg" alt="Cover for White Fang" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">White Fang</span>
+            <span class="book-card__author">Jack London</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="Treasure Island" data-author="Robert Louis Stevenson" data-uniquename="treasure_island">
+    <a class="book-card__link" href="treasure_island/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="treasure_island/cover.jpg" alt="Cover for Treasure Island" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">Treasure Island</span>
+            <span class="book-card__author">Robert Louis Stevenson</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="Anne of Green Gables" data-author="L. M. Montgomery" data-uniquename="anne_of_green_gables">
+    <a class="book-card__link" href="anne_of_green_gables/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="anne_of_green_gables/cover.jpg" alt="Cover for Anne of Green Gables" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">Anne of Green Gables</span>
+            <span class="book-card__author">L. M. Montgomery</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="Moby-Dick; or, The Whale" data-author="Herman Melville" data-uniquename="moby_dick">
+    <a class="book-card__link" href="moby_dick/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="moby_dick/cover.jpg" alt="Cover for Moby-Dick; or, The Whale" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">Moby-Dick; or, The Whale</span>
+            <span class="book-card__author">Herman Melville</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="The Yellow Wallpaper" data-author="Charlotte Perkins Gilman" data-uniquename="yellow_wallpaper">
+    <a class="book-card__link" href="yellow_wallpaper/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="yellow_wallpaper/cover.jpg" alt="Cover for The Yellow Wallpaper" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">The Yellow Wallpaper</span>
+            <span class="book-card__author">Charlotte Perkins Gilman</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="The Great Gatsby" data-author="F. Scott Fitzgerald" data-uniquename="great_gatsby">
+    <a class="book-card__link" href="great_gatsby/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="great_gatsby/cover.jpg" alt="Cover for The Great Gatsby" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">The Great Gatsby</span>
+            <span class="book-card__author">F. Scott Fitzgerald</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="Frankenstein" data-author="Mary Shelley" data-uniquename="frankenstein">
+    <a class="book-card__link" href="frankenstein/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="frankenstein/cover.jpg" alt="Cover for Frankenstein" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">Frankenstein</span>
+            <span class="book-card__author">Mary Shelley</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="The Jungle" data-author="Upton Sinclair" data-uniquename="the_jungle">
+    <a class="book-card__link" href="the_jungle/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="the_jungle/cover.jpg" alt="Cover for The Jungle" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">The Jungle</span>
+            <span class="book-card__author">Upton Sinclair</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="Dracula" data-author="Bram Stoker" data-uniquename="dracula">
+    <a class="book-card__link" href="dracula/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="dracula/cover.jpg" alt="Cover for Dracula" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">Dracula</span>
+            <span class="book-card__author">Bram Stoker</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="War and Peace" data-author="Leo Tolstoy" data-uniquename="war_and_peace">
+    <a class="book-card__link" href="war_and_peace/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="war_and_peace/cover.jpg" alt="Cover for War and Peace" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">War and Peace</span>
+            <span class="book-card__author">Leo Tolstoy</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="The Adventures of Huckleberry Finn" data-author="Mark Twain" data-uniquename="huck_finn">
+    <a class="book-card__link" href="huck_finn/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="huck_finn/cover.jpg" alt="Cover for The Adventures of Huckleberry Finn" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">The Adventures of Huckleberry Finn</span>
+            <span class="book-card__author">Mark Twain</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="The Adventures of Tom Sawyer" data-author="Mark Twain" data-uniquename="tom_sawyer">
+    <a class="book-card__link" href="tom_sawyer/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="tom_sawyer/cover.jpg" alt="Cover for The Adventures of Tom Sawyer" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">The Adventures of Tom Sawyer</span>
+            <span class="book-card__author">Mark Twain</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="Leaves of Grass" data-author="Walt Whitman" data-uniquename="leaves_of_grass">
+    <a class="book-card__link" href="leaves_of_grass/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="leaves_of_grass/cover.jpg" alt="Cover for Leaves of Grass" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">Leaves of Grass</span>
+            <span class="book-card__author">Walt Whitman</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="The Importance of Being Earnest" data-author="Oscar Wilde" data-uniquename="being_earnest">
+    <a class="book-card__link" href="being_earnest/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="being_earnest/cover.jpg" alt="Cover for The Importance of Being Earnest" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">The Importance of Being Earnest</span>
+            <span class="book-card__author">Oscar Wilde</span>
+        </span>
+    </a>
+</article>
+<article class="book-card book" data-book-title="The Picture of Dorian Gray" data-author="Oscar Wilde" data-uniquename="dorian_gray">
+    <a class="book-card__link" href="dorian_gray/">
+        <span class="book-card__cover-wrap">
+            <img class="book-card__cover" src="dorian_gray/cover.jpg" alt="Cover for The Picture of Dorian Gray" loading="lazy">
+        </span>
+        <span class="book-card__meta">
+            <span class="book-card__title">The Picture of Dorian Gray</span>
+            <span class="book-card__author">Oscar Wilde</span>
+        </span>
+    </a>
+</article>
+
+            </section>
+        </main>
+
+        <footer class="site-footer">
+            <p>The Hypertext Library. Made by <a href="http://noaheisen.com/" target="_blank" rel="noreferrer">Noah Eisen</a> and <a href="https://www.linkedin.com/in/robert-rose-b4a98b104?authType=NAME_SEARCH&authToken=_mX-&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A444351658%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1454427639364%2Ctas%3Arobe" target="_blank" rel="noreferrer">Robert Rose</a>.</p>
+        </footer>
+
+        <dialog class="dialog" id="aboutModal" aria-labelledby="aboutModalLabel">
+            <div class="dialog__header">
+                <h2 id="aboutModalLabel">About The Hypertext Library</h2>
+                <button class="icon-button" type="button" data-dialog-close aria-label="Close about dialog">x</button>
+            </div>
+            <div class="dialog__body">
+                <p>This site is devoted to the idea that literature can be analyzed in a hypertextual manner. A certain word or phrase may appear several times for a given book, and we believe there is meaning embedded in the links between the occurrences. This site allows you to treat a book like a brain, with synaptic connections from word to word, strengthening the meaning behind the text. As you explore the books, remember, every word is a link, click it to see where it leads.</p>
+                <p>The Hypertext Library was made by <a href="http://noaheisen.com/" target="_blank" rel="noreferrer">Noah Eisen</a> and <a href="https://www.linkedin.com/in/robert-rose-b4a98b104?authType=NAME_SEARCH&authToken=_mX-&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A444351658%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1454427639364%2Ctas%3Arobe" target="_blank" rel="noreferrer">Robert Rose</a>. Our initial goal was to improve the performance and aesthetics of <a href="http://www.doc.ic.ac.uk/~rac101/concord/texts/ulysses" target="_blank" rel="noreferrer">this site</a>, which we both used while reading Ulysses.</p>
+                <p>If you are interested in contributing, requesting a book, or learning more about this website, check out our <a href="https://github.com/ncteisen/the-hypertextual-library" target="_blank" rel="noreferrer">GitHub page</a>.</p>
+            </div>
+            <form method="dialog" class="dialog__footer">
+                <button class="button button--primary" type="submit">Close</button>
+            </form>
+        </dialog>
     </body>
 </html>

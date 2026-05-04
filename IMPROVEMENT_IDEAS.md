@@ -106,7 +106,8 @@ to be a practical parking lot for reviving the project, not a binding roadmap.
 - Add unit tests for the generator's sorting, validation, and output paths.
 - Add unit tests for chapter detection, page padding, line-to-page conversion,
   and search matching.
-- Add browser smoke tests for `/`, `/books/`, and one generated work page.
+- Add browser smoke tests for `/` and one generated work page such as
+  `/alice/`.
 - Add visual regression screenshots for light and dark themes.
 - Add fixture texts that include punctuation, apostrophes, hyphenation, empty
   lines, no chapters, and very long chapters.

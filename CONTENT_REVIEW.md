@@ -28,6 +28,9 @@ revival is: only ship texts that are safe to redistribute in the United States.
   2026-05-04. Treat it as an import queue, not publication approval; each
   imported `books/<uniquename>/source.json` should still be reviewed with the
   generated reader page before deployment.
+- Imported covers should have provenance in `books/<uniquename>/source.json`.
+  `utils/fetch_openlibrary_covers.py` uses Open Library rather than scraping
+  Goodreads because Open Library documents a cover API for public-facing use.
 
 ## References
 
@@ -41,3 +44,5 @@ revival is: only ship texts that are safe to redistribute in the United States.
   https://www.gutenberg.org/policy/license
 - Project Gutenberg robot access guidance:
   https://www.gutenberg.org/policy/robot_access.html
+- Open Library Covers API:
+  https://openlibrary.org/dev/docs/api/covers

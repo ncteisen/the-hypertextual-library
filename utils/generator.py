@@ -1,7 +1,10 @@
 import sys
 import json
 import os
+import shutil
 import html as html_lib
+
+SOURCE_BOOKS_DIR = "books"
 
 # this will build the html that makes up the library of books
 library_book_elt_html_template = """<article class="book-card book" data-book-title="{title}" data-author="{author}" data-uniquename="{uniquename}">
@@ -56,25 +59,29 @@ for i, book in enumerate(books):
 	title_text = html_lib.escape(book["title"])
 	author_text = html_lib.escape(book["author"])
 
-	bookdir = "books/%s" % uniquename
+	source_bookdir = "%s/%s" % (SOURCE_BOOKS_DIR, uniquename)
+	output_bookdir = uniquename
 
 	# validate all the info
-	if (not os.path.isdir(bookdir)):
-		sys.stderr.write("Error: no directory named %s -- Site won't be generated\n" % bookdir)
+	if (not os.path.isdir(source_bookdir)):
+		sys.stderr.write("Error: no directory named %s -- Site won't be generated\n" % source_bookdir)
 		continue;
 
-	tfile = "%s/text.txt" % (bookdir)
+	tfile = "%s/text.txt" % (source_bookdir)
 	if (not os.path.isfile(tfile)):
 		sys.stderr.write("Error: no file %s -- Site won't be generated\n" % tfile)
 		continue;
 
-	pfile = "%s/cover.jpg" % (bookdir)
+	pfile = "%s/cover.jpg" % (source_bookdir)
 	if (not os.path.isfile(pfile)):
 		sys.stderr.write("Error: no file %s -- Site won't be generated\n" % pfile)
 		continue;
 
+	if (not os.path.isdir(output_bookdir)):
+		os.makedirs(output_bookdir)
+
 	# this will be where we write the generated index file per book
-	html_outfile_name = "%s/index.html" % bookdir
+	html_outfile_name = "%s/index.html" % output_bookdir
 	html_outfile = open(html_outfile_name, "w")
 
 	# linkified, so the titles are clickable
@@ -84,29 +91,34 @@ for i, book in enumerate(books):
 	# creation of the per book html page
 	html = html_template.format(
 		title = title,
-		author = author
+		author = author,
+		asset_prefix = "../",
+		library_href = "../",
+		cover_src = "cover.jpg"
 	)
 
 	html_outfile.write(html)
 
 	# this will be the js file that holds all the text
-	raw_text_file_name = "books/%s/text.txt" % uniquename
+	raw_text_file_name = "%s/%s/text.txt" % (SOURCE_BOOKS_DIR, uniquename)
 	raw_text_file = open(raw_text_file_name, "r")
 	raw_text = raw_text_file.read()
 
 	js_text = js_text_file_template.format(text = raw_text)
 
-	js_text_outfile_name = "%s/raw_text.js" % (bookdir)
+	js_text_outfile_name = "%s/raw_text.js" % (output_bookdir)
 	js_text_outfile = open(js_text_outfile_name, "w")
 
 	js_text_outfile.write(js_text)
+
+	shutil.copyfile(pfile, "%s/cover.jpg" % output_bookdir)
 
 	# constructing the library html
 	library_book_elt_html = library_book_elt_html_template.format(
 		uniquename = uniquename,
 		title = title_text,
 		author = author_text,
-		picture = "%s/cover.jpg" % (uniquename)
+		picture = "%s/cover.jpg" % uniquename
 	)
 
 	book_list_html += library_book_elt_html
@@ -114,9 +126,27 @@ for i, book in enumerate(books):
 
 # make the index for the library
 library = open("template/library.html", "r").read()
-book_outfile = open("books/index.html", "w")
+book_outfile = open("index.html", "w")
 
-book_outfile.write(library.format(book_list=book_list_html, type="books"))
+book_outfile.write(library.format(book_list=book_list_html, type="books", asset_prefix=""))
+
+books_redirect_outfile = open("books/index.html", "w")
+books_redirect_outfile.write("""<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="refresh" content="0; url=../">
+        <title>The Hypertext Library</title>
+        <link rel="canonical" href="../">
+        <script>
+            window.location.replace("../");
+        </script>
+    </head>
+    <body>
+        <p><a href="../">Go to The Hypertext Library</a></p>
+    </body>
+</html>
+""")
 
 # create a file to be used by the index.js file
 books_js_file = open("js/books.js", "w")

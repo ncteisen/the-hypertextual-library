@@ -17,5 +17,10 @@
 		"review_status": "needs_human_review",
 		"warnings": []
 	},
-	"translator": "Samuel Butler"
+	"translator": "Samuel Butler",
+	"cover": {
+		"name": "Open Library Covers API",
+		"source_url": "https://covers.openlibrary.org/b/id/12474938-L.jpg?default=false",
+		"work_url": "https://openlibrary.org/works/OL26446888W"
+	}
 }

@@ -17,5 +17,10 @@
 		"review_status": "needs_human_review",
 		"warnings": []
 	},
-	"translator": "Constance Garnett"
+	"translator": "Constance Garnett",
+	"cover": {
+		"name": "Open Library Covers API",
+		"source_url": "https://covers.openlibrary.org/b/id/11263774-L.jpg?default=false",
+		"work_url": "https://openlibrary.org/works/OL24600223W"
+	}
 }

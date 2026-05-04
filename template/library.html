@@ -7,10 +7,10 @@
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Inter:wght@400;500;600&family=Literata:opsz,wght@7..72,400;7..72,500;7..72,600&display=swap" rel="stylesheet">
-        <link id="pagestyle" rel="stylesheet" href="../css/light.css">
-        <link rel="shortcut icon" type="image/x-icon" href="../graphics/book.ico">
-        <script src="../js/{type}.js" defer></script>
-        <script src="../js/index.js" defer></script>
+        <link id="pagestyle" rel="stylesheet" href="{asset_prefix}css/light.css">
+        <link rel="shortcut icon" type="image/x-icon" href="{asset_prefix}graphics/book.ico">
+        <script src="{asset_prefix}js/{type}.js" defer></script>
+        <script src="{asset_prefix}js/index.js" defer></script>
     </head>
     <body data-page="library">
         <header class="site-header">
@@ -20,7 +20,6 @@
             </a>
             <nav class="site-actions" aria-label="Library actions">
                 <button class="button button--secondary" type="button" id="toggle-lights">Lights Off</button>
-                <a class="button button--secondary" href="../">Back to Library</a>
                 <button class="button button--primary" type="button" data-dialog-open="aboutModal">About This Site</button>
             </nav>
         </header>

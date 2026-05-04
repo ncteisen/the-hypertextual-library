@@ -16,5 +16,10 @@
 		"line_width": 73,
 		"review_status": "needs_human_review",
 		"warnings": []
+	},
+	"cover": {
+		"name": "Open Library Covers API",
+		"source_url": "https://covers.openlibrary.org/b/id/14314858-L.jpg?default=false",
+		"work_url": "https://openlibrary.org/works/OL8193416W"
 	}
 }

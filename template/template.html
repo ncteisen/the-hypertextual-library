@@ -7,20 +7,20 @@
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Inter:wght@400;500;600&family=Literata:opsz,wght@7..72,400;7..72,500;7..72,600&display=swap" rel="stylesheet">
-        <link id="pagestyle" rel="stylesheet" href="../../css/light.css">
-        <link rel="shortcut icon" type="image/x-icon" href="../../graphics/book.ico">
+        <link id="pagestyle" rel="stylesheet" href="{asset_prefix}css/light.css">
+        <link rel="shortcut icon" type="image/x-icon" href="{asset_prefix}graphics/book.ico">
     </head>
     <body data-page="reader">
         <div class="se-pre-con" aria-hidden="true"></div>
 
         <header class="site-header reader-header">
-            <a class="brand" href="../" aria-label="Back to all books">
+            <a class="brand" href="{library_href}" aria-label="Back to all books">
                 <span class="brand__mark" aria-hidden="true">*</span>
                 <span>The Hypertext Library</span>
             </a>
             <nav class="site-actions" aria-label="Reader actions">
                 <button class="button button--secondary" type="button" id="toggle-lights">Lights Off</button>
-                <a class="button button--secondary" href="../">All Books</a>
+                <a class="button button--secondary" href="{library_href}">All Books</a>
                 <details class="chapter-menu">
                     <summary class="button button--primary">Chapters</summary>
                     <ul class="chapter-list scrollable-menu"></ul>
@@ -66,10 +66,10 @@
                     </form>
 
                     <div class="cover-panel" id="search-img">
-                        <img src="cover.jpg" alt="Book cover">
+                        <img src="{cover_src}" alt="Book cover">
                     </div>
                     <div class="cover-panel loading-panel" id="loading-img" hidden>
-                        <img src="../../graphics/loading.png" alt="Searching">
+                        <img src="{asset_prefix}graphics/loading.png" alt="Searching">
                     </div>
 
                     <section class="result-summary" id="result-table-header" hidden aria-live="polite">
@@ -100,8 +100,8 @@
             <p><a class="word" href="#">The</a> <a class="word" href="#">Hypertext</a> <a class="word" href="#">Library</a>. <a class="word" href="#">Made</a> <a class="word" href="#">by</a> <a class="link-word" href="http://noaheisen.com/" target="_blank" rel="noreferrer">Noah</a> <a class="link-word" href="http://noaheisen.com/" target="_blank" rel="noreferrer">Eisen</a> <a class="word" href="#">and</a> <a class="link-word" href="https://www.linkedin.com/in/robert-rose-b4a98b104?authType=NAME_SEARCH&authToken=_mX-&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A444351658%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1454427639364%2Ctas%3Arobe" target="_blank" rel="noreferrer">Robert</a> <a class="link-word" href="https://www.linkedin.com/in/robert-rose-b4a98b104?authType=NAME_SEARCH&authToken=_mX-&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A444351658%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1454427639364%2Ctas%3Arobe" target="_blank" rel="noreferrer">Rose</a>.</p>
         </footer>
 
-        <script type="text/javascript" src="../../js/dictionary.js"></script>
+        <script type="text/javascript" src="{asset_prefix}js/dictionary.js"></script>
         <script src="raw_text.js"></script>
-        <script src="../../js/book-page-search.js"></script>
+        <script src="{asset_prefix}js/book-page-search.js"></script>
     </body>
 </html>

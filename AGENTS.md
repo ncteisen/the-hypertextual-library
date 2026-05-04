@@ -39,10 +39,11 @@ Then open `http://localhost:8000/`.
 
 - `data.json` is the source of truth for book metadata.
 - `template/template.html` is the template for each generated work page.
-- `template/library.html` is the template for `books/index.html`.
+- `template/library.html` is the template for root `index.html`.
 - `template/raw_text.js` wraps each work's raw text into a `raw_text` global.
 - `books/<uniquename>/text.txt` is the source text for books.
-- `books/<uniquename>/cover.jpg` is the cover image used by generated pages.
+- `books/<uniquename>/cover.jpg` is the source cover image copied into the
+  generated clean-URL reader folder.
 
 The main hand-authored runtime files are:
 
@@ -62,8 +63,10 @@ Running `python3 utils/generator.py` rewrites:
 
 - `books/index.html`
 - `js/books.js`
-- `books/<uniquename>/index.html`
-- `books/<uniquename>/raw_text.js`
+- `index.html`
+- `<uniquename>/index.html`
+- `<uniquename>/raw_text.js`
+- `<uniquename>/cover.jpg`
 
 Prefer editing `data.json`, `template/`, source text files, shared JS, or shared
 CSS, then regenerate. Avoid hand-editing generated files unless the task is
@@ -127,8 +130,7 @@ git status --short
 Then serve locally and inspect at least:
 
 - `/`
-- `/books/`
-- one generated book page, such as `/books/alice/`
+- one generated book page, such as `/alice/`
 
 On work pages, verify initial render, next/previous pagination, chapter dropdown,
 manual search, click-to-search, highlighting, and light/dark toggle.
