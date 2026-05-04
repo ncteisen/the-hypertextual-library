@@ -18,13 +18,9 @@
                 <span class="brand__mark" aria-hidden="true">*</span>
                 <span>The Hypertext Library</span>
             </a>
-            <nav class="site-actions" aria-label="Reader actions">
+            <nav class="site-actions" aria-label="Site actions">
                 <button class="button button--secondary" type="button" id="toggle-lights">Lights Off</button>
                 <a class="button button--secondary" href="../">All Books</a>
-                <details class="chapter-menu">
-                    <summary class="button button--primary">Chapters</summary>
-                    <ul class="chapter-list scrollable-menu"></ul>
-                </details>
             </nav>
         </header>
 
@@ -38,7 +34,10 @@
             <section class="reader-layout" aria-label="Reading and search">
                 <article class="reader-pane" id="page">
                     <header class="reader-pane__header">
-                        <h2 id="chapter-title">Chapter Title</h2>
+                        <details class="chapter-menu chapter-menu--heading">
+                            <summary id="chapter-title" class="chapter-summary">Chapter Title</summary>
+                            <ul class="chapter-list scrollable-menu"></ul>
+                        </details>
                         <div class="reader-nav" aria-label="Page navigation">
                             <button class="icon-button last" type="button" aria-label="Previous page">&lsaquo;</button>
                             <span class="page_number" aria-live="polite"></span>
