@@ -768,22 +768,6 @@ mark,
     font-weight: 700;
 }
 
-.site-footer {
-    padding: 54px max(16px, calc((100vw - var(--container)) / 2));
-    background: var(--surface-dark);
-    color: var(--on-dark-soft);
-}
-
-.site-footer p {
-    width: min(var(--container), 100%);
-    margin: 0 auto;
-    font-size: 14px;
-}
-
-.site-footer a {
-    color: var(--on-dark);
-}
-
 .dialog {
     width: min(640px, calc(100vw - 32px));
     padding: 0;
