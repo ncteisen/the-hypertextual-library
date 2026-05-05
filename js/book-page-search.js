@@ -10,6 +10,9 @@ var line_array = [];
 var chapters_array = [];
 var last_page_n = 0;
 var search_timer = null;
+var READER_SETTINGS_KEY = 'hypertext-reader-settings';
+var READER_STATE_KEY_PREFIX = 'hypertext-reader-state:';
+var READER_TEXT_SIZES = ['small', 'default', 'large'];
 
 function stylesheetPath(theme) {
     var style = document.getElementById('pagestyle');
@@ -140,6 +143,7 @@ var word_click = function (e) {
         lookup_word(text);
     }
     else {
+        openSearchSheet();
         perform_search_wrapper(text);
     }
 };
@@ -291,6 +295,43 @@ function get_reader_state_from_url() {
     };
 }
 
+function get_reader_state_storage_key() {
+    return READER_STATE_KEY_PREFIX + window.location.pathname;
+}
+
+function get_saved_reader_state() {
+    try {
+        var stored = window.localStorage.getItem(get_reader_state_storage_key());
+        if (!stored) return null;
+
+        var state = JSON.parse(stored);
+        return {
+            page: normalize_pageno(state.page),
+            query: ''
+        };
+    }
+    catch (e) {
+        return null;
+    }
+}
+
+function save_current_reader_state() {
+    try {
+        window.localStorage.setItem(get_reader_state_storage_key(), JSON.stringify({
+            page: lineno_to_pageno(current_top_line)
+        }));
+    }
+    catch (e) {}
+}
+
+function get_initial_reader_state() {
+    if (has_reader_state_in_url()) {
+        return get_reader_state_from_url();
+    }
+
+    return get_saved_reader_state() || get_reader_state_from_url();
+}
+
 function get_current_reader_state() {
     return {
         page: lineno_to_pageno(current_top_line),
@@ -327,8 +368,24 @@ function get_share_url() {
 
 function setHiddenForAll(selector, hidden) {
     document.querySelectorAll(selector).forEach(function (element) {
+        if (element.classList.contains('mobile-toolbar__button')) {
+            element.disabled = hidden;
+            element.setAttribute('aria-disabled', hidden ? 'true' : 'false');
+            return;
+        }
+
         element.hidden = hidden;
     });
+}
+
+function update_reader_progress() {
+    var progressBar = document.getElementById('reader-progress-bar');
+    if (!progressBar) return;
+
+    var totalPages = last_page_n + 1;
+    var currentPage = lineno_to_pageno(current_top_line);
+    var progress = totalPages > 0 ? Math.min(100, Math.max(0, currentPage / totalPages * 100)) : 0;
+    progressBar.style.width = progress + '%';
 }
 
 function load_page(top_line, options) {
@@ -396,6 +453,9 @@ function load_page(top_line, options) {
     if (!options.skipUrlUpdate) {
         update_reader_url(options.history);
     }
+
+    save_current_reader_state();
+    update_reader_progress();
 }
 
 function load_chapter(chap_index, options) {
@@ -481,10 +541,25 @@ function show_search_results(payload) {
         tableBody.innerHTML = '';
         sortedResults(payload.results).forEach(function (result) {
             var row = document.createElement('tr');
+            row.className = 'result-row';
             row.dataset.line = String(result.lineNumber);
+            row.tabIndex = 0;
+            row.setAttribute('aria-label', 'Open line ' + result.lineNumber + ' in ' + result.title);
+            row.addEventListener('click', function (e) {
+                var target = e.target.nodeType === 3 ? e.target.parentElement : e.target;
+                if (target && target.closest && target.closest('a')) return;
+                go_to_search_result(result);
+            });
+            row.addEventListener('keydown', function (e) {
+                if (e.key === 'Enter' || e.key === ' ') {
+                    e.preventDefault();
+                    go_to_search_result(result);
+                }
+            });
 
             var chapterCell = document.createElement('td');
             chapterCell.className = 'chapter';
+            chapterCell.dataset.label = 'Chapter';
             var chapterLink = document.createElement('a');
             chapterLink.className = 'result search-res-chapter';
             chapterLink.href = '#';
@@ -492,32 +567,26 @@ function show_search_results(payload) {
             chapterLink.addEventListener('click', function (e) {
                 e.preventDefault();
                 load_chapter(result.chapterIndex);
+                closeSearchSheet({restoreFocus: false});
             });
             chapterCell.appendChild(chapterLink);
 
             var lineCell = document.createElement('td');
             lineCell.className = 'line-number';
+            lineCell.dataset.label = 'Line';
             var lineLink = document.createElement('a');
             lineLink.className = 'result';
             lineLink.href = '#';
             lineLink.textContent = result.lineNumber;
             lineLink.addEventListener('click', function (e) {
                 e.preventDefault();
-                current_top_line = pageno_to_top_line(result.pageNumber);
-                load_page(current_top_line);
-                var targetLine = document.getElementById('L' + result.lineNumber);
-                if (targetLine) {
-                    targetLine.classList.add('reader-line--target');
-                    targetLine.scrollIntoView({block: 'center', behavior: 'smooth'});
-                    window.setTimeout(function () {
-                        targetLine.classList.remove('reader-line--target');
-                    }, 1600);
-                }
+                go_to_search_result(result);
             });
             lineCell.appendChild(lineLink);
 
             var textCell = document.createElement('td');
             textCell.className = 'line';
+            textCell.dataset.label = 'Text';
             appendLinkedLine(textCell, result.line, payload.query);
 
             row.appendChild(chapterCell);
@@ -528,6 +597,21 @@ function show_search_results(payload) {
     }
 
     load_page(current_top_line, {skipUrlUpdate: true});
+}
+
+function go_to_search_result(result) {
+    current_top_line = pageno_to_top_line(result.pageNumber);
+    load_page(current_top_line);
+    closeSearchSheet({restoreFocus: false});
+
+    var targetLine = document.getElementById('L' + result.lineNumber);
+    if (targetLine) {
+        targetLine.classList.add('reader-line--target');
+        targetLine.scrollIntoView({block: 'center', behavior: 'smooth'});
+        window.setTimeout(function () {
+            targetLine.classList.remove('reader-line--target');
+        }, 1600);
+    }
 }
 
 function hide_search_results() {
@@ -586,6 +670,7 @@ function perform_search_wrapper(query, options) {
     if (resultTable) resultTable.hidden = true;
     if (resultHeader) resultHeader.hidden = true;
     if (loadingImage) loadingImage.hidden = false;
+    openSearchSheet();
 
     search_timer = window.setTimeout(function () {
         search_timer = null;
@@ -697,6 +782,145 @@ function initializeShareLink() {
     });
 }
 
+function isMobileSearchSheet() {
+    return window.matchMedia && window.matchMedia('(max-width: 900px)').matches;
+}
+
+function openSearchSheet(options) {
+    options = options || {};
+    if (!isMobileSearchSheet()) return;
+
+    var pane = document.getElementById('search-results');
+    var backdrop = document.querySelector('.search-sheet-backdrop');
+    var toggle = document.getElementById('mobile-reader-search-toggle');
+
+    document.body.classList.add('search-sheet-open');
+    if (pane) {
+        pane.setAttribute('aria-modal', 'true');
+    }
+    if (backdrop) {
+        backdrop.hidden = false;
+    }
+    if (toggle) {
+        toggle.setAttribute('aria-expanded', 'true');
+    }
+    if (options.focus) {
+        window.setTimeout(function () {
+            var searchBox = document.getElementById('search-box');
+            if (searchBox) searchBox.focus();
+        }, 120);
+    }
+}
+
+function closeSearchSheet(options) {
+    options = options || {};
+    var pane = document.getElementById('search-results');
+    var backdrop = document.querySelector('.search-sheet-backdrop');
+    var toggle = document.getElementById('mobile-reader-search-toggle');
+
+    document.body.classList.remove('search-sheet-open');
+    if (pane) {
+        pane.removeAttribute('aria-modal');
+    }
+    if (backdrop) {
+        backdrop.hidden = true;
+    }
+    if (toggle) {
+        toggle.setAttribute('aria-expanded', 'false');
+        if (options.restoreFocus) {
+            toggle.focus();
+        }
+    }
+}
+
+function initializeMobileSearchSheet() {
+    var toggle = document.getElementById('mobile-reader-search-toggle');
+    if (toggle) {
+        toggle.addEventListener('click', function () {
+            if (document.body.classList.contains('search-sheet-open')) {
+                closeSearchSheet({restoreFocus: true});
+            }
+            else {
+                openSearchSheet({focus: true});
+            }
+        });
+    }
+
+    document.querySelectorAll('[data-search-close]').forEach(function (control) {
+        control.addEventListener('click', function () {
+            closeSearchSheet({restoreFocus: true});
+        });
+    });
+
+    document.addEventListener('keydown', function (e) {
+        if (e.key === 'Escape' && document.body.classList.contains('search-sheet-open')) {
+            closeSearchSheet({restoreFocus: true});
+        }
+    });
+
+    window.addEventListener('resize', function () {
+        if (!isMobileSearchSheet()) {
+            closeSearchSheet();
+        }
+    });
+}
+
+function normalizeReaderTextSize(size) {
+    return READER_TEXT_SIZES.indexOf(size) === -1 ? 'default' : size;
+}
+
+function get_reader_settings() {
+    try {
+        var stored = window.localStorage.getItem(READER_SETTINGS_KEY);
+        return stored ? JSON.parse(stored) : {};
+    }
+    catch (e) {
+        return {};
+    }
+}
+
+function save_reader_settings(settings) {
+    try {
+        window.localStorage.setItem(READER_SETTINGS_KEY, JSON.stringify(settings));
+    }
+    catch (e) {}
+}
+
+function set_reader_text_size(size, options) {
+    options = options || {};
+    var normalized = normalizeReaderTextSize(size);
+    var toggle = document.getElementById('reader-text-size-toggle');
+
+    document.documentElement.setAttribute('data-reader-text-size', normalized);
+    if (toggle) {
+        toggle.textContent = normalized === 'small' ? 'A-' : normalized === 'large' ? 'A+' : 'Aa';
+        toggle.setAttribute('aria-label', 'Reader text size: ' + normalized);
+    }
+
+    if (!options.skipStorage) {
+        var settings = get_reader_settings();
+        settings.textSize = normalized;
+        save_reader_settings(settings);
+    }
+}
+
+function cycle_reader_text_size() {
+    var current = normalizeReaderTextSize(document.documentElement.getAttribute('data-reader-text-size'));
+    var currentIndex = READER_TEXT_SIZES.indexOf(current);
+    var next = READER_TEXT_SIZES[(currentIndex + 1) % READER_TEXT_SIZES.length];
+    set_reader_text_size(next);
+}
+
+function initializeReaderSettings() {
+    var settings = get_reader_settings();
+    var toggle = document.getElementById('reader-text-size-toggle');
+
+    set_reader_text_size(settings.textSize || 'default', {skipStorage: true});
+    if (toggle) {
+        toggle.addEventListener('click', cycle_reader_text_size);
+    }
+}
+
 function initializeControls() {
     document.querySelectorAll('.next').forEach(function (button) {
         button.addEventListener('click', function () {
@@ -715,6 +939,7 @@ function initializeControls() {
         form.addEventListener('submit', function (e) {
             e.preventDefault();
             var query = document.getElementById('search-box').value.toLowerCase();
+            openSearchSheet();
             perform_search_wrapper(query);
         });
     }
@@ -740,13 +965,15 @@ window.addEventListener('load', function () {
 
 document.addEventListener('DOMContentLoaded', function () {
     initializeTheme();
+    initializeReaderSettings();
     buildPagedLines();
     buildChapterMenu();
     bindChapterTitleToggle();
     initializeControls();
     initializeShareLink();
+    initializeMobileSearchSheet();
 
-    apply_reader_state(get_reader_state_from_url(), {
+    apply_reader_state(get_initial_reader_state(), {
         history: 'replace',
         skipUrlUpdate: !has_reader_state_in_url()
     });

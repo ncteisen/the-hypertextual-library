@@ -53,7 +53,14 @@
                     </footer>
                 </article>
 
+                <div class="search-sheet-backdrop" data-search-close hidden></div>
+
                 <aside class="search-pane" id="search-results" aria-label="Search this work">
+                    <div class="search-pane__mobile-header">
+                        <span class="search-pane__grabber" aria-hidden="true"></span>
+                        <h2>Search</h2>
+                        <button class="icon-button" type="button" data-search-close aria-label="Close search">x</button>
+                    </div>
                     <div class="search-intro">
                         <p>Click any word in the page to search the whole book. Search below to follow a phrase, or open the chapter list to jump through the text.</p>
                     </div>
@@ -99,6 +106,17 @@
         <footer class="site-footer">
             <p><a class="word" href="#">The</a> <a class="word" href="#">Hypertext</a> <a class="word" href="#">Library</a>. <a class="word" href="#">Made</a> <a class="word" href="#">by</a> <a class="link-word" href="http://noaheisen.com/" target="_blank" rel="noreferrer">Noah</a> <a class="link-word" href="http://noaheisen.com/" target="_blank" rel="noreferrer">Eisen</a> <a class="word" href="#">and</a> <a class="link-word" href="https://www.linkedin.com/in/robert-rose-b4a98b104?authType=NAME_SEARCH&authToken=_mX-&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A444351658%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1454427639364%2Ctas%3Arobe" target="_blank" rel="noreferrer">Robert</a> <a class="link-word" href="https://www.linkedin.com/in/robert-rose-b4a98b104?authType=NAME_SEARCH&authToken=_mX-&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A444351658%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1454427639364%2Ctas%3Arobe" target="_blank" rel="noreferrer">Rose</a>.</p>
         </footer>
+
+        <nav class="mobile-reader-toolbar" aria-label="Reader controls">
+            <div class="mobile-reader-progress" aria-hidden="true">
+                <span id="reader-progress-bar"></span>
+            </div>
+            <button class="mobile-toolbar__button last" type="button" aria-label="Previous page">&lsaquo;</button>
+            <button class="mobile-toolbar__button" type="button" id="mobile-reader-search-toggle" aria-controls="search-results" aria-expanded="false">Search</button>
+            <span class="page_number mobile-toolbar__page" aria-live="polite"></span>
+            <button class="mobile-toolbar__button" type="button" id="reader-text-size-toggle" aria-label="Change reader text size">Aa</button>
+            <button class="mobile-toolbar__button next" type="button" aria-label="Next page">&rsaquo;</button>
+        </nav>
 
         <script type="text/javascript" src="../js/dictionary.js"></script>
         <script src="raw_text.js"></script>

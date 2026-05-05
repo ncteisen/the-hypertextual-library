@@ -97,3 +97,21 @@ mark,
 .se-pre-con {
     background-color: var(--canvas);
 }
+
+@media (max-width: 900px) {
+    .search-sheet-backdrop {
+        background: rgba(0, 0, 0, 0.56);
+    }
+
+    .mobile-reader-toolbar {
+        border-color: rgba(56, 52, 46, 0.9);
+        background: rgba(24, 23, 21, 0.94);
+        box-shadow: 0 12px 34px rgba(0, 0, 0, 0.36);
+    }
+}
+
+@media (max-width: 640px) {
+    body[data-page="library"] .library-controls {
+        background: rgba(24, 23, 21, 0.94);
+    }
+}
