@@ -138,6 +138,7 @@ books_redirect_outfile.write("""<!doctype html>
         <meta http-equiv="refresh" content="0; url=../">
         <title>The Hypertext Library</title>
         <link rel="canonical" href="../">
+        <script defer src="https://cloud.umami.is/script.js" data-website-id="e0850675-c2e7-4ae1-ba0f-6bcc5afe8959"></script>
         <script>
             window.location.replace("../");
         </script>
